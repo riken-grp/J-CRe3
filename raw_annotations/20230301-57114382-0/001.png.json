@@ -1,0 +1,453 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "33",
+      "bb": [
+        1807,
+        515,
+        108,
+        78
+      ],
+      "class_name": "teapot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "32",
+      "bb": [
+        1383,
+        584,
+        34,
+        61
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "31",
+      "bb": [
+        1231,
+        378,
+        28,
+        53
+      ],
+      "class_name": "medicine",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "30",
+      "bb": [
+        1365,
+        463,
+        55,
+        129
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "29",
+      "bb": [
+        687,
+        90,
+        18,
+        102
+      ],
+      "class_name": "pipe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "28",
+      "bb": [
+        568,
+        338,
+        20,
+        52
+      ],
+      "class_name": "hinge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "27",
+      "bb": [
+        976,
+        749,
+        12,
+        39
+      ],
+      "class_name": "shoe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "26",
+      "bb": [
+        684,
+        51,
+        27,
+        143
+      ],
+      "class_name": "pipe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "25",
+      "bb": [
+        1142,
+        184,
+        284,
+        40
+      ],
+      "class_name": "fume_hood",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "24",
+      "bb": [
+        128,
+        834,
+        170,
+        98
+      ],
+      "class_name": "lanyard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "23",
+      "bb": [
+        1373,
+        709,
+        108,
+        35
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "005(コンロ)",
+      "bb": [
+        1150,
+        426,
+        177,
+        60
+      ],
+      "class_name": "hotplate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "21",
+      "bb": [
+        1717,
+        546,
+        202,
+        178
+      ],
+      "class_name": "desk",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "20",
+      "bb": [
+        1385,
+        464,
+        36,
+        68
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "19",
+      "bb": [
+        0,
+        865,
+        51,
+        60
+      ],
+      "class_name": "knife",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "18",
+      "bb": [
+        1415,
+        551,
+        23,
+        22
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "17",
+      "bb": [
+        910,
+        695,
+        49,
+        71
+      ],
+      "class_name": "shoe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "16",
+      "bb": [
+        1390,
+        548,
+        53,
+        135
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "004(野菜室)",
+      "bb": [
+        587,
+        399,
+        224,
+        117
+      ],
+      "class_name": "drawer",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "14",
+      "bb": [
+        1595,
+        527,
+        214,
+        301
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "bb": [
+        1435,
+        307,
+        220,
+        126
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "12",
+      "bb": [
+        1340,
+        659,
+        24,
+        26
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "bb": [
+        1759,
+        527,
+        26,
+        33
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "bb": [
+        1038,
+        530,
+        274,
+        172
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "bb": [
+        1322,
+        659,
+        42,
+        65
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        1359,
+        614,
+        56,
+        94
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        876,
+        342,
+        79,
+        60
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "bb": [
+        1643,
+        636,
+        276,
+        364
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        805,
+        345,
+        41,
+        58
+      ],
+      "class_name": "speaker_(stero_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        1435,
+        307,
+        219,
+        160
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        555,
+        196,
+        265,
+        447
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        910,
+        220,
+        241,
+        562
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "1",
+      "bb": [
+        1612,
+        390,
+        206,
+        110
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<よし>>>、<<<今日>>>の<<<夕食>>>は<<<パスタ0>>>に<<<しよう0>>>。<<<よろしく0>>>。\r\n<<<分かりました0>>>。<<<どんな0>>><<<パスタ1>>>に<<<します>>>か？\r\n<<<うん0>>>\r\n<<<そう0>>>だね<<<ペペロンチーノ>>>に<<<しよう1>>>か？<<<冷蔵>>><<<庫>>>の<<<食材>>>って<<<どんな1>>><<<感じ>>>だったっけ？<<<ちょっと>>><<<見>>>に<<<行ってくれる>>>？\r\n<<<はい0>>><<<了解しました>>>。\r\n<<<うん1>>>\r\n<<<あ0>>><<<ウィンナー0>>>が<<<あります>>>よ。\r\n<<<あ1>>><<<ウィンナー1>>><<<良い>>>ね。<<<あと0>>>、<<<野菜>>><<<室>>>に<<<ブロッコリー>>>が<<<ある>>>と<<<思う>>>から<<<取ってくれる>>>？\r\n<<<はい1>>>\r\n<<<持ってきました>>>。\r\n<<<あ2>>><<<ありがとう0>>>。<<<あと1>>><<<鷹の爪>>>って<<<どこ>>>に<<<あった>>>っけ？\r\n<<<コンロ>>>の<<<横>>>の<<<引出し>>>に<<<入ってるので>>>、<<<準備します>>>ね。\r\n<<<あ3>>><<<そっか0>>><<<そっか1>>><<<そっか2>>>\r\n<<<そう1>>>だった。\r\n<<<あと2>>><<<ついでに>>>ね、<<<オリーブ>>><<<オイル>>>も<<<持ってきて欲しい>>>な。\r\n<<<はい2>>><<<分かりました1>>>。\r\n<<<うん2>>><<<あー>>><<<ありがとう1>>>。\r\n<<<はい3>>>、<<<どうぞ>>>。\r\n<<<あ4>>><<<あり>>>がと。\r\n<<<では>>>、<<<私>>>は<<<ニンニク>>>の<<<皮>>>を<<<むきます>>>ね。\r\n<<<うん3>>>\r\n<<<あ5>>><<<よろしく1>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        393,
+        2
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "visual_id": "003(冷蔵庫)",
+      "caption_id": "001",
+      "caption_region": [
+        170,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "visual_id": "004(野菜室)",
+      "caption_id": "001",
+      "caption_region": [
+        363,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "visual_id": "005(コンロ)",
+      "caption_id": "001",
+      "caption_region": [
+        509,
+        3
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

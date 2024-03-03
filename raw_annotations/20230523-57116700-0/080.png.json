@@ -1,0 +1,132 @@
+{
+  "image_id": "080",
+  "bounding_boxes": [
+    {
+      "image_id": "080",
+      "id": "007(皿)",
+      "bb": [
+        954,
+        668,
+        374,
+        332
+      ],
+      "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "012(コンロ)",
+      "bb": [
+        455,
+        290,
+        472,
+        338
+      ],
+      "class_name": "hotplate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "001(主人)",
+      "bb": [
+        -23,
+        648,
+        853,
+        391
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "002(ロボット)",
+      "bb": [
+        728,
+        778,
+        695,
+        309
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "003(フライパン)",
+      "bb": [
+        1344,
+        793,
+        320,
+        164
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "005(鍋)",
+      "bb": [
+        1208,
+        647,
+        205,
+        209
+      ],
+      "class_name": "pot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "004(おたま)",
+      "bb": [
+        1366,
+        827,
+        264,
+        59
+      ],
+      "class_name": "ladle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "006(包丁)",
+      "bb": [
+        1391,
+        874,
+        218,
+        36
+      ],
+      "class_name": "knife",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "009(布巾)",
+      "bb": [
+        1248,
+        696,
+        113,
+        220
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "017(シンク)",
+      "bb": [
+        1137,
+        504,
+        739,
+        565
+      ],
+      "class_name": "sink",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "080",
+    "id": "080",
+    "text": ""
+  },
+  "relations": [],
+  "i2t_relations": []
+}

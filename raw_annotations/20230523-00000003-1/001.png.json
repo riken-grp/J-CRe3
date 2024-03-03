@@ -1,0 +1,597 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        522,
+        3,
+        349,
+        605
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "bb": [
+        982,
+        285,
+        489,
+        303
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        112,
+        310,
+        132,
+        89
+      ],
+      "class_name": "fan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "002(ロボット)",
+      "bb": [
+        920,
+        988,
+        485,
+        95
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        1718,
+        159,
+        171,
+        69
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "bb": [
+        1320,
+        142,
+        205,
+        180
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        677,
+        398,
+        65,
+        76
+      ],
+      "class_name": "bucket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        1558,
+        160,
+        38,
+        38
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "bb": [
+        891,
+        79,
+        36,
+        82
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "bb": [
+        868,
+        243,
+        165,
+        84
+      ],
+      "class_name": "chopping_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "bb": [
+        1665,
+        198,
+        182,
+        65
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "12",
+      "bb": [
+        1536,
+        214,
+        218,
+        109
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "bb": [
+        1006,
+        0,
+        181,
+        92
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        -18,
+        236,
+        461,
+        601
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "15",
+      "bb": [
+        1074,
+        218,
+        61,
+        83
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "16",
+      "bb": [
+        1408,
+        136,
+        163,
+        41
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "17",
+      "bb": [
+        879,
+        325,
+        39,
+        33
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "18",
+      "bb": [
+        1147,
+        20,
+        133,
+        80
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "19",
+      "bb": [
+        1036,
+        549,
+        55,
+        56
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "20",
+      "bb": [
+        889,
+        183,
+        83,
+        41
+      ],
+      "class_name": "pan_(for_cooking)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "21",
+      "bb": [
+        649,
+        39,
+        32,
+        54
+      ],
+      "class_name": "shower_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "004(バッグ)",
+      "bb": [
+        1361,
+        302,
+        314,
+        197
+      ],
+      "class_name": "shopping_bag",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "23",
+      "bb": [
+        992,
+        196,
+        74,
+        80
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "24",
+      "bb": [
+        896,
+        80,
+        14,
+        10
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "25",
+      "bb": [
+        357,
+        226,
+        96,
+        42
+      ],
+      "class_name": "latch",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "26",
+      "bb": [
+        1559,
+        119,
+        107,
+        51
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "27",
+      "bb": [
+        962,
+        403,
+        261,
+        446
+      ],
+      "class_name": "cabinet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "28",
+      "bb": [
+        794,
+        156,
+        28,
+        33
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "29",
+      "bb": [
+        771,
+        564,
+        87,
+        41
+      ],
+      "class_name": "shoe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "30",
+      "bb": [
+        1818,
+        221,
+        101,
+        83
+      ],
+      "class_name": "toaster",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "31",
+      "bb": [
+        837,
+        115,
+        64,
+        81
+      ],
+      "class_name": "coffeepot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "32",
+      "bb": [
+        893,
+        389,
+        34,
+        30
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "33",
+      "bb": [
+        1237,
+        327,
+        43,
+        46
+      ],
+      "class_name": "soap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "34",
+      "bb": [
+        1180,
+        20,
+        59,
+        75
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "35",
+      "bb": [
+        862,
+        302,
+        106,
+        228
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "36",
+      "bb": [
+        1259,
+        129,
+        18,
+        47
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "37",
+      "bb": [
+        1635,
+        83,
+        75,
+        100
+      ],
+      "class_name": "speaker_(stero_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "38",
+      "bb": [
+        581,
+        104,
+        234,
+        202
+      ],
+      "class_name": "shirt",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "39",
+      "bb": [
+        777,
+        184,
+        196,
+        81
+      ],
+      "class_name": "pan_(for_cooking)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "40",
+      "bb": [
+        653,
+        292,
+        196,
+        303
+      ],
+      "class_name": "jean",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "41",
+      "bb": [
+        831,
+        265,
+        10,
+        9
+      ],
+      "class_name": "ring",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "42",
+      "bb": [
+        1606,
+        178,
+        79,
+        26
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "43",
+      "bb": [
+        1170,
+        142,
+        54,
+        93
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "44",
+      "bb": [
+        291,
+        927,
+        470,
+        152
+      ],
+      "class_name": "mat_(gym_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "45",
+      "bb": [
+        1679,
+        16,
+        23,
+        21
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<ちょっと0>>>、<<<カレー>>>を<<<作ろう>>>と<<<思う>>>から、<<<手伝ってくれる>>>？\r\n<<<いいです>>>ね。\r\n<<<うん0>>>\r\n<<<じゃがいも>>>と<<<玉ねぎ>>>が<<<あります0>>>。\r\n<<<じゃあ0>>>、<<<適当に>>><<<取ってきて>>>。<<<人参0>>>は<<<なかった>>><<<?>>>\r\n<<<人参1>>>は<<<ないです>>>ね。\r\n<<<ふーん>>>。\r\n<<<あ0>>><<<ありがとう>>>。\r\n<<<あ1>>>\r\n<<<ここ>>>に<<<ありました>>>。\r\n<<<あ2>>><<<そうだ>>><<<昨日>>>、<<<買って来たんだっ>>>だ。<<<それ>>><<<取って>>>。\r\n<<<はい0>>>\r\n<<<他>>>にも<<<何0>>>か<<<あります1>>>ね。\r\n<<<何1>>>だっけな。<<<えっ>>>と\r\n<<<これ0>>>と。\r\n<<<じゃあ1>>>、<<<残り>>>は<<<冷蔵>>><<<庫>>>に<<<戻してきて0>>>。<<<あと>>>ね、<<<これ1>>>が、<<<ちょっと1>>><<<多かった>>>から、<<<これ2>>>も<<<一緒に>>><<<戻してきて1>>>。\r\n<<<分かりました>>>。\r\n<<<うん1>>><<<お願い0>>>。\r\n<<<この後>>>、<<<皮>>><<<むき>>>を<<<手伝います>>>ね。\r\n<<<うん2>>><<<助かる>>>。\r\n<<<よいしょ>>>。\r\n<<<じゃあ2>>>、<<<これ3>>>、<<<洗い>>><<<終わった>>><<<もの>>>から<<<お願い1>>>。\r\n<<<はい1>>>\r\n<<<あ3>>>\u3000<<<そうそう>>>、<<<これ4>>><<<使って>>>。\r\n<<<ありがとうございます>>>。\r\n<<<うん3>>>"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        25,
+        3
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "visual_id": "002(ロボット)",
+      "caption_id": "001",
+      "caption_region": [
+        46,
+        7
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "visual_id": "003(冷蔵庫)",
+      "caption_id": "001",
+      "caption_region": [
+        109,
+        5
+      ],
+      "relation_name": "ニ格"
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "visual_id": "004(バッグ)",
+      "caption_id": "001",
+      "caption_region": [
+        252,
+        2
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

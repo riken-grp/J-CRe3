@@ -1,0 +1,475 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "33",
+      "bb": [
+        670,
+        84,
+        31,
+        57
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "32",
+      "bb": [
+        1642,
+        680,
+        97,
+        82
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "31",
+      "bb": [
+        1868,
+        327,
+        39,
+        25
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "30",
+      "bb": [
+        1459,
+        181,
+        24,
+        68
+      ],
+      "class_name": "knife",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        641,
+        0,
+        282,
+        399
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "28",
+      "bb": [
+        502,
+        575,
+        55,
+        34
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "27",
+      "bb": [
+        263,
+        591,
+        42,
+        30
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "009(棚)",
+      "bb": [
+        188,
+        -3,
+        557,
+        502
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "25",
+      "bb": [
+        206,
+        614,
+        69,
+        62
+      ],
+      "class_name": "cellular_telephone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "24",
+      "bb": [
+        283,
+        559,
+        77,
+        62
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "23",
+      "bb": [
+        374,
+        661,
+        120,
+        130
+      ],
+      "class_name": "lanyard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "22",
+      "bb": [
+        1655,
+        551,
+        35,
+        92
+      ],
+      "class_name": "soap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "21",
+      "bb": [
+        155,
+        687,
+        35,
+        59
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "20",
+      "bb": [
+        250,
+        889,
+        159,
+        122
+      ],
+      "class_name": "envelope",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "19",
+      "bb": [
+        930,
+        41,
+        96,
+        58
+      ],
+      "class_name": "mask",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "18",
+      "bb": [
+        1552,
+        106,
+        15,
+        10
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "17",
+      "bb": [
+        985,
+        1015,
+        35,
+        22
+      ],
+      "class_name": "watch",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "16",
+      "bb": [
+        246,
+        523,
+        101,
+        68
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "15",
+      "bb": [
+        365,
+        626,
+        124,
+        107
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "14",
+      "bb": [
+        1749,
+        701,
+        118,
+        86
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "bb": [
+        1191,
+        289,
+        93,
+        74
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "12",
+      "bb": [
+        1761,
+        322,
+        146,
+        137
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "bb": [
+        1844,
+        648,
+        74,
+        87
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "bb": [
+        325,
+        543,
+        39,
+        29
+      ],
+      "class_name": "lemon",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "bb": [
+        1562,
+        278,
+        152,
+        123
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        1779,
+        592,
+        139,
+        124
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "002(ロボット)",
+      "bb": [
+        778,
+        979,
+        709,
+        100
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "bb": [
+        934,
+        333,
+        193,
+        204
+      ],
+      "class_name": "skirt",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        1406,
+        151,
+        193,
+        67
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        872,
+        99,
+        252,
+        280
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        1525,
+        105,
+        44,
+        75
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        875,
+        0,
+        252,
+        583
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "1",
+      "bb": [
+        1045,
+        46,
+        156,
+        84
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<今日>>>の<<<サラダ>>>は<<<冷蔵>>><<<庫>>>に<<<ある0>>><<<もの>>>で<<<作ろっ>>>か？\r\n<<<分かりました0>>>。<<<確か>>><<<きゅうり0>>>は<<<あった0>>>と<<<思います>>>。\r\n<<<きゅうり1>>>と<<<他>>>に<<<何>>>が<<<ある1>>>？\r\n<<<レタス>>>と<<<キャベツ>>>と<<<ブロッコリー0>>>と<<<トマト>>>が<<<あります>>>。\r\n<<<いい>>>ね。<<<全部>>><<<使っちゃおう>>>。\r\n<<<いいです>>>ね。<<<それでは>>>、<<<運ぶ>>><<<の0>>>を<<<手伝ってもらってもいいです>>>か？\r\n<<<はいはい>>><<<ちょっと>>><<<待って>>>ね。\r\n<<<ブロッコリー1>>>は<<<茹でなきゃ>>>ね。\r\n<<<はい0>>><<<私0>>>が<<<茹でます>>>。\r\n<<<ありがとう>>>。<<<助かる>>>わ。<<<じゃあ0>>><<<私1>>>は<<<野菜>>>を<<<切る>>>ね。\r\n<<<任せてください>>>。\r\n<<<きれいな>>><<<緑色>>>に<<<なるように>>><<<茹でて>>>ね。\r\n<<<じゃあ1>>>、<<<塩>>>は<<<入れた>>><<<方>>>が<<<良いです>>>か？\r\n<<<そう>>>ね<<<そこ>>>の<<<棚>>>に<<<あった1>>>と<<<思う>>>。\r\n<<<はい1>>><<<分かりました1>>>。\r\n<<<茹でる>>><<<の1>>>は、<<<少し>>><<<柔らかめで>>><<<お願い>>>。\r\n<<<はい2>>><<<分かりました2>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "003(冷蔵庫)",
+      "caption_id": "001",
+      "caption_region": [
+        30,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "visual_id": "009(棚)",
+      "caption_id": "001",
+      "caption_region": [
+        604,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "visual_id": "002(ロボット)",
+      "caption_id": "001",
+      "caption_region": [
+        401,
+        4
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        426,
+        3
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "31",
+      "visual_id": "002(ロボット)",
+      "caption_id": "001",
+      "caption_region": [
+        392,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "32",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        447,
+        2
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

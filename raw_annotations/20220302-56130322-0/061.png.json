@@ -1,0 +1,175 @@
+{
+  "image_id": "061",
+  "bounding_boxes": [
+    {
+      "image_id": "061",
+      "id": "16(K, R, S, V)",
+      "bb": [
+        899,
+        431,
+        223,
+        365
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "061",
+      "id": "7",
+      "bb": [
+        0,
+        57,
+        66,
+        231
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "061",
+      "id": "5",
+      "bb": [
+        0,
+        0,
+        368,
+        1080
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "061",
+      "id": "11",
+      "bb": [
+        1141,
+        672,
+        360,
+        352
+      ],
+      "class_name": "tissue_paper",
+      "auto_flg": false
+    },
+    {
+      "image_id": "061",
+      "id": "2",
+      "bb": [
+        296,
+        0,
+        1624,
+        1079
+      ],
+      "class_name": "runner_(carpet)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "061",
+      "id": "3",
+      "bb": [
+        285,
+        565,
+        1340,
+        515
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "061",
+      "id": "8",
+      "bb": [
+        0,
+        911,
+        63,
+        168
+      ],
+      "class_name": "gameboard",
+      "auto_flg": false
+    },
+    {
+      "image_id": "061",
+      "id": "4(P)",
+      "bb": [
+        901,
+        587,
+        95,
+        109
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "061",
+    "id": "061",
+    "text": "<<<おもちゃ>>>が<<<散乱している>>>わね。\r\n<<<そう0>>>ですね。<<<床0>>>に<<<落ちてます>>>ね。\r\n<<<拾って>>><<<戻しておいてくれる>>>かしら？\r\n<<<わかりました0>>>。<<<床1>>>の<<<物0>>>だけで<<<良いです>>>か？\r\n<<<いや>>><<<そっち>>><<<の>>>も<<<戻して>>><<<ちょうだい>>>。\r\n<<<わかりました1>>>。\r\n<<<こちら>>>に<<<はめれば良いでしょう>>>か？\r\n<<<うん>>><<<あ>>>、<<<でも>>>、<<<戻す>>><<<前>>>に、<<<床2>>>に<<<落ちている>>><<<物1>>>は<<<埃>>>を<<<かぶっていて>>><<<汚れていそうだ>>>から、<<<拭いて>>>から<<<戻してほしいの>>>。\r\n<<<わかりました2>>>。<<<何>>>で<<<拭きましょう>>>か？\r\n<<<そう1>>>ね。<<<ここ>>>に<<<ある>>><<<これ0>>>で<<<お願いできる>>>かしら？\r\n<<<わかりました3>>>。\r\n<<<これ1>>>で<<<拭けば良いんです>>>か？\r\n<<<そう2>>>ね。<<<お願いする>>>わ。\r\n<<<わかりました4>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "061",
+      "id": "000019",
+      "visual_id": "16(K, R, S, V)",
+      "caption_id": "061",
+      "caption_region": [
+        3,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "061",
+      "id": "000020",
+      "visual_id": "4(P)",
+      "caption_id": "061",
+      "caption_region": [
+        3,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "061",
+      "id": "22",
+      "visual_id": "16(K, R, S, V)",
+      "caption_id": "061",
+      "caption_region": [
+        121,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "061",
+      "id": "23",
+      "visual_id": "4(P)",
+      "caption_id": "061",
+      "caption_region": [
+        121,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "061",
+      "id": "24",
+      "visual_id": "16(K, R, S, V)",
+      "caption_id": "061",
+      "caption_region": [
+        302,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "061",
+      "id": "25",
+      "visual_id": "4(P)",
+      "caption_id": "061",
+      "caption_region": [
+        302,
+        2
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

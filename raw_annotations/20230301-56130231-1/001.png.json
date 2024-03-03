@@ -1,0 +1,643 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "004(テーブルの上)",
+      "bb": [
+        520,
+        191,
+        637,
+        272
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "35",
+      "bb": [
+        768,
+        218,
+        33,
+        31
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "34",
+      "bb": [
+        1184,
+        181,
+        52,
+        16
+      ],
+      "class_name": "phonebook",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "33",
+      "bb": [
+        1429,
+        41,
+        37,
+        54
+      ],
+      "class_name": "medicine",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "32",
+      "bb": [
+        970,
+        306,
+        41,
+        40
+      ],
+      "class_name": "apple",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "31",
+      "bb": [
+        1151,
+        42,
+        53,
+        32
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "30",
+      "bb": [
+        78,
+        832,
+        60,
+        52
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "29",
+      "bb": [
+        1832,
+        158,
+        79,
+        28
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "28",
+      "bb": [
+        971,
+        71,
+        14,
+        23
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "27",
+      "bb": [
+        1330,
+        584,
+        78,
+        72
+      ],
+      "class_name": "shoe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "26",
+      "bb": [
+        1340,
+        539,
+        56,
+        55
+      ],
+      "class_name": "shoe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "25",
+      "bb": [
+        845,
+        220,
+        183,
+        73
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "24",
+      "bb": [
+        90,
+        331,
+        79,
+        56
+      ],
+      "class_name": "microphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "23",
+      "bb": [
+        1,
+        748,
+        185,
+        100
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "22",
+      "bb": [
+        843,
+        219,
+        129,
+        165
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "21",
+      "bb": [
+        837,
+        64,
+        42,
+        27
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "20",
+      "bb": [
+        2,
+        509,
+        140,
+        97
+      ],
+      "class_name": "tray",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "19",
+      "bb": [
+        173,
+        721,
+        76,
+        97
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "005(お盆)",
+      "bb": [
+        983,
+        236,
+        146,
+        67
+      ],
+      "class_name": "tray",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "007(コップa)",
+      "bb": [
+        857,
+        290,
+        37,
+        37
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "008(コップb)",
+      "bb": [
+        830,
+        241,
+        27,
+        37
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "009(コップc)",
+      "bb": [
+        612,
+        279,
+        36,
+        37
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "14",
+      "bb": [
+        1202,
+        66,
+        70,
+        13
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "bb": [
+        0,
+        685,
+        178,
+        106
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "003(テーブル)",
+      "bb": [
+        514,
+        190,
+        648,
+        430
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "bb": [
+        951,
+        311,
+        40,
+        38
+      ],
+      "class_name": "tomato",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "bb": [
+        1551,
+        0,
+        150,
+        66
+      ],
+      "class_name": "mask",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "014(テーブル上の物01)",
+      "bb": [
+        609,
+        200,
+        520,
+        180
+      ],
+      "class_name": "table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        67,
+        148,
+        302,
+        172
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "021(黒ペン)",
+      "bb": [
+        716,
+        204,
+        34,
+        18
+      ],
+      "class_name": "pen",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "002(ロボット)",
+      "bb": [
+        1001,
+        1030,
+        150,
+        50
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        392,
+        146,
+        143,
+        106
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        892,
+        314,
+        45,
+        66
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        953,
+        158,
+        131,
+        82
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "010(コーヒーカップ)",
+      "bb": [
+        899,
+        216,
+        39,
+        34
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        1320,
+        0,
+        506,
+        660
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<テーブル>>>の<<<上0>>>を<<<片付けたいんだ>>>けど、<<<手伝ってくれない>>>？\r\n<<<はい0>>><<<まず>>><<<何>>>を<<<すればいいです>>>か？\r\n<<<コップ>>>を<<<食器>>><<<棚0>>>に<<<戻して>>>。<<<上1>>>から<<<二段目>>>ね。\r\n<<<あの>>><<<棚1>>>ですね。<<<分かりました0>>>。\r\n<<<あ>>><<<ちょっと>>><<<待って>>>。<<<お盆>>>を<<<使って>>><<<これ>>>に<<<載せて>>>、<<<全部>>><<<持って行って>>>。\r\n<<<はい1>>><<<コーヒー0>>><<<カップ0>>>も<<<収納します>>>か？\r\n<<<うん>>><<<お願い>>>。\r\n<<<コーヒー1>>><<<カップ1>>>は<<<上2>>>から<<<三段目>>>ね。\r\n<<<分かりました1>>>。<<<収納する>>><<<前>>>に<<<洗いましょう>>>か？\r\n<<<もう>>><<<洗ってある>>>から<<<大丈夫>>>。<<<コーヒー2>>><<<カップ2>>>は<<<同じ>>><<<ソーサー>>>の<<<ところ>>>に<<<なおして>>>。\r\n<<<はい2>>>、<<<作業>>>が<<<完了しました>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        23,
+        7
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "visual_id": "002(ロボット)",
+      "caption_id": "001",
+      "caption_region": [
+        39,
+        8
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "visual_id": "004(テーブルの上)",
+      "caption_id": "001",
+      "caption_region": [
+        14,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "visual_id": "007(コップa)",
+      "caption_id": "001",
+      "caption_region": [
+        23,
+        7
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "visual_id": "008(コップb)",
+      "caption_id": "001",
+      "caption_region": [
+        23,
+        7
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "visual_id": "009(コップc)",
+      "caption_id": "001",
+      "caption_region": [
+        23,
+        7
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "visual_id": "010(コーヒーカップ)",
+      "caption_id": "001",
+      "caption_region": [
+        23,
+        7
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "visual_id": "003(テーブル)",
+      "caption_id": "001",
+      "caption_region": [
+        3,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "visual_id": "005(お盆)",
+      "caption_id": "001",
+      "caption_region": [
+        221,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "visual_id": "005(お盆)",
+      "caption_id": "001",
+      "caption_region": [
+        239,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "visual_id": "010(コーヒーカップ)",
+      "caption_id": "001",
+      "caption_region": [
+        301,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "12",
+      "visual_id": "010(コーヒーカップ)",
+      "caption_id": "001",
+      "caption_region": [
+        358,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "visual_id": "010(コーヒーカップ)",
+      "caption_id": "001",
+      "caption_region": [
+        482,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "16",
+      "visual_id": "007(コップa)",
+      "caption_id": "001",
+      "caption_region": [
+        98,
+        3
+      ],
+      "relation_name": "ニ格"
+    },
+    {
+      "image_id": "001",
+      "id": "17",
+      "visual_id": "008(コップb)",
+      "caption_id": "001",
+      "caption_region": [
+        98,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "18",
+      "visual_id": "009(コップc)",
+      "caption_id": "001",
+      "caption_region": [
+        98,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "22",
+      "visual_id": "014(テーブル上の物01)",
+      "caption_id": "001",
+      "caption_region": [
+        23,
+        7
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "29",
+      "visual_id": "021(黒ペン)",
+      "caption_id": "001",
+      "caption_region": [
+        23,
+        7
+      ],
+      "relation_name": "ヲ格"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        960,
+        0,
+        184,
+        244
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "bb": [
+        621,
+        181,
+        303,
+        227
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        1398,
+        92,
+        232,
+        192
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        0,
+        138,
+        53,
+        28
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        1148,
+        141,
+        29,
+        33
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "bb": [
+        845,
+        40,
+        140,
+        167
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        217,
+        61,
+        209,
+        107
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        1176,
+        120,
+        30,
+        32
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "bb": [
+        619,
+        963,
+        111,
+        103
+      ],
+      "class_name": "earphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "bb": [
+        1274,
+        60,
+        79,
+        81
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "bb": [
+        741,
+        939,
+        629,
+        139
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "002(ロボット)",
+      "bb": [
+        569,
+        731,
+        909,
+        350
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "bb": [
+        218,
+        61,
+        197,
+        91
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "14",
+      "bb": [
+        1240,
+        75,
+        47,
+        58
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "15",
+      "bb": [
+        682,
+        0,
+        197,
+        107
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "16",
+      "bb": [
+        1197,
+        80,
+        27,
+        29
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "17",
+      "bb": [
+        1592,
+        88,
+        123,
+        81
+      ],
+      "class_name": "telephone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "18",
+      "bb": [
+        1113,
+        0,
+        290,
+        139
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "19",
+      "bb": [
+        1197,
+        182,
+        33,
+        48
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "20",
+      "bb": [
+        844,
+        0,
+        76,
+        70
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "21",
+      "bb": [
+        0,
+        890,
+        327,
+        165
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "22",
+      "bb": [
+        638,
+        0,
+        355,
+        286
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "23",
+      "bb": [
+        960,
+        0,
+        182,
+        55
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "24",
+      "bb": [
+        1159,
+        225,
+        147,
+        89
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "25",
+      "bb": [
+        1411,
+        94,
+        218,
+        148
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "26",
+      "bb": [
+        1081,
+        89,
+        260,
+        283
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "27",
+      "bb": [
+        1117,
+        0,
+        209,
+        94
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "28",
+      "bb": [
+        418,
+        0,
+        108,
+        80
+      ],
+      "class_name": "stepladder",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "30",
+      "bb": [
+        1017,
+        195,
+        56,
+        48
+      ],
+      "class_name": "shoe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "31",
+      "bb": [
+        19,
+        108,
+        86,
+        34
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<よいしょ0>>>。\r\n<<<あれ>>><<<変だ>>>ね。<<<今0>>><<<何時>>>？\r\n<<<今1>>>は<<<お昼>>>の<<<十二時過ぎ>>>です。<<<この>>><<<時計>>>は<<<止まっているみたいです>>>ね。<<<電池0>>><<<切れ>>>ですね。\r\n<<<やっぱ>>><<<そう0>>>だよね。<<<いや>>><<<このまま>>>だと<<<待ち合わせ>>><<<時間0>>>に<<<遅れる>>><<<ところ>>>だったよ。\r\n<<<うん0>>>\r\n<<<時間1>>>を<<<合わせないとだめです>>>ね。\r\n<<<そう1>>>だね。<<<壁0>>>から<<<外してくれない>>>？\r\n<<<はい0>>><<<電池1>>>を<<<調べてみます>>>ね。\r\n<<<お願いします>>>。\r\n<<<じゃあ0>>>、<<<私>>>は<<<その>>><<<間>>>に<<<着替えてくる>>>から、<<<電池2>>>を<<<入れ替えておいてくれる>>>？\r\n<<<はい1>>><<<分かりました0>>>。\r\n<<<うん1>>>\r\n<<<あ>>><<<時間2>>>も<<<合わせてくれる>>>かな？\r\n<<<分かりました1>>>。<<<ピッタリ>>>に<<<合わせます>>>よ。\r\n<<<うん2>>><<<ありがとう>>>。<<<じゃあ1>>>、<<<また0>>><<<終わったら>>>、<<<また1>>><<<壁1>>>に<<<戻しておいて>>>。\r\n<<<はい2>>>\r\n<<<よいしょ1>>>。<<<じゃあ2>>>、<<<もう>>><<<そろそろ>>><<<時間3>>>だから<<<行こっか>>>な。\r\n<<<了解>>>です。<<<お出かけ>>><<<気>>>を<<<付けて>>><<<行ってらっしゃい>>>。\r\n<<<行ってきます>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        208,
+        3
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "visual_id": "002(ロボット)",
+      "caption_id": "001",
+      "caption_region": [
+        296,
+        7
+      ],
+      "relation_name": "ガ格"
+    }
+  ]
+}

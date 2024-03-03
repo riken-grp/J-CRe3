@@ -1,0 +1,463 @@
+{
+  "image_id": "003",
+  "bounding_boxes": [
+    {
+      "image_id": "003",
+      "id": "004(冷蔵庫)",
+      "bb": [
+        735,
+        17,
+        161,
+        219
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "003",
+      "id": "89",
+      "bb": [
+        1286,
+        118,
+        225,
+        134
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "83",
+      "bb": [
+        527,
+        122,
+        63,
+        220
+      ],
+      "class_name": "hose",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "002(ロボット)",
+      "bb": [
+        942,
+        1048,
+        122,
+        33
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "003",
+      "id": "73",
+      "bb": [
+        885,
+        248,
+        76,
+        43
+      ],
+      "class_name": "bandanna",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "71",
+      "bb": [
+        969,
+        184,
+        35,
+        70
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "46",
+      "bb": [
+        594,
+        281,
+        94,
+        89
+      ],
+      "class_name": "stool",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "34",
+      "bb": [
+        918,
+        114,
+        36,
+        33
+      ],
+      "class_name": "fan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "30",
+      "bb": [
+        1431,
+        494,
+        367,
+        279
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "26",
+      "bb": [
+        1501,
+        269,
+        144,
+        46
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "23",
+      "bb": [
+        1436,
+        543,
+        142,
+        67
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "22",
+      "bb": [
+        682,
+        223,
+        183,
+        74
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "21",
+      "bb": [
+        1024,
+        517,
+        109,
+        150
+      ],
+      "class_name": "coffeepot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "19",
+      "bb": [
+        999,
+        431,
+        22,
+        18
+      ],
+      "class_name": "watch",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "18",
+      "bb": [
+        1160,
+        140,
+        25,
+        59
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "17",
+      "bb": [
+        978,
+        434,
+        284,
+        138
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "16",
+      "bb": [
+        80,
+        362,
+        119,
+        67
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "15",
+      "bb": [
+        1440,
+        418,
+        226,
+        134
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "14",
+      "bb": [
+        900,
+        373,
+        92,
+        63
+      ],
+      "class_name": "handbag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "13",
+      "bb": [
+        1392,
+        530,
+        62,
+        25
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "12",
+      "bb": [
+        1331,
+        383,
+        155,
+        137
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "11",
+      "bb": [
+        1332,
+        384,
+        154,
+        98
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "10",
+      "bb": [
+        310,
+        119,
+        35,
+        23
+      ],
+      "class_name": "clock",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "9",
+      "bb": [
+        1287,
+        118,
+        224,
+        137
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "8",
+      "bb": [
+        1021,
+        710,
+        398,
+        302
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "7",
+      "bb": [
+        1525,
+        202,
+        149,
+        100
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "6",
+      "bb": [
+        860,
+        338,
+        879,
+        584
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "003(食器棚)",
+      "bb": [
+        535,
+        -8,
+        225,
+        301
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "003",
+      "id": "4",
+      "bb": [
+        1351,
+        453,
+        47,
+        67
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "3",
+      "bb": [
+        1197,
+        306,
+        113,
+        95
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "001(主人)",
+      "bb": [
+        837,
+        197,
+        229,
+        433
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "003",
+      "id": "1",
+      "bb": [
+        1479,
+        201,
+        197,
+        128
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "003",
+    "id": "003",
+    "text": "<<<あ>>><<<そういえば>>>、<<<友達0>>>が<<<一時間>>><<<後>>>に<<<来ることになってたんだ>>>。<<<準備しない>>>と。\r\n<<<はい0>>><<<私>>>は<<<何>>>を<<<お手伝いしましょう>>>か？\r\n<<<うーん>>><<<コーヒー0>>>が<<<好きな>>><<<友達1>>>だから、<<<カップ>>>と<<<コーヒー1>>>を<<<準備しておいて0>>>。\r\n<<<はい1>>><<<お砂糖>>>や<<<ミルク>>>は<<<どう0>>><<<します>>>か？\r\n<<<ブラック>>>で<<<いい>>>から、<<<そのまま>>>で<<<大丈夫>>>。\r\n<<<はい2>>><<<分かりました0>>>。<<<あと0>>>は、<<<お菓子>>>などの<<<準備0>>>は<<<どう1>>><<<しましょう>>>？\r\n<<<うん0>>><<<ポテトチップス>>>を<<<買ってある0>>>から、<<<あと1>>>は<<<取り0>>><<<皿0>>>を<<<準備しておいて1>>>。\r\n<<<はい3>>>\r\n<<<取り1>>><<<皿1>>>ですね。\r\n<<<あと2>>>は、<<<手>>>が<<<汚れた>>><<<時>>>の<<<ため>>>に、<<<ウェット>>><<<ティッシュ>>>も<<<準備しておきます0>>>ね。\r\n<<<ありがとう0>>>。<<<あと3>>>は、<<<冷蔵>>><<<庫>>>の<<<中>>>にも<<<ゼリー>>>を<<<買ってある1>>>から、<<<食べれるように>>><<<スプーン>>>の<<<準備1>>>を<<<しておいて>>>。\r\n<<<はい4>>>\r\n<<<はい5>>><<<分かりました1>>>。<<<食器>>><<<棚>>>から<<<出して>>>、<<<えー>>>と<<<こっち>>>だ、<<<一緒に>>><<<お盆>>>に<<<載せて>>>、<<<準備しておきます1>>>。\r\n<<<よいしょ>>>。\r\n<<<どうぞ>>>。\r\n<<<うん1>>><<<ありがとう1>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "003",
+      "id": "1",
+      "visual_id": "001(主人)",
+      "caption_id": "003",
+      "caption_region": [
+        67,
+        5
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "003",
+      "id": "2",
+      "visual_id": "002(ロボット)",
+      "caption_id": "003",
+      "caption_region": [
+        91,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "003",
+      "id": "3",
+      "visual_id": "002(ロボット)",
+      "caption_id": "003",
+      "caption_region": [
+        191,
+        8
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "003",
+      "id": "4",
+      "visual_id": "004(冷蔵庫)",
+      "caption_id": "003",
+      "caption_region": [
+        619,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "003",
+      "id": "5",
+      "visual_id": "003(食器棚)",
+      "caption_id": "003",
+      "caption_region": [
+        751,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "003",
+      "id": "44",
+      "visual_id": "004(冷蔵庫)",
+      "caption_id": "003",
+      "caption_region": [
+        627,
+        1
+      ],
+      "relation_name": "ノ格"
+    }
+  ]
+}

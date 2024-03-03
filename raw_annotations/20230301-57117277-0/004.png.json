@@ -1,0 +1,420 @@
+{
+  "image_id": "004",
+  "bounding_boxes": [
+    {
+      "image_id": "004",
+      "id": "196",
+      "bb": [
+        319,
+        475,
+        79,
+        39
+      ],
+      "class_name": "towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "002(ロボット)",
+      "bb": [
+        1041,
+        1059,
+        92,
+        19
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "004",
+      "id": "190",
+      "bb": [
+        1769,
+        178,
+        150,
+        141
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "185",
+      "bb": [
+        32,
+        936,
+        333,
+        150
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "176",
+      "bb": [
+        1413,
+        294,
+        33,
+        33
+      ],
+      "class_name": "jar",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "169",
+      "bb": [
+        155,
+        263,
+        39,
+        37
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "163",
+      "bb": [
+        1831,
+        490,
+        82,
+        86
+      ],
+      "class_name": "grater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "159",
+      "bb": [
+        240,
+        358,
+        108,
+        47
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "154",
+      "bb": [
+        716,
+        324,
+        131,
+        189
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "153",
+      "bb": [
+        96,
+        106,
+        111,
+        48
+      ],
+      "class_name": "bowl",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "143",
+      "bb": [
+        1830,
+        0,
+        89,
+        59
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "133",
+      "bb": [
+        1370,
+        454,
+        16,
+        30
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "114",
+      "bb": [
+        241,
+        331,
+        96,
+        44
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "92",
+      "bb": [
+        1823,
+        627,
+        94,
+        96
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "72",
+      "bb": [
+        1295,
+        516,
+        180,
+        600
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "27",
+      "bb": [
+        1398,
+        854,
+        27,
+        72
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "26",
+      "bb": [
+        1427,
+        0,
+        493,
+        97
+      ],
+      "class_name": "fume_hood",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "21",
+      "bb": [
+        1499,
+        245,
+        16,
+        9
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "19",
+      "bb": [
+        477,
+        285,
+        48,
+        75
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "18",
+      "bb": [
+        1390,
+        602,
+        16,
+        47
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "17",
+      "bb": [
+        339,
+        922,
+        90,
+        52
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "16",
+      "bb": [
+        1718,
+        537,
+        190,
+        109
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "14",
+      "bb": [
+        1415,
+        533,
+        22,
+        49
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "009(鍋)",
+      "bb": [
+        1475,
+        357,
+        163,
+        99
+      ],
+      "class_name": "pot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "004",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        398,
+        41,
+        482,
+        624
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "004",
+      "id": "10",
+      "bb": [
+        879,
+        195,
+        116,
+        66
+      ],
+      "class_name": "mask",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "8",
+      "bb": [
+        895,
+        513,
+        178,
+        236
+      ],
+      "class_name": "skirt",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "010(フライパン)",
+      "bb": [
+        1378,
+        315,
+        208,
+        63
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": false
+    },
+    {
+      "image_id": "004",
+      "id": "6",
+      "bb": [
+        833,
+        279,
+        238,
+        336
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "5",
+      "bb": [
+        1156,
+        484,
+        90,
+        88
+      ],
+      "class_name": "trash_can",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "4",
+      "bb": [
+        1001,
+        206,
+        104,
+        97
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "3",
+      "bb": [
+        1470,
+        245,
+        51,
+        85
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "2",
+      "bb": [
+        1500,
+        621,
+        417,
+        434
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "004",
+      "id": "001(主人)",
+      "bb": [
+        834,
+        120,
+        246,
+        669
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "004",
+    "id": "004",
+    "text": "<<<今日>>>は<<<海苔巻き>>>の<<<太>>><<<巻き>>>を<<<作りたい>>>から、<<<お手伝い>>><<<お願い>>>。\r\n<<<了解0>>>です。\r\n<<<中身>>>は、<<<キュウリ0>>>と<<<えー>>><<<人参0>>>と<<<卵焼き>>>に<<<しよう>>>と<<<思うんだ>>>けど、<<<冷蔵>>><<<庫>>>に<<<ある>>>かな？\r\n<<<卵0>>>と<<<人参1>>>は<<<あります0>>>が、<<<キュウリ1>>>は<<<ないです>>>ね。\r\n<<<それじゃあ>>><<<緑>>>が<<<足りない>>>から、<<<代わり>>>に<<<ほうれん草0>>>の<<<お浸し>>>は<<<どう>>>かな。\r\n<<<良い>>>と<<<思います>>>。\r\n<<<ほうれん草1>>>は<<<昨日>>><<<買ったはずだ>>>けど、<<<まだ>>><<<あった>>>よね。\r\n<<<はい0>>><<<あります1>>>よ。\r\n<<<じゃあ>>>、<<<私>>>は<<<卵1>>>を<<<焼く>>>から、<<<ほうれん草2>>>を<<<茹でてもらえる>>>？\r\n<<<はい1>>><<<分かりました0>>>。<<<任せてください>>>。\r\n<<<ほうれん草3>>>は<<<長い>>>まま<<<茹でて>>>ね。\r\n<<<はい2>>>\u3000<<<了解1>>>です。\r\n<<<茹で上がって>>>も<<<切らなくて良い>>>からね。\r\n<<<はい3>>><<<分かりました1>>>。\r\n<<<それ>>>が<<<終わったら>>>、<<<人参2>>>も<<<切ってほしい>>>。\r\n<<<オッケー>>>です。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

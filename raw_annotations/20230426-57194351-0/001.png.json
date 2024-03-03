@@ -1,0 +1,254 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "002(ロボット)",
+      "bb": [
+        543,
+        698,
+        1045,
+        383
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        1267,
+        0,
+        238,
+        419
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "004(ダイニングテーブル)",
+      "bb": [
+        673,
+        39,
+        781,
+        556
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "006(リモコン)",
+      "bb": [
+        1130,
+        193,
+        28,
+        67
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "003(ティッシュ)",
+      "bb": [
+        906,
+        114,
+        90,
+        39
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "005(布巾)",
+      "bb": [
+        196,
+        484,
+        78,
+        110
+      ],
+      "class_name": "dishrag",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "010(ポテトチップス箱)",
+      "bb": [
+        859,
+        140,
+        44,
+        70
+      ],
+      "class_name": "crisp_(potato_chip)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "009(青縁コップ)",
+      "bb": [
+        1209,
+        186,
+        54,
+        53
+      ],
+      "class_name": "mug",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "008(透明コップ)",
+      "bb": [
+        26,
+        341,
+        84,
+        55
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "011(トレー)",
+      "bb": [
+        892,
+        74,
+        96,
+        42
+      ],
+      "class_name": "tray",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<ティッシュ0>>>で<<<テーブル0>>>を<<<拭いてくれない>>>かな？\r\n<<<分かりました0>>>。<<<でも>>>、<<<ティッシュ1>>>より<<<布巾0>>>の<<<方>>>が<<<いいんじゃないです>>>か？\r\n<<<あ0>>><<<そうだ>>>ね。<<<じゃあ0>>>、<<<布巾1>>>で<<<お願い0>>>。\r\n<<<はい0>>>\r\n<<<じゃあ1>>>、<<<今>>>から<<<ご飯>>><<<作る>>>から、<<<テーブル1>>>は<<<できる>>>だけ<<<物>>>を<<<置かないで>>>ね。\r\n<<<テレビ0>>>の<<<リモコン>>>は<<<どう>>><<<します>>>？\r\n<<<あー>>><<<それ>>>は<<<テレビ1>>><<<台0>>>に<<<置いてきて>>>。\r\n<<<はい1>>><<<分かりました1>>>。<<<テレビ2>>><<<台1>>>に<<<戻します>>>。\r\n<<<あ1>>><<<コップ0>>>に<<<お茶0>>>を<<<入れといて>>>よ。\r\n<<<この>>><<<透明の>>><<<コップ1>>>で<<<いいです>>>か？\r\n<<<うん>>><<<お願い1>>>。\r\n<<<じゃあ2>>>、<<<テーブル2>>>を<<<片付けて>>>、<<<その後>>>に<<<お茶1>>>を<<<いれます>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "003(ティッシュ)",
+      "caption_id": "001",
+      "caption_region": [
+        3,
+        6
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "visual_id": "003(ティッシュ)",
+      "caption_id": "001",
+      "caption_region": [
+        69,
+        6
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "visual_id": "004(ダイニングテーブル)",
+      "caption_id": "001",
+      "caption_region": [
+        16,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "visual_id": "004(ダイニングテーブル)",
+      "caption_id": "001",
+      "caption_region": [
+        223,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "visual_id": "005(布巾)",
+      "caption_id": "001",
+      "caption_region": [
+        83,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "visual_id": "005(布巾)",
+      "caption_id": "001",
+      "caption_region": [
+        150,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "visual_id": "006(リモコン)",
+      "caption_id": "001",
+      "caption_region": [
+        280,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "visual_id": "004(ダイニングテーブル)",
+      "caption_id": "001",
+      "caption_region": [
+        534,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "16",
+      "visual_id": "002(ロボット)",
+      "caption_id": "001",
+      "caption_region": [
+        46,
+        7
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "17",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        212,
+        2
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "18",
+      "visual_id": "006(リモコン)",
+      "caption_id": "001",
+      "caption_region": [
+        319,
+        2
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

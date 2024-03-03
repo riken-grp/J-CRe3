@@ -1,0 +1,426 @@
+{
+  "image_id": "010",
+  "bounding_boxes": [
+    {
+      "image_id": "010",
+      "id": "4",
+      "bb": [
+        1487,
+        776,
+        168,
+        101
+      ],
+      "class_name": "bucket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "002(ロボット)",
+      "bb": [
+        519,
+        721,
+        990,
+        359
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "495",
+      "bb": [
+        1,
+        810,
+        184,
+        158
+      ],
+      "class_name": "tongs",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "500",
+      "bb": [
+        74,
+        811,
+        108,
+        74
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "007(冷蔵庫)",
+      "bb": [
+        -4,
+        -5,
+        1923,
+        925
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "506",
+      "bb": [
+        226,
+        863,
+        111,
+        87
+      ],
+      "class_name": "mouse_(computer_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "593",
+      "bb": [
+        459,
+        251,
+        166,
+        129
+      ],
+      "class_name": "butter",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "595",
+      "bb": [
+        338,
+        310,
+        222,
+        155
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "598",
+      "bb": [
+        1463,
+        430,
+        100,
+        114
+      ],
+      "class_name": "doughnut",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "606",
+      "bb": [
+        521,
+        103,
+        91,
+        61
+      ],
+      "class_name": "tomato",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "612",
+      "bb": [
+        496,
+        407,
+        67,
+        56
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "621",
+      "bb": [
+        841,
+        281,
+        124,
+        215
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "626",
+      "bb": [
+        849,
+        283,
+        50,
+        47
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "630",
+      "bb": [
+        919,
+        335,
+        175,
+        255
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "647",
+      "bb": [
+        267,
+        357,
+        228,
+        159
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "651",
+      "bb": [
+        1145,
+        595,
+        44,
+        42
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "652",
+      "bb": [
+        944,
+        335,
+        56,
+        55
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "659",
+      "bb": [
+        1264,
+        408,
+        134,
+        121
+      ],
+      "class_name": "doughnut",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "662",
+      "bb": [
+        449,
+        131,
+        78,
+        39
+      ],
+      "class_name": "orange_(fruit)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "663",
+      "bb": [
+        1186,
+        340,
+        118,
+        122
+      ],
+      "class_name": "cake",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "669",
+      "bb": [
+        226,
+        167,
+        310,
+        131
+      ],
+      "class_name": "tray",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "671",
+      "bb": [
+        1039,
+        534,
+        170,
+        174
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "673",
+      "bb": [
+        1362,
+        474,
+        140,
+        133
+      ],
+      "class_name": "doughnut",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "679",
+      "bb": [
+        907,
+        949,
+        57,
+        42
+      ],
+      "class_name": "mouse_(computer_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "680",
+      "bb": [
+        1296,
+        719,
+        57,
+        52
+      ],
+      "class_name": "hinge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "700",
+      "bb": [
+        70,
+        39,
+        148,
+        49
+      ],
+      "class_name": "chopstick",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "003(ニンニク)",
+      "bb": [
+        1025,
+        671,
+        133,
+        127
+      ],
+      "class_name": "garlic",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "010(棚)",
+      "bb": [
+        -3,
+        727,
+        673,
+        352
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "010",
+    "id": "010",
+    "text": "<<<ペペロンチーノ0>>>を<<<作ろう0>>>と<<<思うんだ>>>けど、<<<材料>>><<<ある>>>かな？\r\n<<<はい0>>>\r\n<<<はい1>>><<<確認します>>>。\r\n<<<ニンニク0>>>と<<<キャベツ0>>>に<<<ほうれん草>>>が<<<あります0>>>が、<<<どう>>><<<しましょう>>>。\r\n<<<じゃあ0>>>、<<<ニンニク1>>>と<<<キャベツ1>>>で<<<作ろう1>>>。<<<持ってきて>>>。\r\n<<<はい2>>>\r\n<<<分かりました0>>>。\r\n<<<私>>>は<<<パスタ0>>>を<<<茹でる>>>から、<<<ニンニク2>>>と<<<キャベツ2>>>を<<<適当な>>><<<大きさ>>>に<<<切ってくれる>>>？\r\n<<<うん0>>>\r\n<<<分かりました1>>>。<<<キャベツ3>>>は<<<切った>>><<<後>>>に、<<<茹でておく>>><<<方>>>が<<<いいです>>>ね。\r\n<<<うん1>>><<<確かに>>><<<そう0>>>だね。<<<じゃあ1>>>、<<<お願いする>>>よ。\r\n<<<はい3>>>\r\n<<<あと0>>>、<<<ペペロンチーノ1>>>に<<<合いそうな>>><<<海苔0>>>と<<<鰹節>>>が<<<あります1>>>が、<<<使います>>>か？\r\n<<<うん2>>>\r\n<<<あー>>><<<そう1>>>だねー<<<じゃあ2>>>、<<<海苔1>>>を<<<入れよう>>>。<<<取り出して>>><<<テーブル>>>の<<<上>>>に<<<置いておいて>>>。\r\n<<<はい4>>><<<分かりました2>>>。\r\n<<<あと1>>>、<<<果物>>>が<<<あります2>>>けど、<<<食後>>>の<<<デザート>>>に<<<何>>>か<<<作りましょう>>>か？\r\n<<<うーん>>><<<いや>>><<<今日>>>は<<<パスタ1>>>だけで<<<いい>>>よ。<<<それじゃあ0>>>、<<<早速>>><<<ニンニク3>>>と<<<キャベツ4>>>を<<<調理して>>>。\r\n<<<それじゃあ1>>>、<<<取り掛かります>>>。<<<他>>>にも<<<お手伝いできる>>><<<こと>>>が<<<あったら>>>、<<<言ってください>>>ね。\r\n<<<うん3>>><<<分かった>>>。<<<いつも>>><<<ありがとう>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "010",
+      "id": "7",
+      "visual_id": "002(ロボット)",
+      "caption_id": "010",
+      "caption_region": [
+        83,
+        5
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "010",
+      "id": "8",
+      "visual_id": "003(ニンニク)",
+      "caption_id": "010",
+      "caption_region": [
+        97,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "010",
+      "id": "9",
+      "visual_id": "003(ニンニク)",
+      "caption_id": "010",
+      "caption_region": [
+        179,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "010",
+      "id": "10",
+      "visual_id": "003(ニンニク)",
+      "caption_id": "010",
+      "caption_region": [
+        286,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "010",
+      "id": "11",
+      "visual_id": "003(ニンニク)",
+      "caption_id": "010",
+      "caption_region": [
+        861,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "010",
+      "id": "12",
+      "visual_id": "007(冷蔵庫)",
+      "caption_id": "010",
+      "caption_region": [
+        133,
+        5
+      ],
+      "relation_name": "ニ格"
+    },
+    {
+      "image_id": "010",
+      "id": "13",
+      "visual_id": "003(ニンニク)",
+      "caption_id": "010",
+      "caption_region": [
+        42,
+        2
+      ],
+      "relation_name": "=≒格"
+    }
+  ]
+}

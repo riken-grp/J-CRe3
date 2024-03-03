@@ -1,0 +1,512 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "38",
+      "bb": [
+        312,
+        617,
+        28,
+        15
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "37",
+      "bb": [
+        1608,
+        478,
+        46,
+        41
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "36",
+      "bb": [
+        191,
+        758,
+        94,
+        56
+      ],
+      "class_name": "cellular_telephone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "35",
+      "bb": [
+        130,
+        755,
+        159,
+        115
+      ],
+      "class_name": "scale_(measuring_instrument)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "34",
+      "bb": [
+        134,
+        762,
+        78,
+        105
+      ],
+      "class_name": "wrench",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "33",
+      "bb": [
+        1555,
+        449,
+        41,
+        44
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "32",
+      "bb": [
+        343,
+        825,
+        148,
+        108
+      ],
+      "class_name": "lanyard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "31",
+      "bb": [
+        62,
+        885,
+        274,
+        194
+      ],
+      "class_name": "mat_(gym_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "30",
+      "bb": [
+        722,
+        286,
+        22,
+        57
+      ],
+      "class_name": "hinge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "29",
+      "bb": [
+        1750,
+        588,
+        66,
+        81
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "28",
+      "bb": [
+        133,
+        814,
+        51,
+        52
+      ],
+      "class_name": "knife",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "27",
+      "bb": [
+        1392,
+        361,
+        81,
+        36
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "26",
+      "bb": [
+        1003,
+        341,
+        14,
+        20
+      ],
+      "class_name": "earphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "25",
+      "bb": [
+        129,
+        755,
+        68,
+        48
+      ],
+      "class_name": "alarm_clock",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "24",
+      "bb": [
+        1782,
+        890,
+        91,
+        73
+      ],
+      "class_name": "potholder",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "23",
+      "bb": [
+        113,
+        695,
+        383,
+        256
+      ],
+      "class_name": "clipboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "22",
+      "bb": [
+        1814,
+        252,
+        105,
+        140
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "009(じゃがいも)",
+      "bb": [
+        1440,
+        459,
+        51,
+        34
+      ],
+      "class_name": "potato",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "19",
+      "bb": [
+        1554,
+        579,
+        144,
+        104
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "18",
+      "bb": [
+        1713,
+        856,
+        121,
+        93
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "17",
+      "bb": [
+        1201,
+        556,
+        710,
+        437
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "010(にんじん)",
+      "bb": [
+        1386,
+        478,
+        110,
+        36
+      ],
+      "class_name": "carrot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "15",
+      "bb": [
+        1210,
+        513,
+        87,
+        78
+      ],
+      "class_name": "trash_can",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "007(冷蔵庫）",
+      "bb": [
+        693,
+        121,
+        273,
+        490
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "bb": [
+        1273,
+        567,
+        433,
+        322
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "12",
+      "bb": [
+        1853,
+        758,
+        51,
+        34
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "bb": [
+        1722,
+        500,
+        127,
+        159
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "bb": [
+        931,
+        269,
+        76,
+        45
+      ],
+      "class_name": "mask",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "bb": [
+        1451,
+        395,
+        131,
+        80
+      ],
+      "class_name": "pot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        1511,
+        469,
+        60,
+        107
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        1391,
+        360,
+        183,
+        50
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "bb": [
+        925,
+        524,
+        172,
+        215
+      ],
+      "class_name": "skirt",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        1496,
+        308,
+        40,
+        72
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        874,
+        320,
+        220,
+        281
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        1722,
+        758,
+        183,
+        135
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "bb": [
+        1058,
+        263,
+        146,
+        84
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        875,
+        202,
+        225,
+        573
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<人数>>><<<分>>>の<<<コップ>>>を<<<テーブル0>>>に<<<用意してくれる>>>？\r\n<<<はい0>>><<<分かりました0>>>。\r\n<<<あ0>>><<<それ0>>>から、<<<冷蔵>>><<<庫>>>に<<<お惣菜>>>が<<<入ってる>>>から<<<それ1>>>も<<<よろしく>>>。\r\n<<<はい1>>><<<分かりました1>>>。\r\n<<<あ1>>><<<きんぴら0>>>ですね？\r\n<<<そう>>><<<きんぴら1>>>。<<<あと>>>、<<<卯の花0>>>って<<<なかった>>>っけ？\r\n<<<卯の花1>>>ですか？<<<見当たらないです>>>ね。\r\n<<<了解>>>。<<<じゃあ>>>、<<<きんぴら2>>>だけ<<<テーブル1>>>に<<<出しておいて>>>。\r\n<<<はい2>>><<<出しておきます>>>。\r\n<<<それ2>>>が<<<終わったら>>><<<野菜>>><<<切る>>><<<の>>><<<手伝ってくれる>>>？\r\n<<<はい3>>><<<どれ>>>を<<<切ればいいです>>>か？\r\n<<<そこ>>>に<<<ある>>><<<ジャガイモ>>><<<お願い>>>。\r\n<<<はい4>>><<<分かりました2>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        301,
+        2
+      ],
+      "relation_name": "ガ２格"
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "visual_id": "007(冷蔵庫）",
+      "caption_id": "001",
+      "caption_region": [
+        110,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "visual_id": "009(じゃがいも)",
+      "caption_id": "001",
+      "caption_region": [
+        406,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "visual_id": "010(にんじん)",
+      "caption_id": "001",
+      "caption_region": [
+        406,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "visual_id": "009(じゃがいも)",
+      "caption_id": "001",
+      "caption_region": [
+        497,
+        5
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

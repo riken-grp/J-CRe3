@@ -1,0 +1,557 @@
+{
+  "image_id": "015",
+  "bounding_boxes": [
+    {
+      "image_id": "015",
+      "id": "1336",
+      "bb": [
+        341,
+        89,
+        86,
+        61
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "1332",
+      "bb": [
+        1243,
+        87,
+        110,
+        75
+      ],
+      "class_name": "projector",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "1324",
+      "bb": [
+        1544,
+        0,
+        83,
+        33
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "1318",
+      "bb": [
+        294,
+        249,
+        77,
+        62
+      ],
+      "class_name": "carton",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "1317",
+      "bb": [
+        0,
+        2,
+        429,
+        283
+      ],
+      "class_name": "mirror",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "1310",
+      "bb": [
+        696,
+        50,
+        109,
+        54
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "1302",
+      "bb": [
+        941,
+        85,
+        31,
+        47
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "1299",
+      "bb": [
+        1604,
+        34,
+        104,
+        30
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "1294",
+      "bb": [
+        807,
+        57,
+        63,
+        31
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "007(グラス)",
+      "bb": [
+        875,
+        183,
+        36,
+        42
+      ],
+      "class_name": "glass_(drink_container)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "015",
+      "id": "009(タンブラー)",
+      "bb": [
+        1007,
+        125,
+        38,
+        67
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "015",
+      "id": "1289",
+      "bb": [
+        915,
+        37,
+        69,
+        64
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "011(床全体)",
+      "bb": [
+        0,
+        95,
+        2000,
+        2229
+      ],
+      "class_name": "runner_(carpet)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "015",
+      "id": "006(ポット)",
+      "bb": [
+        935,
+        0,
+        66,
+        56
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "015",
+      "id": "1266",
+      "bb": [
+        980,
+        56,
+        50,
+        22
+      ],
+      "class_name": "paper_plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "008(パソコン)",
+      "bb": [
+        1028,
+        112,
+        112,
+        49
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": false
+    },
+    {
+      "image_id": "015",
+      "id": "010(バッグ)",
+      "bb": [
+        1059,
+        15,
+        67,
+        84
+      ],
+      "class_name": "backpack",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "004(リモコン)",
+      "bb": [
+        1109,
+        154,
+        86,
+        40
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    },
+    {
+      "image_id": "015",
+      "id": "1228",
+      "bb": [
+        54,
+        297,
+        212,
+        169
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "1227",
+      "bb": [
+        914,
+        33,
+        67,
+        100
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "1219",
+      "bb": [
+        977,
+        104,
+        179,
+        85
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "1209",
+      "bb": [
+        1118,
+        57,
+        100,
+        98
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "1184",
+      "bb": [
+        824,
+        137,
+        176,
+        106
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "005(テーブル)",
+      "bb": [
+        766,
+        34,
+        504,
+        417
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "015",
+      "id": "1154",
+      "bb": [
+        693,
+        80,
+        252,
+        357
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "015",
+      "id": "002(ロボット)",
+      "bb": [
+        880,
+        385,
+        798,
+        697
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "015",
+      "id": "012(上)",
+      "bb": [
+        769,
+        31,
+        499,
+        269
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "015",
+    "id": "015",
+    "text": "<<<おはよう>>>。\r\n<<<おはようございます>>>。\r\n<<<あー>>><<<まだ>>><<<眠い>>>な、<<<とりあえず>>><<<テレビ>>><<<つけよう>>>。<<<あ0>>><<<リモコン>>><<<あっち>>>に<<<ある0>>>から、<<<持ってきてくれる>>>？\r\n<<<テーブル0>>>の<<<上0>>>ですね。<<<分かりました>>>。\r\n<<<どうぞ0>>>。\r\n<<<ありがとう0>>>。\r\n<<<あ1>>><<<水>>><<<飲みたい>>>な。<<<ポット0>>>と<<<グラス0>>>も<<<取ってくれる>>>かな。\r\n<<<テーブル1>>>の<<<上1>>>に<<<ある1>>><<<ポット1>>>と<<<グラス1>>>ですね。\r\n<<<うん0>>>\r\n<<<注ぎましょう>>>か？\r\n<<<うん1>>><<<お願い>>>。\r\n<<<どうぞ1>>>。\r\n<<<ありがとう1>>>。\r\n<<<あ2>>><<<パソコン0>>>は<<<どこ>>>に<<<置いた>>>かな？<<<テーブル2>>>の<<<上2>>>に<<<あった0>>>っけ？\r\n<<<ノート>>><<<パソコン1>>>なら<<<ありました0>>>よ。<<<持ってきましょう>>>か？\r\n<<<うんうん>>><<<場所>>>が<<<分かれば>>><<<オッケー>>>だよ。<<<タンブラー0>>>と<<<バック>>>も<<<あった1>>>かな？\r\n<<<タンブラー1>>>は<<<あります>>>が、<<<バッグ>>>は。\r\n<<<床>>>に<<<あるんじゃない>>>かな。\r\n<<<あ3>>><<<ありました1>>>。<<<持っていきましょう>>>か？\r\n<<<うん2>>><<<そう>>>だね\r\n<<<はい>>>\r\n<<<どうぞ2>>>。\r\n<<<ありがとう2>>>。\r\n<<<そろそろ>>><<<目>>>が<<<覚めました>>>か？"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "015",
+      "id": "5",
+      "visual_id": "004(リモコン)",
+      "caption_id": "015",
+      "caption_region": [
+        99,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "6",
+      "visual_id": "005(テーブル)",
+      "caption_id": "015",
+      "caption_region": [
+        148,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "7",
+      "visual_id": "005(テーブル)",
+      "caption_id": "015",
+      "caption_region": [
+        281,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "8",
+      "visual_id": "005(テーブル)",
+      "caption_id": "015",
+      "caption_region": [
+        455,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "9",
+      "visual_id": "012(上)",
+      "caption_id": "015",
+      "caption_region": [
+        160,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "10",
+      "visual_id": "012(上)",
+      "caption_id": "015",
+      "caption_region": [
+        293,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "11",
+      "visual_id": "012(上)",
+      "caption_id": "015",
+      "caption_region": [
+        467,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "12",
+      "visual_id": "006(ポット)",
+      "caption_id": "015",
+      "caption_region": [
+        242,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "13",
+      "visual_id": "006(ポット)",
+      "caption_id": "015",
+      "caption_region": [
+        311,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "14",
+      "visual_id": "007(グラス)",
+      "caption_id": "015",
+      "caption_region": [
+        253,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "15",
+      "visual_id": "007(グラス)",
+      "caption_id": "015",
+      "caption_region": [
+        322,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "16",
+      "visual_id": "008(パソコン)",
+      "caption_id": "015",
+      "caption_region": [
+        422,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "17",
+      "visual_id": "008(パソコン)",
+      "caption_id": "015",
+      "caption_region": [
+        500,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "18",
+      "visual_id": "009(タンブラー)",
+      "caption_id": "015",
+      "caption_region": [
+        587,
+        6
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "19",
+      "visual_id": "009(タンブラー)",
+      "caption_id": "015",
+      "caption_region": [
+        625,
+        6
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "015",
+      "id": "27",
+      "visual_id": "005(テーブル)",
+      "caption_id": "015",
+      "caption_region": [
+        160,
+        2
+      ],
+      "relation_name": "ノ格"
+    },
+    {
+      "image_id": "015",
+      "id": "28",
+      "visual_id": "005(テーブル)",
+      "caption_id": "015",
+      "caption_region": [
+        293,
+        2
+      ],
+      "relation_name": "ノ格"
+    },
+    {
+      "image_id": "015",
+      "id": "29",
+      "visual_id": "005(テーブル)",
+      "caption_id": "015",
+      "caption_region": [
+        467,
+        2
+      ],
+      "relation_name": "ノ格"
+    },
+    {
+      "image_id": "015",
+      "id": "31",
+      "visual_id": "007(グラス)",
+      "caption_id": "015",
+      "caption_region": [
+        386,
+        4
+      ],
+      "relation_name": "ヲ≒格"
+    },
+    {
+      "image_id": "015",
+      "id": "32",
+      "visual_id": "007(グラス)",
+      "caption_id": "015",
+      "caption_region": [
+        223,
+        1
+      ],
+      "relation_name": "=≒格"
+    }
+  ]
+}

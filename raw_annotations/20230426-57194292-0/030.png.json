@@ -1,0 +1,371 @@
+{
+  "image_id": "030",
+  "bounding_boxes": [
+    {
+      "image_id": "030",
+      "id": "2043",
+      "bb": [
+        997,
+        788,
+        476,
+        279
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2042",
+      "bb": [
+        1214,
+        379,
+        112,
+        116
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2039",
+      "bb": [
+        1210,
+        485,
+        340,
+        137
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2035",
+      "bb": [
+        1189,
+        38,
+        525,
+        140
+      ],
+      "class_name": "tray",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "011(お皿)",
+      "bb": [
+        950,
+        840,
+        80,
+        27
+      ],
+      "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "2030",
+      "bb": [
+        732,
+        596,
+        252,
+        118
+      ],
+      "class_name": "strainer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2026",
+      "bb": [
+        1126,
+        337,
+        116,
+        104
+      ],
+      "class_name": "mug",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "005(マグカップ)",
+      "bb": [
+        1073,
+        422,
+        125,
+        143
+      ],
+      "class_name": "mug",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "008(コップb)",
+      "bb": [
+        855,
+        733,
+        121,
+        138
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "1990",
+      "bb": [
+        570,
+        871,
+        233,
+        208
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "002(ロボット)",
+      "bb": [
+        571,
+        697,
+        899,
+        391
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "007(コップa)",
+      "bb": [
+        764,
+        837,
+        143,
+        124
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "003(棚)",
+      "bb": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "1844",
+      "bb": [
+        522,
+        366,
+        146,
+        189
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "1841",
+      "bb": [
+        639,
+        357,
+        129,
+        193
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "1838",
+      "bb": [
+        428,
+        84,
+        320,
+        99
+      ],
+      "class_name": "plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "006(コップa, b)",
+      "bb": [
+        840,
+        -4,
+        301,
+        127
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "030",
+    "id": "030",
+    "text": "<<<お茶0>>>を<<<出したい>>>から、<<<コップ0>>>を<<<出してきてくれる0>>>？\r\n<<<いくつ>>><<<必要です>>>か？\r\n<<<そう>>>ねー<<<えー0>>><<<コップ1>>>を<<<二つ0>>>と<<<子供>>>も<<<いる>>>から、<<<マグカップ0>>>を<<<一つ0>>><<<お願い>>>。\r\n\r\n<<<えー1>>><<<コップ2>>>は<<<棚0>>>に<<<ある>>>よ。\r\n<<<分かりました0>>>。<<<コップ3>>><<<二つ1>>>と<<<マグカップ1>>><<<一つ1>>><<<用意します>>>ね。\r\n<<<何>>>か<<<食べ物>>>は<<<なかった>>>かな？\r\n<<<確か>>><<<引き出し>>>に<<<お菓子0>>>が<<<あった0>>>と<<<思います>>>。\r\n<<<出します>>>か？\r\n<<<あ0>>><<<そうだ>>>ね<<<お菓子1>>>が<<<あった1>>>ね。<<<じゃあ0>>><<<持ってきてもらおう>>>かな。\r\n<<<分かりました1>>>。<<<お菓子2>>>を<<<持ってきます0>>>。\r\n<<<どうぞ0>>>。\r\n<<<あ1>>><<<ありがとう0>>>。\r\n<<<はい0>>>\r\n<<<あ2>>><<<じゃあ1>>>、<<<お菓子3>>>を<<<入れる>>><<<白い>>><<<お皿0>>>、<<<持ってきてくれる>>>？<<<棚1>>>に<<<あった2>>>と<<<思う>>>。\r\n<<<分かりました2>>>。<<<棚2>>>の<<<一番>>><<<下>>>でしたね。<<<持ってきます1>>>。\r\n<<<どうぞ1>>>。\r\n<<<うん0>>><<<ありがとう1>>>。\r\n<<<あと>>>、<<<お茶1>>>を<<<冷蔵>>><<<庫>>>から<<<出してきてくれる1>>>かな？\r\n<<<分かりました3>>>。\r\n<<<持ってきました>>>。\r\n<<<うん1>>><<<ありがとう2>>>。<<<じゃあ2>>><<<この>>><<<コップ4>>>と<<<マグカップ2>>>に<<<お茶2>>>を<<<入れてくれる>>>？\r\n<<<はい1>>>\r\n<<<私>>>は<<<その>>><<<間>>>に<<<お皿1>>>に<<<お菓子4>>>を<<<出しておく>>>ね。\r\n<<<終わりました>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "030",
+      "id": "18",
+      "visual_id": "007(コップa)",
+      "caption_id": "030",
+      "caption_region": [
+        26,
+        4
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "19",
+      "visual_id": "007(コップa)",
+      "caption_id": "030",
+      "caption_region": [
+        97,
+        4
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "20",
+      "visual_id": "007(コップa)",
+      "caption_id": "030",
+      "caption_region": [
+        183,
+        4
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "21",
+      "visual_id": "007(コップa)",
+      "caption_id": "030",
+      "caption_region": [
+        229,
+        4
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "22",
+      "visual_id": "007(コップa)",
+      "caption_id": "030",
+      "caption_region": [
+        872,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "030",
+      "id": "23",
+      "visual_id": "008(コップb)",
+      "caption_id": "030",
+      "caption_region": [
+        26,
+        4
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "24",
+      "visual_id": "008(コップb)",
+      "caption_id": "030",
+      "caption_region": [
+        97,
+        4
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "25",
+      "visual_id": "008(コップb)",
+      "caption_id": "030",
+      "caption_region": [
+        183,
+        4
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "26",
+      "visual_id": "008(コップb)",
+      "caption_id": "030",
+      "caption_region": [
+        229,
+        4
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "27",
+      "visual_id": "008(コップb)",
+      "caption_id": "030",
+      "caption_region": [
+        872,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "030",
+      "id": "28",
+      "visual_id": "007(コップa)",
+      "caption_id": "030",
+      "caption_region": [
+        108,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "29",
+      "visual_id": "007(コップa)",
+      "caption_id": "030",
+      "caption_region": [
+        239,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "30",
+      "visual_id": "008(コップb)",
+      "caption_id": "030",
+      "caption_region": [
+        108,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "31",
+      "visual_id": "008(コップb)",
+      "caption_id": "030",
+      "caption_region": [
+        239,
+        3
+      ],
+      "relation_name": "=≒格"
+    }
+  ]
+}

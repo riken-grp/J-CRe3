@@ -1,0 +1,287 @@
+{
+  "image_id": "017",
+  "bounding_boxes": [
+    {
+      "image_id": "017",
+      "id": "1546",
+      "bb": [
+        117,
+        570,
+        208,
+        91
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "006(ポット)",
+      "bb": [
+        1169,
+        121,
+        100,
+        100
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "1536",
+      "bb": [
+        837,
+        390,
+        323,
+        310
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1534",
+      "bb": [
+        868,
+        213,
+        160,
+        133
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1521",
+      "bb": [
+        1097,
+        253,
+        120,
+        63
+      ],
+      "class_name": "plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1515",
+      "bb": [
+        801,
+        1,
+        85,
+        51
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1494",
+      "bb": [
+        629,
+        412,
+        65,
+        95
+      ],
+      "class_name": "fork",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1485",
+      "bb": [
+        1058,
+        185,
+        94,
+        38
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1420",
+      "bb": [
+        413,
+        279,
+        244,
+        263
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1405",
+      "bb": [
+        1024,
+        227,
+        207,
+        146
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1346",
+      "bb": [
+        689,
+        129,
+        139,
+        169
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "007(グラス)",
+      "bb": [
+        573,
+        491,
+        66,
+        68
+      ],
+      "class_name": "glass_(drink_container)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "009(タンブラー)",
+      "bb": [
+        741,
+        528,
+        99,
+        113
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "008(パソコン)",
+      "bb": [
+        927,
+        434,
+        217,
+        204
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "010(バッグ)",
+      "bb": [
+        1259,
+        250,
+        112,
+        142
+      ],
+      "class_name": "backpack",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "004(リモコン)",
+      "bb": [
+        892,
+        700,
+        204,
+        47
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "1209",
+      "bb": [
+        1164,
+        396,
+        152,
+        311
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1184",
+      "bb": [
+        541,
+        364,
+        338,
+        273
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "005(テーブル)",
+      "bb": [
+        434,
+        143,
+        852,
+        780
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "002(ロボット)",
+      "bb": [
+        599,
+        674,
+        911,
+        415
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "011(床全体)",
+      "bb": [
+        0,
+        237,
+        2000,
+        2532
+      ],
+      "class_name": "runner_(carpet)",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "017",
+    "id": "017",
+    "text": "<<<おはよう>>>。\r\n<<<おはようございます>>>。\r\n<<<あー>>><<<まだ>>><<<眠い>>>な、<<<とりあえず>>><<<テレビ>>><<<つけよう>>>。<<<あ0>>><<<リモコン>>><<<あっち>>>に<<<ある0>>>から、<<<持ってきてくれる>>>？\r\n<<<テーブル0>>>の<<<上0>>>ですね。<<<分かりました>>>。\r\n<<<どうぞ0>>>。\r\n<<<ありがとう0>>>。\r\n<<<あ1>>><<<水>>><<<飲みたい>>>な。<<<ポット0>>>と<<<グラス0>>>も<<<取ってくれる>>>かな。\r\n<<<テーブル1>>>の<<<上1>>>に<<<ある1>>><<<ポット1>>>と<<<グラス1>>>ですね。\r\n<<<うん0>>>\r\n<<<注ぎましょう>>>か？\r\n<<<うん1>>><<<お願い>>>。\r\n<<<どうぞ1>>>。\r\n<<<ありがとう1>>>。\r\n<<<あ2>>><<<パソコン0>>>は<<<どこ>>>に<<<置いた>>>かな？<<<テーブル2>>>の<<<上2>>>に<<<あった0>>>っけ？\r\n<<<ノート>>><<<パソコン1>>>なら<<<ありました0>>>よ。<<<持ってきましょう>>>か？\r\n<<<うんうん>>><<<場所>>>が<<<分かれば>>><<<オッケー>>>だよ。<<<タンブラー0>>>と<<<バック>>>も<<<あった1>>>かな？\r\n<<<タンブラー1>>>は<<<あります>>>が、<<<バッグ>>>は。\r\n<<<床>>>に<<<あるんじゃない>>>かな。\r\n<<<あ3>>><<<ありました1>>>。<<<持っていきましょう>>>か？\r\n<<<うん2>>><<<そう>>>だね\r\n<<<はい>>>\r\n<<<どうぞ2>>>。\r\n<<<ありがとう2>>>。\r\n<<<そろそろ>>><<<目>>>が<<<覚めました>>>か？"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "017",
+      "id": "20",
+      "visual_id": "010(バッグ)",
+      "caption_id": "017",
+      "caption_region": [
+        600,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "017",
+      "id": "21",
+      "visual_id": "010(バッグ)",
+      "caption_id": "017",
+      "caption_region": [
+        650,
+        3
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

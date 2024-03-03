@@ -1,0 +1,240 @@
+{
+  "image_id": "059",
+  "bounding_boxes": [
+    {
+      "image_id": "059",
+      "id": "011(蓋ありお茶減ボトル)",
+      "bb": [
+        883,
+        347,
+        294,
+        259
+      ],
+      "class_name": "bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "059",
+      "id": "002(ロボット)",
+      "bb": [
+        361,
+        482,
+        1261,
+        601
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "059",
+      "id": "2965",
+      "bb": [
+        361,
+        518,
+        836,
+        555
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3105",
+      "bb": [
+        -17,
+        13,
+        1139,
+        981
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3110",
+      "bb": [
+        1186,
+        423,
+        222,
+        206
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3112",
+      "bb": [
+        1318,
+        423,
+        85,
+        75
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3123",
+      "bb": [
+        968,
+        265,
+        98,
+        92
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3127",
+      "bb": [
+        976,
+        266,
+        55,
+        56
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3128",
+      "bb": [
+        846,
+        172,
+        144,
+        211
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3132",
+      "bb": [
+        869,
+        172,
+        55,
+        47
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3135",
+      "bb": [
+        275,
+        191,
+        309,
+        76
+      ],
+      "class_name": "corkscrew",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3138",
+      "bb": [
+        986,
+        190,
+        128,
+        106
+      ],
+      "class_name": "tag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3139",
+      "bb": [
+        803,
+        946,
+        131,
+        132
+      ],
+      "class_name": "sunglasses",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3145",
+      "bb": [
+        374,
+        20,
+        108,
+        73
+      ],
+      "class_name": "tomato",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3146",
+      "bb": [
+        558,
+        184,
+        74,
+        30
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3147",
+      "bb": [
+        1228,
+        658,
+        366,
+        421
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3154",
+      "bb": [
+        1831,
+        683,
+        31,
+        69
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3156",
+      "bb": [
+        177,
+        428,
+        217,
+        84
+      ],
+      "class_name": "banana",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3160",
+      "bb": [
+        702,
+        4,
+        1210,
+        878
+      ],
+      "class_name": "oven",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "059",
+    "id": "059",
+    "text": "<<<今日>>>は<<<ゲーム0>>>が<<<したい>>>な。\r\n<<<ゲーム1>>>の<<<コントローラー>>>は<<<あります>>>が、<<<テレビ>>>の<<<リモコン>>>が<<<見つかりません>>>ね。\r\n<<<うん0>>>\r\n<<<あー>>><<<それ>>>は<<<ダイニング>>>に<<<あった>>>と<<<思う>>>。\r\n<<<分かりました0>>>。\r\n<<<うん1>>>\r\n<<<これ>>>ですね。\r\n<<<どうぞ>>>。\r\n<<<ありがとう0>>>。<<<と>>><<<喉>>>も<<<乾いた>>>から、<<<お茶0>>><<<入れてきてくれる>>>？\r\n<<<はい0>>>\r\n<<<はい1>>>、<<<お茶1>>>です。\r\n<<<ありがとう1>>>。<<<あ0>>><<<ここ>>>に<<<座って>>><<<一緒に>>><<<ゲーム2>>><<<見てて>>>。\r\n<<<分かりました1>>>。\r\n<<<あ1>>><<<もう0>>><<<飲み終わった>>>から、<<<カップ>>>、<<<もう1>>><<<台所>>>に<<<置いておいてくれる>>>？\r\n<<<はい2>>>"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

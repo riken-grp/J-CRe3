@@ -1,0 +1,229 @@
+{
+  "image_id": "036",
+  "bounding_boxes": [
+    {
+      "image_id": "036",
+      "id": "13",
+      "bb": [
+        1112,
+        818,
+        51,
+        23
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "036",
+      "id": "2",
+      "bb": [
+        466,
+        730,
+        1074,
+        350
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "036",
+      "id": "7",
+      "bb": [
+        0,
+        1,
+        162,
+        303
+      ],
+      "class_name": "gameboard",
+      "auto_flg": false
+    },
+    {
+      "image_id": "036",
+      "id": "11",
+      "bb": [
+        792,
+        728,
+        64,
+        82
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "036",
+      "id": "12",
+      "bb": [
+        953,
+        770,
+        115,
+        77
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "036",
+      "id": "10",
+      "bb": [
+        757,
+        941,
+        87,
+        35
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "036",
+      "id": "24(全体床)",
+      "bb": [
+        480,
+        0,
+        1439,
+        1080
+      ],
+      "class_name": "runner_(carpet)",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "036",
+    "id": "036",
+    "text": "<<<リビング>>>が<<<荒れてきた>>>わね。\r\n<<<掃除>>>を<<<しましょう>>>か？\r\n<<<そう>>>ね。<<<お願いしたい>>>わ。\r\n<<<まずは>>>、<<<ゴミ>>><<<捨て>>>を<<<お願い>>>。<<<ここ0>>>に<<<ある>>><<<ペットボトル>>>と<<<お菓子>>>の<<<箱>>>を<<<捨てて>>><<<ちょうだい0>>>。\r\n<<<わかりました0>>>。<<<では>>>、<<<捨てておきます>>>ね。\r\n<<<ありがとう0>>>。\r\n<<<それ0>>>が<<<終わったら0>>>、<<<パズル>>>の<<<ピース>>>が<<<落ちている>>>から、<<<それ1>>>を<<<集めて>>><<<ちょうだい1>>>。\r\n<<<わかりました1>>>。\r\n<<<こちら0>>><<<どこ>>>に<<<置きましょう>>>か？\r\n<<<この>>><<<土台>>>の<<<上>>>に<<<戻したい>>>から、<<<ここ1>>>まで<<<持ってきて>>><<<ちょうだい2>>>。\r\n<<<わかりました2>>>。<<<こちら1>>>に<<<置いておきます>>>ね。\r\n<<<ありがとう1>>>。\r\n<<<それ2>>>が<<<終わったら1>>>、<<<スマホ>>>と<<<リモコン>>>を<<<並べてほしいの>>>。\r\n<<<わかりました3>>>。\r\n<<<終わりました>>>。\r\n<<<ありがとう2>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "036",
+      "id": "000018",
+      "visual_id": "13",
+      "caption_id": "036",
+      "caption_region": [
+        278,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "036",
+      "id": "000019",
+      "visual_id": "13",
+      "caption_id": "036",
+      "caption_region": [
+        302,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "036",
+      "id": "000020",
+      "visual_id": "13",
+      "caption_id": "036",
+      "caption_region": [
+        352,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "036",
+      "id": "000021",
+      "visual_id": "11",
+      "caption_id": "036",
+      "caption_region": [
+        278,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "036",
+      "id": "000022",
+      "visual_id": "11",
+      "caption_id": "036",
+      "caption_region": [
+        302,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "036",
+      "id": "000023",
+      "visual_id": "11",
+      "caption_id": "036",
+      "caption_region": [
+        352,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "036",
+      "id": "000024",
+      "visual_id": "12",
+      "caption_id": "036",
+      "caption_region": [
+        278,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "036",
+      "id": "000025",
+      "visual_id": "12",
+      "caption_id": "036",
+      "caption_region": [
+        302,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "036",
+      "id": "000026",
+      "visual_id": "12",
+      "caption_id": "036",
+      "caption_region": [
+        352,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "036",
+      "id": "000027",
+      "visual_id": "10",
+      "caption_id": "036",
+      "caption_region": [
+        278,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "036",
+      "id": "000028",
+      "visual_id": "10",
+      "caption_id": "036",
+      "caption_region": [
+        302,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "036",
+      "id": "000029",
+      "visual_id": "10",
+      "caption_id": "036",
+      "caption_region": [
+        352,
+        4
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

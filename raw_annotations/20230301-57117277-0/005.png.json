@@ -1,0 +1,372 @@
+{
+  "image_id": "005",
+  "bounding_boxes": [
+    {
+      "image_id": "005",
+      "id": "244",
+      "bb": [
+        0,
+        0,
+        197,
+        42
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "241",
+      "bb": [
+        1833,
+        0,
+        86,
+        51
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "239",
+      "bb": [
+        339,
+        919,
+        89,
+        52
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "232",
+      "bb": [
+        825,
+        221,
+        55,
+        81
+      ],
+      "class_name": "speaker_(stero_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "215",
+      "bb": [
+        310,
+        467,
+        87,
+        43
+      ],
+      "class_name": "towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "002(ロボット)",
+      "bb": [
+        1035,
+        1056,
+        104,
+        23
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "190",
+      "bb": [
+        1765,
+        171,
+        152,
+        146
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "159",
+      "bb": [
+        230,
+        354,
+        112,
+        48
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "133",
+      "bb": [
+        1367,
+        444,
+        18,
+        32
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "114",
+      "bb": [
+        241,
+        329,
+        93,
+        41
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "92",
+      "bb": [
+        1821,
+        625,
+        97,
+        99
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "72",
+      "bb": [
+        1292,
+        376,
+        180,
+        699
+      ],
+      "class_name": "cabinet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "27",
+      "bb": [
+        1395,
+        849,
+        24,
+        72
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "26",
+      "bb": [
+        1427,
+        0,
+        492,
+        85
+      ],
+      "class_name": "fume_hood",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "21",
+      "bb": [
+        1498,
+        240,
+        15,
+        10
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "19",
+      "bb": [
+        471,
+        279,
+        49,
+        74
+      ],
+      "class_name": "thermostat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "18",
+      "bb": [
+        1388,
+        596,
+        18,
+        50
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "16",
+      "bb": [
+        1717,
+        540,
+        180,
+        99
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "14",
+      "bb": [
+        1413,
+        526,
+        21,
+        49
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "009(鍋)",
+      "bb": [
+        1475,
+        350,
+        163,
+        100
+      ],
+      "class_name": "pot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        393,
+        39,
+        486,
+        620
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "10",
+      "bb": [
+        893,
+        198,
+        120,
+        66
+      ],
+      "class_name": "mask",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "8",
+      "bb": [
+        912,
+        523,
+        179,
+        231
+      ],
+      "class_name": "skirt",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "010(フライパン)",
+      "bb": [
+        1376,
+        309,
+        210,
+        57
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "6",
+      "bb": [
+        842,
+        274,
+        254,
+        346
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "5",
+      "bb": [
+        1143,
+        477,
+        104,
+        90
+      ],
+      "class_name": "trash_can",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "4",
+      "bb": [
+        1014,
+        193,
+        87,
+        101
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "3",
+      "bb": [
+        1468,
+        239,
+        51,
+        86
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "2",
+      "bb": [
+        1499,
+        616,
+        416,
+        435
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "001(主人)",
+      "bb": [
+        843,
+        114,
+        258,
+        664
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "005",
+    "id": "005",
+    "text": "<<<今日>>>は<<<海苔巻き>>>の<<<太>>><<<巻き>>>を<<<作りたい>>>から、<<<お手伝い>>><<<お願い>>>。\r\n<<<了解0>>>です。\r\n<<<中身>>>は、<<<キュウリ0>>>と<<<えー>>><<<人参0>>>と<<<卵焼き>>>に<<<しよう>>>と<<<思うんだ>>>けど、<<<冷蔵>>><<<庫>>>に<<<ある>>>かな？\r\n<<<卵0>>>と<<<人参1>>>は<<<あります0>>>が、<<<キュウリ1>>>は<<<ないです>>>ね。\r\n<<<それじゃあ>>><<<緑>>>が<<<足りない>>>から、<<<代わり>>>に<<<ほうれん草0>>>の<<<お浸し>>>は<<<どう>>>かな。\r\n<<<良い>>>と<<<思います>>>。\r\n<<<ほうれん草1>>>は<<<昨日>>><<<買ったはずだ>>>けど、<<<まだ>>><<<あった>>>よね。\r\n<<<はい0>>><<<あります1>>>よ。\r\n<<<じゃあ>>>、<<<私>>>は<<<卵1>>>を<<<焼く>>>から、<<<ほうれん草2>>>を<<<茹でてもらえる>>>？\r\n<<<はい1>>><<<分かりました0>>>。<<<任せてください>>>。\r\n<<<ほうれん草3>>>は<<<長い>>>まま<<<茹でて>>>ね。\r\n<<<はい2>>>\u3000<<<了解1>>>です。\r\n<<<茹で上がって>>>も<<<切らなくて良い>>>からね。\r\n<<<はい3>>><<<分かりました1>>>。\r\n<<<それ>>>が<<<終わったら>>>、<<<人参2>>>も<<<切ってほしい>>>。\r\n<<<オッケー>>>です。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

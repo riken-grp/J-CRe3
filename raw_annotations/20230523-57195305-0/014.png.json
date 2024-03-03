@@ -1,0 +1,468 @@
+{
+  "image_id": "014",
+  "bounding_boxes": [
+    {
+      "image_id": "014",
+      "id": "2",
+      "bb": [
+        1,
+        245,
+        409,
+        377
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "3",
+      "bb": [
+        338,
+        274,
+        240,
+        191
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "sofa",
+      "bb": [
+        10,
+        274,
+        215,
+        139
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "6",
+      "bb": [
+        0,
+        258,
+        108,
+        154
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "8",
+      "bb": [
+        0,
+        341,
+        246,
+        138
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "23",
+      "bb": [
+        387,
+        441,
+        103,
+        85
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "001(主人)",
+      "bb": [
+        14,
+        1005,
+        149,
+        75
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "014",
+      "id": "695",
+      "bb": [
+        324,
+        356,
+        85,
+        60
+      ],
+      "class_name": "mitten",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "002(ロボット)",
+      "bb": [
+        884,
+        835,
+        752,
+        253
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "014",
+      "id": "939",
+      "bb": [
+        582,
+        21,
+        134,
+        83
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1069",
+      "bb": [
+        527,
+        53,
+        71,
+        85
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1094",
+      "bb": [
+        700,
+        5,
+        106,
+        77
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "005(電気ケトル)",
+      "bb": [
+        1198,
+        69,
+        109,
+        97
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "014",
+      "id": "1114",
+      "bb": [
+        4,
+        207,
+        68,
+        43
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1132",
+      "bb": [
+        1224,
+        18,
+        158,
+        62
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1133",
+      "bb": [
+        1144,
+        53,
+        776,
+        402
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1134",
+      "bb": [
+        76,
+        182,
+        40,
+        25
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1136",
+      "bb": [
+        1290,
+        76,
+        175,
+        54
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1139",
+      "bb": [
+        1328,
+        153,
+        298,
+        88
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1178",
+      "bb": [
+        1457,
+        22,
+        58,
+        73
+      ],
+      "class_name": "saltshaker",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1180",
+      "bb": [
+        0,
+        0,
+        276,
+        244
+      ],
+      "class_name": "curtain",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1181",
+      "bb": [
+        59,
+        227,
+        203,
+        118
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1182",
+      "bb": [
+        1584,
+        96,
+        49,
+        48
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1183",
+      "bb": [
+        1586,
+        145,
+        124,
+        62
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1186",
+      "bb": [
+        39,
+        197,
+        49,
+        36
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1205",
+      "bb": [
+        1691,
+        147,
+        227,
+        66
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1206",
+      "bb": [
+        1544,
+        35,
+        137,
+        110
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1209",
+      "bb": [
+        1492,
+        59,
+        113,
+        60
+      ],
+      "class_name": "handbag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1211",
+      "bb": [
+        236,
+        219,
+        59,
+        44
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1215",
+      "bb": [
+        1630,
+        89,
+        161,
+        42
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1218",
+      "bb": [
+        1380,
+        216,
+        355,
+        253
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1221",
+      "bb": [
+        0,
+        113,
+        48,
+        59
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1224",
+      "bb": [
+        1616,
+        219,
+        303,
+        225
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "004(机)",
+      "bb": [
+        227,
+        189,
+        306,
+        153
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "014",
+      "id": "1249",
+      "bb": [
+        60,
+        185,
+        49,
+        32
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1254",
+      "bb": [
+        578,
+        8,
+        77,
+        47
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1257",
+      "bb": [
+        0,
+        409,
+        59,
+        73
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1258",
+      "bb": [
+        1542,
+        35,
+        137,
+        70
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "014",
+    "id": "014",
+    "text": "<<<うーん>>><<<あったかい>>><<<コーヒー0>>>を<<<飲みたい>>><<<気分>>>だな。\r\n<<<コーヒー1>>>を<<<お入れしましょう>>>か？\r\n<<<うん0>>><<<お願いできる>>>かな。\r\n<<<お湯0>>>を<<<沸かす>>><<<の>>>は<<<どう>>><<<すれば>>><<<良いです>>>か？\r\n<<<あの>>><<<電気>>><<<ケトル>>>を<<<使って0>>><<<沸かしてもらえる>>>かな。\r\n<<<かしこまりました0>>>。\r\n<<<うん1>>><<<熱湯>>>が<<<苦手だ>>>から、<<<八十度>>>位で<<<入れてもらえる>>>と<<<助かる>>>よ。\r\n<<<かしこまりました1>>>。<<<コーヒー2>>>は<<<どこ>>>に<<<あります>>>か？\r\n<<<あ0>>><<<ちょっと>>>、<<<待って>>>ね。\r\n<<<インスタント>>><<<コーヒー3>>>を<<<出す>>>から。<<<えー>>>と<<<これ0>>>。<<<これ1>>>を<<<使って1>>>。\r\n<<<はーい>>>\r\n<<<袋>>>を<<<切って>>><<<お湯1>>>を<<<注いで>>>、<<<マグカップ>>>に<<<入れたら>>>、<<<終わり>>>ですね。\r\n<<<うん2>>>\r\n<<<うん3>>><<<あっち>>>の<<<机>>>の<<<上>>>に<<<置いといて>>>ね。\r\n<<<はい0>>><<<かしこまりました2>>>。\r\n<<<ブラック>>>で<<<大丈夫です>>>か？\r\n<<<うん4>>><<<大丈夫>>>。<<<ありがとう0>>>。\r\n<<<コーヒー4>>><<<お入れしました>>>。\r\n<<<あ1>>><<<ありがとう1>>>。\r\n<<<よし>>>、<<<いただきます>>>。\r\n<<<うん5>>><<<ちょうど>>><<<いい>>><<<濃さ>>>と<<<温度>>>だね。<<<また>>>、<<<お願いする>>>ね。\r\n<<<はい1>>>"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

@@ -1,0 +1,610 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        1124,
+        336,
+        232,
+        324
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "bb": [
+        707,
+        283,
+        138,
+        101
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        1058,
+        394,
+        95,
+        112
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        1617,
+        401,
+        112,
+        40
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        931,
+        450,
+        29,
+        56
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "009(机)",
+      "bb": [
+        734,
+        412,
+        649,
+        560
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        1053,
+        624,
+        136,
+        143
+      ],
+      "class_name": "coffeepot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "bb": [
+        660,
+        556,
+        189,
+        376
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "bb": [
+        1182,
+        662,
+        112,
+        77
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "bb": [
+        912,
+        390,
+        82,
+        73
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "12",
+      "bb": [
+        1287,
+        446,
+        190,
+        316
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "bb": [
+        17,
+        641,
+        255,
+        137
+      ],
+      "class_name": "chopping_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "14",
+      "bb": [
+        1123,
+        429,
+        220,
+        218
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "15",
+      "bb": [
+        194,
+        472,
+        114,
+        115
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "008(布巾)",
+      "bb": [
+        0,
+        772,
+        136,
+        50
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "003(お菓子の箱)",
+      "bb": [
+        929,
+        605,
+        44,
+        86
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "007(缶b)",
+      "bb": [
+        971,
+        722,
+        38,
+        62
+      ],
+      "class_name": "can",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "005(ウェットティッシュ)",
+      "bb": [
+        904,
+        504,
+        54,
+        92
+      ],
+      "class_name": "bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "20",
+      "bb": [
+        474,
+        261,
+        215,
+        138
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "21",
+      "bb": [
+        1172,
+        295,
+        43,
+        27
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "22",
+      "bb": [
+        166,
+        441,
+        15,
+        13
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "23",
+      "bb": [
+        277,
+        448,
+        32,
+        43
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "24",
+      "bb": [
+        440,
+        351,
+        37,
+        34
+      ],
+      "class_name": "speaker_(stero_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "25",
+      "bb": [
+        128,
+        206,
+        259,
+        291
+      ],
+      "class_name": "mirror",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "26",
+      "bb": [
+        53,
+        592,
+        73,
+        79
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "27",
+      "bb": [
+        832,
+        415,
+        13,
+        22
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "28",
+      "bb": [
+        1144,
+        661,
+        44,
+        79
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "29",
+      "bb": [
+        774,
+        449,
+        242,
+        86
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "30",
+      "bb": [
+        308,
+        364,
+        29,
+        27
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "006(缶a)",
+      "bb": [
+        904,
+        707,
+        42,
+        82
+      ],
+      "class_name": "can",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "32",
+      "bb": [
+        292,
+        446,
+        27,
+        41
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "33",
+      "bb": [
+        905,
+        503,
+        51,
+        35
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "34",
+      "bb": [
+        1514,
+        545,
+        83,
+        49
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "35",
+      "bb": [
+        0,
+        609,
+        31,
+        26
+      ],
+      "class_name": "tomato",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "36",
+      "bb": [
+        61,
+        225,
+        11,
+        22
+      ],
+      "class_name": "hook",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "38",
+      "bb": [
+        311,
+        444,
+        23,
+        35
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<ようし>>>、<<<お客さん0>>>が<<<来る>>><<<前0>>>に、<<<ここ>>>を<<<片付けよう>>>と。<<<ゴミ0>>>を<<<捨ててくれる>>>？\r\n<<<分かりました0>>>。\r\n<<<この>>><<<お菓子>>>の<<<箱>>>は<<<捨ててもいいです0>>>か？\r\n<<<あ>>><<<それ0>>>は<<<ちょっと>>><<<残ってる0>>>から、<<<戸棚0>>>に<<<しまっておいて>>>。\r\n<<<分かりました1>>>。<<<他0>>>の<<<物0>>>は<<<捨ててもいいです1>>>か？\r\n<<<うん0>>><<<他1>>>のは<<<大丈夫>>>。\r\n<<<はい0>>>\r\n<<<では>>>、<<<ゴミ1>>>を<<<捨てます>>>ね。\r\n<<<うん1>>><<<ありがとう0>>>。<<<私0>>>は<<<物1>>>を<<<整理する>>>から、<<<えっ>>>と<<<ゴミ2>>>が<<<終わったら>>>、<<<机0>>>を<<<拭いておいてくれる>>>？\r\n<<<はい1>>>\r\n<<<水0>>><<<拭き>>>で<<<いいです0>>>か？\r\n<<<そう0>>>だねー<<<水1>>><<<拭きした>>><<<後0>>>に、<<<アルコール0>>>で<<<拭いて欲しい>>>かな。\r\n<<<はい2>>><<<アルコール1>>>は<<<ウェット0>>><<<ティッシュ0>>>で<<<いいです1>>>か？\r\n<<<うん2>>><<<ウェット1>>><<<ティッシュ1>>>でも、<<<それ1>>>でも<<<大丈夫だ>>>よ。\r\n<<<分かりました2>>>。<<<水2>>><<<拭きして>>>から、<<<ウェット2>>><<<ティッシュ2>>>で<<<机1>>>を<<<拭きます>>>ね。\r\n<<<うん3>>><<<ありがとう1>>>。<<<そう1>>>だ。<<<前1>>>にさ、<<<買ってきた>>><<<緑茶0>>>って<<<まだ>>><<<残ってる1>>>かな？\r\n<<<戸棚1>>>に<<<半分>>><<<残っていました>>>。\r\n<<<じゃあ>>>、<<<お客さん1>>>に<<<出したい>>>から、<<<お湯0>>>を<<<沸かしておいて>>>。\r\n<<<分かりました3>>>。<<<机2>>>を<<<拭いた>>><<<後1>>>に、<<<お湯1>>>を<<<沸かしておきます>>>ね。\r\n<<<うん4>>><<<あり>>>がと。<<<私1>>>は<<<緑茶1>>>を<<<用意してくる>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        52,
+        5
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "visual_id": "003(お菓子の箱)",
+      "caption_id": "001",
+      "caption_region": [
+        124,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "visual_id": "006(缶a)",
+      "caption_id": "001",
+      "caption_region": [
+        65,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "visual_id": "007(缶b)",
+      "caption_id": "001",
+      "caption_region": [
+        65,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "visual_id": "006(缶a)",
+      "caption_id": "001",
+      "caption_region": [
+        320,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "visual_id": "007(缶b)",
+      "caption_id": "001",
+      "caption_region": [
+        320,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "visual_id": "006(缶a)",
+      "caption_id": "001",
+      "caption_region": [
+        241,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "visual_id": "007(缶b)",
+      "caption_id": "001",
+      "caption_region": [
+        241,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "visual_id": "005(ウェットティッシュ)",
+      "caption_id": "001",
+      "caption_region": [
+        601,
+        6
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "visual_id": "005(ウェットティッシュ)",
+      "caption_id": "001",
+      "caption_region": [
+        649,
+        6
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "12",
+      "visual_id": "005(ウェットティッシュ)",
+      "caption_id": "001",
+      "caption_region": [
+        735,
+        6
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "visual_id": "008(布巾)",
+      "caption_id": "001",
+      "caption_region": [
+        437,
+        9
+      ],
+      "relation_name": "デ≒格"
+    },
+    {
+      "image_id": "001",
+      "id": "15",
+      "visual_id": "009(机)",
+      "caption_id": "001",
+      "caption_region": [
+        428,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "16",
+      "visual_id": "009(机)",
+      "caption_id": "001",
+      "caption_region": [
+        748,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "17",
+      "visual_id": "009(机)",
+      "caption_id": "001",
+      "caption_region": [
+        970,
+        2
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

@@ -1,0 +1,958 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "65",
+      "bb": [
+        409,
+        953,
+        67,
+        35
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "012(パズルピース)",
+      "bb": [
+        588,
+        798,
+        53,
+        43
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "63",
+      "bb": [
+        1353,
+        95,
+        78,
+        112
+      ],
+      "class_name": "poster",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "62",
+      "bb": [
+        612,
+        799,
+        19,
+        20
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "61",
+      "bb": [
+        1713,
+        290,
+        13,
+        17
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "60",
+      "bb": [
+        8,
+        484,
+        29,
+        58
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "59",
+      "bb": [
+        373,
+        886,
+        17,
+        28
+      ],
+      "class_name": "apple",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "58",
+      "bb": [
+        270,
+        547,
+        7,
+        9
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "57",
+      "bb": [
+        529,
+        421,
+        43,
+        85
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "56",
+      "bb": [
+        0,
+        770,
+        201,
+        308
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "55",
+      "bb": [
+        270,
+        551,
+        6,
+        7
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "54",
+      "bb": [
+        1436,
+        873,
+        53,
+        33
+      ],
+      "class_name": "tag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "53",
+      "bb": [
+        53,
+        299,
+        41,
+        70
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "52",
+      "bb": [
+        0,
+        303,
+        25,
+        95
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "032(6)",
+      "bb": [
+        430,
+        803,
+        21,
+        14
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "50",
+      "bb": [
+        501,
+        167,
+        36,
+        84
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "49",
+      "bb": [
+        267,
+        759,
+        77,
+        93
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "48",
+      "bb": [
+        1337,
+        665,
+        47,
+        52
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "47",
+      "bb": [
+        387,
+        326,
+        47,
+        88
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "46",
+      "bb": [
+        14,
+        475,
+        40,
+        62
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "45",
+      "bb": [
+        462,
+        441,
+        45,
+        87
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "003(コントローラー)",
+      "bb": [
+        340,
+        537,
+        39,
+        33
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "43",
+      "bb": [
+        0,
+        524,
+        109,
+        159
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "42",
+      "bb": [
+        354,
+        333,
+        42,
+        84
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "036(＋)",
+      "bb": [
+        382,
+        771,
+        19,
+        16
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "40",
+      "bb": [
+        37,
+        448,
+        46,
+        79
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "39",
+      "bb": [
+        416,
+        54,
+        21,
+        67
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "38",
+      "bb": [
+        54,
+        448,
+        38,
+        66
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "37",
+      "bb": [
+        0,
+        628,
+        289,
+        193
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "36",
+      "bb": [
+        0,
+        671,
+        57,
+        88
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "35",
+      "bb": [
+        501,
+        33,
+        25,
+        77
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "34",
+      "bb": [
+        502,
+        429,
+        41,
+        86
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "33",
+      "bb": [
+        1524,
+        695,
+        35,
+        36
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "014(ソファ)",
+      "bb": [
+        0,
+        433,
+        657,
+        646
+      ],
+      "class_name": "ottoman",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "31",
+      "bb": [
+        1123,
+        410,
+        22,
+        64
+      ],
+      "class_name": "figurine",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "043(全体床)",
+      "bb": [
+        147,
+        431,
+        1765,
+        648
+      ],
+      "class_name": "runner_(carpet)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "29",
+      "bb": [
+        368,
+        330,
+        40,
+        82
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "28",
+      "bb": [
+        1264,
+        685,
+        37,
+        31
+      ],
+      "class_name": "matchbox",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "27",
+      "bb": [
+        67,
+        269,
+        47,
+        97
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "033(5)",
+      "bb": [
+        436,
+        815,
+        23,
+        16
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "25",
+      "bb": [
+        458,
+        308,
+        42,
+        94
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "24",
+      "bb": [
+        479,
+        302,
+        43,
+        94
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "23",
+      "bb": [
+        541,
+        417,
+        48,
+        86
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "22",
+      "bb": [
+        481,
+        35,
+        24,
+        77
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "21",
+      "bb": [
+        480,
+        436,
+        41,
+        86
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "20",
+      "bb": [
+        880,
+        154,
+        335,
+        293
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "013(テーブル)",
+      "bb": [
+        273,
+        701,
+        428,
+        379
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "18",
+      "bb": [
+        516,
+        423,
+        42,
+        87
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "17",
+      "bb": [
+        512,
+        295,
+        47,
+        95
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "16",
+      "bb": [
+        433,
+        314,
+        40,
+        95
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "15",
+      "bb": [
+        531,
+        0,
+        350,
+        494
+      ],
+      "class_name": "curtain",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "14",
+      "bb": [
+        412,
+        319,
+        47,
+        96
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "bb": [
+        119,
+        442,
+        38,
+        58
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "12",
+      "bb": [
+        432,
+        37,
+        33,
+        83
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "bb": [
+        1119,
+        614,
+        137,
+        88
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "bb": [
+        294,
+        819,
+        105,
+        50
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "bb": [
+        457,
+        36,
+        29,
+        78
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        2,
+        302,
+        43,
+        92
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        1685,
+        308,
+        50,
+        55
+      ],
+      "class_name": "clock",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "bb": [
+        1375,
+        590,
+        120,
+        85
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        80,
+        429,
+        54,
+        80
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "011(数字パズル00)",
+      "bb": [
+        373,
+        735,
+        138,
+        116
+      ],
+      "class_name": "gameboard",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        306,
+        843,
+        180,
+        137
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        168,
+        379,
+        309,
+        385
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "006(引出し)",
+      "bb": [
+        1070,
+        473,
+        98,
+        102
+      ],
+      "class_name": "drawer",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<やった>>>、<<<もう>>><<<すぐ>>><<<ゴール>>>だ。<<<ベスト>>><<<更新できる>>>かも。<<<あれー>>>？<<<コントローラー>>>が<<<動いていない>>><<<気>>>が<<<する>>>なあ。\r\n<<<ちょっと0>>><<<見せてもらってもいいです>>>か？\r\n<<<うん0>>>\r\n<<<これ0>>>、<<<ここ>>>が<<<ついてないので>>>、<<<電池0>>><<<切れかもしれないです>>>ね。\r\n<<<あーそっか>>>、<<<タイミング>>>が<<<悪い>>>なあ。<<<乾電池0>>>の<<<予備>>>って<<<あったりする>>>かな？\r\n<<<あ0>>><<<確か>>><<<あそこ>>>の<<<引き出し>>>に<<<入っていたはずなので>>><<<持ってきます>>>ね。\r\n<<<お願い0>>>。\r\n<<<乾電池1>>>の<<<サイズ>>>って<<<何0>>>か<<<教えてもらってもいいです>>>か？\r\n<<<うん1>>><<<ちょっと1>>><<<待って>>>ね。\r\n<<<単四0>>><<<電池1>>>が<<<三つ0>>><<<必要だ>>>ね。\r\n<<<単四1>>><<<電池2>>>が<<<三つ1>>>ですね。<<<わかりました>>>。\r\n<<<で>>>、<<<入れ替えましょう>>>か？\r\n<<<うん2>>><<<お願い1>>>。<<<こうゆう>>><<<細かい>>><<<作業>>>は<<<苦手なの>>>よね。\r\n<<<いや>>><<<大丈夫です>>>よ。\r\n<<<これ1>>>、<<<電池3>>>を<<<入れ替えて>>>も<<<つかないです>>>ね。\r\n<<<あれ0>>>、<<<本当だ0>>>。\r\n<<<電池4>>>の<<<向き>>>を<<<間違えたんじゃないの>>>？\r\n<<<ちょっと2>>>、<<<開けて>>><<<見てみます>>>ね。\r\n<<<いやー>>><<<間違ってないです>>>よ。\r\n<<<うーん0>>><<<そう0>>>か、<<<何1>>>が<<<原因>>>か<<<分からない>>>けど、<<<故障したの>>>かもね。<<<どうしよう>>>。\r\n<<<うーん1>>><<<こちら>>>は<<<後>>>で<<<修理>>>に<<<出しておきます>>>ね。\r\n<<<ん>>>\r\n\r\n\r\n<<<この>>><<<数字>>><<<パズル0>>><<<面白そうです>>>ね。<<<代わり>>>に<<<一緒に>>><<<やってみません>>>か？\r\n<<<それ0>>>は<<<いい>>><<<アイディア>>>だね。\r\n<<<さっき>>>、<<<パズル1>>>を<<<床>>>に<<<散らかしちゃった>>>から、<<<それ1>>>を<<<拾ってもらえない>>>かしら？\r\n<<<もちろん>>>です。\r\n<<<カラフルです>>>ね。<<<割り算>>>とかも<<<あるんです>>>ね？\r\n\r\n<<<そう1>>>だね。\r\n<<<これ2>>>は<<<数式>>>を<<<作って>>>、<<<答え0>>>を<<<計算する>>><<<ゲームなんだ>>>よ。\r\n\r\n<<<まずは>>><<<私>>>から<<<やる>>>わね。\r\n<<<はい>>>\r\n<<<えーっと>>><<<五>>><<<たす>>><<<六>>>は<<<十一0>>>です。\r\n<<<あれ1>>>、<<<一>>>が<<<一つ>>><<<足りないです>>>ね。\r\n<<<あれ2>>>、<<<本当だ1>>>ね。\r\n<<<テーブル>>>や<<<ソファー>>>の<<<下>>>に<<<ない>>>かな。\r\n<<<探してみます>>>ね。\r\n<<<あっ>>><<<ありました>>>。\r\n<<<あ1>>><<<やっぱり>>>。<<<見つかって>>><<<よかった>>>わ。\r\n<<<と>>><<<答え1>>>は<<<十一1>>>です。\r\n<<<うん3>>><<<答え2>>>は<<<十一2>>>で<<<正解>>>よ。<<<流石>>>だね。\r\n<<<えっ>>><<<そうです>>>か。<<<パズル2>>><<<ゲーム>>>なら<<<いつでも>>><<<一緒にできますので>>><<<言って下さい>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        29,
+        3
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "visual_id": "003(コントローラー)",
+      "caption_id": "001",
+      "caption_region": [
+        73,
+        7
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "visual_id": "013(テーブル)",
+      "caption_id": "001",
+      "caption_region": [
+        1467,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "visual_id": "014(ソファ)",
+      "caption_id": "001",
+      "caption_region": [
+        1478,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "visual_id": "006(引出し)",
+      "caption_id": "001",
+      "caption_region": [
+        325,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "visual_id": "011(数字パズル00)",
+      "caption_id": "001",
+      "caption_region": [
+        1004,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "visual_id": "012(パズルピース)",
+      "caption_id": "001",
+      "caption_region": [
+        1108,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "visual_id": "043(全体床)",
+      "caption_id": "001",
+      "caption_region": [
+        1119,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "visual_id": "012(パズルピース)",
+      "caption_id": "001",
+      "caption_region": [
+        1144,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        1322,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "visual_id": "033(5)",
+      "caption_id": "001",
+      "caption_region": [
+        1364,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "12",
+      "visual_id": "036(＋)",
+      "caption_id": "001",
+      "caption_region": [
+        1371,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "visual_id": "032(6)",
+      "caption_id": "001",
+      "caption_region": [
+        1379,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "14",
+      "visual_id": "003(コントローラー)",
+      "caption_id": "001",
+      "caption_region": [
+        931,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "70",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        49,
+        5
+      ],
+      "relation_name": "ガ格"
+    }
+  ]
+}

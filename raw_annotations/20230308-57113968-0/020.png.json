@@ -1,0 +1,288 @@
+{
+  "image_id": "020",
+  "bounding_boxes": [
+    {
+      "image_id": "020",
+      "id": "1999",
+      "bb": [
+        517,
+        229,
+        188,
+        74
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1998",
+      "bb": [
+        611,
+        468,
+        55,
+        60
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1982",
+      "bb": [
+        6,
+        210,
+        120,
+        80
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1980",
+      "bb": [
+        23,
+        562,
+        154,
+        159
+      ],
+      "class_name": "saucepan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1973",
+      "bb": [
+        158,
+        163,
+        97,
+        64
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1970",
+      "bb": [
+        1390,
+        871,
+        210,
+        212
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1961",
+      "bb": [
+        680,
+        289,
+        116,
+        112
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1924",
+      "bb": [
+        142,
+        399,
+        218,
+        180
+      ],
+      "class_name": "pot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1910",
+      "bb": [
+        309,
+        227,
+        143,
+        91
+      ],
+      "class_name": "paper_plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1895",
+      "bb": [
+        581,
+        11,
+        105,
+        58
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1880",
+      "bb": [
+        375,
+        710,
+        66,
+        70
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1875",
+      "bb": [
+        720,
+        -1,
+        106,
+        60
+      ],
+      "class_name": "mask",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1871",
+      "bb": [
+        898,
+        -3,
+        51,
+        38
+      ],
+      "class_name": "pillow",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1851",
+      "bb": [
+        222,
+        320,
+        602,
+        626
+      ],
+      "class_name": "cabinet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1848",
+      "bb": [
+        1529,
+        393,
+        95,
+        84
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "002(ロボット)",
+      "bb": [
+        695,
+        895,
+        819,
+        184
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "020",
+      "id": "1777",
+      "bb": [
+        964,
+        -5,
+        94,
+        50
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1756",
+      "bb": [
+        564,
+        402,
+        63,
+        63
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1753",
+      "bb": [
+        1020,
+        9,
+        155,
+        84
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "1743",
+      "bb": [
+        1222,
+        7,
+        99,
+        75
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    },
+    {
+      "image_id": "020",
+      "id": "001(主人)",
+      "bb": [
+        585,
+        1,
+        410,
+        582
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "020",
+      "id": "007(包丁)",
+      "bb": [
+        467,
+        322,
+        128,
+        102
+      ],
+      "class_name": "knife",
+      "auto_flg": false
+    },
+    {
+      "image_id": "020",
+      "id": "008(冷蔵庫)",
+      "bb": [
+        1287,
+        808,
+        632,
+        271
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "020",
+    "id": "020",
+    "text": "<<<今>>>から<<<麻婆>>><<<豆腐0>>>を<<<作る>>>けど、<<<材料>>><<<ある0>>>かな？\r\n<<<ちょっと0>>><<<見てきます>>>ね。\r\n<<<豆腐1>>>と<<<ピーマン0>>>、<<<ひき肉>>>も<<<あります0>>>。\r\n<<<唐辛子0>>>も<<<ある1>>>？\r\n<<<赤>>><<<唐辛子1>>>が<<<あります1>>>ね。\r\n<<<じゃあ0>>>、<<<とりあえず>>><<<ひき肉以外>>>を<<<持ってきて>>>。\r\n<<<分かりました>>>。\r\n<<<どうぞ>>>。\r\n<<<ありがとう>>>。<<<じゃあ1>>>、<<<私>>>は<<<豆腐2>>>を<<<切る>>>から、<<<あなた>>>は<<<ピーマン1>>>を<<<切って>>><<<ちょうだい>>>。\r\n<<<うん>>>\r\n<<<はい>>><<<了解しました>>>。<<<豆腐3>>>を<<<切った>>><<<後>>>に<<<包丁>>>を<<<お借りしてもいいです>>>か？\r\n<<<あ>>><<<そうだ>>>ね<<<ちょっと1>>><<<待ってて>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

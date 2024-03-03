@@ -1,0 +1,240 @@
+{
+  "image_id": "009",
+  "bounding_boxes": [
+    {
+      "image_id": "009",
+      "id": "003(豆腐)",
+      "bb": [
+        855,
+        153,
+        149,
+        81
+      ],
+      "class_name": "bean_curd",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "1171",
+      "bb": [
+        1096,
+        102,
+        67,
+        62
+      ],
+      "class_name": "tomato",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1170",
+      "bb": [
+        1330,
+        445,
+        96,
+        84
+      ],
+      "class_name": "boiled_egg",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1167",
+      "bb": [
+        893,
+        576,
+        209,
+        203
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1164",
+      "bb": [
+        909,
+        724,
+        174,
+        129
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1162",
+      "bb": [
+        1167,
+        0,
+        84,
+        62
+      ],
+      "class_name": "tomato",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1161",
+      "bb": [
+        1245,
+        414,
+        93,
+        78
+      ],
+      "class_name": "boiled_egg",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1153",
+      "bb": [
+        1096,
+        23,
+        66,
+        37
+      ],
+      "class_name": "garlic",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1151",
+      "bb": [
+        1021,
+        94,
+        65,
+        59
+      ],
+      "class_name": "tomato",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1148",
+      "bb": [
+        1532,
+        962,
+        127,
+        93
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1143",
+      "bb": [
+        874,
+        365,
+        336,
+        203
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1142",
+      "bb": [
+        892,
+        42,
+        32,
+        32
+      ],
+      "class_name": "tomato",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1140",
+      "bb": [
+        1010,
+        3,
+        80,
+        52
+      ],
+      "class_name": "onion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1131",
+      "bb": [
+        1237,
+        467,
+        99,
+        100
+      ],
+      "class_name": "boiled_egg",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "1127",
+      "bb": [
+        1130,
+        552,
+        142,
+        242
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "008(冷蔵庫)",
+      "bb": [
+        608,
+        1,
+        1312,
+        921
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "1034",
+      "bb": [
+        268,
+        838,
+        36,
+        83
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "002(ロボット)",
+      "bb": [
+        754,
+        861,
+        818,
+        220
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "006(唐辛子)",
+      "bb": [
+        1266,
+        248,
+        33,
+        49
+      ],
+      "class_name": "chili_(vegetable)",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "009",
+    "id": "009",
+    "text": "<<<今>>>から<<<麻婆>>><<<豆腐0>>>を<<<作る>>>けど、<<<材料>>><<<ある0>>>かな？\r\n<<<ちょっと0>>><<<見てきます>>>ね。\r\n<<<豆腐1>>>と<<<ピーマン0>>>、<<<ひき肉>>>も<<<あります0>>>。\r\n<<<唐辛子0>>>も<<<ある1>>>？\r\n<<<赤>>><<<唐辛子1>>>が<<<あります1>>>ね。\r\n<<<じゃあ0>>>、<<<とりあえず>>><<<ひき肉以外>>>を<<<持ってきて>>>。\r\n<<<分かりました>>>。\r\n<<<どうぞ>>>。\r\n<<<ありがとう>>>。<<<じゃあ1>>>、<<<私>>>は<<<豆腐2>>>を<<<切る>>>から、<<<あなた>>>は<<<ピーマン1>>>を<<<切って>>><<<ちょうだい>>>。\r\n<<<うん>>>\r\n<<<はい>>><<<了解しました>>>。<<<豆腐3>>>を<<<切った>>><<<後>>>に<<<包丁>>>を<<<お借りしてもいいです>>>か？\r\n<<<あ>>><<<そうだ>>>ね<<<ちょっと1>>><<<待ってて>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

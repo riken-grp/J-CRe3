@@ -1,0 +1,228 @@
+{
+  "image_id": "011",
+  "bounding_boxes": [
+    {
+      "image_id": "011",
+      "id": "003(テーブル)",
+      "bb": [
+        -7,
+        654,
+        95,
+        184
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "939",
+      "bb": [
+        1695,
+        0,
+        98,
+        65
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "895",
+      "bb": [
+        1338,
+        7,
+        271,
+        106
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "894",
+      "bb": [
+        1213,
+        49,
+        569,
+        327
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "863",
+      "bb": [
+        646,
+        154,
+        139,
+        196
+      ],
+      "class_name": "backpack",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "842",
+      "bb": [
+        1499,
+        23,
+        451,
+        239
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "828",
+      "bb": [
+        1321,
+        369,
+        181,
+        152
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "007(こっち)",
+      "bb": [
+        586,
+        273,
+        349,
+        306
+      ],
+      "class_name": "region",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "824",
+      "bb": [
+        752,
+        3,
+        302,
+        194
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "752",
+      "bb": [
+        1202,
+        4,
+        134,
+        74
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "001(主人)",
+      "bb": [
+        857,
+        103,
+        551,
+        270
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "677",
+      "bb": [
+        1182,
+        98,
+        184,
+        130
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "002(ロボット)",
+      "bb": [
+        601,
+        774,
+        998,
+        310
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "555",
+      "bb": [
+        1088,
+        487,
+        53,
+        86
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "53",
+      "bb": [
+        1004,
+        0,
+        210,
+        123
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "47",
+      "bb": [
+        1032,
+        313,
+        596,
+        490
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "3",
+      "bb": [
+        726,
+        12,
+        1209,
+        464
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "005(テレビ)",
+      "bb": [
+        1807,
+        546,
+        138,
+        219
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "011",
+    "id": "011",
+    "text": "<<<テレビ>>>が<<<見たい0>>>から<<<つけて>>>よ。\r\n<<<はい0>>><<<分かりました>>>。\r\n<<<あれ>>>？\r\n<<<あー0>>><<<リモコン>>>は<<<テーブル>>>の<<<上>>>だったかな。\r\n<<<は>>><<<こっち>>>ですね。<<<はい1>>><<<見つけました>>>。<<<つけます>>>ね。\r\n<<<うん>>>\r\n<<<今0>>><<<どんな>>><<<の>>><<<やってる0>>>？\r\n<<<映画0>>>が<<<もう>>><<<すぐ>>><<<始まりそうです>>>よ。\r\n<<<あー1>>><<<映画1>>>か。<<<今1>>><<<その>>><<<気分じゃないんだ>>>よな。<<<何>>>か<<<アニメ0>>>は<<<やってる1>>>？\r\n<<<はい2>>><<<アニメ1>>>は<<<今2>>><<<始まった>>><<<ところ>>>ですね。<<<アクション>>><<<アニメ2>>>です。\r\n<<<いい>>>ね。<<<じゃあ>>>、<<<それ>>><<<見たい1>>>。\r\n<<<はい3>>><<<どうぞ>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

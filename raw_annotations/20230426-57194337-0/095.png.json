@@ -1,0 +1,288 @@
+{
+  "image_id": "095",
+  "bounding_boxes": [
+    {
+      "image_id": "095",
+      "id": "002(ロボット)",
+      "bb": [
+        531,
+        580,
+        1261,
+        502
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "095",
+      "id": "009(お皿)",
+      "bb": [
+        742,
+        444,
+        319,
+        306
+      ],
+      "class_name": "bowl",
+      "auto_flg": false
+    },
+    {
+      "image_id": "095",
+      "id": "person",
+      "bb": [
+        1031,
+        705,
+        477,
+        345
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "001(主人)",
+      "bb": [
+        -2,
+        -1,
+        757,
+        594
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "095",
+      "id": "5022",
+      "bb": [
+        836,
+        129,
+        632,
+        435
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "5029",
+      "bb": [
+        538,
+        642,
+        306,
+        432
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "006(冷蔵庫)",
+      "bb": [
+        -48,
+        712,
+        343,
+        311
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "095",
+      "id": "5055",
+      "bb": [
+        682,
+        854,
+        141,
+        124
+      ],
+      "class_name": "earphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "008(バナナ)",
+      "bb": [
+        711,
+        85,
+        52,
+        58
+      ],
+      "class_name": "banana",
+      "auto_flg": false
+    },
+    {
+      "image_id": "095",
+      "id": "007(リンゴ)",
+      "bb": [
+        748,
+        80,
+        55,
+        47
+      ],
+      "class_name": "apple",
+      "auto_flg": false
+    },
+    {
+      "image_id": "095",
+      "id": "5075",
+      "bb": [
+        897,
+        52,
+        102,
+        104
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "5078",
+      "bb": [
+        952,
+        274,
+        74,
+        56
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "5080",
+      "bb": [
+        601,
+        0,
+        171,
+        65
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "5082",
+      "bb": [
+        553,
+        117,
+        283,
+        144
+      ],
+      "class_name": "chopping_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "5086",
+      "bb": [
+        469,
+        0,
+        153,
+        43
+      ],
+      "class_name": "pot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "004(コーヒースティック)",
+      "bb": [
+        1575,
+        31,
+        44,
+        15
+      ],
+      "class_name": "packet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "095",
+      "id": "5100",
+      "bb": [
+        764,
+        96,
+        200,
+        128
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "010(棚)",
+      "bb": [
+        -15,
+        1040,
+        182,
+        62
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "095",
+      "id": "5107",
+      "bb": [
+        1619,
+        41,
+        100,
+        57
+      ],
+      "class_name": "mouse_(computer_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "005(ミルクポーション)",
+      "bb": [
+        1598,
+        27,
+        15,
+        11
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "095",
+      "id": "5120",
+      "bb": [
+        825,
+        1,
+        177,
+        66
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "5122",
+      "bb": [
+        1558,
+        0,
+        48,
+        30
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "095",
+      "id": "5123",
+      "bb": [
+        1071,
+        109,
+        125,
+        68
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "095",
+    "id": "095",
+    "text": "<<<おはよう>>>。<<<テレビ>>><<<つけてくれる>>>？\r\n<<<おはようございます>>>。<<<かしこまりました0>>>。\r\n<<<ありがとう0>>>。<<<コーヒー>>>が<<<飲みたいんだ>>>けど、<<<手伝ってくれる>>>かな？\r\n<<<分かりました0>>>。<<<ミルク>>>は<<<どう>>><<<します>>>か？\r\n<<<そう0>>>だねー<<<じゃあ0>>>、<<<持ってきてもらえる>>>？<<<お湯>>>は<<<こっち>>>で<<<準備する>>>から。\r\n<<<かしこまりました1>>>。\r\n<<<あと>>>、<<<フルーツ0>>>が<<<食べたいんだ>>>けど、<<<冷蔵>>><<<庫>>>に<<<何>>>か<<<ある>>>かな？\r\n<<<うん0>>>\r\n<<<そう1>>>ですね<<<見てきます>>>。\r\n<<<リンゴ0>>>と<<<バナナ0>>>が<<<あります>>>よ。\r\n<<<あ>>><<<じゃあ1>>>、<<<リンゴ1>>>は<<<私>>>が<<<切る>>>から、<<<バナナ1>>><<<むいてくれる>>>？\r\n<<<はい0>>><<<分かりました1>>>。\r\n<<<フルーツ1>>>を<<<入れる>>><<<お皿>>>も<<<持ってきます>>>ね。\r\n<<<うん1>>><<<ありがとう1>>>。\r\n<<<お>>><<<ありがとう2>>>。<<<気>>>が<<<利く>>>ね。\r\n<<<はい1>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

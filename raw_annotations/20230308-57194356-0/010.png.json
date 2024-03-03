@@ -1,0 +1,331 @@
+{
+  "image_id": "010",
+  "bounding_boxes": [
+    {
+      "image_id": "010",
+      "id": "647",
+      "bb": [
+        1408,
+        48,
+        71,
+        46
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "646",
+      "bb": [
+        1516,
+        2,
+        114,
+        51
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "641",
+      "bb": [
+        -9,
+        733,
+        331,
+        319
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "640",
+      "bb": [
+        1268,
+        60,
+        138,
+        118
+      ],
+      "class_name": "trousers",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "639",
+      "bb": [
+        1416,
+        3,
+        141,
+        38
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "635",
+      "bb": [
+        1363,
+        157,
+        65,
+        64
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "624",
+      "bb": [
+        985,
+        56,
+        233,
+        126
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "004(テーブル)",
+      "bb": [
+        -7,
+        140,
+        463,
+        291
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "003(リュック)",
+      "bb": [
+        125,
+        143,
+        188,
+        97
+      ],
+      "class_name": "backpack",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "575",
+      "bb": [
+        -22,
+        566,
+        479,
+        477
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "572",
+      "bb": [
+        205,
+        207,
+        111,
+        104
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "571",
+      "bb": [
+        1554,
+        11,
+        331,
+        108
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "002(ロボット)",
+      "bb": [
+        631,
+        771,
+        946,
+        314
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "535",
+      "bb": [
+        1139,
+        1,
+        134,
+        38
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "347",
+      "bb": [
+        1130,
+        9,
+        689,
+        219
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "11",
+      "bb": [
+        1296,
+        134,
+        370,
+        195
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "9",
+      "bb": [
+        1430,
+        36,
+        306,
+        136
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "001(主人)",
+      "bb": [
+        1245,
+        0,
+        217,
+        186
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "4",
+      "bb": [
+        1398,
+        211,
+        67,
+        35
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "3",
+      "bb": [
+        1489,
+        113,
+        99,
+        67
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "1",
+      "bb": [
+        1670,
+        218,
+        263,
+        207
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "010",
+    "id": "010",
+    "text": "<<<おはよう>>>。<<<今日0>>>は<<<いい0>>><<<天気0>>>だね。\r\n<<<おはようございます>>>。<<<いい1>>><<<天気1>>>ですね。<<<コーヒー>>>は<<<いかがです0>>>か？\r\n<<<じゃあ0>>>、<<<カフェオレ>>><<<お願い>>>。\r\n<<<分かりました0>>>。\r\n<<<あー>>><<<そう0>>><<<いえば>>>、<<<今日1>>>は<<<夕方>>>まで<<<出かけるんだ>>>けど、<<<天気2>>>は<<<もつ>>>かな？\r\n<<<はい0>>>\r\n<<<そう1>>>ですねー<<<確認しましょう>>>。\r\n<<<うん0>>><<<ありがとう>>>。<<<天気3>>>は<<<もつみたいだ>>>ね。<<<じゃあ1>>>、<<<自転車>>>で<<<行こう>>>かな。\r\n<<<そう2>>>ですね<<<では、>>><<<カバン>>>は<<<リュック0>>>が<<<いかがです1>>>か？\r\n<<<うん1>>><<<リュック1>>>が<<<いい2>>>ね。\r\n<<<はい1>>>\r\n<<<そっち>>>の<<<テーブル>>>に<<<置いてある>>>から、<<<持ってきてくれる>>>？\r\n<<<これ>>>ですね。<<<あと0>>>は<<<何>>>か<<<必要な>>><<<もの>>>は<<<あります>>>か？\r\n<<<うん2>>><<<あと1>>>は<<<自分>>>で<<<やる>>>から<<<大丈夫>>>。\r\n<<<分かりました1>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "010",
+      "id": "4",
+      "visual_id": "003(リュック)",
+      "caption_id": "010",
+      "caption_region": [
+        388,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "010",
+      "id": "5",
+      "visual_id": "003(リュック)",
+      "caption_id": "010",
+      "caption_region": [
+        398,
+        5
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "010",
+      "id": "6",
+      "visual_id": "003(リュック)",
+      "caption_id": "010",
+      "caption_region": [
+        435,
+        5
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "010",
+      "id": "7",
+      "visual_id": "003(リュック)",
+      "caption_id": "010",
+      "caption_region": [
+        492,
+        5
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "010",
+      "id": "9",
+      "visual_id": "003(リュック)",
+      "caption_id": "010",
+      "caption_region": [
+        506,
+        8
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "010",
+      "id": "10",
+      "visual_id": "003(リュック)",
+      "caption_id": "010",
+      "caption_region": [
+        523,
+        2
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

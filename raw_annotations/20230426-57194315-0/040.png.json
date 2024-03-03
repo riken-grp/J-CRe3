@@ -1,0 +1,636 @@
+{
+  "image_id": "040",
+  "bounding_boxes": [
+    {
+      "image_id": "040",
+      "id": "2049",
+      "bb": [
+        839,
+        746,
+        50,
+        49
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "009(蓋ありペット)",
+      "bb": [
+        810,
+        742,
+        152,
+        153
+      ],
+      "class_name": "bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "2165",
+      "bb": [
+        1013,
+        494,
+        515,
+        596
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2221",
+      "bb": [
+        90,
+        716,
+        332,
+        215
+      ],
+      "class_name": "pot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "004(小皿)",
+      "bb": [
+        1395,
+        687,
+        147,
+        118
+      ],
+      "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "2244",
+      "bb": [
+        0,
+        628,
+        196,
+        128
+      ],
+      "class_name": "grater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2275",
+      "bb": [
+        986,
+        769,
+        201,
+        187
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "018(シンク)",
+      "bb": [
+        1242,
+        472,
+        616,
+        424
+      ],
+      "class_name": "sink",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "tv",
+      "bb": [
+        1,
+        162,
+        318,
+        289
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2298",
+      "bb": [
+        714,
+        90,
+        152,
+        62
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2304",
+      "bb": [
+        1111,
+        334,
+        113,
+        152
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2310",
+      "bb": [
+        932,
+        126,
+        27,
+        45
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "001(主人)",
+      "bb": [
+        947,
+        0,
+        122,
+        120
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "005(コップ)",
+      "bb": [
+        1423,
+        690,
+        77,
+        76
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "2342",
+      "bb": [
+        977,
+        173,
+        231,
+        259
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2357",
+      "bb": [
+        910,
+        74,
+        74,
+        61
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "board",
+      "bb": [
+        1277,
+        366,
+        292,
+        168
+      ],
+      "class_name": "plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2380",
+      "bb": [
+        222,
+        171,
+        229,
+        134
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2382",
+      "bb": [
+        721,
+        134,
+        159,
+        55
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2392",
+      "bb": [
+        1167,
+        120,
+        82,
+        71
+      ],
+      "class_name": "pitcher_(vessel_for_liquid)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "014(布巾)",
+      "bb": [
+        1518,
+        385,
+        73,
+        42
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "010(お茶)",
+      "bb": [
+        1815,
+        631,
+        109,
+        141
+      ],
+      "class_name": "carton",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "2409",
+      "bb": [
+        0,
+        1006,
+        126,
+        35
+      ],
+      "class_name": "scissors",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2415",
+      "bb": [
+        596,
+        110,
+        680,
+        183
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "006(フォーク)",
+      "bb": [
+        1430,
+        711,
+        111,
+        77
+      ],
+      "class_name": "fork",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "2440",
+      "bb": [
+        481,
+        271,
+        47,
+        60
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "003(大皿)",
+      "bb": [
+        1382,
+        669,
+        177,
+        147
+      ],
+      "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "2452",
+      "bb": [
+        956,
+        116,
+        166,
+        45
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2458",
+      "bb": [
+        1647,
+        237,
+        249,
+        109
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2464",
+      "bb": [
+        835,
+        413,
+        71,
+        88
+      ],
+      "class_name": "pitcher_(vessel_for_liquid)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2483",
+      "bb": [
+        1627,
+        166,
+        288,
+        208
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2503",
+      "bb": [
+        1510,
+        0,
+        139,
+        119
+      ],
+      "class_name": "easel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2504",
+      "bb": [
+        1804,
+        165,
+        116,
+        79
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2519",
+      "bb": [
+        706,
+        197,
+        201,
+        75
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2530",
+      "bb": [
+        1782,
+        217,
+        110,
+        76
+      ],
+      "class_name": "handbag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2541",
+      "bb": [
+        1195,
+        3,
+        198,
+        112
+      ],
+      "class_name": "desk",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2548",
+      "bb": [
+        0,
+        161,
+        335,
+        290
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2552",
+      "bb": [
+        988,
+        159,
+        181,
+        63
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2554",
+      "bb": [
+        728,
+        198,
+        194,
+        262
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "013(テーブル)",
+      "bb": [
+        576,
+        113,
+        707,
+        353
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "2589",
+      "bb": [
+        802,
+        609,
+        72,
+        46
+      ],
+      "class_name": "tag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2611",
+      "bb": [
+        291,
+        212,
+        157,
+        95
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2623",
+      "bb": [
+        480,
+        273,
+        102,
+        109
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2625",
+      "bb": [
+        246,
+        648,
+        465,
+        80
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2630",
+      "bb": [
+        50,
+        386,
+        89,
+        66
+      ],
+      "class_name": "potholder",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "002(ロボット)",
+      "bb": [
+        682,
+        359,
+        837,
+        734
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "019(コーヒー)",
+      "bb": [
+        1225,
+        357,
+        90,
+        124
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "2680",
+      "bb": [
+        1283,
+        560,
+        91,
+        36
+      ],
+      "class_name": "scrubbing_brush",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2685",
+      "bb": [
+        644,
+        347,
+        58,
+        43
+      ],
+      "class_name": "mouse_(computer_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2686",
+      "bb": [
+        680,
+        849,
+        141,
+        154
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2689",
+      "bb": [
+        669,
+        978,
+        122,
+        101
+      ],
+      "class_name": "mitten",
+      "auto_flg": true
+    },
+    {
+      "image_id": "040",
+      "id": "2691",
+      "bb": [
+        520,
+        57,
+        65,
+        53
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "040",
+    "id": "040",
+    "text": "<<<ごちそうさま>>>でした。<<<さあ>>>、<<<朝食>>>を<<<食べ終わった>>>から、<<<食器>>>を<<<片付けてくれる>>>？\r\n<<<はい0>>><<<分かりました0>>>。\r\n<<<食後>>>に<<<何0>>>か<<<飲み物0>>><<<持ってきましょう>>>か？\r\n<<<うーん>>><<<そう0>>>だねー<<<飲み物1>>>って<<<何1>>>が<<<あった>>>っけ？\r\n<<<冷蔵>>><<<庫>>>の<<<中>>>には<<<コーラ>>>と<<<オレンジ0>>><<<ジュース0>>>、<<<お湯>>>が<<<沸いてるので>>><<<コーヒー>>>や<<<お茶>>>も<<<飲めます>>>よ。\r\n<<<そっか>>><<<なら、>>><<<オレンジ1>>><<<ジュース1>>><<<持ってきてもらおう>>>かな。\r\n<<<はい1>>><<<分かりました1>>>。<<<お待ち下さい>>>。\r\n<<<どうぞ>>>。<<<お持ちしました>>>。\r\n<<<うん0>>><<<ありがとう0>>>。<<<助かる>>>。\r\n<<<テーブル>>>の<<<上>>>には<<<汚れ>>>は<<<確認できません>>>でしたが、<<<一応>>><<<拭いておきましょう>>>か？\r\n<<<うん1>>><<<そう1>>>だね。<<<拭いておいてもらった>>><<<方>>>が<<<気持ち>>><<<いい>>>からね。\r\n<<<はい2>>>\r\n<<<分かりました2>>>。\r\n<<<あ>>><<<そうだ>>>。<<<今日>>>の<<<帰宅>>>は<<<八時>>>ぐらいに<<<なる>>>と<<<思う>>>から、<<<よろしく>>>ね。\r\n<<<はい3>>><<<では>>><<<七時半>>>に<<<なったら>>>、<<<冷房>>>と<<<部屋>>>の<<<電気>>>を<<<付けておきます>>>ね。\r\n<<<うん2>>><<<ありがとう1>>>。<<<いつも>>><<<悪い>>>ね。\r\n<<<どう>>><<<いたしまして>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

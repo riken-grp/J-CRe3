@@ -1,0 +1,512 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "37",
+      "bb": [
+        485,
+        522,
+        426,
+        444
+      ],
+      "class_name": "cabinet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "36",
+      "bb": [
+        1862,
+        472,
+        26,
+        35
+      ],
+      "class_name": "speaker_(stero_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "35",
+      "bb": [
+        1344,
+        191,
+        17,
+        91
+      ],
+      "class_name": "hinge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "34",
+      "bb": [
+        1724,
+        644,
+        127,
+        149
+      ],
+      "class_name": "vacuum_cleaner",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "006(ポテト)",
+      "bb": [
+        1250,
+        663,
+        38,
+        66
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "32",
+      "bb": [
+        1809,
+        369,
+        80,
+        306
+      ],
+      "class_name": "lamp",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "31",
+      "bb": [
+        1589,
+        458,
+        34,
+        28
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "30",
+      "bb": [
+        462,
+        127,
+        25,
+        137
+      ],
+      "class_name": "pipe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "29",
+      "bb": [
+        805,
+        471,
+        23,
+        41
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "014(電気ポット)",
+      "bb": [
+        1303,
+        486,
+        54,
+        69
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "27",
+      "bb": [
+        690,
+        581,
+        41,
+        32
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "26",
+      "bb": [
+        245,
+        691,
+        42,
+        29
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "005(コップ黄)",
+      "bb": [
+        1360,
+        666,
+        28,
+        32
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "24",
+      "bb": [
+        679,
+        370,
+        77,
+        84
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "23",
+      "bb": [
+        983,
+        440,
+        6,
+        3
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "22",
+      "bb": [
+        1134,
+        587,
+        56,
+        195
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "004(コップ白)",
+      "bb": [
+        1337,
+        653,
+        39,
+        49
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "007(コーヒー箱)",
+      "bb": [
+        1384,
+        659,
+        39,
+        29
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "19",
+      "bb": [
+        1583,
+        614,
+        119,
+        194
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "009(お皿２枚組)",
+      "bb": [
+        801,
+        518,
+        74,
+        32
+      ],
+      "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "17",
+      "bb": [
+        708,
+        356,
+        41,
+        37
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "16",
+      "bb": [
+        825,
+        438,
+        22,
+        77
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "15",
+      "bb": [
+        103,
+        735,
+        202,
+        142
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "008(カップ麺)",
+      "bb": [
+        747,
+        476,
+        27,
+        37
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "bb": [
+        1158,
+        504,
+        50,
+        105
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "12",
+      "bb": [
+        1005,
+        339,
+        163,
+        123
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "bb": [
+        307,
+        265,
+        234,
+        412
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "bb": [
+        1237,
+        728,
+        117,
+        60
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "bb": [
+        1165,
+        530,
+        478,
+        506
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        1311,
+        657,
+        40,
+        75
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        1006,
+        339,
+        162,
+        100
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "bb": [
+        525,
+        537,
+        264,
+        99
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        1147,
+        379,
+        109,
+        94
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        1519,
+        534,
+        88,
+        151
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        888,
+        342,
+        141,
+        424
+      ],
+      "class_name": "robe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "003(コップ青縁)",
+      "bb": [
+        1369,
+        646,
+        38,
+        32
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        885,
+        246,
+        147,
+        544
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<そろそろ>>><<<お茶>>>の<<<時間>>>に<<<しよう>>>かな。<<<用意>>>を<<<手伝ってくれる>>>かしら。\r\n<<<はい>>><<<何>>>を<<<すれば良いです>>>か。\r\n<<<まずは>>><<<お湯0>>>を<<<沸かして>>>、<<<インスタント>>><<<コーヒー>>>を<<<カップ0>>>に<<<注いで>>><<<ちょうだい0>>>。\r\n<<<わかりました0>>>。\r\n<<<何人分>>><<<用意すれば良いです>>>か。\r\n<<<三人>>><<<分>>>で<<<お願い>>>。\r\n<<<わかりました1>>>。\r\n<<<あと>>>、<<<それ>>>が<<<終わったら>>><<<この>>><<<お皿>>>に<<<ポテトチップス>>>を<<<並べてほしいの>>>。\r\n<<<わかりました2>>>。\r\n<<<終わりました0>>>。\r\n<<<ありがとう0>>>。\r\n<<<息子>>>は<<<カップ1>>><<<ラーメン>>>を<<<食べたいみたいなの>>>。<<<持ってきてくれる>>>かしら。\r\n<<<わかりました3>>>。\r\n<<<さっき>>><<<沸かした>>><<<お湯1>>>が<<<使えます>>>ね。\r\n<<<そう>>>ね。\r\n<<<終わりました1>>>。\r\n<<<ありがとう1>>>。\r\n<<<あそうだ>>>わ。<<<食べる>>><<<ため>>>に<<<お箸0>>>が<<<必要だった>>>から<<<取ってきて>>><<<ちょうだい1>>>。\r\n<<<お箸1>>>って<<<どこ>>>に<<<置いてありました>>>っけ？\r\n<<<確か>>>、<<<キッチン>>>の<<<そこ>>>に<<<あった>>>と<<<思う>>>わ。\r\n<<<わかりました4>>>。\r\n<<<お持ちしました>>>。\r\n<<<ありがとう2>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "006(ポテト)",
+      "caption_id": "001",
+      "caption_region": [
+        326,
+        7
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        43,
+        2
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "visual_id": "008(カップ麺)",
+      "caption_id": "001",
+      "caption_region": [
+        422,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "visual_id": "009(お皿２枚組)",
+      "caption_id": "001",
+      "caption_region": [
+        317,
+        2
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "visual_id": "014(電気ポット)",
+      "caption_id": "001",
+      "caption_region": [
+        123,
+        4
+      ],
+      "relation_name": "デ格"
+    }
+  ]
+}

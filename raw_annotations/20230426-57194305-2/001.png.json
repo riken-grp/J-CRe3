@@ -1,0 +1,391 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "26",
+      "bb": [
+        0,
+        74,
+        123,
+        116
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "25",
+      "bb": [
+        654,
+        791,
+        336,
+        288
+      ],
+      "class_name": "blanket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "24",
+      "bb": [
+        133,
+        327,
+        209,
+        131
+      ],
+      "class_name": "chopping_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "23",
+      "bb": [
+        8,
+        419,
+        27,
+        59
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "22",
+      "bb": [
+        6,
+        247,
+        147,
+        75
+      ],
+      "class_name": "pot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "002(ロボット)",
+      "bb": [
+        655,
+        781,
+        839,
+        303
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "20",
+      "bb": [
+        21,
+        294,
+        251,
+        176
+      ],
+      "class_name": "tray",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "19",
+      "bb": [
+        145,
+        618,
+        112,
+        120
+      ],
+      "class_name": "bowl",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "18",
+      "bb": [
+        736,
+        16,
+        24,
+        26
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "17",
+      "bb": [
+        47,
+        296,
+        107,
+        82
+      ],
+      "class_name": "pan_(for_cooking)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "16",
+      "bb": [
+        983,
+        0,
+        111,
+        39
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "004(容器)",
+      "bb": [
+        375,
+        630,
+        177,
+        148
+      ],
+      "class_name": "tray",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "14",
+      "bb": [
+        753,
+        40,
+        208,
+        93
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "bb": [
+        981,
+        1,
+        114,
+        85
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "12",
+      "bb": [
+        843,
+        135,
+        244,
+        334
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "015(コップ)",
+      "bb": [
+        9,
+        486,
+        89,
+        63
+      ],
+      "class_name": "mug",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "005(蓋)",
+      "bb": [
+        374,
+        574,
+        128,
+        123
+      ],
+      "class_name": "cover",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "bb": [
+        1433,
+        0,
+        108,
+        124
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "003(ポット)",
+      "bb": [
+        1239,
+        106,
+        135,
+        131
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        1089,
+        41,
+        284,
+        111
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "bb": [
+        921,
+        101,
+        307,
+        165
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        682,
+        0,
+        823,
+        473
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        806,
+        821,
+        176,
+        92
+      ],
+      "class_name": "earphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        784,
+        930,
+        696,
+        145
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "bb": [
+        1025,
+        29,
+        38,
+        55
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        1204,
+        0,
+        258,
+        272
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<は。>>><<<そろそろ>>><<<おやつ>>>でも<<<食べよっ>>>かな。<<<準備>>><<<手伝ってくれる>>>？\r\n<<<分かりました0>>>。<<<飲み物>>>は<<<何>>>を<<<用意します>>>か？\r\n<<<温かい>>><<<もの>>>が<<<良い>>>かな。<<<あ>>><<<この>>><<<ポット>>>に<<<まだ>>><<<お湯>>>って<<<残ってる>>>？\r\n<<<そう0>>>ですねー\r\n<<<水0>>>が<<<足りない>>>と<<<思います>>>。<<<水1>>>を<<<入れてきます>>>ね。\r\n<<<うん0>>><<<ありがとう0>>>。<<<ついでに>>><<<ティー>>><<<バッグ>>>も<<<持って来て>>>。\r\n<<<分かりました1>>>。\r\n<<<コーヒー>>>の<<<入ってる>>><<<戸棚0>>>に<<<入っています>>>ね？\r\n<<<うん1>>><<<そう1>>>だね。\r\n<<<じゃあ0>>><<<その>>><<<間>>>に<<<お菓子0>>>の<<<準備しよっ>>>かな。\r\n<<<うーん>>><<<全部>>>は<<<多い>>>かな。\r\n<<<どうぞ>>>、<<<持ってきました>>>。<<<お菓子1>>>は<<<分けます>>>か？\r\n<<<うん2>>><<<ありがとう1>>>。\r\n<<<そう2>>>だね。<<<じゃあ1>>>、<<<今日>>>は<<<これ0>>>と<<<これ1>>>に<<<して>>>、<<<残り>>>は<<<えー>>>と<<<お菓子2>>>の<<<容器>>>に<<<入れておいてくれる>>>？\r\n<<<はい0>>><<<分かりました2>>>。\r\n<<<入れました>>>。\r\n<<<ありがとう2>>>。<<<じゃあ2>>>、<<<蓋>>>を<<<閉めて>>>、<<<戸棚1>>>に<<<しまっておいてくれる>>>？\r\n<<<はい1>>>\r\n<<<戸棚2>>>の<<<上>>>の<<<段>>>ですね？\r\n<<<そう3>>>だね。\r\n<<<はい2>>><<<分かりました3>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        32,
+        4
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "visual_id": "002(ロボット)",
+      "caption_id": "001",
+      "caption_region": [
+        53,
+        7
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "visual_id": "003(ポット)",
+      "caption_id": "001",
+      "caption_region": [
+        160,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "visual_id": "004(容器)",
+      "caption_id": "001",
+      "caption_region": [
+        670,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "visual_id": "005(蓋)",
+      "caption_id": "001",
+      "caption_region": [
+        760,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "32",
+      "visual_id": "015(コップ)",
+      "caption_id": "001",
+      "caption_region": [
+        517,
+        7
+      ],
+      "relation_name": "ヲ格"
+    }
+  ]
+}

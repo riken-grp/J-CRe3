@@ -1,0 +1,182 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        380,
+        983,
+        61,
+        61
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        291,
+        868,
+        86,
+        96
+      ],
+      "class_name": "bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "bb": [
+        24,
+        301,
+        297,
+        521
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        156,
+        735,
+        418,
+        344
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<あー、また>>><<<誰>>>かが<<<飲み物>>>を<<<置き>>><<<っぱなし>>>に<<<している>>>わね。\r\n<<<では>>>、<<<片付け>>>を<<<致しましょう>>>か？\r\n<<<そう>>>ね。<<<頼みたい>>>わ。\r\n<<<まずは>>><<<紙>>><<<コップ>>>を<<<捨てて0>>><<<ちょうだい0>>>。\r\n<<<分かりました0>>>。\r\n<<<こちら0>>>に<<<捨てておきます>>>ね。\r\n<<<お願い>>>ね。\r\n<<<それ0>>>が<<<終わったら>>>、<<<次>>>は<<<ペットボトル0>>>を<<<お願いする>>>わ。\r\n<<<わかりました>>>。\r\n\r\n<<<飲み>>><<<残し>>>が<<<あるみたいなんです>>>が、<<<どうします>>>か？\r\n<<<じゃあ>>>、<<<私>>>が<<<飲む>>>わね。\r\n<<<お願いします>>>。\r\n<<<はい>>>。<<<これ>>>で<<<空>>>に<<<なった>>>から、<<<捨てて1>>><<<ちょうだい1>>>。\r\n<<<こちら1>>>は<<<どこ>>>に<<<捨てればいいんでした>>>っけ？\r\n<<<それ1>>>は<<<台所>>>に<<<ペットボトル1>>><<<専用>>>の<<<ゴミ箱>>>が<<<ある>>>から、<<<そこ>>>に<<<捨てて2>>><<<ちょうだい2>>>。\r\n<<<分かりました1>>>。\r\n<<<ありがとう>>>。\r\n<<<ペットボトル2>>>を<<<捨て終わりました>>>。<<<作業>>><<<完了>>>です。\r\n<<<あり>>>"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "000000",
+      "visual_id": "3",
+      "caption_id": "001",
+      "caption_region": [
+        23,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000001",
+      "visual_id": "3",
+      "caption_id": "001",
+      "caption_region": [
+        142,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000002",
+      "visual_id": "4",
+      "caption_id": "001",
+      "caption_region": [
+        23,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000003",
+      "visual_id": "4",
+      "caption_id": "001",
+      "caption_region": [
+        264,
+        7
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000004",
+      "visual_id": "4",
+      "caption_id": "001",
+      "caption_region": [
+        468,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000005",
+      "visual_id": "4",
+      "caption_id": "001",
+      "caption_region": [
+        509,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000006",
+      "visual_id": "4",
+      "caption_id": "001",
+      "caption_region": [
+        635,
+        7
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000007",
+      "visual_id": "2",
+      "caption_id": "001",
+      "caption_region": [
+        112,
+        4
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "000008",
+      "visual_id": "2",
+      "caption_id": "001",
+      "caption_region": [
+        369,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "visual_id": "4",
+      "caption_id": "001",
+      "caption_region": [
+        528,
+        7
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "001",
+      "id": "14",
+      "visual_id": "7",
+      "caption_id": "001",
+      "caption_region": [
+        33,
+        2
+      ],
+      "relation_name": "ニ格"
+    }
+  ]
+}

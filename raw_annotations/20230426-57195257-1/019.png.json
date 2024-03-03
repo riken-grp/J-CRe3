@@ -1,0 +1,216 @@
+{
+  "image_id": "019",
+  "bounding_boxes": [
+    {
+      "image_id": "019",
+      "id": "005(リモコン)",
+      "bb": [
+        974,
+        193,
+        152,
+        407
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    },
+    {
+      "image_id": "019",
+      "id": "751",
+      "bb": [
+        612,
+        20,
+        335,
+        245
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "019",
+      "id": "752",
+      "bb": [
+        792,
+        0,
+        204,
+        95
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    },
+    {
+      "image_id": "019",
+      "id": "754",
+      "bb": [
+        196,
+        251,
+        463,
+        348
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    },
+    {
+      "image_id": "019",
+      "id": "003(コントローラー)",
+      "bb": [
+        856,
+        107,
+        44,
+        36
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    },
+    {
+      "image_id": "019",
+      "id": "766",
+      "bb": [
+        359,
+        0,
+        310,
+        61
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "019",
+      "id": "769",
+      "bb": [
+        16,
+        2,
+        585,
+        433
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "019",
+      "id": "002(ロボット)",
+      "bb": [
+        404,
+        467,
+        976,
+        617
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "019",
+      "id": "786",
+      "bb": [
+        409,
+        566,
+        605,
+        512
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "019",
+      "id": "001(主人)",
+      "bb": [
+        229,
+        0,
+        397,
+        165
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "019",
+      "id": "790",
+      "bb": [
+        30,
+        75,
+        251,
+        182
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "019",
+      "id": "797",
+      "bb": [
+        63,
+        -1,
+        181,
+        86
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "019",
+      "id": "798",
+      "bb": [
+        263,
+        85,
+        269,
+        119
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "019",
+      "id": "804",
+      "bb": [
+        1132,
+        38,
+        105,
+        59
+      ],
+      "class_name": "handbag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "019",
+      "id": "808",
+      "bb": [
+        1396,
+        24,
+        128,
+        87
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "019",
+      "id": "811",
+      "bb": [
+        814,
+        695,
+        555,
+        382
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "019",
+      "id": "813",
+      "bb": [
+        57,
+        31,
+        207,
+        129
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "019",
+    "id": "019",
+    "text": "<<<今日>>>は<<<ゲーム0>>>が<<<したい>>>な。\r\n<<<ゲーム1>>>の<<<コントローラー>>>は<<<あります>>>が、<<<テレビ>>>の<<<リモコン>>>が<<<見つかりません>>>ね。\r\n<<<うん0>>>\r\n<<<あー>>><<<それ>>>は<<<ダイニング>>>に<<<あった>>>と<<<思う>>>。\r\n<<<分かりました0>>>。\r\n<<<うん1>>>\r\n<<<これ>>>ですね。\r\n<<<どうぞ>>>。\r\n<<<ありがとう0>>>。<<<と>>><<<喉>>>も<<<乾いた>>>から、<<<お茶0>>><<<入れてきてくれる>>>？\r\n<<<はい0>>>\r\n<<<はい1>>>、<<<お茶1>>>です。\r\n<<<ありがとう1>>>。<<<あ0>>><<<ここ>>>に<<<座って>>><<<一緒に>>><<<ゲーム2>>><<<見てて>>>。\r\n<<<分かりました1>>>。\r\n<<<あ1>>><<<もう0>>><<<飲み終わった>>>から、<<<カップ>>>、<<<もう1>>><<<台所>>>に<<<置いておいてくれる>>>？\r\n<<<はい2>>>"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

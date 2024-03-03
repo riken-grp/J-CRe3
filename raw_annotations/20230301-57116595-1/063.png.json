@@ -1,0 +1,276 @@
+{
+  "image_id": "063",
+  "bounding_boxes": [
+    {
+      "image_id": "063",
+      "id": "5585",
+      "bb": [
+        608,
+        293,
+        76,
+        56
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "5581",
+      "bb": [
+        1000,
+        503,
+        105,
+        37
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "5577",
+      "bb": [
+        1424,
+        215,
+        97,
+        74
+      ],
+      "class_name": "knob",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "5574",
+      "bb": [
+        0,
+        897,
+        434,
+        182
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "5556",
+      "bb": [
+        442,
+        651,
+        55,
+        135
+      ],
+      "class_name": "cigar_box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "5547",
+      "bb": [
+        901,
+        514,
+        18,
+        11
+      ],
+      "class_name": "ring",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "5516",
+      "bb": [
+        1410,
+        50,
+        476,
+        294
+      ],
+      "class_name": "pan_(metal_container)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "003(クッキングヒーター)",
+      "bb": [
+        809,
+        0,
+        840,
+        585
+      ],
+      "class_name": "hotplate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "063",
+      "id": "007(布)",
+      "bb": [
+        1689,
+        493,
+        209,
+        196
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": false
+    },
+    {
+      "image_id": "063",
+      "id": "5453",
+      "bb": [
+        0,
+        603,
+        168,
+        346
+      ],
+      "class_name": "curtain",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "004(洗剤黄)",
+      "bb": [
+        1720,
+        426,
+        208,
+        92
+      ],
+      "class_name": "bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "063",
+      "id": "006(スポンジ)",
+      "bb": [
+        1156,
+        369,
+        195,
+        156
+      ],
+      "class_name": "sponge",
+      "auto_flg": false
+    },
+    {
+      "image_id": "063",
+      "id": "5434",
+      "bb": [
+        686,
+        423,
+        323,
+        598
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "008(汚れ)",
+      "bb": [
+        1093,
+        294,
+        60,
+        44
+      ],
+      "class_name": "olive_oil",
+      "auto_flg": false
+    },
+    {
+      "image_id": "063",
+      "id": "5297",
+      "bb": [
+        1689,
+        440,
+        86,
+        56
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "5275",
+      "bb": [
+        239,
+        599,
+        214,
+        204
+      ],
+      "class_name": "carton",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "5247",
+      "bb": [
+        325,
+        812,
+        116,
+        161
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "5151",
+      "bb": [
+        674,
+        26,
+        946,
+        296
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "5057",
+      "bb": [
+        659,
+        564,
+        1253,
+        511
+      ],
+      "class_name": "blanket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "063",
+      "id": "005(洗剤緑)",
+      "bb": [
+        1465,
+        418,
+        350,
+        128
+      ],
+      "class_name": "bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "063",
+      "id": "002(ロボット)",
+      "bb": [
+        658,
+        381,
+        1260,
+        700
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "063",
+      "id": "3178",
+      "bb": [
+        669,
+        115,
+        237,
+        42
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "063",
+    "id": "063",
+    "text": "<<<今>>>から<<<キッキン>>>を<<<掃除する>>>から<<<手伝って>>>\r\n<<<はい0>>><<<分かりました0>>>。<<<どこ>>>から<<<やります>>>か？\r\n<<<まずは0>>>、<<<クッキング>>><<<ヒーター>>>を<<<きれいにしましょう>>>。\r\n<<<では0>>>、<<<洗剤0>>>と<<<スポンジ0>>>を<<<用意します>>>ね。\r\n<<<ありがとう>>>。<<<でも>>>、<<<油0>>><<<汚れ0>>>には、<<<こっち>>>の<<<洗剤1>>>を<<<使う>>>よ。\r\n<<<分かりました1>>>。<<<では1>>>、<<<掃除>>>を<<<始めます>>>。\r\n<<<あ>>><<<ちょっと>>><<<待って>>>。<<<まずは1>>><<<油1>>>を<<<拭き取る>>>よ。<<<この>>><<<布>>>で<<<ガス>>><<<レンジ全体>>>を<<<拭いて>>>。\r\n<<<分かりました2>>>。<<<これ0>>>で<<<拭くのです>>>ね。\r\n<<<なかなか>>><<<汚れ1>>>が<<<落ちない>>>ね。<<<じゃあ>>>、<<<さっき>>>の<<<洗剤2>>>と<<<スポンジ1>>>で<<<洗っていく>>>よ。\r\n<<<はい1>>><<<これ1>>>ですね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

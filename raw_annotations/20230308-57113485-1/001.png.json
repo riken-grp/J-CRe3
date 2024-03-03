@@ -1,0 +1,622 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "50",
+      "bb": [
+        857,
+        23,
+        67,
+        72
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "49",
+      "bb": [
+        81,
+        795,
+        103,
+        62
+      ],
+      "class_name": "hairbrush",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "48",
+      "bb": [
+        284,
+        469,
+        85,
+        65
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "47",
+      "bb": [
+        43,
+        234,
+        112,
+        76
+      ],
+      "class_name": "crossbar",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "46",
+      "bb": [
+        280,
+        565,
+        100,
+        101
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "45",
+      "bb": [
+        711,
+        0,
+        53,
+        36
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "44",
+      "bb": [
+        172,
+        838,
+        56,
+        23
+      ],
+      "class_name": "nailfile",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "43",
+      "bb": [
+        679,
+        329,
+        220,
+        470
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "42",
+      "bb": [
+        283,
+        475,
+        139,
+        104
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "41",
+      "bb": [
+        468,
+        642,
+        54,
+        87
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "40",
+      "bb": [
+        470,
+        445,
+        59,
+        67
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "39",
+      "bb": [
+        105,
+        135,
+        47,
+        15
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "38",
+      "bb": [
+        1035,
+        0,
+        139,
+        59
+      ],
+      "class_name": "bandanna",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "37",
+      "bb": [
+        1629,
+        214,
+        87,
+        31
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "36",
+      "bb": [
+        791,
+        493,
+        32,
+        63
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "002(ロボット)",
+      "bb": [
+        786,
+        892,
+        792,
+        188
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "34",
+      "bb": [
+        577,
+        104,
+        163,
+        97
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "33",
+      "bb": [
+        860,
+        22,
+        59,
+        37
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "32",
+      "bb": [
+        196,
+        558,
+        241,
+        107
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "31",
+      "bb": [
+        255,
+        133,
+        143,
+        81
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "30",
+      "bb": [
+        69,
+        590,
+        175,
+        147
+      ],
+      "class_name": "plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "29",
+      "bb": [
+        402,
+        300,
+        92,
+        79
+      ],
+      "class_name": "can",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "28",
+      "bb": [
+        624,
+        683,
+        204,
+        395
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "27",
+      "bb": [
+        836,
+        67,
+        49,
+        27
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "26",
+      "bb": [
+        812,
+        44,
+        152,
+        95
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "25",
+      "bb": [
+        691,
+        819,
+        32,
+        82
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "24",
+      "bb": [
+        609,
+        791,
+        56,
+        95
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "23",
+      "bb": [
+        0,
+        338,
+        266,
+        307
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "22",
+      "bb": [
+        39,
+        143,
+        192,
+        95
+      ],
+      "class_name": "ironing_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "21",
+      "bb": [
+        761,
+        0,
+        59,
+        22
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "20",
+      "bb": [
+        397,
+        994,
+        52,
+        85
+      ],
+      "class_name": "knife",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "19",
+      "bb": [
+        746,
+        0,
+        245,
+        56
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "18",
+      "bb": [
+        589,
+        16,
+        108,
+        47
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "16",
+      "bb": [
+        640,
+        37,
+        85,
+        70
+      ],
+      "class_name": "handbag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "15",
+      "bb": [
+        147,
+        608,
+        206,
+        151
+      ],
+      "class_name": "bowl",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "14",
+      "bb": [
+        292,
+        291,
+        495,
+        348
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "bb": [
+        55,
+        385,
+        54,
+        38
+      ],
+      "class_name": "mouse_(computer_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "005(包丁)",
+      "bb": [
+        403,
+        640,
+        120,
+        183
+      ],
+      "class_name": "knife",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "bb": [
+        1496,
+        69,
+        61,
+        81
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "bb": [
+        358,
+        649,
+        251,
+        281
+      ],
+      "class_name": "chopping_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "bb": [
+        578,
+        103,
+        163,
+        100
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        1684,
+        189,
+        53,
+        51
+      ],
+      "class_name": "clock",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        1824,
+        551,
+        95,
+        213
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        654,
+        0,
+        86,
+        57
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        714,
+        29,
+        110,
+        74
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        1489,
+        372,
+        123,
+        73
+      ],
+      "class_name": "solar_array",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "bb": [
+        573,
+        0,
+        405,
+        158
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        966,
+        0,
+        325,
+        628
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<合>>><<<挽き>>>の<<<ミンチ>>>の<<<お肉0>>>を<<<解凍してくれる>>>？\r\n<<<うん0>>>\r\n<<<はい0>>>\r\n<<<この>>><<<お肉1>>>を<<<解凍したらいいです>>>か？\r\n<<<うん1>>><<<お願い>>>ね。\r\n<<<分かりました>>>。\r\n<<<あ0>>><<<あと、>>><<<玉ねぎ>>>も<<<持ってきてくれる>>>？\r\n<<<はい1>>>\r\n<<<はい2>>>、<<<持ってきました>>>。\r\n<<<ありがとう0>>>。\r\n<<<じゃあ>>>、<<<皮>>>が<<<むけた>>>から<<<少し>>><<<大きめの>>><<<みじん切り>>>に<<<してくれる>>>？\r\n<<<はい3>>>\r\n<<<これ>>>は<<<良く>>><<<切れます>>>ね。<<<綺麗に>>><<<研いでいて>>><<<偉いです>>>ね。\r\n<<<ありがとう1>>>。<<<今>>><<<調味料>>>を<<<探してるんだ>>>けど、<<<ハンバーグ>>>は<<<何>>>が<<<いい>>>と<<<思う>>>？\r\n<<<うん2>>>\r\n<<<ナツメグ0>>>を<<<入れる>>>と<<<美味しくなります>>>よ。<<<ソース0>>>は<<<ケチャップ>>>と<<<ウスター>>><<<ソース1>>>と<<<みりん>>>を<<<混ぜて>>><<<煮立たせた>>><<<もの>>>が<<<おすすめ>>>です。\r\n<<<オッケー>>>。<<<ありがとう2>>>。<<<あ1>>><<<でも>>><<<ナツメグ1>>>が<<<ない>>>けど<<<大丈夫>>>かな。\r\n<<<なくて>>>も<<<美味しく出来る>>>と<<<思います>>>よ。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "002(ロボット)",
+      "caption_id": "001",
+      "caption_region": [
+        39,
+        7
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        123,
+        3
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "visual_id": "005(包丁)",
+      "caption_id": "001",
+      "caption_region": [
+        331,
+        2
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "image_id": "007",
+  "bounding_boxes": [
+    {
+      "image_id": "007",
+      "id": "317",
+      "bb": [
+        1472,
+        46,
+        29,
+        33
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "313",
+      "bb": [
+        304,
+        605,
+        112,
+        130
+      ],
+      "class_name": "lanyard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "301",
+      "bb": [
+        1854,
+        278,
+        48,
+        31
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "244",
+      "bb": [
+        889,
+        22,
+        16,
+        19
+      ],
+      "class_name": "earphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "241",
+      "bb": [
+        1453,
+        47,
+        132,
+        84
+      ],
+      "class_name": "pot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "214",
+      "bb": [
+        1385,
+        41,
+        21,
+        34
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "204",
+      "bb": [
+        176,
+        862,
+        133,
+        125
+      ],
+      "class_name": "newspaper",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "150",
+      "bb": [
+        1406,
+        48,
+        35,
+        33
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "007(布)",
+      "bb": [
+        1421,
+        183,
+        111,
+        108
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": false
+    },
+    {
+      "image_id": "007",
+      "id": "20",
+      "bb": [
+        45,
+        725,
+        340,
+        354
+      ],
+      "class_name": "bench",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "15",
+      "bb": [
+        1839,
+        605,
+        63,
+        45
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "002(ロボット)",
+      "bb": [
+        720,
+        911,
+        918,
+        171
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "007",
+      "id": "006(スポンジ)",
+      "bb": [
+        1510,
+        726,
+        122,
+        150
+      ],
+      "class_name": "sponge",
+      "auto_flg": false
+    },
+    {
+      "image_id": "007",
+      "id": "10",
+      "bb": [
+        1848,
+        225,
+        37,
+        21
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "9",
+      "bb": [
+        755,
+        5,
+        253,
+        269
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "003(クッキングヒーター)",
+      "bb": [
+        1334,
+        82,
+        306,
+        136
+      ],
+      "class_name": "hotplate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "007",
+      "id": "7",
+      "bb": [
+        1713,
+        224,
+        171,
+        157
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "6",
+      "bb": [
+        1087,
+        276,
+        487,
+        452
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "004(洗剤黄)",
+      "bb": [
+        1560,
+        577,
+        200,
+        145
+      ],
+      "class_name": "bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "007",
+      "id": "4",
+      "bb": [
+        841,
+        196,
+        189,
+        209
+      ],
+      "class_name": "skirt",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "3",
+      "bb": [
+        960,
+        0,
+        176,
+        35
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "005(洗剤緑)",
+      "bb": [
+        1654,
+        605,
+        249,
+        145
+      ],
+      "class_name": "bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "007",
+      "id": "001(主人)",
+      "bb": [
+        753,
+        0,
+        276,
+        448
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "007",
+    "id": "007",
+    "text": "<<<今>>>から<<<キッキン>>>を<<<掃除する>>>から<<<手伝って>>>\r\n<<<はい0>>><<<分かりました0>>>。<<<どこ>>>から<<<やります>>>か？\r\n<<<まずは0>>>、<<<クッキング>>><<<ヒーター>>>を<<<きれいにしましょう>>>。\r\n<<<では0>>>、<<<洗剤0>>>と<<<スポンジ0>>>を<<<用意します>>>ね。\r\n<<<ありがとう>>>。<<<でも>>>、<<<油0>>><<<汚れ0>>>には、<<<こっち>>>の<<<洗剤1>>>を<<<使う>>>よ。\r\n<<<分かりました1>>>。<<<では1>>>、<<<掃除>>>を<<<始めます>>>。\r\n<<<あ>>><<<ちょっと>>><<<待って>>>。<<<まずは1>>><<<油1>>>を<<<拭き取る>>>よ。<<<この>>><<<布>>>で<<<ガス>>><<<レンジ全体>>>を<<<拭いて>>>。\r\n<<<分かりました2>>>。<<<これ0>>>で<<<拭くのです>>>ね。\r\n<<<なかなか>>><<<汚れ1>>>が<<<落ちない>>>ね。<<<じゃあ>>>、<<<さっき>>>の<<<洗剤2>>>と<<<スポンジ1>>>で<<<洗っていく>>>よ。\r\n<<<はい1>>><<<これ1>>>ですね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

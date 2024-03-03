@@ -1,0 +1,792 @@
+{
+  "image_id": "251",
+  "bounding_boxes": [
+    {
+      "image_id": "251",
+      "id": "001(主人)",
+      "bb": [
+        -5,
+        885,
+        319,
+        193
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "251",
+      "id": "drawer",
+      "bb": [
+        612,
+        577,
+        190,
+        113
+      ],
+      "class_name": "mug",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16040",
+      "bb": [
+        710,
+        670,
+        74,
+        39
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16042",
+      "bb": [
+        600,
+        371,
+        443,
+        259
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16047",
+      "bb": [
+        533,
+        441,
+        46,
+        59
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16050",
+      "bb": [
+        635,
+        288,
+        84,
+        129
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "019(シンク下収納)",
+      "bb": [
+        1188,
+        823,
+        719,
+        238
+      ],
+      "class_name": "drawer",
+      "auto_flg": false
+    },
+    {
+      "image_id": "251",
+      "id": "16054",
+      "bb": [
+        1052,
+        790,
+        101,
+        43
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "drawer1",
+      "bb": [
+        788,
+        642,
+        166,
+        92
+      ],
+      "class_name": "mug",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "034(ココア入り温めマグa)",
+      "bb": [
+        1021,
+        522,
+        65,
+        87
+      ],
+      "class_name": "mug",
+      "auto_flg": false
+    },
+    {
+      "image_id": "251",
+      "id": "16061",
+      "bb": [
+        683,
+        254,
+        64,
+        133
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16062",
+      "bb": [
+        1060,
+        723,
+        113,
+        51
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16067",
+      "bb": [
+        468,
+        917,
+        142,
+        125
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "002(ロボット)",
+      "bb": [
+        678,
+        729,
+        817,
+        353
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "251",
+      "id": "033(ココア入り温めマグb)",
+      "bb": [
+        1098,
+        532,
+        79,
+        94
+      ],
+      "class_name": "mug",
+      "auto_flg": false
+    },
+    {
+      "image_id": "251",
+      "id": "16072",
+      "bb": [
+        591,
+        586,
+        367,
+        263
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16078",
+      "bb": [
+        680,
+        729,
+        286,
+        348
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16082",
+      "bb": [
+        1364,
+        491,
+        552,
+        362
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16085",
+      "bb": [
+        1512,
+        903,
+        115,
+        37
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16093",
+      "bb": [
+        1260,
+        296,
+        89,
+        137
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16094",
+      "bb": [
+        565,
+        416,
+        60,
+        64
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16105",
+      "bb": [
+        1030,
+        783,
+        467,
+        292
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16108",
+      "bb": [
+        1339,
+        188,
+        69,
+        87
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16109",
+      "bb": [
+        1402,
+        205,
+        128,
+        53
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16112",
+      "bb": [
+        1411,
+        426,
+        123,
+        121
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16114",
+      "bb": [
+        1222,
+        188,
+        126,
+        48
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16123",
+      "bb": [
+        1575,
+        255,
+        86,
+        71
+      ],
+      "class_name": "teapot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16124",
+      "bb": [
+        1340,
+        188,
+        68,
+        56
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16126",
+      "bb": [
+        10,
+        643,
+        581,
+        432
+      ],
+      "class_name": "cabinet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16128",
+      "bb": [
+        928,
+        310,
+        41,
+        85
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16130",
+      "bb": [
+        1259,
+        599,
+        27,
+        91
+      ],
+      "class_name": "nailfile",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16134",
+      "bb": [
+        1000,
+        320,
+        44,
+        86
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16135",
+      "bb": [
+        1664,
+        575,
+        158,
+        60
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16136",
+      "bb": [
+        1022,
+        384,
+        86,
+        105
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16139",
+      "bb": [
+        1369,
+        231,
+        42,
+        54
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16142",
+      "bb": [
+        1726,
+        455,
+        119,
+        119
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16143",
+      "bb": [
+        1346,
+        229,
+        30,
+        44
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16144",
+      "bb": [
+        1824,
+        455,
+        20,
+        13
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16157",
+      "bb": [
+        878,
+        297,
+        44,
+        81
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16160",
+      "bb": [
+        848,
+        292,
+        35,
+        61
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16166",
+      "bb": [
+        1419,
+        253,
+        162,
+        49
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16173",
+      "bb": [
+        1513,
+        121,
+        34,
+        51
+      ],
+      "class_name": "microscope",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16175",
+      "bb": [
+        1245,
+        57,
+        47,
+        94
+      ],
+      "class_name": "lamp",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16176",
+      "bb": [
+        0,
+        773,
+        79,
+        84
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16180",
+      "bb": [
+        1373,
+        289,
+        196,
+        66
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16181",
+      "bb": [
+        785,
+        288,
+        36,
+        63
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16182",
+      "bb": [
+        651,
+        289,
+        22,
+        16
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16185",
+      "bb": [
+        813,
+        295,
+        41,
+        57
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16191",
+      "bb": [
+        735,
+        108,
+        246,
+        155
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16194",
+      "bb": [
+        754,
+        290,
+        37,
+        71
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16201",
+      "bb": [
+        1730,
+        220,
+        189,
+        124
+      ],
+      "class_name": "desk",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16214",
+      "bb": [
+        963,
+        314,
+        43,
+        90
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16216",
+      "bb": [
+        1166,
+        220,
+        161,
+        50
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16219",
+      "bb": [
+        97,
+        942,
+        36,
+        35
+      ],
+      "class_name": "watch",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16227",
+      "bb": [
+        689,
+        255,
+        18,
+        15
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16243",
+      "bb": [
+        144,
+        577,
+        72,
+        119
+      ],
+      "class_name": "packet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16249",
+      "bb": [
+        1041,
+        323,
+        42,
+        72
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16252",
+      "bb": [
+        31,
+        663,
+        153,
+        123
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16255",
+      "bb": [
+        1351,
+        292,
+        209,
+        151
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16257",
+      "bb": [
+        1138,
+        145,
+        14,
+        21
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16258",
+      "bb": [
+        1216,
+        187,
+        315,
+        69
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16268",
+      "bb": [
+        677,
+        1015,
+        214,
+        64
+      ],
+      "class_name": "towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "003(テーブル)",
+      "bb": [
+        1075,
+        211,
+        633,
+        259
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "251",
+      "id": "16272",
+      "bb": [
+        1269,
+        1022,
+        231,
+        57
+      ],
+      "class_name": "towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "251",
+      "id": "16274",
+      "bb": [
+        1362,
+        249,
+        347,
+        143
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "251",
+    "id": "251",
+    "text": "<<<ダイニング>>><<<テーブル>>>の<<<上0>>>の<<<食器0>>>を<<<持ってきてくれる>>>？\r\n<<<はい0>>><<<分かりました0>>>。\r\n<<<うん0>>>\r\n<<<お願い0>>>。\r\n<<<これ>>>で<<<全部>>>ですよ。<<<食器1>>><<<洗いましょう>>>か？\r\n<<<うん1>>>\r\n<<<あ0>>><<<そうしてくれる>>>と<<<助かる>>>。<<<私>>>は<<<残り物>>>を<<<冷蔵0>>><<<庫0>>>に<<<入れてくる>>>から、<<<洗い>>><<<物>>><<<お願い1>>>ね。\r\n<<<はい1>>>\r\n<<<包丁>>>を<<<しまいます>>>ね。\r\n<<<うん2>>>\r\n<<<他>>>に<<<何>>>か<<<お手伝いすること>>>は<<<あります>>>か？\r\n<<<そう0>>>ねー<<<あそこ>>>に<<<ケチャップ>>>と<<<マスタード>>>が<<<あるでしょう>>>。<<<あれ>>>は<<<冷蔵1>>><<<庫1>>>に<<<しまっておいて0>>>。\r\n<<<はい2>>><<<分かりました1>>>。\r\n<<<うん3>>>\r\n<<<ここ>>>に<<<ある0>>><<<果物0>>>も<<<冷蔵2>>><<<庫2>>>に<<<しまいましょう>>>か？\r\n<<<あ1>>><<<そうだ>>>。<<<うん4>>><<<果物1>>>も<<<一緒に>>><<<しまっておいて1>>>ね。\r\n<<<えっ>>>と<<<それ>>>と、<<<冷蔵3>>><<<庫3>>>から<<<豆乳>>>を<<<出して>>>、<<<温めてくれる>>>？\r\n<<<はい3>>>\r\n<<<はい4>>>\r\n<<<温める>>><<<の>>>は<<<マグカップ0>>><<<一杯>>>で<<<いいです>>>か？\r\n<<<そう1>>>ね<<<マグカップ1>>>を<<<二杯>>><<<レンジ>>>で<<<温めてくれたらいい>>>わ。\r\n<<<はい5>>>\r\n<<<この後>>>、<<<ココア0>>>を<<<入れるんです>>>よね？\r\n<<<そうそう>>><<<いつも>>>の<<<分量>>>で<<<お願い2>>>ね。\r\n<<<ココア1>>>は<<<えっとね>>><<<そこの>>><<<棚>>>の<<<上1>>>に<<<ある1>>>と<<<思うんだ>>>けど。\r\n<<<うん5>>>\r\n<<<あ2>>>\r\n<<<ありました>>>。\r\n<<<うん6>>><<<ありがとう0>>>。\r\n<<<ココア2>>>を<<<作ったら>>>、<<<お子さんたち>>>に<<<持っていきます>>>ね。\r\n<<<うん7>>><<<ありがとう1>>>。<<<そうしてちょうだい>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

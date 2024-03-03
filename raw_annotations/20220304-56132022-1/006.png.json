@@ -1,0 +1,408 @@
+{
+  "image_id": "006",
+  "bounding_boxes": [
+    {
+      "image_id": "006",
+      "id": "322",
+      "bb": [
+        1201,
+        378,
+        25,
+        62
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "320",
+      "bb": [
+        717,
+        318,
+        31,
+        85
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "319",
+      "bb": [
+        1304,
+        231,
+        74,
+        32
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "313",
+      "bb": [
+        1689,
+        254,
+        37,
+        39
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "310",
+      "bb": [
+        1703,
+        -1,
+        213,
+        253
+      ],
+      "class_name": "curtain",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "304",
+      "bb": [
+        14,
+        720,
+        16,
+        18
+      ],
+      "class_name": "knob",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "301",
+      "bb": [
+        880,
+        54,
+        85,
+        26
+      ],
+      "class_name": "spectacles",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "291",
+      "bb": [
+        698,
+        311,
+        30,
+        88
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "290",
+      "bb": [
+        489,
+        355,
+        47,
+        32
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "268",
+      "bb": [
+        550,
+        367,
+        36,
+        85
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "009(ケトル)",
+      "bb": [
+        1333,
+        303,
+        77,
+        96
+      ],
+      "class_name": "coffeepot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "125",
+      "bb": [
+        879,
+        382,
+        222,
+        308
+      ],
+      "class_name": "skirt",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "34",
+      "bb": [
+        621,
+        390,
+        99,
+        48
+      ],
+      "class_name": "plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "27",
+      "bb": [
+        733,
+        310,
+        31,
+        82
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "24",
+      "bb": [
+        -4,
+        781,
+        160,
+        160
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "23",
+      "bb": [
+        824,
+        139,
+        229,
+        283
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "20",
+      "bb": [
+        490,
+        356,
+        54,
+        86
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "19",
+      "bb": [
+        875,
+        63,
+        84,
+        69
+      ],
+      "class_name": "mask",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "015(透明コップb)",
+      "bb": [
+        1394,
+        698,
+        54,
+        74
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "16",
+      "bb": [
+        476,
+        904,
+        177,
+        177
+      ],
+      "class_name": "backpack",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "007(棚)",
+      "bb": [
+        0,
+        153,
+        194,
+        610
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "014(透明コップa)",
+      "bb": [
+        1294,
+        639,
+        50,
+        71
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "004(上)",
+      "bb": [
+        1224,
+        367,
+        682,
+        534
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "006(白カップ)",
+      "bb": [
+        1299,
+        532,
+        56,
+        70
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "008(タンブラー)",
+      "bb": [
+        1345,
+        442,
+        47,
+        97
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "8",
+      "bb": [
+        1152,
+        478,
+        90,
+        316
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "7",
+      "bb": [
+        1139,
+        350,
+        79,
+        167
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "003(机)",
+      "bb": [
+        1210,
+        371,
+        694,
+        707
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "5",
+      "bb": [
+        1745,
+        525,
+        175,
+        263
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "4",
+      "bb": [
+        285,
+        456,
+        356,
+        201
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "3",
+      "bb": [
+        1617,
+        376,
+        121,
+        173
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "2",
+      "bb": [
+        1164,
+        161,
+        140,
+        119
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "001(主人)",
+      "bb": [
+        824,
+        0,
+        277,
+        742
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "006",
+    "id": "006",
+    "text": "<<<机0>>>の<<<上0>>>を<<<片付けたいんだ>>>けど、<<<手伝ってくれない>>>？\r\n<<<何0>>>を<<<すればいいです0>>>か<<<?>>>\r\n<<<まずは>>><<<コップ0>>>と<<<カップ0>>>を<<<棚0>>>に<<<片付けてくれる>>>？\r\n<<<はい0>>>\r\n<<<まず>>>、<<<コップ1>>>は<<<棚1>>>の<<<上1>>>から<<<二段目>>>。<<<カップ1>>>は<<<棚2>>>の<<<上2>>>から<<<三段目>>>に<<<お願い>>>ね。\r\n<<<はい1>>>\r\n<<<わかりました0>>>。\r\n<<<とー>>><<<机1>>>の<<<上3>>>の<<<物>>><<<すべて>>><<<片付けていいです>>>か？\r\n<<<うんうん>>><<<タンブラー>>>は<<<そのまま>>>に<<<していい>>>わよ。\r\n<<<わかりました1>>>。\r\n<<<他>>>は<<<何1>>>を<<<すればいいです1>>>か？\r\n<<<カップ2>>><<<ラーメン>>>を<<<食べたい>>>から、<<<お箸>>>を<<<持ってきて>>><<<ちょうだい0>>>。\r\n<<<わかりました2>>>。\r\n\r\n<<<キッチン>>>の<<<引き出し>>>に<<<ある>>>から。\r\n<<<わかりました3>>>。\r\n<<<持ってきました>>>。\r\n<<<ありがとう0>>>。\r\n<<<やかん>>>で<<<お湯0>>>を<<<沸かしましょう>>>か？\r\n<<<うん0>>><<<でも、>>><<<やかんじゃなくて>>><<<これ0>>>で<<<お湯1>>>を<<<沸かす>>>から、<<<これ1>>>に<<<水>>>を<<<入れて>>><<<ちょうだい1>>>。\r\n<<<わかりました4>>>。\r\n<<<セットします>>>か？\r\n<<<うん1>>><<<ありがとう1>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

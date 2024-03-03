@@ -1,0 +1,324 @@
+{
+  "image_id": "030",
+  "bounding_boxes": [
+    {
+      "image_id": "030",
+      "id": "2800",
+      "bb": [
+        1836,
+        354,
+        85,
+        96
+      ],
+      "class_name": "table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2777",
+      "bb": [
+        1211,
+        91,
+        67,
+        113
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2771",
+      "bb": [
+        1598,
+        344,
+        338,
+        265
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2770",
+      "bb": [
+        1185,
+        170,
+        292,
+        179
+      ],
+      "class_name": "pan_(for_cooking)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2742",
+      "bb": [
+        1102,
+        800,
+        180,
+        282
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2725",
+      "bb": [
+        1460,
+        418,
+        200,
+        131
+      ],
+      "class_name": "bowl",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2723",
+      "bb": [
+        1244,
+        591,
+        116,
+        124
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2712",
+      "bb": [
+        636,
+        460,
+        97,
+        22
+      ],
+      "class_name": "tape_(sticky_cloth_or_paper)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2711",
+      "bb": [
+        1629,
+        58,
+        267,
+        161
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2684",
+      "bb": [
+        1103,
+        646,
+        35,
+        84
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2653",
+      "bb": [
+        1425,
+        68,
+        166,
+        110
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2588",
+      "bb": [
+        1254,
+        80,
+        54,
+        124
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2580",
+      "bb": [
+        784,
+        179,
+        67,
+        35
+      ],
+      "class_name": "matchbox",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "015(冷蔵庫)",
+      "bb": [
+        1,
+        137,
+        448,
+        665
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "2525",
+      "bb": [
+        1567,
+        516,
+        207,
+        177
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "009(洗い場)",
+      "bb": [
+        1146,
+        422,
+        773,
+        657
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "2500",
+      "bb": [
+        1018,
+        196,
+        228,
+        65
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2486",
+      "bb": [
+        1152,
+        254,
+        211,
+        151
+      ],
+      "class_name": "pot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "006(ガラスコップ)",
+      "bb": [
+        593,
+        672,
+        238,
+        179
+      ],
+      "class_name": "glass_(drink_container)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "008(棚)",
+      "bb": [
+        1,
+        789,
+        91,
+        150
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "2398",
+      "bb": [
+        302,
+        77,
+        330,
+        180
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "013(段ボール箱)",
+      "bb": [
+        569,
+        422,
+        201,
+        168
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "002(ロボット)",
+      "bb": [
+        621,
+        606,
+        977,
+        473
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "007(タンブラー)",
+      "bb": [
+        1394,
+        533,
+        193,
+        171
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "010(キッチン)",
+      "bb": [
+        1,
+        0,
+        1917,
+        1077
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "012(キッチン床)",
+      "bb": [
+        0,
+        459,
+        1137,
+        618
+      ],
+      "class_name": "runner_(carpet)",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "030",
+    "id": "030",
+    "text": "<<<ここ>>>に<<<ある0>>><<<コップ0>>>を<<<片付けてくれない>>>？\r\n<<<沢山>>><<<あります>>>が<<<全部>>>ですか？\r\n<<<うん0>>><<<ガラス>>>の<<<コップ1>>>は<<<使ってない>>>から<<<棚>>>に<<<しまっておいて>>>、<<<えっ>>>と<<<マグカップ>>>と<<<タンブラー>>>は<<<洗い場>>>に<<<持っていってもらえる>>>？\r\n<<<分かりました0>>>。\r\n<<<ありがとうございます>>>。\r\n<<<あ0>>><<<あと>>><<<カップ0>>><<<ラーメン>>>も<<<キッチン>>>に<<<持っていって欲しい>>>な。\r\n<<<どこ>>>に<<<置きます>>>か？\r\n<<<床>>>に<<<箱>>>が<<<ある1>>>から<<<そこ>>>に<<<入れちゃって>>>。\r\n<<<分かりました1>>>。<<<カップ1>>>と<<<一緒に0>>><<<持っていきます0>>>ね。\r\n<<<ありがとう0>>>。<<<あ1>>><<<バナナ>>>も<<<一緒に1>>><<<冷蔵>>><<<庫>>>に<<<しまって欲しい>>>な。\r\n<<<分かりました2>>>。<<<一緒に2>>><<<持っていきます1>>>ね。\r\n<<<うん1>>>\r\n<<<ありがとう1>>>。<<<よろしく>>>ね。<<<あ2>>><<<これ>>>は<<<私>>>が<<<洗う>>>わ。\r\n<<<先>>>に<<<持っていきます2>>>ね。\r\n<<<ありがとう2>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

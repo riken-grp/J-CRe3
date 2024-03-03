@@ -1,0 +1,300 @@
+{
+  "image_id": "005",
+  "bounding_boxes": [
+    {
+      "image_id": "005",
+      "id": "1",
+      "bb": [
+        922,
+        62,
+        44,
+        61
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "2",
+      "bb": [
+        784,
+        147,
+        323,
+        223
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "002(ロボット)",
+      "bb": [
+        519,
+        675,
+        1245,
+        410
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "001(主人)",
+      "bb": [
+        1136,
+        0,
+        277,
+        352
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "5",
+      "bb": [
+        729,
+        842,
+        130,
+        97
+      ],
+      "class_name": "earphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "6",
+      "bb": [
+        1123,
+        190,
+        151,
+        162
+      ],
+      "class_name": "coffeepot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "7",
+      "bb": [
+        554,
+        0,
+        876,
+        553
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "8",
+      "bb": [
+        871,
+        1,
+        139,
+        75
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "10",
+      "bb": [
+        47,
+        603,
+        84,
+        112
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "11",
+      "bb": [
+        1383,
+        1,
+        166,
+        209
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "12",
+      "bb": [
+        1159,
+        125,
+        57,
+        57
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "13",
+      "bb": [
+        993,
+        81,
+        306,
+        130
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "15",
+      "bb": [
+        685,
+        190,
+        271,
+        358
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "16",
+      "bb": [
+        634,
+        54,
+        222,
+        115
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "23",
+      "bb": [
+        870,
+        0,
+        140,
+        124
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "24",
+      "bb": [
+        0,
+        435,
+        102,
+        97
+      ],
+      "class_name": "ironing_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "25",
+      "bb": [
+        1005,
+        0,
+        67,
+        37
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "32",
+      "bb": [
+        1,
+        308,
+        103,
+        69
+      ],
+      "class_name": "hair_dryer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "36",
+      "bb": [
+        120,
+        560,
+        76,
+        114
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "72",
+      "bb": [
+        1710,
+        171,
+        104,
+        61
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "79",
+      "bb": [
+        66,
+        0,
+        387,
+        106
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "82",
+      "bb": [
+        0,
+        756,
+        121,
+        199
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "98",
+      "bb": [
+        653,
+        10,
+        26,
+        31
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "119",
+      "bb": [
+        685,
+        193,
+        175,
+        150
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "005",
+    "id": "005",
+    "text": "<<<おはよう>>>。<<<テレビ>>><<<つけてくれる>>>？\r\n<<<おはようございます>>>。<<<かしこまりました0>>>。\r\n<<<ありがとう0>>>。<<<コーヒー>>>が<<<飲みたいんだ>>>けど、<<<手伝ってくれる>>>かな？\r\n<<<分かりました0>>>。<<<ミルク>>>は<<<どう>>><<<します>>>か？\r\n<<<そう0>>>だねー<<<じゃあ0>>>、<<<持ってきてもらえる>>>？<<<お湯>>>は<<<こっち>>>で<<<準備する>>>から。\r\n<<<かしこまりました1>>>。\r\n<<<あと>>>、<<<フルーツ0>>>が<<<食べたいんだ>>>けど、<<<冷蔵>>><<<庫>>>に<<<何>>>か<<<ある>>>かな？\r\n<<<うん0>>>\r\n<<<そう1>>>ですね<<<見てきます>>>。\r\n<<<リンゴ0>>>と<<<バナナ0>>>が<<<あります>>>よ。\r\n<<<あ>>><<<じゃあ1>>>、<<<リンゴ1>>>は<<<私>>>が<<<切る>>>から、<<<バナナ1>>><<<むいてくれる>>>？\r\n<<<はい0>>><<<分かりました1>>>。\r\n<<<フルーツ1>>>を<<<入れる>>><<<お皿>>>も<<<持ってきます>>>ね。\r\n<<<うん1>>><<<ありがとう1>>>。\r\n<<<お>>><<<ありがとう2>>>。<<<気>>>が<<<利く>>>ね。\r\n<<<はい1>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

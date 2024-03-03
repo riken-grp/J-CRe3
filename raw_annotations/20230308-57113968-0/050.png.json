@@ -1,0 +1,240 @@
+{
+  "image_id": "050",
+  "bounding_boxes": [
+    {
+      "image_id": "050",
+      "id": "5477",
+      "bb": [
+        1815,
+        738,
+        103,
+        137
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5475",
+      "bb": [
+        -2,
+        238,
+        146,
+        100
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5472",
+      "bb": [
+        1586,
+        972,
+        337,
+        106
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5461",
+      "bb": [
+        1794,
+        78,
+        122,
+        110
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "009(カット豆腐)",
+      "bb": [
+        1087,
+        212,
+        131,
+        111
+      ],
+      "class_name": "bean_curd",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "5450",
+      "bb": [
+        660,
+        705,
+        93,
+        54
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5406",
+      "bb": [
+        234,
+        443,
+        319,
+        355
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "002(ロボット)",
+      "bb": [
+        539,
+        678,
+        1011,
+        402
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "5328",
+      "bb": [
+        837,
+        306,
+        172,
+        272
+      ],
+      "class_name": "chopstick",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5314",
+      "bb": [
+        153,
+        175,
+        800,
+        706
+      ],
+      "class_name": "oven",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "007(包丁)",
+      "bb": [
+        1131,
+        198,
+        162,
+        102
+      ],
+      "class_name": "knife",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "004(ピーマン)",
+      "bb": [
+        893,
+        326,
+        81,
+        82
+      ],
+      "class_name": "bell_pepper",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "001(主人)",
+      "bb": [
+        1029,
+        137,
+        890,
+        562
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "4446",
+      "bb": [
+        448,
+        664,
+        110,
+        197
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4260",
+      "bb": [
+        516,
+        242,
+        331,
+        266
+      ],
+      "class_name": "pot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3993",
+      "bb": [
+        874,
+        -2,
+        188,
+        147
+      ],
+      "class_name": "paper_plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3928",
+      "bb": [
+        12,
+        613,
+        133,
+        48
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "003(豆腐)",
+      "bb": [
+        1104,
+        477,
+        136,
+        100
+      ],
+      "class_name": "bean_curd",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "006(唐辛子)",
+      "bb": [
+        843,
+        141,
+        188,
+        182
+      ],
+      "class_name": "chili_(vegetable)",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "050",
+    "id": "050",
+    "text": "<<<今>>>から<<<麻婆>>><<<豆腐0>>>を<<<作る>>>けど、<<<材料>>><<<ある0>>>かな？\r\n<<<ちょっと0>>><<<見てきます>>>ね。\r\n<<<豆腐1>>>と<<<ピーマン0>>>、<<<ひき肉>>>も<<<あります0>>>。\r\n<<<唐辛子0>>>も<<<ある1>>>？\r\n<<<赤>>><<<唐辛子1>>>が<<<あります1>>>ね。\r\n<<<じゃあ0>>>、<<<とりあえず>>><<<ひき肉以外>>>を<<<持ってきて>>>。\r\n<<<分かりました>>>。\r\n<<<どうぞ>>>。\r\n<<<ありがとう>>>。<<<じゃあ1>>>、<<<私>>>は<<<豆腐2>>>を<<<切る>>>から、<<<あなた>>>は<<<ピーマン1>>>を<<<切って>>><<<ちょうだい>>>。\r\n<<<うん>>>\r\n<<<はい>>><<<了解しました>>>。<<<豆腐3>>>を<<<切った>>><<<後>>>に<<<包丁>>>を<<<お借りしてもいいです>>>か？\r\n<<<あ>>><<<そうだ>>>ね<<<ちょっと1>>><<<待ってて>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

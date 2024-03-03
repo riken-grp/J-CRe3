@@ -1,0 +1,276 @@
+{
+  "image_id": "002",
+  "bounding_boxes": [
+    {
+      "image_id": "002",
+      "id": "69",
+      "bb": [
+        928,
+        91,
+        32,
+        23
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "006(ガラスコップ)",
+      "bb": [
+        501,
+        335,
+        85,
+        109
+      ],
+      "class_name": "glass_(drink_container)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "002",
+      "id": "65",
+      "bb": [
+        1459,
+        348,
+        135,
+        72
+      ],
+      "class_name": "towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "007(タンブラー)",
+      "bb": [
+        663,
+        220,
+        46,
+        68
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "002",
+      "id": "53",
+      "bb": [
+        0,
+        183,
+        160,
+        148
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "38",
+      "bb": [
+        830,
+        64,
+        46,
+        26
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "24",
+      "bb": [
+        557,
+        220,
+        105,
+        146
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "17",
+      "bb": [
+        1759,
+        352,
+        159,
+        204
+      ],
+      "class_name": "stepladder",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "16",
+      "bb": [
+        558,
+        220,
+        103,
+        88
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "004(マグカップa)",
+      "bb": [
+        561,
+        393,
+        61,
+        62
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "002",
+      "id": "14",
+      "bb": [
+        690,
+        294,
+        266,
+        143
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "13",
+      "bb": [
+        888,
+        388,
+        129,
+        78
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "005(マグカップb)",
+      "bb": [
+        788,
+        347,
+        49,
+        59
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "002",
+      "id": "10",
+      "bb": [
+        80,
+        87,
+        313,
+        156
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "011(カップラーメン)",
+      "bb": [
+        764,
+        399,
+        66,
+        84
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "002",
+      "id": "7",
+      "bb": [
+        600,
+        299,
+        50,
+        66
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "003(ダイニングテーブル)",
+      "bb": [
+        317,
+        208,
+        763,
+        599
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "002",
+      "id": "4",
+      "bb": [
+        873,
+        224,
+        150,
+        152
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "3",
+      "bb": [
+        707,
+        182,
+        104,
+        91
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "001(主人)",
+      "bb": [
+        1042,
+        1,
+        426,
+        737
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "002",
+      "id": "014(バナナ)",
+      "bb": [
+        580,
+        460,
+        85,
+        71
+      ],
+      "class_name": "banana",
+      "auto_flg": false
+    },
+    {
+      "image_id": "002",
+      "id": "010(キッチン)",
+      "bb": [
+        1,
+        492,
+        296,
+        586
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "002",
+    "id": "002",
+    "text": "<<<ここ>>>に<<<ある0>>><<<コップ0>>>を<<<片付けてくれない>>>？\r\n<<<沢山>>><<<あります>>>が<<<全部>>>ですか？\r\n<<<うん0>>><<<ガラス>>>の<<<コップ1>>>は<<<使ってない>>>から<<<棚>>>に<<<しまっておいて>>>、<<<えっ>>>と<<<マグカップ>>>と<<<タンブラー>>>は<<<洗い場>>>に<<<持っていってもらえる>>>？\r\n<<<分かりました0>>>。\r\n<<<ありがとうございます>>>。\r\n<<<あ0>>><<<あと>>><<<カップ0>>><<<ラーメン>>>も<<<キッチン>>>に<<<持っていって欲しい>>>な。\r\n<<<どこ>>>に<<<置きます>>>か？\r\n<<<床>>>に<<<箱>>>が<<<ある1>>>から<<<そこ>>>に<<<入れちゃって>>>。\r\n<<<分かりました1>>>。<<<カップ1>>>と<<<一緒に0>>><<<持っていきます0>>>ね。\r\n<<<ありがとう0>>>。<<<あ1>>><<<バナナ>>>も<<<一緒に1>>><<<冷蔵>>><<<庫>>>に<<<しまって欲しい>>>な。\r\n<<<分かりました2>>>。<<<一緒に2>>><<<持っていきます1>>>ね。\r\n<<<うん1>>>\r\n<<<ありがとう1>>>。<<<よろしく>>>ね。<<<あ2>>><<<これ>>>は<<<私>>>が<<<洗う>>>わ。\r\n<<<先>>>に<<<持っていきます2>>>ね。\r\n<<<ありがとう2>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

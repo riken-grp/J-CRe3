@@ -1,0 +1,332 @@
+{
+  "image_id": "062",
+  "bounding_boxes": [
+    {
+      "image_id": "062",
+      "id": "4190",
+      "bb": [
+        431,
+        802,
+        102,
+        89
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4249",
+      "bb": [
+        438,
+        755,
+        22,
+        19
+      ],
+      "class_name": "lightbulb",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4255",
+      "bb": [
+        820,
+        1032,
+        192,
+        47
+      ],
+      "class_name": "blanket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4268",
+      "bb": [
+        703,
+        754,
+        44,
+        27
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "004(ポテトチップス)",
+      "bb": [
+        962,
+        216,
+        105,
+        163
+      ],
+      "class_name": "crisp_(potato_chip)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "062",
+      "id": "4279",
+      "bb": [
+        1078,
+        232,
+        92,
+        91
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4282",
+      "bb": [
+        1071,
+        313,
+        299,
+        102
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4287",
+      "bb": [
+        1099,
+        466,
+        171,
+        129
+      ],
+      "class_name": "plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4289",
+      "bb": [
+        1142,
+        150,
+        224,
+        138
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4291",
+      "bb": [
+        1167,
+        252,
+        195,
+        55
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4296",
+      "bb": [
+        900,
+        615,
+        264,
+        123
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4297",
+      "bb": [
+        1147,
+        180,
+        343,
+        290
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "002(ロボット)",
+      "bb": [
+        470,
+        829,
+        1018,
+        252
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "062",
+      "id": "4305",
+      "bb": [
+        1162,
+        273,
+        175,
+        76
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4308",
+      "bb": [
+        1167,
+        233,
+        199,
+        54
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4310",
+      "bb": [
+        1012,
+        202,
+        89,
+        85
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4312",
+      "bb": [
+        113,
+        254,
+        112,
+        67
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4313",
+      "bb": [
+        965,
+        938,
+        524,
+        140
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4315",
+      "bb": [
+        1086,
+        0,
+        378,
+        80
+      ],
+      "class_name": "tray",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4319",
+      "bb": [
+        13,
+        372,
+        34,
+        22
+      ],
+      "class_name": "spotlight",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "4321",
+      "bb": [
+        929,
+        418,
+        49,
+        150
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "005(棚)",
+      "bb": [
+        187,
+        -2,
+        1731,
+        1010
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "062",
+    "id": "062",
+    "text": "<<<あー>>><<<コーヒー0>>>が<<<飲みたい>>>な。\r\n<<<分かりました>>>。\r\n<<<あ0>>><<<もう>>><<<ポット>>>に<<<お水>>>が<<<入ってません>>>ね。\r\n<<<じゃあ>>>、<<<入れてきてくれる>>>？\r\n<<<はい0>>>\r\n<<<入れてきました>>>。\r\n<<<ありがとう0>>>。<<<ついでに>>><<<お菓子0>>>も<<<持ってきてくれる>>>かな。\r\n<<<お菓子1>>>って<<<何>>>が<<<ありました0>>>っけ？\r\n<<<うーん>>><<<確か>>>、<<<ポテトチップス>>>が<<<あった>>><<<はず>>>。\r\n<<<はい1>>><<<探してきます>>>ね。\r\n<<<ありました1>>>。\r\n<<<あ1>>><<<ありがとう1>>>。\r\n<<<あの>>><<<お手拭き0>>>も<<<くれる>>>？\r\n<<<どうぞ>>>。\r\n<<<ありがとう2>>>。\r\n<<<お手拭き1>>><<<ある>>>かな？\r\n<<<お手拭き2>>>は<<<ウェット>>><<<ティッシュ>>>で<<<良いです>>>か？\r\n<<<うん>>><<<大丈夫>>>。\r\n<<<コーヒー1>>>は<<<私>>>が<<<いれる>>>ね。\r\n<<<ミルク>>>は<<<入れます>>>か？\r\n<<<あ2>>><<<今日>>>は<<<ブラック>>>に<<<しよう>>>かな。\r\n<<<かしこまりました>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "062",
+      "id": "5",
+      "visual_id": "004(ポテトチップス)",
+      "caption_id": "062",
+      "caption_region": [
+        180,
+        4
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "062",
+      "id": "6",
+      "visual_id": "004(ポテトチップス)",
+      "caption_id": "062",
+      "caption_region": [
+        210,
+        4
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "062",
+      "id": "7",
+      "visual_id": "004(ポテトチップス)",
+      "caption_id": "062",
+      "caption_region": [
+        265,
+        7
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "062",
+      "id": "8",
+      "visual_id": "004(ポテトチップス)",
+      "caption_id": "062",
+      "caption_region": [
+        324,
+        6
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "062",
+      "id": "9",
+      "visual_id": "005(棚)",
+      "caption_id": "062",
+      "caption_region": [
+        324,
+        6
+      ],
+      "relation_name": "ニ格"
+    }
+  ]
+}

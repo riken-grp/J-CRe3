@@ -1,0 +1,420 @@
+{
+  "image_id": "029",
+  "bounding_boxes": [
+    {
+      "image_id": "029",
+      "id": "008(冷蔵庫)",
+      "bb": [
+        1,
+        120,
+        901,
+        959
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "029",
+      "id": "002(ロボット)",
+      "bb": [
+        477,
+        460,
+        1095,
+        626
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "029",
+      "id": "1997",
+      "bb": [
+        274,
+        696,
+        305,
+        106
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2116",
+      "bb": [
+        56,
+        874,
+        83,
+        44
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "003(パック入り豆腐)",
+      "bb": [
+        615,
+        947,
+        242,
+        133
+      ],
+      "class_name": "bean_curd",
+      "auto_flg": false
+    },
+    {
+      "image_id": "029",
+      "id": "2165",
+      "bb": [
+        0,
+        876,
+        140,
+        86
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2170",
+      "bb": [
+        449,
+        793,
+        125,
+        84
+      ],
+      "class_name": "butter",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2177",
+      "bb": [
+        0,
+        574,
+        130,
+        85
+      ],
+      "class_name": "bread",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2188",
+      "bb": [
+        793,
+        90,
+        63,
+        68
+      ],
+      "class_name": "packet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2212",
+      "bb": [
+        1180,
+        210,
+        63,
+        28
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "009(電子レンジ)",
+      "bb": [
+        373,
+        94,
+        390,
+        287
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": false
+    },
+    {
+      "image_id": "029",
+      "id": "2229",
+      "bb": [
+        1117,
+        120,
+        160,
+        96
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2244",
+      "bb": [
+        1091,
+        2,
+        41,
+        62
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2252",
+      "bb": [
+        1072,
+        29,
+        26,
+        44
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2260",
+      "bb": [
+        1272,
+        171,
+        147,
+        100
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2285",
+      "bb": [
+        734,
+        148,
+        103,
+        71
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2290",
+      "bb": [
+        1481,
+        329,
+        92,
+        42
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2293",
+      "bb": [
+        1117,
+        7,
+        425,
+        162
+      ],
+      "class_name": "stove",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2295",
+      "bb": [
+        1405,
+        203,
+        466,
+        241
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2314",
+      "bb": [
+        939,
+        360,
+        115,
+        119
+      ],
+      "class_name": "trash_can",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2319",
+      "bb": [
+        1518,
+        252,
+        107,
+        44
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2329",
+      "bb": [
+        1516,
+        119,
+        150,
+        62
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2330",
+      "bb": [
+        1327,
+        253,
+        407,
+        313
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2341",
+      "bb": [
+        821,
+        622,
+        752,
+        451
+      ],
+      "class_name": "pajamas",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2356",
+      "bb": [
+        1123,
+        16,
+        183,
+        66
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2364",
+      "bb": [
+        1450,
+        19,
+        38,
+        21
+      ],
+      "class_name": "knob",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "011(お皿)",
+      "bb": [
+        1575,
+        48,
+        160,
+        53
+      ],
+      "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "029",
+      "id": "012(小皿)",
+      "bb": [
+        1714,
+        92,
+        158,
+        71
+      ],
+      "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "029",
+      "id": "2385",
+      "bb": [
+        1832,
+        187,
+        87,
+        140
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2386",
+      "bb": [
+        1363,
+        2,
+        36,
+        19
+      ],
+      "class_name": "knob",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2391",
+      "bb": [
+        1331,
+        0,
+        35,
+        14
+      ],
+      "class_name": "knob",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "2394",
+      "bb": [
+        451,
+        358,
+        75,
+        64
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "029",
+      "id": "001(主人)",
+      "bb": [
+        1494,
+        301,
+        428,
+        462
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "029",
+      "id": "006(パック入り冷凍ネギ)",
+      "bb": [
+        710,
+        944,
+        169,
+        139
+      ],
+      "class_name": "green_onion",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "029",
+    "id": "029",
+    "text": "<<<麻婆>>><<<豆腐0>>>を<<<作る>>>から<<<手伝って>>>。\r\n<<<はい0>>><<<分かりました0>>>。\r\n<<<豆腐1>>>と<<<ネギ0>>><<<ある>>>か、<<<冷蔵>>><<<庫>>>を<<<チェックしてくれる>>>？\r\n<<<えっ>>>と\r\n<<<豆腐2>>>と。\r\n<<<あ>>><<<どちら>>>も<<<あります>>>よ。\r\n<<<よし>>>、<<<じゃあ0>>>、<<<持ってきておいて>>>。\r\n<<<はい1>>>\r\n<<<はい2>>>、<<<お持ちしました>>>。\r\n<<<うん0>>><<<ありがとう0>>>。\r\n<<<じゃあ1>>>、<<<この0>>><<<豆腐3>>>を<<<一口大>>>に<<<切ってくれる>>>？\r\n<<<はい3>>><<<分かりました1>>>。\r\n<<<よいしょ0>>>。\r\n\r\n<<<はい4>>><<<ありがとうございます>>>。\r\n<<<はい5>>>、<<<できました>>>。\r\n<<<ありがとう1>>>。<<<じゃあ2>>>、<<<豆腐4>>>は<<<こっち>>>の<<<お皿>>>に<<<移して>>>。\r\n<<<はい6>>>\r\n<<<で>>>、<<<終わったら>>>、<<<ネギ1>>>を<<<解凍してくれる>>>？\r\n<<<分かりました2>>>。\r\n<<<よいしょ1>>>。\r\n<<<では>>>、<<<解凍してきます>>>。\r\n<<<はい7>>><<<お願い>>>。\r\n<<<はい8>>>\r\n<<<解凍できました>>>。\r\n<<<うん1>>><<<ありがとう2>>>。<<<じゃあ3>>>、<<<それ>>>は<<<この1>>><<<小>>><<<皿>>>に<<<移してくれる>>>？\r\n<<<はい9>>>\r\n<<<はい10>>>、<<<終わりました>>>。\r\n<<<ありがとう3>>>。<<<助かった>>>よ。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

@@ -1,0 +1,276 @@
+{
+  "image_id": "079",
+  "bounding_boxes": [
+    {
+      "image_id": "079",
+      "id": "002(ロボット)",
+      "bb": [
+        480,
+        554,
+        866,
+        541
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "079",
+      "id": "5432",
+      "bb": [
+        1262,
+        596,
+        656,
+        481
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "006(ウエットティッシュ)",
+      "bb": [
+        1044,
+        494,
+        247,
+        234
+      ],
+      "class_name": "can",
+      "auto_flg": false
+    },
+    {
+      "image_id": "079",
+      "id": "5703",
+      "bb": [
+        482,
+        701,
+        533,
+        376
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "5745",
+      "bb": [
+        873,
+        55,
+        466,
+        244
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "5787",
+      "bb": [
+        826,
+        63,
+        92,
+        51
+      ],
+      "class_name": "mat_(gym_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "5791",
+      "bb": [
+        482,
+        16,
+        187,
+        125
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "5803",
+      "bb": [
+        331,
+        185,
+        91,
+        47
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "5804",
+      "bb": [
+        527,
+        26,
+        78,
+        58
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "5806",
+      "bb": [
+        1750,
+        1005,
+        124,
+        48
+      ],
+      "class_name": "toothpaste",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "5813",
+      "bb": [
+        0,
+        -1,
+        439,
+        169
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "5818",
+      "bb": [
+        1088,
+        25,
+        89,
+        80
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "001(主人)",
+      "bb": [
+        -2,
+        74,
+        299,
+        130
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "079",
+      "id": "5821",
+      "bb": [
+        5,
+        195,
+        214,
+        369
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "5822",
+      "bb": [
+        0,
+        287,
+        175,
+        218
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "5823",
+      "bb": [
+        2,
+        152,
+        189,
+        131
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "5826",
+      "bb": [
+        0,
+        13,
+        127,
+        80
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "5827",
+      "bb": [
+        84,
+        -1,
+        270,
+        85
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "007(コーヒー)",
+      "bb": [
+        366,
+        106,
+        73,
+        63
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "079",
+      "id": "003(電気ポット)",
+      "bb": [
+        324,
+        78,
+        58,
+        70
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "079",
+      "id": "005(棚)",
+      "bb": [
+        1620,
+        211,
+        299,
+        370
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "079",
+      "id": "004(ポテトチップス)",
+      "bb": [
+        319,
+        68,
+        30,
+        18
+      ],
+      "class_name": "crisp_(potato_chip)",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "079",
+    "id": "079",
+    "text": "<<<あー>>><<<コーヒー0>>>が<<<飲みたい>>>な。\r\n<<<分かりました>>>。\r\n<<<あ0>>><<<もう>>><<<ポット>>>に<<<お水>>>が<<<入ってません>>>ね。\r\n<<<じゃあ>>>、<<<入れてきてくれる>>>？\r\n<<<はい0>>>\r\n<<<入れてきました>>>。\r\n<<<ありがとう0>>>。<<<ついでに>>><<<お菓子0>>>も<<<持ってきてくれる>>>かな。\r\n<<<お菓子1>>>って<<<何>>>が<<<ありました0>>>っけ？\r\n<<<うーん>>><<<確か>>>、<<<ポテトチップス>>>が<<<あった>>><<<はず>>>。\r\n<<<はい1>>><<<探してきます>>>ね。\r\n<<<ありました1>>>。\r\n<<<あ1>>><<<ありがとう1>>>。\r\n<<<あの>>><<<お手拭き0>>>も<<<くれる>>>？\r\n<<<どうぞ>>>。\r\n<<<ありがとう2>>>。\r\n<<<お手拭き1>>><<<ある>>>かな？\r\n<<<お手拭き2>>>は<<<ウェット>>><<<ティッシュ>>>で<<<良いです>>>か？\r\n<<<うん>>><<<大丈夫>>>。\r\n<<<コーヒー1>>>は<<<私>>>が<<<いれる>>>ね。\r\n<<<ミルク>>>は<<<入れます>>>か？\r\n<<<あ2>>><<<今日>>>は<<<ブラック>>>に<<<しよう>>>かな。\r\n<<<かしこまりました>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

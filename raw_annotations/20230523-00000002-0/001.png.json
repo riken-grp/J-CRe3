@@ -1,0 +1,449 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "001(主人)",
+      "bb": [
+        1221,
+        170,
+        205,
+        402
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "bb": [
+        1313,
+        298,
+        323,
+        301
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        196,
+        69,
+        297,
+        301
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        1127,
+        239,
+        27,
+        44
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        972,
+        200,
+        45,
+        79
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "bb": [
+        888,
+        250,
+        116,
+        286
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        1111,
+        197,
+        76,
+        49
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        963,
+        291,
+        152,
+        81
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "bb": [
+        890,
+        252,
+        75,
+        132
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "bb": [
+        1141,
+        305,
+        150,
+        86
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "bb": [
+        915,
+        204,
+        402,
+        250
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "12",
+      "bb": [
+        1111,
+        197,
+        78,
+        87
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "13",
+      "bb": [
+        170,
+        396,
+        13,
+        15
+      ],
+      "class_name": "knob",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "14",
+      "bb": [
+        1167,
+        264,
+        70,
+        28
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "15",
+      "bb": [
+        0,
+        647,
+        43,
+        69
+      ],
+      "class_name": "doormat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "007(やかん)",
+      "bb": [
+        570,
+        224,
+        93,
+        66
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "17",
+      "bb": [
+        1229,
+        529,
+        87,
+        42
+      ],
+      "class_name": "slipper_(footwear)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "004(棚)",
+      "bb": [
+        0,
+        56,
+        347,
+        393
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "19",
+      "bb": [
+        1076,
+        211,
+        50,
+        64
+      ],
+      "class_name": "coffeepot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "20",
+      "bb": [
+        794,
+        119,
+        19,
+        51
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "21",
+      "bb": [
+        1254,
+        235,
+        168,
+        163
+      ],
+      "class_name": "blouse",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "22",
+      "bb": [
+        1,
+        243,
+        160,
+        267
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "23",
+      "bb": [
+        305,
+        0,
+        50,
+        79
+      ],
+      "class_name": "pipe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "24",
+      "bb": [
+        1567,
+        402,
+        75,
+        60
+      ],
+      "class_name": "bucket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "25",
+      "bb": [
+        1220,
+        378,
+        203,
+        167
+      ],
+      "class_name": "trousers",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "27",
+      "bb": [
+        556,
+        214,
+        56,
+        30
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "001",
+      "id": "005(コップ３つ)",
+      "bb": [
+        222,
+        297,
+        33,
+        33
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "006(段)",
+      "bb": [
+        217,
+        310,
+        66,
+        40
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "30",
+      "bb": [
+        1551,
+        190,
+        56,
+        24
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<お茶0>>>を<<<出そう>>>と<<<思うんだ>>>けど、<<<コップ0>>><<<取ってきてくれない>>>？\r\n<<<いくつ>>><<<あればいいです>>>か？\r\n<<<三人分>>><<<お願い0>>>。\r\n<<<コップ1>>>は<<<そこ>>>の<<<中0>>>に<<<ある>>>から。\r\n<<<はい0>>><<<下>>>から<<<二番目>>>の<<<段>>>ですね。<<<分かりました0>>>。\r\n<<<うわー>>><<<お茶1>>>、<<<もう>>><<<残ってなかった>>>か。\r\n<<<お茶2>>>なら<<<冷蔵>>><<<庫>>>の<<<中1>>>に<<<ペットボトル>>>が<<<あった>>>と<<<思います>>>。\r\n<<<取ってきます>>>ね。\r\n<<<うん>>><<<そう0>>><<<いえば0>>>、<<<そう1>>>だったね。\r\n<<<あ0>>><<<ありがとう0>>>。\r\n<<<はい1>>>、<<<どうぞ0>>>。\r\n<<<そう2>>><<<いえば1>>>、<<<ジュース0>>>も<<<残ってた>>>？\r\n<<<はい2>>><<<パック>>>が<<<ありました>>>。\r\n<<<あ1>>><<<ほんとに>>>？\r\n<<<じゃあ>>>、<<<一人>>>は<<<ジュース1>>>が<<<いいんだった>>>。<<<お願い1>>>。\r\n<<<はい3>>>\r\n<<<ここ>>>に<<<入れてきて>>>。\r\n<<<分かりました1>>>。\r\n<<<どうぞ1>>>。\r\n<<<ありがとう1>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        13,
+        3
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "visual_id": "004(棚)",
+      "caption_id": "001",
+      "caption_region": [
+        123,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "visual_id": "004(棚)",
+      "caption_id": "001",
+      "caption_region": [
+        132,
+        2
+      ],
+      "relation_name": "ノ格"
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "visual_id": "003(冷蔵庫)",
+      "caption_id": "001",
+      "caption_region": [
+        272,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "visual_id": "003(冷蔵庫)",
+      "caption_id": "001",
+      "caption_region": [
+        280,
+        2
+      ],
+      "relation_name": "ノ格"
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "visual_id": "006(段)",
+      "caption_id": "001",
+      "caption_region": [
+        182,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "visual_id": "005(コップ３つ)",
+      "caption_id": "001",
+      "caption_region": [
+        36,
+        4
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "visual_id": "005(コップ３つ)",
+      "caption_id": "001",
+      "caption_region": [
+        112,
+        4
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

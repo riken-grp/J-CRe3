@@ -1,0 +1,308 @@
+{
+  "image_id": "013",
+  "bounding_boxes": [
+    {
+      "image_id": "013",
+      "id": "008(冷蔵庫)",
+      "bb": [
+        50,
+        0,
+        1873,
+        1079
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "013",
+      "id": "1031",
+      "bb": [
+        1396,
+        993,
+        149,
+        87
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1046",
+      "bb": [
+        894,
+        402,
+        139,
+        128
+      ],
+      "class_name": "butter",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1048",
+      "bb": [
+        812,
+        438,
+        127,
+        174
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1050",
+      "bb": [
+        888,
+        549,
+        51,
+        62
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1067",
+      "bb": [
+        1701,
+        715,
+        152,
+        107
+      ],
+      "class_name": "doughnut",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1076",
+      "bb": [
+        1616,
+        645,
+        141,
+        106
+      ],
+      "class_name": "doughnut",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1082",
+      "bb": [
+        1309,
+        583,
+        52,
+        54
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1085",
+      "bb": [
+        1338,
+        675,
+        199,
+        202
+      ],
+      "class_name": "honey",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1091",
+      "bb": [
+        1427,
+        676,
+        67,
+        58
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1101",
+      "bb": [
+        1798,
+        794,
+        121,
+        96
+      ],
+      "class_name": "doughnut",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1107",
+      "bb": [
+        737,
+        437,
+        132,
+        206
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1110",
+      "bb": [
+        846,
+        753,
+        384,
+        311
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1117",
+      "bb": [
+        1464,
+        871,
+        211,
+        145
+      ],
+      "class_name": "carton",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "003(パック入り豆腐)",
+      "bb": [
+        488,
+        218,
+        233,
+        125
+      ],
+      "class_name": "bean_curd",
+      "auto_flg": false
+    },
+    {
+      "image_id": "013",
+      "id": "1145",
+      "bb": [
+        1260,
+        582,
+        152,
+        215
+      ],
+      "class_name": "orange_juice",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1153",
+      "bb": [
+        1865,
+        701,
+        54,
+        42
+      ],
+      "class_name": "doughnut",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1158",
+      "bb": [
+        27,
+        572,
+        87,
+        63
+      ],
+      "class_name": "booklet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1163",
+      "bb": [
+        999,
+        258,
+        74,
+        66
+      ],
+      "class_name": "tomato",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1165",
+      "bb": [
+        192,
+        1008,
+        42,
+        71
+      ],
+      "class_name": "knitting_needle",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "013",
+    "id": "013",
+    "text": "<<<麻婆>>><<<豆腐0>>>を<<<作る>>>から<<<手伝って>>>。\r\n<<<はい0>>><<<分かりました0>>>。\r\n<<<豆腐1>>>と<<<ネギ0>>><<<ある>>>か、<<<冷蔵>>><<<庫>>>を<<<チェックしてくれる>>>？\r\n<<<えっ>>>と\r\n<<<豆腐2>>>と。\r\n<<<あ>>><<<どちら>>>も<<<あります>>>よ。\r\n<<<よし>>>、<<<じゃあ0>>>、<<<持ってきておいて>>>。\r\n<<<はい1>>>\r\n<<<はい2>>>、<<<お持ちしました>>>。\r\n<<<うん0>>><<<ありがとう0>>>。\r\n<<<じゃあ1>>>、<<<この0>>><<<豆腐3>>>を<<<一口大>>>に<<<切ってくれる>>>？\r\n<<<はい3>>><<<分かりました1>>>。\r\n<<<よいしょ0>>>。\r\n\r\n<<<はい4>>><<<ありがとうございます>>>。\r\n<<<はい5>>>、<<<できました>>>。\r\n<<<ありがとう1>>>。<<<じゃあ2>>>、<<<豆腐4>>>は<<<こっち>>>の<<<お皿>>>に<<<移して>>>。\r\n<<<はい6>>>\r\n<<<で>>>、<<<終わったら>>>、<<<ネギ1>>>を<<<解凍してくれる>>>？\r\n<<<分かりました2>>>。\r\n<<<よいしょ1>>>。\r\n<<<では>>>、<<<解凍してきます>>>。\r\n<<<はい7>>><<<お願い>>>。\r\n<<<はい8>>>\r\n<<<解凍できました>>>。\r\n<<<うん1>>><<<ありがとう2>>>。<<<じゃあ3>>>、<<<それ>>>は<<<この1>>><<<小>>><<<皿>>>に<<<移してくれる>>>？\r\n<<<はい9>>>\r\n<<<はい10>>>、<<<終わりました>>>。\r\n<<<ありがとう3>>>。<<<助かった>>>よ。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "013",
+      "id": "3",
+      "visual_id": "003(パック入り豆腐)",
+      "caption_id": "013",
+      "caption_region": [
+        69,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "013",
+      "id": "4",
+      "visual_id": "003(パック入り豆腐)",
+      "caption_id": "013",
+      "caption_region": [
+        143,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "013",
+      "id": "5",
+      "visual_id": "003(パック入り豆腐)",
+      "caption_id": "013",
+      "caption_region": [
+        163,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "013",
+      "id": "6",
+      "visual_id": "008(冷蔵庫)",
+      "caption_id": "013",
+      "caption_region": [
+        106,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "013",
+      "id": "7",
+      "visual_id": "003(パック入り豆腐)",
+      "caption_id": "013",
+      "caption_region": [
+        305,
+        3
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

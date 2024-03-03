@@ -1,0 +1,1332 @@
+{
+  "image_id": "010",
+  "bounding_boxes": [
+    {
+      "image_id": "010",
+      "id": "001(主人)",
+      "bb": [
+        663,
+        202,
+        193,
+        243
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "005(リモコン)",
+      "bb": [
+        1089,
+        458,
+        77,
+        42
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "003(テレビ)",
+      "bb": [
+        1098,
+        94,
+        278,
+        175
+      ],
+      "class_name": "television_set",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "4",
+      "bb": [
+        482,
+        212,
+        579,
+        636
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "5",
+      "bb": [
+        577,
+        410,
+        273,
+        199
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "8",
+      "bb": [
+        796,
+        758,
+        118,
+        114
+      ],
+      "class_name": "basket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "9",
+      "bb": [
+        170,
+        200,
+        181,
+        125
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "10",
+      "bb": [
+        61,
+        366,
+        18,
+        25
+      ],
+      "class_name": "hinge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "11",
+      "bb": [
+        514,
+        220,
+        42,
+        40
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "12",
+      "bb": [
+        445,
+        216,
+        48,
+        58
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "13",
+      "bb": [
+        952,
+        284,
+        178,
+        108
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "14",
+      "bb": [
+        554,
+        213,
+        34,
+        41
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "15",
+      "bb": [
+        949,
+        310,
+        57,
+        58
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "16",
+      "bb": [
+        518,
+        272,
+        128,
+        106
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "17",
+      "bb": [
+        809,
+        61,
+        48,
+        59
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "18",
+      "bb": [
+        207,
+        24,
+        28,
+        52
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "19",
+      "bb": [
+        777,
+        80,
+        24,
+        48
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "20",
+      "bb": [
+        563,
+        201,
+        42,
+        48
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "21",
+      "bb": [
+        416,
+        234,
+        31,
+        48
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "22",
+      "bb": [
+        1370,
+        270,
+        93,
+        61
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "23",
+      "bb": [
+        677,
+        172,
+        27,
+        57
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "24",
+      "bb": [
+        733,
+        81,
+        17,
+        52
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "25",
+      "bb": [
+        699,
+        0,
+        21,
+        35
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "27",
+      "bb": [
+        772,
+        158,
+        27,
+        51
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "28",
+      "bb": [
+        683,
+        94,
+        24,
+        44
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "30",
+      "bb": [
+        474,
+        343,
+        173,
+        147
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "32",
+      "bb": [
+        716,
+        165,
+        29,
+        46
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "34",
+      "bb": [
+        231,
+        20,
+        28,
+        54
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "35",
+      "bb": [
+        552,
+        91,
+        31,
+        65
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "37",
+      "bb": [
+        749,
+        81,
+        15,
+        51
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "39",
+      "bb": [
+        493,
+        223,
+        41,
+        44
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "40",
+      "bb": [
+        861,
+        162,
+        15,
+        42
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "41",
+      "bb": [
+        675,
+        0,
+        21,
+        36
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "42",
+      "bb": [
+        257,
+        14,
+        26,
+        57
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "44",
+      "bb": [
+        762,
+        81,
+        18,
+        50
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "45",
+      "bb": [
+        466,
+        219,
+        44,
+        51
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "46",
+      "bb": [
+        874,
+        345,
+        351,
+        226
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "48",
+      "bb": [
+        377,
+        231,
+        39,
+        53
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "49",
+      "bb": [
+        664,
+        0,
+        17,
+        36
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "50",
+      "bb": [
+        691,
+        89,
+        26,
+        47
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "52",
+      "bb": [
+        697,
+        82,
+        39,
+        54
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "55",
+      "bb": [
+        275,
+        128,
+        40,
+        73
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "63",
+      "bb": [
+        486,
+        97,
+        33,
+        68
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "64",
+      "bb": [
+        886,
+        73,
+        31,
+        46
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "66",
+      "bb": [
+        818,
+        160,
+        24,
+        51
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "67",
+      "bb": [
+        325,
+        7,
+        28,
+        56
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "69",
+      "bb": [
+        464,
+        101,
+        34,
+        68
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "71",
+      "bb": [
+        365,
+        115,
+        39,
+        70
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "72",
+      "bb": [
+        180,
+        27,
+        27,
+        54
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "75",
+      "bb": [
+        166,
+        29,
+        28,
+        55
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "77",
+      "bb": [
+        643,
+        198,
+        25,
+        37
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "78",
+      "bb": [
+        858,
+        83,
+        25,
+        38
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "79",
+      "bb": [
+        214,
+        134,
+        38,
+        74
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "82",
+      "bb": [
+        279,
+        14,
+        33,
+        54
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "83",
+      "bb": [
+        683,
+        169,
+        41,
+        57
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "85",
+      "bb": [
+        1002,
+        350,
+        26,
+        46
+      ],
+      "class_name": "candle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "89",
+      "bb": [
+        616,
+        84,
+        40,
+        62
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "90",
+      "bb": [
+        390,
+        110,
+        38,
+        71
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "91",
+      "bb": [
+        844,
+        161,
+        22,
+        46
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "93",
+      "bb": [
+        725,
+        163,
+        31,
+        46
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "95",
+      "bb": [
+        444,
+        2,
+        64,
+        49
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "99",
+      "bb": [
+        791,
+        155,
+        32,
+        55
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "100",
+      "bb": [
+        596,
+        330,
+        81,
+        91
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "101",
+      "bb": [
+        179,
+        138,
+        44,
+        74
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "102",
+      "bb": [
+        871,
+        163,
+        19,
+        40
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "104",
+      "bb": [
+        610,
+        0,
+        16,
+        39
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "106",
+      "bb": [
+        268,
+        14,
+        24,
+        56
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "107",
+      "bb": [
+        412,
+        108,
+        36,
+        70
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "110",
+      "bb": [
+        184,
+        93,
+        382,
+        114
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "113",
+      "bb": [
+        372,
+        7,
+        26,
+        52
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "116",
+      "bb": [
+        365,
+        7,
+        22,
+        52
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "117",
+      "bb": [
+        537,
+        0,
+        17,
+        44
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "120",
+      "bb": [
+        1263,
+        300,
+        374,
+        197
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "121",
+      "bb": [
+        502,
+        0,
+        18,
+        45
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "123",
+      "bb": [
+        880,
+        162,
+        21,
+        38
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "130",
+      "bb": [
+        623,
+        162,
+        25,
+        72
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "133",
+      "bb": [
+        1135,
+        52,
+        22,
+        29
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "139",
+      "bb": [
+        896,
+        163,
+        14,
+        36
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "142",
+      "bb": [
+        225,
+        23,
+        24,
+        52
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "148",
+      "bb": [
+        303,
+        13,
+        28,
+        53
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "150",
+      "bb": [
+        534,
+        92,
+        24,
+        67
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "155",
+      "bb": [
+        236,
+        131,
+        48,
+        73
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "158",
+      "bb": [
+        347,
+        8,
+        25,
+        53
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "160",
+      "bb": [
+        686,
+        0,
+        20,
+        35
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "177",
+      "bb": [
+        583,
+        196,
+        40,
+        48
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "182",
+      "bb": [
+        617,
+        0,
+        18,
+        38
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "198",
+      "bb": [
+        760,
+        159,
+        31,
+        49
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "008(バッグ)",
+      "bb": [
+        767,
+        412,
+        147,
+        154
+      ],
+      "class_name": "backpack",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "200",
+      "bb": [
+        294,
+        125,
+        40,
+        73
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "219",
+      "bb": [
+        1169,
+        444,
+        27,
+        23
+      ],
+      "class_name": "coaster",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "228",
+      "bb": [
+        831,
+        162,
+        24,
+        48
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "271",
+      "bb": [
+        382,
+        238,
+        283,
+        102
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "278",
+      "bb": [
+        703,
+        167,
+        32,
+        51
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "296",
+      "bb": [
+        441,
+        229,
+        36,
+        49
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "298",
+      "bb": [
+        859,
+        572,
+        348,
+        329
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "320",
+      "bb": [
+        1819,
+        172,
+        46,
+        29
+      ],
+      "class_name": "clock",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "324",
+      "bb": [
+        516,
+        0,
+        17,
+        45
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "388",
+      "bb": [
+        579,
+        102,
+        20,
+        52
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "393",
+      "bb": [
+        629,
+        205,
+        202,
+        133
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "402",
+      "bb": [
+        670,
+        97,
+        27,
+        43
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "415",
+      "bb": [
+        577,
+        441,
+        189,
+        90
+      ],
+      "class_name": "trousers",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "435",
+      "bb": [
+        355,
+        240,
+        43,
+        55
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "458",
+      "bb": [
+        563,
+        0,
+        16,
+        42
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "469",
+      "bb": [
+        818,
+        803,
+        30,
+        35
+      ],
+      "class_name": "candle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "473",
+      "bb": [
+        846,
+        809,
+        31,
+        37
+      ],
+      "class_name": "candle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "486",
+      "bb": [
+        822,
+        308,
+        79,
+        65
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "513",
+      "bb": [
+        738,
+        162,
+        28,
+        45
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "515",
+      "bb": [
+        812,
+        263,
+        59,
+        52
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "010",
+      "id": "007(長傘)",
+      "bb": [
+        370,
+        300,
+        93,
+        255
+      ],
+      "class_name": "umbrella",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "002(ロボット)",
+      "bb": [
+        691,
+        1059,
+        248,
+        22
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "010",
+    "id": "010",
+    "text": "<<<空>>>が<<<どんよりしてる>>>けど、<<<今日>>>の<<<天気0>>>は<<<どう0>>>かな？\r\n<<<天気1>>><<<予報0>>>を<<<チェックしましょう>>>か？\r\n<<<うん0>>><<<チャンネル>>>を<<<変えてもらえる>>>？\r\n<<<はい0>>><<<分かりました0>>>。\r\n<<<それ>>>から、<<<傘0>>>を<<<探してきてくれる>>>？\r\n<<<はい1>>><<<分かりました1>>>。\r\n<<<普通の>>><<<傘1>>>と<<<折り畳み0>>><<<傘2>>>が<<<ありました>>>が、<<<どう1>>><<<します>>>か？\r\n<<<うん1>>>\r\n<<<じゃあ0>>>、<<<折り畳み1>>>の<<<傘3>>>の<<<方0>>>を<<<バッグ0>>>に<<<入れておいて>>>。\r\n<<<はい2>>>\r\n<<<こちら>>>の<<<バッグ1>>>ですね。\r\n<<<ありがとう0>>>。\r\n<<<レイン>>><<<コート>>>も<<<見つかりました>>>が、<<<必要です>>>か？\r\n<<<うん2>>>\r\n<<<うーん>>><<<どう2>>>かな。<<<天気2>>><<<予報1>>>を<<<チェックして>>>、<<<確実に>>><<<雨>>>が<<<降りそうだったら>>><<<持って行きたい>>>な。\r\n<<<はい3>>>\r\n<<<えーっと>>><<<天気3>>><<<予報2>>>に<<<よる>>>と、<<<降水>>><<<確率>>>が<<<七十パーセント>>>と<<<いう>>><<<ことなので>>>、<<<持って行った>>><<<方1>>>が<<<良さそうです>>>ね。\r\n<<<うん3>>>\r\n<<<うん4>>>\r\n<<<そう>>>だね。<<<じゃあ1>>>、<<<バッグ2>>>に<<<入れて>>>。<<<あと>>>は<<<自分>>>で<<<用意する>>>から、<<<バッグ3>>><<<こっち>>>に<<<持って来てもらえる>>>？\r\n<<<うん5>>>\r\n<<<あ>>><<<はーい>>><<<ちょっと>>><<<待って下さい>>>。\r\n<<<はい4>>>、<<<どうぞ>>>。\r\n<<<はい5>>><<<ありがとう1>>>。\r\n<<<ありがとう2>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

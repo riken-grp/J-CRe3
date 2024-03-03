@@ -1,0 +1,320 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        1100,
+        429,
+        97,
+        118
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        905,
+        449,
+        411,
+        397
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "bb": [
+        1221,
+        463,
+        88,
+        65
+      ],
+      "class_name": "book",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        1317,
+        0,
+        508,
+        487
+      ],
+      "class_name": "bookcase",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "10",
+      "bb": [
+        1138,
+        521,
+        154,
+        105
+      ],
+      "class_name": "gameboard",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "11",
+      "bb": [
+        1356,
+        738,
+        100,
+        204
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        0,
+        166,
+        1920,
+        913
+      ],
+      "class_name": "runner_(carpet)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        988,
+        484,
+        172,
+        152
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "1",
+      "bb": [
+        892,
+        130,
+        240,
+        417
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "26(テーブルの上)",
+      "bb": [
+        908,
+        459,
+        404,
+        317
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<テーブル>>>の<<<上>>>で<<<ノート>>><<<パソコン>>>を<<<使いたいんだ>>>けど、<<<その>>><<<前>>>に<<<片付けない>>>とな。\r\n<<<片付け>>>を<<<手伝います>>>か？<<<何>>>から<<<片付けましょう0>>>か？\r\n<<<まずは>>>、<<<これ0>>>を<<<台所>>>に<<<戻して0>>><<<ちょうだい0>>>。\r\n<<<分かりました0>>>。\r\n<<<それ>>>が<<<終わったら>>>、<<<次>>>は<<<これ1>>>も<<<片付けてくれる>>>？\r\n<<<分かりました1>>>。<<<どの>>><<<本棚0>>>に<<<片付けましょう1>>>か？\r\n<<<この>>><<<本棚1>>>に<<<片付けて>>><<<ちょうだい1>>>。\r\n<<<分かりました2>>>。\r\n<<<あと>>>は、<<<床>>>に<<<散らかっている>>><<<パズル0>>>を<<<元>>>に<<<戻して1>>><<<ちょうだい2>>>。\r\n<<<分かりました3>>>。<<<そこ>>>の<<<パズル1>>><<<ケース>>>に<<<仕舞っておきます>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "000000",
+      "visual_id": "5",
+      "caption_id": "001",
+      "caption_region": [
+        149,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000001",
+      "visual_id": "3",
+      "caption_id": "001",
+      "caption_region": [
+        3,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000002",
+      "visual_id": "6",
+      "caption_id": "001",
+      "caption_region": [
+        238,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000003",
+      "visual_id": "7",
+      "caption_id": "001",
+      "caption_region": [
+        322,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000005",
+      "visual_id": "10",
+      "caption_id": "001",
+      "caption_region": [
+        481,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000006",
+      "visual_id": "11",
+      "caption_id": "001",
+      "caption_region": [
+        404,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000007",
+      "visual_id": "8",
+      "caption_id": "001",
+      "caption_region": [
+        383,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000008",
+      "visual_id": "4",
+      "caption_id": "001",
+      "caption_region": [
+        31,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000009",
+      "visual_id": "1",
+      "caption_id": "001",
+      "caption_region": [
+        42,
+        6
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "25",
+      "visual_id": "7",
+      "caption_id": "001",
+      "caption_region": [
+        286,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "001",
+      "id": "27",
+      "visual_id": "10",
+      "caption_id": "001",
+      "caption_region": [
+        423,
+        4
+      ],
+      "relation_name": "ニ格"
+    },
+    {
+      "image_id": "001",
+      "id": "28",
+      "visual_id": "26(テーブルの上)",
+      "caption_id": "001",
+      "caption_region": [
+        14,
+        1
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "29",
+      "visual_id": "26(テーブルの上)",
+      "caption_id": "001",
+      "caption_region": [
+        73,
+        5
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "30",
+      "visual_id": "5",
+      "caption_id": "001",
+      "caption_region": [
+        73,
+        5
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "31",
+      "visual_id": "6",
+      "caption_id": "001",
+      "caption_region": [
+        73,
+        5
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "32",
+      "visual_id": "10",
+      "caption_id": "001",
+      "caption_region": [
+        73,
+        5
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "40",
+      "visual_id": "3",
+      "caption_id": "001",
+      "caption_region": [
+        14,
+        1
+      ],
+      "relation_name": "ノ格"
+    }
+  ]
+}

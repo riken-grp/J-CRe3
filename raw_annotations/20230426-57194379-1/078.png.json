@@ -1,0 +1,285 @@
+{
+  "image_id": "078",
+  "bounding_boxes": [
+    {
+      "image_id": "078",
+      "id": "002(ロボット)",
+      "bb": [
+        485,
+        620,
+        901,
+        462
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "078",
+      "id": "5432",
+      "bb": [
+        790,
+        315,
+        613,
+        343
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5445",
+      "bb": [
+        1384,
+        431,
+        222,
+        184
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "006(ウエットティッシュ)",
+      "bb": [
+        1031,
+        586,
+        143,
+        158
+      ],
+      "class_name": "can",
+      "auto_flg": false
+    },
+    {
+      "image_id": "078",
+      "id": "5592",
+      "bb": [
+        1216,
+        644,
+        137,
+        109
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5595",
+      "bb": [
+        1305,
+        286,
+        71,
+        64
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "005(棚)",
+      "bb": [
+        625,
+        0,
+        264,
+        200
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "078",
+      "id": "5609",
+      "bb": [
+        1580,
+        483,
+        121,
+        84
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5621",
+      "bb": [
+        965,
+        59,
+        170,
+        73
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5630",
+      "bb": [
+        1678,
+        289,
+        113,
+        100
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5638",
+      "bb": [
+        1580,
+        278,
+        130,
+        102
+      ],
+      "class_name": "pot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5670",
+      "bb": [
+        1258,
+        47,
+        196,
+        111
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5681",
+      "bb": [
+        1263,
+        290,
+        114,
+        81
+      ],
+      "class_name": "saucer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5702",
+      "bb": [
+        1728,
+        309,
+        136,
+        91
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5703",
+      "bb": [
+        1136,
+        791,
+        249,
+        288
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5716",
+      "bb": [
+        1174,
+        23,
+        72,
+        66
+      ],
+      "class_name": "speaker_(stero_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5720",
+      "bb": [
+        1442,
+        195,
+        58,
+        36
+      ],
+      "class_name": "ashtray",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5729",
+      "bb": [
+        1503,
+        319,
+        135,
+        78
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "078",
+      "id": "5742",
+      "bb": [
+        1448,
+        145,
+        71,
+        55
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "078",
+    "id": "078",
+    "text": "<<<あー>>><<<コーヒー0>>>が<<<飲みたい>>>な。\r\n<<<分かりました>>>。\r\n<<<あ0>>><<<もう>>><<<ポット>>>に<<<お水>>>が<<<入ってません>>>ね。\r\n<<<じゃあ>>>、<<<入れてきてくれる>>>？\r\n<<<はい0>>>\r\n<<<入れてきました>>>。\r\n<<<ありがとう0>>>。<<<ついでに>>><<<お菓子0>>>も<<<持ってきてくれる>>>かな。\r\n<<<お菓子1>>>って<<<何>>>が<<<ありました0>>>っけ？\r\n<<<うーん>>><<<確か>>>、<<<ポテトチップス>>>が<<<あった>>><<<はず>>>。\r\n<<<はい1>>><<<探してきます>>>ね。\r\n<<<ありました1>>>。\r\n<<<あ1>>><<<ありがとう1>>>。\r\n<<<あの>>><<<お手拭き0>>>も<<<くれる>>>？\r\n<<<どうぞ>>>。\r\n<<<ありがとう2>>>。\r\n<<<お手拭き1>>><<<ある>>>かな？\r\n<<<お手拭き2>>>は<<<ウェット>>><<<ティッシュ>>>で<<<良いです>>>か？\r\n<<<うん>>><<<大丈夫>>>。\r\n<<<コーヒー1>>>は<<<私>>>が<<<いれる>>>ね。\r\n<<<ミルク>>>は<<<入れます>>>か？\r\n<<<あ2>>><<<今日>>>は<<<ブラック>>>に<<<しよう>>>かな。\r\n<<<かしこまりました>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "078",
+      "id": "10",
+      "visual_id": "006(ウエットティッシュ)",
+      "caption_id": "078",
+      "caption_region": [
+        370,
+        5
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "078",
+      "id": "11",
+      "visual_id": "006(ウエットティッシュ)",
+      "caption_id": "078",
+      "caption_region": [
+        421,
+        5
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "078",
+      "id": "12",
+      "visual_id": "006(ウエットティッシュ)",
+      "caption_id": "078",
+      "caption_region": [
+        445,
+        5
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "078",
+      "id": "13",
+      "visual_id": "006(ウエットティッシュ)",
+      "caption_id": "078",
+      "caption_region": [
+        457,
+        4
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

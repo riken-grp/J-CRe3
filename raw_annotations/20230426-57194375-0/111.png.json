@@ -1,0 +1,828 @@
+{
+  "image_id": "111",
+  "bounding_boxes": [
+    {
+      "image_id": "111",
+      "id": "5851",
+      "bb": [
+        940,
+        222,
+        45,
+        71
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "5893",
+      "bb": [
+        732,
+        209,
+        459,
+        210
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "6053",
+      "bb": [
+        197,
+        108,
+        99,
+        87
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "6225",
+      "bb": [
+        308,
+        58,
+        79,
+        84
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "6452",
+      "bb": [
+        616,
+        142,
+        142,
+        132
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "6678",
+      "bb": [
+        160,
+        160,
+        87,
+        61
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "001(主人)",
+      "bb": [
+        469,
+        93,
+        284,
+        381
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "111",
+      "id": "7098",
+      "bb": [
+        87,
+        176,
+        92,
+        85
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7112",
+      "bb": [
+        1,
+        229,
+        122,
+        78
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7116",
+      "bb": [
+        16,
+        199,
+        134,
+        77
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7117",
+      "bb": [
+        -3,
+        70,
+        1385,
+        964
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7122",
+      "bb": [
+        293,
+        223,
+        228,
+        311
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7150",
+      "bb": [
+        1,
+        467,
+        364,
+        160
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "008(バッグ)",
+      "bb": [
+        899,
+        508,
+        334,
+        311
+      ],
+      "class_name": "backpack",
+      "auto_flg": false
+    },
+    {
+      "image_id": "111",
+      "id": "7243",
+      "bb": [
+        339,
+        45,
+        80,
+        81
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7269",
+      "bb": [
+        83,
+        306,
+        274,
+        191
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7283",
+      "bb": [
+        188,
+        94,
+        337,
+        259
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7358",
+      "bb": [
+        0,
+        242,
+        343,
+        230
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7379",
+      "bb": [
+        970,
+        275,
+        32,
+        32
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "005(リモコン)",
+      "bb": [
+        1125,
+        295,
+        55,
+        64
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    },
+    {
+      "image_id": "111",
+      "id": "7535",
+      "bb": [
+        408,
+        31,
+        52,
+        71
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7554",
+      "bb": [
+        786,
+        163,
+        97,
+        85
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7566",
+      "bb": [
+        502,
+        116,
+        122,
+        105
+      ],
+      "class_name": "bandanna",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7569",
+      "bb": [
+        374,
+        42,
+        62,
+        69
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7578",
+      "bb": [
+        465,
+        21,
+        43,
+        58
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7583",
+      "bb": [
+        892,
+        208,
+        31,
+        56
+      ],
+      "class_name": "candle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7598",
+      "bb": [
+        506,
+        7,
+        49,
+        51
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7609",
+      "bb": [
+        482,
+        21,
+        34,
+        53
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7618",
+      "bb": [
+        134,
+        163,
+        78,
+        70
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7621",
+      "bb": [
+        491,
+        16,
+        42,
+        49
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7623",
+      "bb": [
+        528,
+        5,
+        32,
+        49
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7632",
+      "bb": [
+        1051,
+        251,
+        56,
+        23
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7665",
+      "bb": [
+        544,
+        2,
+        28,
+        45
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7669",
+      "bb": [
+        1141,
+        266,
+        35,
+        26
+      ],
+      "class_name": "coaster",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7672",
+      "bb": [
+        739,
+        109,
+        218,
+        126
+      ],
+      "class_name": "ottoman",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7679",
+      "bb": [
+        815,
+        418,
+        238,
+        239
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7698",
+      "bb": [
+        236,
+        87,
+        87,
+        90
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7790",
+      "bb": [
+        156,
+        513,
+        449,
+        196
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7813",
+      "bb": [
+        126,
+        2,
+        80,
+        58
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7818",
+      "bb": [
+        195,
+        0,
+        76,
+        46
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7824",
+      "bb": [
+        0,
+        255,
+        83,
+        79
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7828",
+      "bb": [
+        283,
+        0,
+        39,
+        21
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7831",
+      "bb": [
+        1111,
+        1,
+        150,
+        72
+      ],
+      "class_name": "cabinet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7835",
+      "bb": [
+        304,
+        0,
+        40,
+        16
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7855",
+      "bb": [
+        155,
+        0,
+        68,
+        53
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7857",
+      "bb": [
+        435,
+        31,
+        52,
+        59
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7876",
+      "bb": [
+        1010,
+        10,
+        73,
+        21
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7906",
+      "bb": [
+        245,
+        0,
+        51,
+        32
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7942",
+      "bb": [
+        115,
+        11,
+        68,
+        56
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7960",
+      "bb": [
+        1079,
+        40,
+        380,
+        153
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "7971",
+      "bb": [
+        0,
+        655,
+        269,
+        212
+      ],
+      "class_name": "log",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "8139",
+      "bb": [
+        738,
+        310,
+        214,
+        82
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "8181",
+      "bb": [
+        1200,
+        641,
+        383,
+        437
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "8190",
+      "bb": [
+        815,
+        212,
+        41,
+        45
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "8210",
+      "bb": [
+        888,
+        193,
+        32,
+        30
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "8211",
+      "bb": [
+        272,
+        77,
+        84,
+        82
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "002(ロボット)",
+      "bb": [
+        477,
+        523,
+        1111,
+        557
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "111",
+      "id": "8241",
+      "bb": [
+        43,
+        3,
+        96,
+        93
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "8252",
+      "bb": [
+        539,
+        979,
+        27,
+        23
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "8265",
+      "bb": [
+        0,
+        293,
+        49,
+        75
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "009(レインコート)",
+      "bb": [
+        547,
+        372,
+        374,
+        415
+      ],
+      "class_name": "raincoat",
+      "auto_flg": false
+    },
+    {
+      "image_id": "111",
+      "id": "8279",
+      "bb": [
+        1111,
+        831,
+        116,
+        102
+      ],
+      "class_name": "keycard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "8281",
+      "bb": [
+        1109,
+        522,
+        468,
+        548
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "8284",
+      "bb": [
+        453,
+        463,
+        129,
+        101
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "8292",
+      "bb": [
+        476,
+        910,
+        902,
+        168
+      ],
+      "class_name": "blanket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "007(長傘)",
+      "bb": [
+        534,
+        947,
+        279,
+        56
+      ],
+      "class_name": "umbrella",
+      "auto_flg": false
+    },
+    {
+      "image_id": "111",
+      "id": "8295",
+      "bb": [
+        21,
+        42,
+        38,
+        22
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "111",
+      "id": "003(テレビ)",
+      "bb": [
+        981,
+        -1,
+        112,
+        13
+      ],
+      "class_name": "television_set",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "111",
+    "id": "111",
+    "text": "<<<空>>>が<<<どんよりしてる>>>けど、<<<今日>>>の<<<天気0>>>は<<<どう0>>>かな？\r\n<<<天気1>>><<<予報0>>>を<<<チェックしましょう>>>か？\r\n<<<うん0>>><<<チャンネル>>>を<<<変えてもらえる>>>？\r\n<<<はい0>>><<<分かりました0>>>。\r\n<<<それ>>>から、<<<傘0>>>を<<<探してきてくれる>>>？\r\n<<<はい1>>><<<分かりました1>>>。\r\n<<<普通の>>><<<傘1>>>と<<<折り畳み0>>><<<傘2>>>が<<<ありました>>>が、<<<どう1>>><<<します>>>か？\r\n<<<うん1>>>\r\n<<<じゃあ0>>>、<<<折り畳み1>>>の<<<傘3>>>の<<<方0>>>を<<<バッグ0>>>に<<<入れておいて>>>。\r\n<<<はい2>>>\r\n<<<こちら>>>の<<<バッグ1>>>ですね。\r\n<<<ありがとう0>>>。\r\n<<<レイン>>><<<コート>>>も<<<見つかりました>>>が、<<<必要です>>>か？\r\n<<<うん2>>>\r\n<<<うーん>>><<<どう2>>>かな。<<<天気2>>><<<予報1>>>を<<<チェックして>>>、<<<確実に>>><<<雨>>>が<<<降りそうだったら>>><<<持って行きたい>>>な。\r\n<<<はい3>>>\r\n<<<えーっと>>><<<天気3>>><<<予報2>>>に<<<よる>>>と、<<<降水>>><<<確率>>>が<<<七十パーセント>>>と<<<いう>>><<<ことなので>>>、<<<持って行った>>><<<方1>>>が<<<良さそうです>>>ね。\r\n<<<うん3>>>\r\n<<<うん4>>>\r\n<<<そう>>>だね。<<<じゃあ1>>>、<<<バッグ2>>>に<<<入れて>>>。<<<あと>>>は<<<自分>>>で<<<用意する>>>から、<<<バッグ3>>><<<こっち>>>に<<<持って来てもらえる>>>？\r\n<<<うん5>>>\r\n<<<あ>>><<<はーい>>><<<ちょっと>>><<<待って下さい>>>。\r\n<<<はい4>>>、<<<どうぞ>>>。\r\n<<<はい5>>><<<ありがとう1>>>。\r\n<<<ありがとう2>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

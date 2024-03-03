@@ -1,0 +1,249 @@
+{
+  "image_id": "013",
+  "bounding_boxes": [
+    {
+      "image_id": "013",
+      "id": "1205",
+      "bb": [
+        692,
+        2,
+        68,
+        66
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1204",
+      "bb": [
+        670,
+        49,
+        42,
+        43
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1203",
+      "bb": [
+        687,
+        1,
+        77,
+        30
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "002(ロボット)",
+      "bb": [
+        647,
+        758,
+        896,
+        321
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "013",
+      "id": "1199",
+      "bb": [
+        884,
+        1,
+        99,
+        36
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1191",
+      "bb": [
+        717,
+        23,
+        36,
+        47
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1186",
+      "bb": [
+        67,
+        374,
+        151,
+        144
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1185",
+      "bb": [
+        977,
+        2,
+        80,
+        45
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1179",
+      "bb": [
+        816,
+        40,
+        44,
+        63
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1178",
+      "bb": [
+        470,
+        105,
+        329,
+        270
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1170",
+      "bb": [
+        144,
+        0,
+        227,
+        108
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "1164",
+      "bb": [
+        68,
+        312,
+        103,
+        66
+      ],
+      "class_name": "carton",
+      "auto_flg": true
+    },
+    {
+      "image_id": "013",
+      "id": "007(こっち)",
+      "bb": [
+        838,
+        32,
+        189,
+        134
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    },
+    {
+      "image_id": "013",
+      "id": "003(テーブル)",
+      "bb": [
+        500,
+        -2,
+        559,
+        363
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "013",
+      "id": "004(リモコン)",
+      "bb": [
+        883,
+        78,
+        80,
+        31
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    },
+    {
+      "image_id": "013",
+      "id": "1137",
+      "bb": [
+        1704,
+        845,
+        218,
+        193
+      ],
+      "class_name": "backpack",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "013",
+    "id": "013",
+    "text": "<<<テレビ>>>が<<<見たい0>>>から<<<つけて>>>よ。\r\n<<<はい0>>><<<分かりました>>>。\r\n<<<あれ>>>？\r\n<<<あー0>>><<<リモコン>>>は<<<テーブル>>>の<<<上>>>だったかな。\r\n<<<は>>><<<こっち>>>ですね。<<<はい1>>><<<見つけました>>>。<<<つけます>>>ね。\r\n<<<うん>>>\r\n<<<今0>>><<<どんな>>><<<の>>><<<やってる0>>>？\r\n<<<映画0>>>が<<<もう>>><<<すぐ>>><<<始まりそうです>>>よ。\r\n<<<あー1>>><<<映画1>>>か。<<<今1>>><<<その>>><<<気分じゃないんだ>>>よな。<<<何>>>か<<<アニメ0>>>は<<<やってる1>>>？\r\n<<<はい2>>><<<アニメ1>>>は<<<今2>>><<<始まった>>><<<ところ>>>ですね。<<<アクション>>><<<アニメ2>>>です。\r\n<<<いい>>>ね。<<<じゃあ>>>、<<<それ>>><<<見たい1>>>。\r\n<<<はい3>>><<<どうぞ>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "013",
+      "id": "3",
+      "visual_id": "003(テーブル)",
+      "caption_id": "013",
+      "caption_region": [
+        93,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "013",
+      "id": "4",
+      "visual_id": "004(リモコン)",
+      "caption_id": "013",
+      "caption_region": [
+        82,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "013",
+      "id": "5",
+      "visual_id": "007(こっち)",
+      "caption_id": "013",
+      "caption_region": [
+        126,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "013",
+      "id": "7",
+      "visual_id": "003(テーブル)",
+      "caption_id": "013",
+      "caption_region": [
+        104,
+        1
+      ],
+      "relation_name": "ノ格"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "image_id": "014",
+  "bounding_boxes": [
+    {
+      "image_id": "014",
+      "id": "1294",
+      "bb": [
+        354,
+        0,
+        165,
+        51
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1290",
+      "bb": [
+        701,
+        287,
+        20,
+        75
+      ],
+      "class_name": "fork",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1285",
+      "bb": [
+        836,
+        29,
+        202,
+        106
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1281",
+      "bb": [
+        877,
+        2,
+        63,
+        24
+      ],
+      "class_name": "plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1274",
+      "bb": [
+        473,
+        241,
+        190,
+        251
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1272",
+      "bb": [
+        295,
+        71,
+        43,
+        30
+      ],
+      "class_name": "speaker_(stero_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1254",
+      "bb": [
+        897,
+        43,
+        99,
+        45
+      ],
+      "class_name": "plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1233",
+      "bb": [
+        1027,
+        4,
+        97,
+        124
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1230",
+      "bb": [
+        499,
+        94,
+        145,
+        173
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1227",
+      "bb": [
+        950,
+        157,
+        166,
+        107
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1226",
+      "bb": [
+        889,
+        141,
+        277,
+        182
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1222",
+      "bb": [
+        670,
+        202,
+        234,
+        216
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "002(ロボット)",
+      "bb": [
+        585,
+        514,
+        1006,
+        571
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "014",
+      "id": "1204",
+      "bb": [
+        748,
+        148,
+        62,
+        62
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1203",
+      "bb": [
+        792,
+        46,
+        96,
+        91
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1199",
+      "bb": [
+        1104,
+        72,
+        149,
+        180
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1191",
+      "bb": [
+        832,
+        130,
+        48,
+        58
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1179",
+      "bb": [
+        897,
+        243,
+        65,
+        100
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "007(こっち)",
+      "bb": [
+        908,
+        264,
+        371,
+        234
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    },
+    {
+      "image_id": "014",
+      "id": "003(テーブル)",
+      "bb": [
+        635,
+        -10,
+        670,
+        640
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "014",
+      "id": "004(リモコン)",
+      "bb": [
+        1000,
+        310,
+        95,
+        137
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "014",
+    "id": "014",
+    "text": "<<<テレビ>>>が<<<見たい0>>>から<<<つけて>>>よ。\r\n<<<はい0>>><<<分かりました>>>。\r\n<<<あれ>>>？\r\n<<<あー0>>><<<リモコン>>>は<<<テーブル>>>の<<<上>>>だったかな。\r\n<<<は>>><<<こっち>>>ですね。<<<はい1>>><<<見つけました>>>。<<<つけます>>>ね。\r\n<<<うん>>>\r\n<<<今0>>><<<どんな>>><<<の>>><<<やってる0>>>？\r\n<<<映画0>>>が<<<もう>>><<<すぐ>>><<<始まりそうです>>>よ。\r\n<<<あー1>>><<<映画1>>>か。<<<今1>>><<<その>>><<<気分じゃないんだ>>>よな。<<<何>>>か<<<アニメ0>>>は<<<やってる1>>>？\r\n<<<はい2>>><<<アニメ1>>>は<<<今2>>><<<始まった>>><<<ところ>>>ですね。<<<アクション>>><<<アニメ2>>>です。\r\n<<<いい>>>ね。<<<じゃあ>>>、<<<それ>>><<<見たい1>>>。\r\n<<<はい3>>><<<どうぞ>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

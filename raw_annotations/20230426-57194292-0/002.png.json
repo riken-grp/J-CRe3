@@ -1,0 +1,396 @@
+{
+  "image_id": "002",
+  "bounding_boxes": [
+    {
+      "image_id": "002",
+      "id": "76",
+      "bb": [
+        517,
+        231,
+        15,
+        17
+      ],
+      "class_name": "knob",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "73",
+      "bb": [
+        949,
+        66,
+        12,
+        19
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "72",
+      "bb": [
+        655,
+        188,
+        109,
+        102
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "68",
+      "bb": [
+        1134,
+        56,
+        56,
+        30
+      ],
+      "class_name": "telephone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "64",
+      "bb": [
+        0,
+        786,
+        32,
+        54
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "57",
+      "bb": [
+        434,
+        298,
+        380,
+        366
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "53",
+      "bb": [
+        436,
+        0,
+        322,
+        242
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "002(ロボット)",
+      "bb": [
+        597,
+        927,
+        842,
+        157
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "002",
+      "id": "43",
+      "bb": [
+        0,
+        761,
+        122,
+        111
+      ],
+      "class_name": "plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "37",
+      "bb": [
+        914,
+        145,
+        200,
+        146
+      ],
+      "class_name": "blouse",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "33",
+      "bb": [
+        0,
+        295,
+        64,
+        66
+      ],
+      "class_name": "flashlight",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "29",
+      "bb": [
+        27,
+        183,
+        515,
+        360
+      ],
+      "class_name": "desk",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "28",
+      "bb": [
+        1662,
+        210,
+        255,
+        186
+      ],
+      "class_name": "table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "25",
+      "bb": [
+        508,
+        258,
+        179,
+        84
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "24",
+      "bb": [
+        0,
+        696,
+        96,
+        92
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "22",
+      "bb": [
+        1856,
+        242,
+        64,
+        32
+      ],
+      "class_name": "plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "20",
+      "bb": [
+        1188,
+        78,
+        77,
+        21
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "19",
+      "bb": [
+        812,
+        50,
+        42,
+        25
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "17",
+      "bb": [
+        713,
+        0,
+        186,
+        62
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "14",
+      "bb": [
+        16,
+        641,
+        87,
+        79
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "13",
+      "bb": [
+        654,
+        190,
+        109,
+        60
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "12",
+      "bb": [
+        1531,
+        300,
+        108,
+        95
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "11",
+      "bb": [
+        787,
+        239,
+        230,
+        100
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "10",
+      "bb": [
+        1,
+        822,
+        104,
+        35
+      ],
+      "class_name": "spoon",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "8",
+      "bb": [
+        421,
+        176,
+        725,
+        483
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "7",
+      "bb": [
+        713,
+        242,
+        37,
+        48
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "6",
+      "bb": [
+        1067,
+        142,
+        119,
+        256
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "5",
+      "bb": [
+        633,
+        306,
+        251,
+        149
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "4",
+      "bb": [
+        2,
+        133,
+        308,
+        169
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "3",
+      "bb": [
+        755,
+        152,
+        97,
+        64
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "002",
+      "id": "001(主人)",
+      "bb": [
+        914,
+        75,
+        213,
+        399
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "002",
+      "id": "1",
+      "bb": [
+        309,
+        117,
+        189,
+        110
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "002",
+    "id": "002",
+    "text": "<<<お茶0>>>を<<<出したい>>>から、<<<コップ0>>>を<<<出してきてくれる0>>>？\r\n<<<いくつ>>><<<必要です>>>か？\r\n<<<そう>>>ねー<<<えー0>>><<<コップ1>>>を<<<二つ0>>>と<<<子供>>>も<<<いる>>>から、<<<マグカップ0>>>を<<<一つ0>>><<<お願い>>>。\r\n\r\n<<<えー1>>><<<コップ2>>>は<<<棚0>>>に<<<ある>>>よ。\r\n<<<分かりました0>>>。<<<コップ3>>><<<二つ1>>>と<<<マグカップ1>>><<<一つ1>>><<<用意します>>>ね。\r\n<<<何>>>か<<<食べ物>>>は<<<なかった>>>かな？\r\n<<<確か>>><<<引き出し>>>に<<<お菓子0>>>が<<<あった0>>>と<<<思います>>>。\r\n<<<出します>>>か？\r\n<<<あ0>>><<<そうだ>>>ね<<<お菓子1>>>が<<<あった1>>>ね。<<<じゃあ0>>><<<持ってきてもらおう>>>かな。\r\n<<<分かりました1>>>。<<<お菓子2>>>を<<<持ってきます0>>>。\r\n<<<どうぞ0>>>。\r\n<<<あ1>>><<<ありがとう0>>>。\r\n<<<はい0>>>\r\n<<<あ2>>><<<じゃあ1>>>、<<<お菓子3>>>を<<<入れる>>><<<白い>>><<<お皿0>>>、<<<持ってきてくれる>>>？<<<棚1>>>に<<<あった2>>>と<<<思う>>>。\r\n<<<分かりました2>>>。<<<棚2>>>の<<<一番>>><<<下>>>でしたね。<<<持ってきます1>>>。\r\n<<<どうぞ1>>>。\r\n<<<うん0>>><<<ありがとう1>>>。\r\n<<<あと>>>、<<<お茶1>>>を<<<冷蔵>>><<<庫>>>から<<<出してきてくれる1>>>かな？\r\n<<<分かりました3>>>。\r\n<<<持ってきました>>>。\r\n<<<うん1>>><<<ありがとう2>>>。<<<じゃあ2>>><<<この>>><<<コップ4>>>と<<<マグカップ2>>>に<<<お茶2>>>を<<<入れてくれる>>>？\r\n<<<はい1>>>\r\n<<<私>>>は<<<その>>><<<間>>>に<<<お皿1>>>に<<<お菓子4>>>を<<<出しておく>>>ね。\r\n<<<終わりました>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

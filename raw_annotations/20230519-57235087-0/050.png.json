@@ -1,0 +1,240 @@
+{
+  "image_id": "050",
+  "bounding_boxes": [
+    {
+      "image_id": "050",
+      "id": "5456",
+      "bb": [
+        501,
+        909,
+        55,
+        76
+      ],
+      "class_name": "safety_pin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5453",
+      "bb": [
+        591,
+        395,
+        297,
+        489
+      ],
+      "class_name": "cabinet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5447",
+      "bb": [
+        425,
+        873,
+        13,
+        13
+      ],
+      "class_name": "ring",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5444",
+      "bb": [
+        440,
+        282,
+        354,
+        369
+      ],
+      "class_name": "chopping_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5443",
+      "bb": [
+        3,
+        450,
+        113,
+        206
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5438",
+      "bb": [
+        491,
+        638,
+        124,
+        78
+      ],
+      "class_name": "cookie",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5420",
+      "bb": [
+        928,
+        660,
+        25,
+        12
+      ],
+      "class_name": "ring",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5403",
+      "bb": [
+        710,
+        491,
+        82,
+        133
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5398",
+      "bb": [
+        988,
+        908,
+        25,
+        19
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5390",
+      "bb": [
+        973,
+        824,
+        18,
+        12
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "007(ピーラー)",
+      "bb": [
+        1007,
+        80,
+        151,
+        94
+      ],
+      "class_name": "peeler_(tool_for_fruit_and_vegetables)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "5357",
+      "bb": [
+        544,
+        6,
+        559,
+        287
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5355",
+      "bb": [
+        747,
+        534,
+        66,
+        101
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5351",
+      "bb": [
+        502,
+        19,
+        291,
+        140
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "5328",
+      "bb": [
+        1010,
+        224,
+        51,
+        65
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "001(主人)",
+      "bb": [
+        1044,
+        -8,
+        904,
+        668
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "005(人参１本)",
+      "bb": [
+        573,
+        378,
+        110,
+        165
+      ],
+      "class_name": "carrot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "002(ロボット)",
+      "bb": [
+        304,
+        607,
+        1368,
+        476
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        1698,
+        741,
+        231,
+        332
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "050",
+    "id": "050",
+    "text": "<<<今日>>>は<<<肉じゃが>>>に<<<しよう>>>と<<<思う>>>。\r\n<<<なるほど>>>。<<<では>>>、<<<私>>>は<<<何>>>を<<<手伝えばいいでしょう>>>か？\r\n<<<そう>>>だねー<<<人参0>>>を<<<出し忘れた>>>から、<<<持ってきて>>>。\r\n<<<うん0>>>\r\n<<<分かりました0>>>。\r\n<<<人参1>>>が<<<三本>>><<<あります>>>が、<<<何本>>><<<必要です>>>か？\r\n<<<一本0>>>で<<<いい>>>よ。\r\n<<<一本1>>>ですね。\r\n<<<皮0>>>を<<<剥く>>><<<前>>>に<<<洗っておいてくれる>>>？\r\n<<<はい0>>><<<分かりました1>>>。\r\n<<<それ>>>が<<<終わったら>>>、<<<皮1>>><<<むき>>>を<<<お願い>>>ね。\r\n<<<はい1>>><<<すみません>>>。<<<どれ>>>を<<<使えばいいです>>>か？\r\n<<<あーあ>>><<<ごめん0>>>、<<<ごめん1>>>。<<<戸棚>>>に<<<入れっぱなし>>>だった。<<<すぐ>>>に<<<取ってくる>>>よ。\r\n<<<ありがとうございます>>>。\r\n<<<あ>>><<<そこに>>><<<あるんです>>>ね。\r\n<<<うん1>>>"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

@@ -1,0 +1,612 @@
+{
+  "image_id": "009",
+  "bounding_boxes": [
+    {
+      "image_id": "009",
+      "id": "001(主人)",
+      "bb": [
+        1440,
+        19,
+        479,
+        735
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "007(1, 3, X)",
+      "bb": [
+        657,
+        674,
+        39,
+        53
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "tv",
+      "bb": [
+        551,
+        64,
+        359,
+        199
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "004(おもちゃ箱)",
+      "bb": [
+        962,
+        242,
+        178,
+        100
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "011(X)",
+      "bb": [
+        1531,
+        694,
+        120,
+        60
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "002(ロボット)",
+      "bb": [
+        1019,
+        1024,
+        428,
+        57
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "179",
+      "bb": [
+        1591,
+        232,
+        19,
+        12
+      ],
+      "class_name": "doorknob",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "189",
+      "bb": [
+        1460,
+        339,
+        367,
+        409
+      ],
+      "class_name": "jean",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "196",
+      "bb": [
+        1608,
+        138,
+        309,
+        303
+      ],
+      "class_name": "shirt",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "206",
+      "bb": [
+        1756,
+        76,
+        89,
+        74
+      ],
+      "class_name": "mask",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "003(パズル板00)",
+      "bb": [
+        546,
+        642,
+        104,
+        119
+      ],
+      "class_name": "gameboard",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "347",
+      "bb": [
+        408,
+        570,
+        113,
+        84
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "359",
+      "bb": [
+        490,
+        466,
+        78,
+        45
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "005(テーブル)",
+      "bb": [
+        371,
+        608,
+        502,
+        251
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "412",
+      "bb": [
+        0,
+        504,
+        445,
+        496
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "425",
+      "bb": [
+        386,
+        412,
+        165,
+        85
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "428",
+      "bb": [
+        556,
+        64,
+        37,
+        32
+      ],
+      "class_name": "thermostat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "431",
+      "bb": [
+        534,
+        144,
+        53,
+        151
+      ],
+      "class_name": "speaker_(stero_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "452",
+      "bb": [
+        15,
+        844,
+        716,
+        230
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "cushion",
+      "bb": [
+        0,
+        502,
+        260,
+        283
+      ],
+      "class_name": "backpack",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "465",
+      "bb": [
+        232,
+        370,
+        53,
+        51
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "470",
+      "bb": [
+        290,
+        341,
+        52,
+        41
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "473",
+      "bb": [
+        460,
+        618,
+        47,
+        35
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "474",
+      "bb": [
+        176,
+        398,
+        69,
+        55
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "478",
+      "bb": [
+        113,
+        5,
+        462,
+        429
+      ],
+      "class_name": "curtain",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "480",
+      "bb": [
+        196,
+        220,
+        67,
+        66
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "482",
+      "bb": [
+        1234,
+        258,
+        76,
+        179
+      ],
+      "class_name": "footstool",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "486",
+      "bb": [
+        274,
+        345,
+        57,
+        48
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "487",
+      "bb": [
+        116,
+        411,
+        91,
+        77
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "488",
+      "bb": [
+        206,
+        377,
+        63,
+        63
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "489",
+      "bb": [
+        187,
+        247,
+        50,
+        51
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "490",
+      "bb": [
+        169,
+        255,
+        44,
+        58
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "491",
+      "bb": [
+        160,
+        264,
+        33,
+        55
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "495",
+      "bb": [
+        86,
+        429,
+        95,
+        76
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "008(カバン)",
+      "bb": [
+        178,
+        948,
+        298,
+        131
+      ],
+      "class_name": "backpack",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "498",
+      "bb": [
+        148,
+        402,
+        85,
+        62
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "499",
+      "bb": [
+        640,
+        1019,
+        305,
+        61
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "506",
+      "bb": [
+        442,
+        954,
+        288,
+        125
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "510",
+      "bb": [
+        14,
+        252,
+        138,
+        99
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "511",
+      "bb": [
+        -1,
+        985,
+        231,
+        92
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "006(水筒)",
+      "bb": [
+        690,
+        606,
+        53,
+        56
+      ],
+      "class_name": "water_bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "523",
+      "bb": [
+        138,
+        266,
+        44,
+        61
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "524",
+      "bb": [
+        -1,
+        827,
+        58,
+        82
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "525",
+      "bb": [
+        0,
+        346,
+        77,
+        43
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "527",
+      "bb": [
+        33,
+        174,
+        84,
+        52
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "530",
+      "bb": [
+        0,
+        754,
+        65,
+        79
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "531",
+      "bb": [
+        241,
+        351,
+        72,
+        56
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "541",
+      "bb": [
+        1555,
+        10,
+        19,
+        14
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "556",
+      "bb": [
+        0,
+        524,
+        53,
+        64
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "009",
+      "id": "559",
+      "bb": [
+        52,
+        437,
+        91,
+        76
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "009",
+    "id": "009",
+    "text": "<<<三十分>>><<<後0>>>に<<<子供0>>>の<<<病院>>>に<<<行かないといけない>>>から、<<<おもちゃ0>>>の<<<片付け0>>>と<<<水筒0>>>の<<<準備>>>を<<<しない>>>と。\r\n<<<私>>>は<<<何>>>を<<<お手伝いしましょう>>>か？\r\n<<<じゃあ0>>>、<<<子供1>>>が<<<遊んでた>>><<<パズル>>>を<<<片付けておいて>>>。\r\n<<<了解しました>>>。<<<おもちゃ1>>><<<箱>>>に<<<片付けておきます>>>。\r\n<<<うん0>>>\r\n<<<ありがとう0>>>。<<<あと>>>、<<<水筒1>>>を<<<持って行きたいんだ>>>けど、<<<どこ>>>に<<<置いてた>>>っけ？\r\n<<<リビング>>>の<<<テーブル0>>>の<<<上0>>>に<<<あります>>>。\r\n<<<洗って>>><<<乾燥させていたので>>>、<<<すぐ>>>に<<<使えます>>>。\r\n<<<ありがとう1>>>。<<<じゃあ1>>>、<<<今>>>から<<<お茶>>>を<<<入れる>>>から、<<<カバン0>>>に<<<入れといてくれる>>>？\r\n<<<分かりました0>>>。<<<おもちゃ2>>>の<<<片付け1>>>が<<<終わった>>><<<後1>>>に、<<<えー>>><<<カバン1>>>に<<<水筒2>>>を<<<入れておきます>>>。\r\n<<<うん1>>><<<助かる>>>。\r\n<<<あ>>><<<ごめん>>>ね。\r\n<<<よいしょ>>>。<<<はーい>>>\r\n<<<最後に>>>、<<<机>>>の<<<上1>>>を<<<拭いといてくれる>>>かな。\r\n<<<分かりました1>>>。<<<テーブル1>>><<<クロス>>>で<<<拭いておきます>>>。\r\n<<<うん2>>>\r\n<<<うん3>>><<<お願い>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

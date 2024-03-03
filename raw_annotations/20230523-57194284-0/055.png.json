@@ -1,0 +1,276 @@
+{
+  "image_id": "055",
+  "bounding_boxes": [
+    {
+      "image_id": "055",
+      "id": "007(水含布巾)",
+      "bb": [
+        -16,
+        740,
+        110,
+        107
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": false
+    },
+    {
+      "image_id": "055",
+      "id": "tv",
+      "bb": [
+        404,
+        21,
+        245,
+        158
+      ],
+      "class_name": "kettle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "2492",
+      "bb": [
+        361,
+        179,
+        44,
+        35
+      ],
+      "class_name": "microphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "2625",
+      "bb": [
+        1195,
+        46,
+        52,
+        25
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "2630",
+      "bb": [
+        618,
+        511,
+        217,
+        105
+      ],
+      "class_name": "belt",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "001(主人)",
+      "bb": [
+        502,
+        0,
+        458,
+        864
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "055",
+      "id": "2660",
+      "bb": [
+        1207,
+        235,
+        171,
+        172
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "2722",
+      "bb": [
+        1,
+        549,
+        59,
+        47
+      ],
+      "class_name": "soap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "005(台)",
+      "bb": [
+        1088,
+        537,
+        90,
+        18
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "055",
+      "id": "2746",
+      "bb": [
+        1281,
+        87,
+        39,
+        20
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "2750",
+      "bb": [
+        1131,
+        360,
+        55,
+        37
+      ],
+      "class_name": "coaster",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "2774",
+      "bb": [
+        706,
+        916,
+        528,
+        162
+      ],
+      "class_name": "blanket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "2783",
+      "bb": [
+        1702,
+        186,
+        120,
+        48
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "006(ケトル)",
+      "bb": [
+        1082,
+        392,
+        130,
+        155
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "055",
+      "id": "003(テーブル)",
+      "bb": [
+        796,
+        166,
+        648,
+        608
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "055",
+      "id": "2794",
+      "bb": [
+        964,
+        184,
+        103,
+        75
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "2805",
+      "bb": [
+        1037,
+        246,
+        53,
+        57
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "2813",
+      "bb": [
+        941,
+        252,
+        57,
+        90
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "2816",
+      "bb": [
+        1830,
+        480,
+        89,
+        89
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "2826",
+      "bb": [
+        991,
+        249,
+        27,
+        58
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "002(ロボット)",
+      "bb": [
+        703,
+        913,
+        814,
+        167
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "055",
+      "id": "2842",
+      "bb": [
+        961,
+        179,
+        112,
+        127
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "055",
+    "id": "055",
+    "text": "<<<あ0>>><<<こぼしちゃった>>>。<<<ハハ0>>><<<ハハ1>>>\r\n<<<大丈夫です>>>か？\r\n<<<大丈夫>>>。<<<テーブル>>>が<<<濡れた>>>から<<<布巾>>>で<<<拭いてくれる>>>かな？\r\n<<<はい0>>><<<分かりました0>>>。\r\n<<<お湯0>>>を<<<拭き取りました>>>。\r\n<<<ありがとう>>>。\r\n<<<台>>>の<<<下>>>も<<<濡れてる>>>な。<<<ちょっと>>>、<<<持ち上げてもらっていい>>>？\r\n<<<はい1>>>\r\n<<<よいしょ0>>>。\r\n<<<底>>>も<<<濡れてるので>>>、<<<拭いた>>><<<方>>>が<<<良さそうです>>>ね。\r\n<<<あ1>>><<<オッケー>>>。\r\n<<<よいしょ1>>>。\r\n<<<はい2>>>。\r\n<<<よいしょ2>>>。\r\n<<<もう>>>、<<<下ろしていい>>>よ。\r\n<<<はい3>>>\r\n<<<きれいになりました>>>。\r\n<<<うん0>>>\r\n<<<これ>>>は<<<汚れてない>>>から、<<<そのまま>>><<<乾かしといて>>>。\r\n<<<はい4>>><<<分かりました1>>>。<<<お湯1>>>は<<<足ります>>>か？\r\n<<<うん1>>><<<まだ>>>、<<<十分>>><<<残ってる>>>から<<<大丈夫だ>>>よ。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

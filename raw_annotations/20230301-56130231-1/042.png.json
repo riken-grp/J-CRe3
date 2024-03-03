@@ -1,0 +1,288 @@
+{
+  "image_id": "042",
+  "bounding_boxes": [
+    {
+      "image_id": "042",
+      "id": "009(コップc)",
+      "bb": [
+        1341,
+        359,
+        330,
+        208
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "002(ロボット)",
+      "bb": [
+        709,
+        304,
+        1127,
+        778
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "4273",
+      "bb": [
+        1021,
+        -2,
+        338,
+        312
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "003(テーブル)",
+      "bb": [
+        984,
+        159,
+        935,
+        919
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "4239",
+      "bb": [
+        717,
+        791,
+        248,
+        280
+      ],
+      "class_name": "mitten",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "008(コップb)",
+      "bb": [
+        901,
+        364,
+        128,
+        147
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "4154",
+      "bb": [
+        336,
+        320,
+        147,
+        125
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "4111",
+      "bb": [
+        197,
+        418,
+        100,
+        74
+      ],
+      "class_name": "speaker_(stero_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "4093",
+      "bb": [
+        1500,
+        694,
+        334,
+        380
+      ],
+      "class_name": "dress",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "4085",
+      "bb": [
+        1265,
+        608,
+        89,
+        58
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "021(黒ペン)",
+      "bb": [
+        1377,
+        214,
+        60,
+        34
+      ],
+      "class_name": "pen",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "4018",
+      "bb": [
+        970,
+        183,
+        48,
+        86
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "4012",
+      "bb": [
+        730,
+        126,
+        202,
+        59
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "007(コップa)",
+      "bb": [
+        1143,
+        341,
+        130,
+        147
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "3866",
+      "bb": [
+        1469,
+        596,
+        127,
+        99
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "3851",
+      "bb": [
+        1625,
+        125,
+        293,
+        254
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "010(コーヒーカップ)",
+      "bb": [
+        1078,
+        481,
+        276,
+        211
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "005(お盆)",
+      "bb": [
+        791,
+        364,
+        520,
+        419
+      ],
+      "class_name": "tray",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "3147",
+      "bb": [
+        1295,
+        197,
+        489,
+        225
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "3101",
+      "bb": [
+        1091,
+        211,
+        174,
+        163
+      ],
+      "class_name": "pitcher_(vessel_for_liquid)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "1594",
+      "bb": [
+        684,
+        -2,
+        278,
+        237
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "019(テーブル上の物06)",
+      "bb": [
+        1303,
+        208,
+        823,
+        872
+      ],
+      "class_name": "table",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "042",
+    "id": "042",
+    "text": "<<<テーブル>>>の<<<上0>>>を<<<片付けたいんだ>>>けど、<<<手伝ってくれない>>>？\r\n<<<はい0>>><<<まず>>><<<何>>>を<<<すればいいです>>>か？\r\n<<<コップ>>>を<<<食器>>><<<棚0>>>に<<<戻して>>>。<<<上1>>>から<<<二段目>>>ね。\r\n<<<あの>>><<<棚1>>>ですね。<<<分かりました0>>>。\r\n<<<あ>>><<<ちょっと>>><<<待って>>>。<<<お盆>>>を<<<使って>>><<<これ>>>に<<<載せて>>>、<<<全部>>><<<持って行って>>>。\r\n<<<はい1>>><<<コーヒー0>>><<<カップ0>>>も<<<収納します>>>か？\r\n<<<うん>>><<<お願い>>>。\r\n<<<コーヒー1>>><<<カップ1>>>は<<<上2>>>から<<<三段目>>>ね。\r\n<<<分かりました1>>>。<<<収納する>>><<<前>>>に<<<洗いましょう>>>か？\r\n<<<もう>>><<<洗ってある>>>から<<<大丈夫>>>。<<<コーヒー2>>><<<カップ2>>>は<<<同じ>>><<<ソーサー>>>の<<<ところ>>>に<<<なおして>>>。\r\n<<<はい2>>>、<<<作業>>>が<<<完了しました>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "042",
+      "id": "27",
+      "visual_id": "019(テーブル上の物06)",
+      "caption_id": "042",
+      "caption_region": [
+        23,
+        7
+      ],
+      "relation_name": "ヲ≒格"
+    }
+  ]
+}

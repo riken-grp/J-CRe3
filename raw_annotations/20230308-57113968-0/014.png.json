@@ -1,0 +1,202 @@
+{
+  "image_id": "014",
+  "bounding_boxes": [
+    {
+      "image_id": "014",
+      "id": "1531",
+      "bb": [
+        1603,
+        851,
+        101,
+        69
+      ],
+      "class_name": "scrubbing_brush",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1527",
+      "bb": [
+        1116,
+        580,
+        34,
+        34
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1507",
+      "bb": [
+        854,
+        452,
+        74,
+        70
+      ],
+      "class_name": "onion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1495",
+      "bb": [
+        1373,
+        151,
+        275,
+        191
+      ],
+      "class_name": "air_conditioner",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1494",
+      "bb": [
+        1498,
+        388,
+        57,
+        60
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "004(ピーマン)",
+      "bb": [
+        983,
+        549,
+        62,
+        67
+      ],
+      "class_name": "bell_pepper",
+      "auto_flg": false
+    },
+    {
+      "image_id": "014",
+      "id": "1492",
+      "bb": [
+        811,
+        572,
+        117,
+        95
+      ],
+      "class_name": "broccoli",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1488",
+      "bb": [
+        923,
+        541,
+        59,
+        67
+      ],
+      "class_name": "persimmon",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1480",
+      "bb": [
+        1645,
+        993,
+        87,
+        91
+      ],
+      "class_name": "carton",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1428",
+      "bb": [
+        1529,
+        277,
+        89,
+        57
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "1419",
+      "bb": [
+        1516,
+        385,
+        406,
+        474
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": true
+    },
+    {
+      "image_id": "014",
+      "id": "002(ロボット)",
+      "bb": [
+        587,
+        615,
+        899,
+        465
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "014",
+      "id": "008(冷蔵庫)",
+      "bb": [
+        380,
+        -2,
+        1273,
+        768
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "014",
+    "id": "014",
+    "text": "<<<今>>>から<<<麻婆>>><<<豆腐0>>>を<<<作る>>>けど、<<<材料>>><<<ある0>>>かな？\r\n<<<ちょっと0>>><<<見てきます>>>ね。\r\n<<<豆腐1>>>と<<<ピーマン0>>>、<<<ひき肉>>>も<<<あります0>>>。\r\n<<<唐辛子0>>>も<<<ある1>>>？\r\n<<<赤>>><<<唐辛子1>>>が<<<あります1>>>ね。\r\n<<<じゃあ0>>>、<<<とりあえず>>><<<ひき肉以外>>>を<<<持ってきて>>>。\r\n<<<分かりました>>>。\r\n<<<どうぞ>>>。\r\n<<<ありがとう>>>。<<<じゃあ1>>>、<<<私>>>は<<<豆腐2>>>を<<<切る>>>から、<<<あなた>>>は<<<ピーマン1>>>を<<<切って>>><<<ちょうだい>>>。\r\n<<<うん>>>\r\n<<<はい>>><<<了解しました>>>。<<<豆腐3>>>を<<<切った>>><<<後>>>に<<<包丁>>>を<<<お借りしてもいいです>>>か？\r\n<<<あ>>><<<そうだ>>>ね<<<ちょっと1>>><<<待ってて>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "014",
+      "id": "10",
+      "visual_id": "004(ピーマン)",
+      "caption_id": "014",
+      "caption_region": [
+        99,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "014",
+      "id": "11",
+      "visual_id": "004(ピーマン)",
+      "caption_id": "014",
+      "caption_region": [
+        328,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "014",
+      "id": "19",
+      "visual_id": "004(ピーマン)",
+      "caption_id": "014",
+      "caption_region": [
+        41,
+        2
+      ],
+      "relation_name": "=≒格"
+    }
+  ]
+}

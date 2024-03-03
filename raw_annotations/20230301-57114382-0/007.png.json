@@ -1,0 +1,444 @@
+{
+  "image_id": "007",
+  "bounding_boxes": [
+    {
+      "image_id": "007",
+      "id": "261",
+      "bb": [
+        1237,
+        662,
+        93,
+        34
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "260",
+      "bb": [
+        63,
+        719,
+        39,
+        34
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "259",
+      "bb": [
+        126,
+        824,
+        169,
+        101
+      ],
+      "class_name": "lanyard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "256",
+      "bb": [
+        1141,
+        170,
+        287,
+        41
+      ],
+      "class_name": "fume_hood",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "255",
+      "bb": [
+        1353,
+        452,
+        69,
+        173
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "252",
+      "bb": [
+        1802,
+        503,
+        109,
+        78
+      ],
+      "class_name": "teapot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "248",
+      "bb": [
+        318,
+        754,
+        58,
+        33
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "247",
+      "bb": [
+        0,
+        862,
+        50,
+        57
+      ],
+      "class_name": "telephone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "244",
+      "bb": [
+        1296,
+        600,
+        17,
+        57
+      ],
+      "class_name": "soap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "227",
+      "bb": [
+        1139,
+        477,
+        93,
+        40
+      ],
+      "class_name": "bowl",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "214",
+      "bb": [
+        1227,
+        364,
+        30,
+        56
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "207",
+      "bb": [
+        1383,
+        452,
+        33,
+        64
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "203",
+      "bb": [
+        1007,
+        256,
+        64,
+        51
+      ],
+      "class_name": "mask",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "198",
+      "bb": [
+        1277,
+        603,
+        19,
+        57
+      ],
+      "class_name": "soap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "178",
+      "bb": [
+        564,
+        326,
+        19,
+        51
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "130",
+      "bb": [
+        1844,
+        582,
+        76,
+        50
+      ],
+      "class_name": "checkbook",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "004(野菜室)",
+      "bb": [
+        583,
+        387,
+        223,
+        118
+      ],
+      "class_name": "drawer",
+      "auto_flg": false
+    },
+    {
+      "image_id": "007",
+      "id": "35",
+      "bb": [
+        0,
+        985,
+        135,
+        94
+      ],
+      "class_name": "newspaper",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "29",
+      "bb": [
+        681,
+        75,
+        20,
+        107
+      ],
+      "class_name": "pipe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "18",
+      "bb": [
+        1410,
+        538,
+        26,
+        22
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "17",
+      "bb": [
+        906,
+        683,
+        50,
+        70
+      ],
+      "class_name": "shoe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "16",
+      "bb": [
+        1394,
+        540,
+        45,
+        120
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "14",
+      "bb": [
+        1591,
+        516,
+        210,
+        301
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "005(コンロ)",
+      "bb": [
+        1142,
+        413,
+        182,
+        56
+      ],
+      "class_name": "hotplate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "007",
+      "id": "12",
+      "bb": [
+        1336,
+        645,
+        25,
+        26
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "11",
+      "bb": [
+        1756,
+        513,
+        24,
+        36
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "10",
+      "bb": [
+        1036,
+        515,
+        294,
+        173
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "9",
+      "bb": [
+        1318,
+        645,
+        43,
+        67
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "8",
+      "bb": [
+        1357,
+        574,
+        55,
+        119
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "7",
+      "bb": [
+        871,
+        328,
+        84,
+        62
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "6",
+      "bb": [
+        1638,
+        627,
+        281,
+        364
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "5",
+      "bb": [
+        800,
+        332,
+        42,
+        57
+      ],
+      "class_name": "speaker_(stero_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "4",
+      "bb": [
+        1433,
+        294,
+        219,
+        162
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "007",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        548,
+        188,
+        271,
+        440
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "007",
+      "id": "001(主人)",
+      "bb": [
+        905,
+        212,
+        238,
+        566
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "007",
+      "id": "1",
+      "bb": [
+        1609,
+        377,
+        203,
+        112
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "007",
+    "id": "007",
+    "text": "<<<よし>>>、<<<今日>>>の<<<夕食>>>は<<<パスタ0>>>に<<<しよう0>>>。<<<よろしく0>>>。\r\n<<<分かりました0>>>。<<<どんな0>>><<<パスタ1>>>に<<<します>>>か？\r\n<<<うん0>>>\r\n<<<そう0>>>だね<<<ペペロンチーノ>>>に<<<しよう1>>>か？<<<冷蔵>>><<<庫>>>の<<<食材>>>って<<<どんな1>>><<<感じ>>>だったっけ？<<<ちょっと>>><<<見>>>に<<<行ってくれる>>>？\r\n<<<はい0>>><<<了解しました>>>。\r\n<<<うん1>>>\r\n<<<あ0>>><<<ウィンナー0>>>が<<<あります>>>よ。\r\n<<<あ1>>><<<ウィンナー1>>><<<良い>>>ね。<<<あと0>>>、<<<野菜>>><<<室>>>に<<<ブロッコリー>>>が<<<ある>>>と<<<思う>>>から<<<取ってくれる>>>？\r\n<<<はい1>>>\r\n<<<持ってきました>>>。\r\n<<<あ2>>><<<ありがとう0>>>。<<<あと1>>><<<鷹の爪>>>って<<<どこ>>>に<<<あった>>>っけ？\r\n<<<コンロ>>>の<<<横>>>の<<<引出し>>>に<<<入ってるので>>>、<<<準備します>>>ね。\r\n<<<あ3>>><<<そっか0>>><<<そっか1>>><<<そっか2>>>\r\n<<<そう1>>>だった。\r\n<<<あと2>>><<<ついでに>>>ね、<<<オリーブ>>><<<オイル>>>も<<<持ってきて欲しい>>>な。\r\n<<<はい2>>><<<分かりました1>>>。\r\n<<<うん2>>><<<あー>>><<<ありがとう1>>>。\r\n<<<はい3>>>、<<<どうぞ>>>。\r\n<<<あ4>>><<<あり>>>がと。\r\n<<<では>>>、<<<私>>>は<<<ニンニク>>>の<<<皮>>>を<<<むきます>>>ね。\r\n<<<うん3>>>\r\n<<<あ5>>><<<よろしく1>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

@@ -1,0 +1,528 @@
+{
+  "image_id": "081",
+  "bounding_boxes": [
+    {
+      "image_id": "081",
+      "id": "007(グラスa)",
+      "bb": [
+        274,
+        261,
+        80,
+        64
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "081",
+      "id": "apple",
+      "bb": [
+        212,
+        467,
+        100,
+        61
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "4311",
+      "bb": [
+        335,
+        700,
+        83,
+        31
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "4575",
+      "bb": [
+        388,
+        213,
+        586,
+        383
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "4596",
+      "bb": [
+        218,
+        552,
+        78,
+        61
+      ],
+      "class_name": "tomato",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "008(グラスb)",
+      "bb": [
+        214,
+        283,
+        77,
+        56
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "081",
+      "id": "4922",
+      "bb": [
+        263,
+        521,
+        66,
+        70
+      ],
+      "class_name": "battery",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "cup",
+      "bb": [
+        260,
+        335,
+        91,
+        72
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5227",
+      "bb": [
+        819,
+        186,
+        98,
+        53
+      ],
+      "class_name": "hairbrush",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "006(白コップ)",
+      "bb": [
+        166,
+        326,
+        103,
+        89
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "081",
+      "id": "5293",
+      "bb": [
+        526,
+        108,
+        245,
+        143
+      ],
+      "class_name": "tray",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5297",
+      "bb": [
+        643,
+        84,
+        86,
+        94
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5381",
+      "bb": [
+        154,
+        914,
+        165,
+        80
+      ],
+      "class_name": "pipe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5431",
+      "bb": [
+        213,
+        526,
+        81,
+        82
+      ],
+      "class_name": "matchbox",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5494",
+      "bb": [
+        1491,
+        0,
+        141,
+        46
+      ],
+      "class_name": "backpack",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "ottoman",
+      "bb": [
+        1391,
+        0,
+        249,
+        105
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5496",
+      "bb": [
+        725,
+        604,
+        97,
+        45
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5507",
+      "bb": [
+        219,
+        682,
+        85,
+        31
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5508",
+      "bb": [
+        1653,
+        0,
+        75,
+        27
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5510",
+      "bb": [
+        1681,
+        28,
+        236,
+        92
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5513",
+      "bb": [
+        1710,
+        0,
+        94,
+        33
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5516",
+      "bb": [
+        1594,
+        1,
+        140,
+        132
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5526",
+      "bb": [
+        638,
+        232,
+        137,
+        81
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5528",
+      "bb": [
+        0,
+        103,
+        75,
+        75
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5530",
+      "bb": [
+        1806,
+        180,
+        114,
+        73
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5537",
+      "bb": [
+        407,
+        514,
+        635,
+        244
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5552",
+      "bb": [
+        157,
+        159,
+        207,
+        114
+      ],
+      "class_name": "speaker_(stero_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5555",
+      "bb": [
+        549,
+        0,
+        299,
+        125
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5559",
+      "bb": [
+        1379,
+        0,
+        538,
+        144
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5562",
+      "bb": [
+        1692,
+        150,
+        227,
+        148
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5568",
+      "bb": [
+        1720,
+        818,
+        199,
+        261
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "002(ロボット)",
+      "bb": [
+        550,
+        708,
+        942,
+        372
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "081",
+      "id": "5610",
+      "bb": [
+        690,
+        849,
+        126,
+        111
+      ],
+      "class_name": "earphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5611",
+      "bb": [
+        723,
+        919,
+        748,
+        160
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5655",
+      "bb": [
+        0,
+        792,
+        192,
+        103
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5677",
+      "bb": [
+        207,
+        -1,
+        400,
+        155
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5690",
+      "bb": [
+        766,
+        132,
+        101,
+        49
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5703",
+      "bb": [
+        417,
+        197,
+        101,
+        78
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5706",
+      "bb": [
+        645,
+        85,
+        54,
+        30
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5709",
+      "bb": [
+        128,
+        142,
+        76,
+        40
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "001(主人)",
+      "bb": [
+        937,
+        -2,
+        174,
+        101
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "081",
+      "id": "5746",
+      "bb": [
+        0,
+        465,
+        88,
+        106
+      ],
+      "class_name": "iron_(for_clothing)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "081",
+      "id": "5748",
+      "bb": [
+        1863,
+        148,
+        42,
+        27
+      ],
+      "class_name": "coaster",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "081",
+    "id": "081",
+    "text": "<<<後片付け>>><<<手伝ってくれない>>>？\r\n<<<分かりました0>>>。<<<何0>>>を<<<片付ければいいです0>>>か？\r\n<<<まずは>>>、<<<お皿>>>を<<<あそこ0>>>に<<<しまってくれる0>>>？\r\n<<<はい0>>><<<分かりました1>>>。\r\n<<<次0>>>は<<<何1>>>を<<<片付ければいいです1>>>か？\r\n<<<じゃあ0>>>、<<<次1>>>は<<<コップ>>>を<<<あっち0>>>に<<<置いてくれる>>>かな。\r\n<<<あっち1>>>ですね。\r\n<<<もう0>>><<<片付ける>>><<<もの>>>は<<<ないです>>>か？\r\n<<<まだ>>><<<ある>>>よ。<<<じゃあ1>>>、<<<次2>>>は<<<この>>><<<お箸>>>を<<<棚0>>>に<<<しまってくれる1>>>かな？\r\n<<<はい1>>>\r\n<<<棚1>>>ですね。\r\n<<<もう1>>><<<終わり0>>>ですか？\r\n<<<あと>>>は<<<これ0>>>を<<<片付ければ>>>、<<<全部0>>><<<完了>>>だよ。\r\n<<<分かりました2>>>。\r\n<<<これ1>>>を<<<あそこ1>>>に<<<入れてくれる>>>？\r\n<<<ここ>>>ですね。\r\n<<<はい2>>>。\r\n<<<はい3>>>。<<<全部1>>><<<終わり1>>>ですか？\r\n<<<うん>>><<<そう>>>だね。<<<全部2>>><<<終わった>>>よ。<<<いやー>>><<<すごく>>><<<助かった>>>よ。<<<ありがとう>>>。\r\n<<<どう>>><<<いたしまして>>>。<<<きれいに>>><<<片付いて>>><<<良かったです>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

@@ -1,0 +1,288 @@
+{
+  "image_id": "062",
+  "bounding_boxes": [
+    {
+      "image_id": "062",
+      "id": "2456",
+      "bb": [
+        1101,
+        320,
+        433,
+        315
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "2461",
+      "bb": [
+        1308,
+        596,
+        379,
+        315
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "004(ダイニングテーブル)",
+      "bb": [
+        1026,
+        221,
+        896,
+        747
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "062",
+      "id": "008(透明コップ)",
+      "bb": [
+        1274,
+        645,
+        81,
+        61
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "062",
+      "id": "009(青縁コップ)",
+      "bb": [
+        733,
+        454,
+        176,
+        139
+      ],
+      "class_name": "mug",
+      "auto_flg": false
+    },
+    {
+      "image_id": "062",
+      "id": "011(トレー)",
+      "bb": [
+        687,
+        351,
+        396,
+        457
+      ],
+      "class_name": "tray",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "005(布巾)",
+      "bb": [
+        865,
+        410,
+        168,
+        152
+      ],
+      "class_name": "dishrag",
+      "auto_flg": false
+    },
+    {
+      "image_id": "062",
+      "id": "010(ポテトチップス箱)",
+      "bb": [
+        835,
+        590,
+        132,
+        124
+      ],
+      "class_name": "crisp_(potato_chip)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "062",
+      "id": "3132",
+      "bb": [
+        651,
+        830,
+        179,
+        155
+      ],
+      "class_name": "earphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "3176",
+      "bb": [
+        1665,
+        396,
+        202,
+        202
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "002(ロボット)",
+      "bb": [
+        438,
+        449,
+        1021,
+        632
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "062",
+      "id": "3204",
+      "bb": [
+        951,
+        532,
+        518,
+        541
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "3218",
+      "bb": [
+        1757,
+        479,
+        162,
+        267
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "003(ティッシュ)",
+      "bb": [
+        1634,
+        578,
+        175,
+        155
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "062",
+      "id": "3231",
+      "bb": [
+        1484,
+        153,
+        257,
+        125
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "3243",
+      "bb": [
+        0,
+        720,
+        176,
+        238
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "3280",
+      "bb": [
+        1684,
+        605,
+        97,
+        98
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "3290",
+      "bb": [
+        1099,
+        196,
+        306,
+        187
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "3307",
+      "bb": [
+        1529,
+        252,
+        306,
+        207
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "3308",
+      "bb": [
+        1423,
+        909,
+        495,
+        169
+      ],
+      "class_name": "bench",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "3323",
+      "bb": [
+        972,
+        205,
+        67,
+        42
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "3326",
+      "bb": [
+        1,
+        0,
+        376,
+        193
+      ],
+      "class_name": "tape_measure",
+      "auto_flg": true
+    },
+    {
+      "image_id": "062",
+      "id": "3333",
+      "bb": [
+        1742,
+        0,
+        177,
+        92
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "062",
+    "id": "062",
+    "text": "<<<ティッシュ0>>>で<<<テーブル0>>>を<<<拭いてくれない>>>かな？\r\n<<<分かりました0>>>。<<<でも>>>、<<<ティッシュ1>>>より<<<布巾0>>>の<<<方>>>が<<<いいんじゃないです>>>か？\r\n<<<あ0>>><<<そうだ>>>ね。<<<じゃあ0>>>、<<<布巾1>>>で<<<お願い0>>>。\r\n<<<はい0>>>\r\n<<<じゃあ1>>>、<<<今>>>から<<<ご飯>>><<<作る>>>から、<<<テーブル1>>>は<<<できる>>>だけ<<<物>>>を<<<置かないで>>>ね。\r\n<<<テレビ0>>>の<<<リモコン>>>は<<<どう>>><<<します>>>？\r\n<<<あー>>><<<それ>>>は<<<テレビ1>>><<<台0>>>に<<<置いてきて>>>。\r\n<<<はい1>>><<<分かりました1>>>。<<<テレビ2>>><<<台1>>>に<<<戻します>>>。\r\n<<<あ1>>><<<コップ0>>>に<<<お茶0>>>を<<<入れといて>>>よ。\r\n<<<この>>><<<透明の>>><<<コップ1>>>で<<<いいです>>>か？\r\n<<<うん>>><<<お願い1>>>。\r\n<<<じゃあ2>>>、<<<テーブル2>>>を<<<片付けて>>>、<<<その後>>>に<<<お茶1>>>を<<<いれます>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

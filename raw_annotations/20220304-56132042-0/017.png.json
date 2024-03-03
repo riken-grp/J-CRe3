@@ -1,0 +1,432 @@
+{
+  "image_id": "017",
+  "bounding_boxes": [
+    {
+      "image_id": "017",
+      "id": "018(透明容器)",
+      "bb": [
+        1522,
+        731,
+        218,
+        209
+      ],
+      "class_name": "bowl",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "011(青縁カップ)",
+      "bb": [
+        722,
+        435,
+        61,
+        63
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "1421",
+      "bb": [
+        1387,
+        114,
+        43,
+        30
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "019(グラス6個)",
+      "bb": [
+        810,
+        514,
+        105,
+        222
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "1406",
+      "bb": [
+        167,
+        172,
+        656,
+        474
+      ],
+      "class_name": "desk",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1405",
+      "bb": [
+        1144,
+        70,
+        32,
+        46
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1404",
+      "bb": [
+        1783,
+        237,
+        125,
+        71
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1401",
+      "bb": [
+        665,
+        119,
+        103,
+        61
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1398",
+      "bb": [
+        1679,
+        203,
+        54,
+        28
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1392",
+      "bb": [
+        1806,
+        148,
+        115,
+        138
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1391",
+      "bb": [
+        1768,
+        148,
+        153,
+        177
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1373",
+      "bb": [
+        1624,
+        102,
+        141,
+        112
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1370",
+      "bb": [
+        1558,
+        769,
+        121,
+        123
+      ],
+      "class_name": "condiment",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1360",
+      "bb": [
+        512,
+        185,
+        154,
+        55
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "012(タンブラー)",
+      "bb": [
+        723,
+        476,
+        79,
+        127
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "1344",
+      "bb": [
+        1610,
+        799,
+        79,
+        107
+      ],
+      "class_name": "banana",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1320",
+      "bb": [
+        561,
+        410,
+        280,
+        493
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "015(布巾)",
+      "bb": [
+        1324,
+        884,
+        214,
+        187
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "1299",
+      "bb": [
+        593,
+        372,
+        54,
+        75
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "016(カップ麺)",
+      "bb": [
+        949,
+        919,
+        113,
+        129
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "1261",
+      "bb": [
+        133,
+        47,
+        343,
+        278
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1228",
+      "bb": [
+        603,
+        729,
+        265,
+        352
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "1208",
+      "bb": [
+        1221,
+        620,
+        87,
+        140
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "020(ポット)",
+      "bb": [
+        792,
+        226,
+        92,
+        133
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "1097",
+      "bb": [
+        1031,
+        720,
+        78,
+        147
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "004(上)",
+      "bb": [
+        627,
+        269,
+        1115,
+        810
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "991",
+      "bb": [
+        467,
+        60,
+        230,
+        212
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "971",
+      "bb": [
+        2,
+        392,
+        197,
+        375
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "22",
+      "bb": [
+        951,
+        548,
+        62,
+        137
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "11",
+      "bb": [
+        991,
+        369,
+        49,
+        115
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "017(ワイングラス６個)",
+      "bb": [
+        860,
+        367,
+        452,
+        500
+      ],
+      "class_name": "wineglass",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "003(テーブル)",
+      "bb": [
+        625,
+        267,
+        1118,
+        812
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "7",
+      "bb": [
+        1114,
+        491,
+        66,
+        131
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "017",
+      "id": "008(本)",
+      "bb": [
+        1194,
+        1032,
+        113,
+        48
+      ],
+      "class_name": "book",
+      "auto_flg": false
+    },
+    {
+      "image_id": "017",
+      "id": "001(主人)",
+      "bb": [
+        0,
+        380,
+        512,
+        674
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "017",
+    "id": "017",
+    "text": "<<<さて>>>、<<<三十分>>><<<後>>>に<<<みんな>>><<<来る>>>ぞ。\r\n<<<全部>>>で<<<六人0>>>でしょうか。\r\n<<<そう0>>>ね。<<<私0>>>も<<<入れて>>><<<六人1>>>よ。\r\n<<<それでは>>>、<<<テーブル0>>>の<<<上>>>を<<<片付けておきましょう>>>か？\r\n<<<そう1>>>だね。<<<お願いする>>>わ。<<<私1>>>は<<<冷蔵>>><<<庫>>>に<<<食>>><<<材>>>を<<<取ってくる>>>わね。\r\n<<<これ0>>>は<<<どこ0>>>に<<<置きましょう0>>>？\r\n<<<これ1>>>は<<<棚>>>に<<<戻しておいて>>><<<ちょうだい0>>>。\r\n<<<わかりました0>>>。\r\n<<<これ2>>>は<<<どこ1>>>に<<<置きましょう1>>>？\r\n<<<それ0>>>は<<<本棚>>>に<<<戻して>>><<<ちょうだい1>>>。\r\n<<<わかりました1>>>。\r\n<<<それ1>>>が<<<終わったら0>>>、<<<そこ>>>に<<<置いている>>><<<洗っていない>>><<<コップ>>>と<<<タンブラー>>>も<<<片付けて>>><<<ちょうだい2>>>。\r\n<<<わかりました2>>>。\r\n<<<これ3>>>は<<<キッチン>>>に<<<置けば良いです>>>か？\r\n<<<うん>>>\r\n<<<わかりました3>>>。\r\n<<<できれば>>><<<洗っておいてほしい>>>わ。\r\n<<<はい>>>\r\n<<<それ2>>>が<<<終わったら1>>>、<<<テーブル1>>>を<<<最後に>>><<<拭いてほしい>>>わ。\r\n<<<分かりました>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

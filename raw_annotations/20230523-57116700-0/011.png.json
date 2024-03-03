@@ -1,0 +1,600 @@
+{
+  "image_id": "011",
+  "bounding_boxes": [
+    {
+      "image_id": "011",
+      "id": "001(主人)",
+      "bb": [
+        260,
+        0,
+        765,
+        806
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "8",
+      "bb": [
+        1678,
+        137,
+        55,
+        46
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "15",
+      "bb": [
+        1770,
+        599,
+        149,
+        138
+      ],
+      "class_name": "potholder",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "36",
+      "bb": [
+        1524,
+        600,
+        162,
+        100
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "002(ロボット)",
+      "bb": [
+        672,
+        938,
+        760,
+        144
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "823",
+      "bb": [
+        665,
+        168,
+        33,
+        42
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "012(コンロ)",
+      "bb": [
+        686,
+        144,
+        397,
+        196
+      ],
+      "class_name": "hotplate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "907",
+      "bb": [
+        273,
+        329,
+        61,
+        56
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "017(シンク)",
+      "bb": [
+        1053,
+        408,
+        739,
+        600
+      ],
+      "class_name": "sink",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "930",
+      "bb": [
+        991,
+        113,
+        42,
+        72
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "011(引き出し)",
+      "bb": [
+        1024,
+        727,
+        364,
+        352
+      ],
+      "class_name": "drawer",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "957",
+      "bb": [
+        1803,
+        179,
+        117,
+        76
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "mat1",
+      "bb": [
+        1727,
+        227,
+        191,
+        128
+      ],
+      "class_name": "knife",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "966",
+      "bb": [
+        1315,
+        72,
+        605,
+        300
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "968",
+      "bb": [
+        1838,
+        135,
+        81,
+        68
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "974",
+      "bb": [
+        1684,
+        91,
+        124,
+        82
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "980",
+      "bb": [
+        1300,
+        166,
+        79,
+        50
+      ],
+      "class_name": "stool",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "986",
+      "bb": [
+        1460,
+        79,
+        213,
+        70
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "988",
+      "bb": [
+        832,
+        36,
+        15,
+        10
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "008(梱包材)",
+      "bb": [
+        929,
+        407,
+        196,
+        163
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "003(フライパン)",
+      "bb": [
+        816,
+        208,
+        179,
+        204
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "014(台)",
+      "bb": [
+        802,
+        325,
+        376,
+        260
+      ],
+      "class_name": "kitchen_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "1042",
+      "bb": [
+        825,
+        36,
+        56,
+        111
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "007(皿)",
+      "bb": [
+        1134,
+        143,
+        240,
+        183
+      ],
+      "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "006(包丁)",
+      "bb": [
+        797,
+        308,
+        150,
+        76
+      ],
+      "class_name": "knife",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "1070",
+      "bb": [
+        1399,
+        513,
+        106,
+        78
+      ],
+      "class_name": "soap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1075",
+      "bb": [
+        760,
+        102,
+        44,
+        62
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1087",
+      "bb": [
+        1417,
+        504,
+        67,
+        41
+      ],
+      "class_name": "soap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1090",
+      "bb": [
+        694,
+        155,
+        43,
+        46
+      ],
+      "class_name": "jar",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "mat",
+      "bb": [
+        1402,
+        104,
+        204,
+        66
+      ],
+      "class_name": "ladle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1119",
+      "bb": [
+        1500,
+        558,
+        72,
+        63
+      ],
+      "class_name": "paperweight",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1129",
+      "bb": [
+        1295,
+        351,
+        114,
+        249
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1132",
+      "bb": [
+        56,
+        440,
+        56,
+        56
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1134",
+      "bb": [
+        1075,
+        150,
+        47,
+        78
+      ],
+      "class_name": "glass_(drink_container)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "010(食器棚)",
+      "bb": [
+        -16,
+        1053,
+        196,
+        46
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "1148",
+      "bb": [
+        872,
+        67,
+        38,
+        73
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1162",
+      "bb": [
+        932,
+        87,
+        45,
+        72
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1186",
+      "bb": [
+        896,
+        75,
+        34,
+        67
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1202",
+      "bb": [
+        1017,
+        122,
+        43,
+        55
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1208",
+      "bb": [
+        0,
+        452,
+        32,
+        54
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1210",
+      "bb": [
+        913,
+        82,
+        31,
+        71
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1212",
+      "bb": [
+        1042,
+        135,
+        44,
+        89
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1216",
+      "bb": [
+        662,
+        532,
+        177,
+        87
+      ],
+      "class_name": "spoon",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1224",
+      "bb": [
+        980,
+        0,
+        242,
+        33
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "004(おたま)",
+      "bb": [
+        773,
+        308,
+        185,
+        104
+      ],
+      "class_name": "ladle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "005(鍋)",
+      "bb": [
+        811,
+        287,
+        199,
+        165
+      ],
+      "class_name": "pot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "011",
+      "id": "1244",
+      "bb": [
+        93,
+        283,
+        122,
+        60
+      ],
+      "class_name": "latch",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1262",
+      "bb": [
+        266,
+        2,
+        349,
+        492
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "011",
+      "id": "1265",
+      "bb": [
+        330,
+        329,
+        26,
+        25
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "011",
+    "id": "011",
+    "text": "<<<新しい>>><<<キッチン0>>><<<用品>>><<<買ってきた>>>よ。\r\n<<<あ0>>><<<そうなんです>>>ね。<<<沢山>>><<<あります>>>ね。\r\n<<<まず>>>、<<<一つずつ>>><<<洗ってくれる>>>？<<<刃物>>>に<<<気>>>を<<<付けて>>>ね。\r\n<<<分かりました0>>>。<<<台>>>の<<<上0>>>の<<<もの>>>を<<<洗えばいいのです>>>ね？\r\n<<<うん0>>><<<洗えたら>>>、<<<拭いて>>>ね。\r\n<<<分かりました1>>>。<<<布巾>>>を<<<取ってきて>>>、<<<拭きます>>>ね。\r\n<<<よいしょ0>>>。\r\n<<<開ける>>>。<<<ふふふふふふ>>>\r\n<<<開かない>>>。\r\n<<<あ1>>><<<全然>>><<<開けられない>>>な。\r\n<<<よいしょ1>>>。\r\n<<<よいしょ2>>>。\r\n<<<じゃあ>>>、<<<きれいに>>><<<拭けたら>>>、<<<それぞれ>>>の<<<場所>>>に<<<しまって>>>ね。\r\n<<<はい0>>><<<分かりました2>>>。\r\n<<<お皿>>>は<<<食器>>><<<棚>>>に<<<しまいます0>>>。<<<えっ>>>と<<<あと>>>、<<<お鍋>>>と<<<フライパン0>>>は<<<ひっかけておきます>>>ね。<<<包丁>>>と<<<お玉>>>は<<<どこ>>>に<<<しまいます1>>>か？\r\n<<<とー>>><<<ここ>>>の<<<下>>>の<<<引き出し>>>に<<<入れておいて>>>。\r\n<<<分かりました3>>>。\r\n<<<あ2>>><<<フライパン1>>>は<<<すぐ>>><<<使う>>>から、<<<コンロ>>>の<<<上1>>>に<<<置いておいといて>>>ね。\r\n<<<はい1>>><<<分かりました4>>>。\r\n<<<よいしょ3>>>。\r\n<<<うん1>>><<<ありがとう>>>。<<<とっても>>><<<きれいになった>>>わ。\r\n<<<どう>>><<<いたしまして>>>。<<<キッチン1>>><<<道具>>>が<<<増えて>>><<<良かったです>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

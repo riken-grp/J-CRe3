@@ -1,0 +1,440 @@
+{
+  "image_id": "006",
+  "bounding_boxes": [
+    {
+      "image_id": "006",
+      "id": "001(主人)",
+      "bb": [
+        1018,
+        1,
+        719,
+        805
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "017(シンク)",
+      "bb": [
+        720,
+        131,
+        472,
+        217
+      ],
+      "class_name": "sink",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "011(引き出し)",
+      "bb": [
+        784,
+        348,
+        441,
+        272
+      ],
+      "class_name": "drawer",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "chair",
+      "bb": [
+        503,
+        310,
+        124,
+        49
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "8",
+      "bb": [
+        636,
+        14,
+        35,
+        36
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "014(台)",
+      "bb": [
+        424,
+        257,
+        334,
+        218
+      ],
+      "class_name": "kitchen_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "15",
+      "bb": [
+        993,
+        88,
+        77,
+        37
+      ],
+      "class_name": "potholder",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "007(皿)",
+      "bb": [
+        921,
+        243,
+        229,
+        131
+      ],
+      "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "20",
+      "bb": [
+        1687,
+        16,
+        234,
+        167
+      ],
+      "class_name": "sofa",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "21",
+      "bb": [
+        618,
+        509,
+        82,
+        36
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "29",
+      "bb": [
+        553,
+        81,
+        67,
+        29
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "36",
+      "bb": [
+        945,
+        130,
+        53,
+        70
+      ],
+      "class_name": "soap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "55",
+      "bb": [
+        278,
+        602,
+        78,
+        40
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "008(梱包材)",
+      "bb": [
+        913,
+        232,
+        238,
+        167
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "002(ロボット)",
+      "bb": [
+        692,
+        927,
+        702,
+        153
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "194",
+      "bb": [
+        1804,
+        48,
+        112,
+        60
+      ],
+      "class_name": "cushion",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "214",
+      "bb": [
+        1234,
+        866,
+        296,
+        213
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "004(おたま)",
+      "bb": [
+        1026,
+        392,
+        224,
+        87
+      ],
+      "class_name": "ladle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "006(包丁)",
+      "bb": [
+        1016,
+        417,
+        215,
+        67
+      ],
+      "class_name": "knife",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "615",
+      "bb": [
+        1330,
+        1,
+        248,
+        132
+      ],
+      "class_name": "eyepatch",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "658",
+      "bb": [
+        1365,
+        233,
+        65,
+        53
+      ],
+      "class_name": "earphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "677",
+      "bb": [
+        303,
+        828,
+        165,
+        92
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "695",
+      "bb": [
+        761,
+        349,
+        192,
+        119
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "719",
+      "bb": [
+        1215,
+        499,
+        71,
+        60
+      ],
+      "class_name": "watch",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "005(鍋)",
+      "bb": [
+        924,
+        332,
+        292,
+        231
+      ],
+      "class_name": "pot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "012(コンロ)",
+      "bb": [
+        32,
+        256,
+        417,
+        330
+      ],
+      "class_name": "hotplate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "777",
+      "bb": [
+        266,
+        16,
+        74,
+        69
+      ],
+      "class_name": "speaker_(stero_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "786",
+      "bb": [
+        1720,
+        28,
+        70,
+        59
+      ],
+      "class_name": "pillow",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "003(フライパン)",
+      "bb": [
+        951,
+        369,
+        228,
+        174
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": false
+    },
+    {
+      "image_id": "006",
+      "id": "801",
+      "bb": [
+        1770,
+        148,
+        44,
+        23
+      ],
+      "class_name": "bowl",
+      "auto_flg": true
+    },
+    {
+      "image_id": "006",
+      "id": "802",
+      "bb": [
+        1686,
+        143,
+        232,
+        113
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "006",
+    "id": "006",
+    "text": "<<<新しい>>><<<キッチン0>>><<<用品>>><<<買ってきた>>>よ。\r\n<<<あ0>>><<<そうなんです>>>ね。<<<沢山>>><<<あります>>>ね。\r\n<<<まず>>>、<<<一つずつ>>><<<洗ってくれる>>>？<<<刃物>>>に<<<気>>>を<<<付けて>>>ね。\r\n<<<分かりました0>>>。<<<台>>>の<<<上0>>>の<<<もの>>>を<<<洗えばいいのです>>>ね？\r\n<<<うん0>>><<<洗えたら>>>、<<<拭いて>>>ね。\r\n<<<分かりました1>>>。<<<布巾>>>を<<<取ってきて>>>、<<<拭きます>>>ね。\r\n<<<よいしょ0>>>。\r\n<<<開ける>>>。<<<ふふふふふふ>>>\r\n<<<開かない>>>。\r\n<<<あ1>>><<<全然>>><<<開けられない>>>な。\r\n<<<よいしょ1>>>。\r\n<<<よいしょ2>>>。\r\n<<<じゃあ>>>、<<<きれいに>>><<<拭けたら>>>、<<<それぞれ>>>の<<<場所>>>に<<<しまって>>>ね。\r\n<<<はい0>>><<<分かりました2>>>。\r\n<<<お皿>>>は<<<食器>>><<<棚>>>に<<<しまいます0>>>。<<<えっ>>>と<<<あと>>>、<<<お鍋>>>と<<<フライパン0>>>は<<<ひっかけておきます>>>ね。<<<包丁>>>と<<<お玉>>>は<<<どこ>>>に<<<しまいます1>>>か？\r\n<<<とー>>><<<ここ>>>の<<<下>>>の<<<引き出し>>>に<<<入れておいて>>>。\r\n<<<分かりました3>>>。\r\n<<<あ2>>><<<フライパン1>>>は<<<すぐ>>><<<使う>>>から、<<<コンロ>>>の<<<上1>>>に<<<置いておいといて>>>ね。\r\n<<<はい1>>><<<分かりました4>>>。\r\n<<<よいしょ3>>>。\r\n<<<うん1>>><<<ありがとう>>>。<<<とっても>>><<<きれいになった>>>わ。\r\n<<<どう>>><<<いたしまして>>>。<<<キッチン1>>><<<道具>>>が<<<増えて>>><<<良かったです>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "006",
+      "id": "6",
+      "visual_id": "003(フライパン)",
+      "caption_id": "006",
+      "caption_region": [
+        23,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "006",
+      "id": "7",
+      "visual_id": "004(おたま)",
+      "caption_id": "006",
+      "caption_region": [
+        23,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "006",
+      "id": "8",
+      "visual_id": "005(鍋)",
+      "caption_id": "006",
+      "caption_region": [
+        23,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "006",
+      "id": "9",
+      "visual_id": "006(包丁)",
+      "caption_id": "006",
+      "caption_region": [
+        23,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "006",
+      "id": "10",
+      "visual_id": "007(皿)",
+      "caption_id": "006",
+      "caption_region": [
+        23,
+        2
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

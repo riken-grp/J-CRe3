@@ -1,0 +1,230 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "1",
+      "bb": [
+        692,
+        214,
+        185,
+        338
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        724,
+        540,
+        315,
+        397
+      ],
+      "class_name": "coffee_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "bb": [
+        848,
+        492,
+        48,
+        66
+      ],
+      "class_name": "bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        851,
+        556,
+        64,
+        71
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "9(K, P, R, S, V)",
+      "bb": [
+        1086,
+        658,
+        62,
+        58
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        828,
+        642,
+        163,
+        116
+      ],
+      "class_name": "gameboard",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "10(O, U, W)",
+      "bb": [
+        857,
+        626,
+        72,
+        50
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "2",
+      "bb": [
+        0,
+        379,
+        1920,
+        700
+      ],
+      "class_name": "runner_(carpet)",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<おもちゃ>>>が<<<散乱している>>>わね。\r\n<<<そう0>>>ですね。<<<床0>>>に<<<落ちてます>>>ね。\r\n<<<拾って>>><<<戻しておいてくれる>>>かしら？\r\n<<<わかりました0>>>。<<<床1>>>の<<<物0>>>だけで<<<良いです>>>か？\r\n<<<いや>>><<<そっち>>><<<の>>>も<<<戻して>>><<<ちょうだい>>>。\r\n<<<わかりました1>>>。\r\n<<<こちら>>>に<<<はめれば良いでしょう>>>か？\r\n<<<うん>>><<<あ>>>、<<<でも>>>、<<<戻す>>><<<前>>>に、<<<床2>>>に<<<落ちている>>><<<物1>>>は<<<埃>>>を<<<かぶっていて>>><<<汚れていそうだ>>>から、<<<拭いて>>>から<<<戻してほしいの>>>。\r\n<<<わかりました2>>>。<<<何>>>で<<<拭きましょう>>>か？\r\n<<<そう1>>>ね。<<<ここ>>>に<<<ある>>><<<これ0>>>で<<<お願いできる>>>かしら？\r\n<<<わかりました3>>>。\r\n<<<これ1>>>で<<<拭けば良いんです>>>か？\r\n<<<そう2>>>ね。<<<お願いする>>>わ。\r\n<<<わかりました4>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "000001",
+      "visual_id": "6",
+      "caption_id": "001",
+      "caption_region": [
+        440,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000002",
+      "visual_id": "6",
+      "caption_id": "001",
+      "caption_region": [
+        484,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000003",
+      "visual_id": "9(K, P, R, S, V)",
+      "caption_id": "001",
+      "caption_region": [
+        3,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000004",
+      "visual_id": "8",
+      "caption_id": "001",
+      "caption_region": [
+        210,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000005",
+      "visual_id": "10(O, U, W)",
+      "caption_id": "001",
+      "caption_region": [
+        3,
+        4
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "001",
+      "id": "000006",
+      "visual_id": "9(K, P, R, S, V)",
+      "caption_id": "001",
+      "caption_region": [
+        121,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000007",
+      "visual_id": "10(O, U, W)",
+      "caption_id": "001",
+      "caption_region": [
+        163,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000008",
+      "visual_id": "9(K, P, R, S, V)",
+      "caption_id": "001",
+      "caption_region": [
+        302,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000009",
+      "visual_id": "2",
+      "caption_id": "001",
+      "caption_region": [
+        44,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000010",
+      "visual_id": "2",
+      "caption_id": "001",
+      "caption_region": [
+        112,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000011",
+      "visual_id": "2",
+      "caption_id": "001",
+      "caption_region": [
+        282,
+        2
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

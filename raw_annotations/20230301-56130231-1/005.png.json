@@ -1,0 +1,408 @@
+{
+  "image_id": "005",
+  "bounding_boxes": [
+    {
+      "image_id": "005",
+      "id": "238",
+      "bb": [
+        823,
+        61,
+        42,
+        28
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "233",
+      "bb": [
+        644,
+        253,
+        47,
+        55
+      ],
+      "class_name": "carton",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "231",
+      "bb": [
+        1,
+        752,
+        183,
+        92
+      ],
+      "class_name": "bottle_opener",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "221",
+      "bb": [
+        1135,
+        36,
+        50,
+        27
+      ],
+      "class_name": "router_(computer_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "209",
+      "bb": [
+        952,
+        300,
+        46,
+        40
+      ],
+      "class_name": "orange_(fruit)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "208",
+      "bb": [
+        1339,
+        7,
+        48,
+        73
+      ],
+      "class_name": "microscope",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "206",
+      "bb": [
+        956,
+        70,
+        11,
+        16
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "193",
+      "bb": [
+        1805,
+        146,
+        81,
+        26
+      ],
+      "class_name": "phonebook",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "174",
+      "bb": [
+        1133,
+        38,
+        53,
+        31
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "165",
+      "bb": [
+        1182,
+        58,
+        71,
+        17
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "002(ロボット)",
+      "bb": [
+        992,
+        1026,
+        316,
+        57
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "122",
+      "bb": [
+        752,
+        216,
+        36,
+        30
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "80",
+      "bb": [
+        938,
+        306,
+        40,
+        36
+      ],
+      "class_name": "apple",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "57",
+      "bb": [
+        823,
+        216,
+        194,
+        72
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "30",
+      "bb": [
+        80,
+        835,
+        58,
+        52
+      ],
+      "class_name": "banana",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "27",
+      "bb": [
+        1318,
+        566,
+        74,
+        76
+      ],
+      "class_name": "shoe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "22",
+      "bb": [
+        825,
+        219,
+        129,
+        157
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "19",
+      "bb": [
+        170,
+        720,
+        76,
+        97
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "005(お盆)",
+      "bb": [
+        967,
+        229,
+        147,
+        63
+      ],
+      "class_name": "tray",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "17",
+      "bb": [
+        825,
+        221,
+        134,
+        99
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "15",
+      "bb": [
+        540,
+        207,
+        80,
+        69
+      ],
+      "class_name": "teapot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "13",
+      "bb": [
+        1,
+        692,
+        174,
+        97
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "003(テーブル)",
+      "bb": [
+        503,
+        192,
+        643,
+        420
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "10",
+      "bb": [
+        1488,
+        -1,
+        136,
+        56
+      ],
+      "class_name": "shower_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "014(テーブル上の物01)",
+      "bb": [
+        597,
+        199,
+        519,
+        190
+      ],
+      "class_name": "table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "8",
+      "bb": [
+        50,
+        152,
+        303,
+        172
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "008(コップb)",
+      "bb": [
+        815,
+        240,
+        28,
+        33
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "004(テーブルの上)",
+      "bb": [
+        504,
+        191,
+        641,
+        265
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "007(コップa)",
+      "bb": [
+        844,
+        285,
+        33,
+        39
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "021(黒ペン)",
+      "bb": [
+        703,
+        202,
+        34,
+        20
+      ],
+      "class_name": "pen",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "009(コップc)",
+      "bb": [
+        600,
+        282,
+        35,
+        34
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "001(主人)",
+      "bb": [
+        1207,
+        0,
+        570,
+        649
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "010(コーヒーカップ)",
+      "bb": [
+        883,
+        212,
+        40,
+        28
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "005",
+    "id": "005",
+    "text": "<<<テーブル>>>の<<<上0>>>を<<<片付けたいんだ>>>けど、<<<手伝ってくれない>>>？\r\n<<<はい0>>><<<まず>>><<<何>>>を<<<すればいいです>>>か？\r\n<<<コップ>>>を<<<食器>>><<<棚0>>>に<<<戻して>>>。<<<上1>>>から<<<二段目>>>ね。\r\n<<<あの>>><<<棚1>>>ですね。<<<分かりました0>>>。\r\n<<<あ>>><<<ちょっと>>><<<待って>>>。<<<お盆>>>を<<<使って>>><<<これ>>>に<<<載せて>>>、<<<全部>>><<<持って行って>>>。\r\n<<<はい1>>><<<コーヒー0>>><<<カップ0>>>も<<<収納します>>>か？\r\n<<<うん>>><<<お願い>>>。\r\n<<<コーヒー1>>><<<カップ1>>>は<<<上2>>>から<<<三段目>>>ね。\r\n<<<分かりました1>>>。<<<収納する>>><<<前>>>に<<<洗いましょう>>>か？\r\n<<<もう>>><<<洗ってある>>>から<<<大丈夫>>>。<<<コーヒー2>>><<<カップ2>>>は<<<同じ>>><<<ソーサー>>>の<<<ところ>>>に<<<なおして>>>。\r\n<<<はい2>>>、<<<作業>>>が<<<完了しました>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

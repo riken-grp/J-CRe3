@@ -1,0 +1,624 @@
+{
+  "image_id": "096",
+  "bounding_boxes": [
+    {
+      "image_id": "096",
+      "id": "002(ロボット)",
+      "bb": [
+        498,
+        538,
+        1150,
+        545
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "096",
+      "id": "009(お皿)",
+      "bb": [
+        688,
+        467,
+        268,
+        255
+      ],
+      "class_name": "bowl",
+      "auto_flg": false
+    },
+    {
+      "image_id": "096",
+      "id": "person",
+      "bb": [
+        983,
+        655,
+        467,
+        415
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "001(主人)",
+      "bb": [
+        0,
+        133,
+        840,
+        646
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "096",
+      "id": "5022",
+      "bb": [
+        915,
+        318,
+        695,
+        612
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5029",
+      "bb": [
+        500,
+        721,
+        328,
+        358
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5055",
+      "bb": [
+        650,
+        906,
+        114,
+        93
+      ],
+      "class_name": "earphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "008(バナナ)",
+      "bb": [
+        735,
+        241,
+        66,
+        96
+      ],
+      "class_name": "banana",
+      "auto_flg": false
+    },
+    {
+      "image_id": "096",
+      "id": "007(リンゴ)",
+      "bb": [
+        777,
+        252,
+        68,
+        62
+      ],
+      "class_name": "apple",
+      "auto_flg": false
+    },
+    {
+      "image_id": "096",
+      "id": "5075",
+      "bb": [
+        966,
+        255,
+        122,
+        135
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5078",
+      "bb": [
+        1006,
+        555,
+        79,
+        74
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5080",
+      "bb": [
+        623,
+        89,
+        201,
+        129
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5082",
+      "bb": [
+        601,
+        283,
+        271,
+        243
+      ],
+      "class_name": "chopping_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5086",
+      "bb": [
+        482,
+        30,
+        190,
+        112
+      ],
+      "class_name": "pot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "004(コーヒースティック)",
+      "bb": [
+        1789,
+        163,
+        54,
+        20
+      ],
+      "class_name": "packet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "096",
+      "id": "5100",
+      "bb": [
+        779,
+        279,
+        251,
+        216
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "005(ミルクポーション)",
+      "bb": [
+        1816,
+        161,
+        19,
+        10
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "096",
+      "id": "5120",
+      "bb": [
+        862,
+        149,
+        239,
+        128
+      ],
+      "class_name": "pan_(for_cooking)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5122",
+      "bb": [
+        1771,
+        122,
+        63,
+        38
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5123",
+      "bb": [
+        1169,
+        301,
+        192,
+        245
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5124",
+      "bb": [
+        1020,
+        634,
+        101,
+        33
+      ],
+      "class_name": "spoon",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5126",
+      "bb": [
+        1099,
+        157,
+        61,
+        78
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5128",
+      "bb": [
+        -1,
+        168,
+        795,
+        556
+      ],
+      "class_name": "bathrobe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5136",
+      "bb": [
+        391,
+        84,
+        64,
+        52
+      ],
+      "class_name": "jar",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5142",
+      "bb": [
+        1172,
+        130,
+        147,
+        189
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5146",
+      "bb": [
+        359,
+        98,
+        57,
+        47
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5150",
+      "bb": [
+        966,
+        226,
+        64,
+        47
+      ],
+      "class_name": "fork",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5151",
+      "bb": [
+        406,
+        66,
+        429,
+        237
+      ],
+      "class_name": "stove",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5157",
+      "bb": [
+        1182,
+        0,
+        250,
+        231
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5159",
+      "bb": [
+        1561,
+        50,
+        58,
+        40
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5160",
+      "bb": [
+        182,
+        311,
+        58,
+        54
+      ],
+      "class_name": "earphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5163",
+      "bb": [
+        1012,
+        75,
+        69,
+        98
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5173",
+      "bb": [
+        831,
+        22,
+        55,
+        98
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5175",
+      "bb": [
+        1564,
+        3,
+        129,
+        56
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5178",
+      "bb": [
+        789,
+        5,
+        62,
+        80
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5185",
+      "bb": [
+        721,
+        0,
+        45,
+        60
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5187",
+      "bb": [
+        467,
+        7,
+        51,
+        56
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5188",
+      "bb": [
+        0,
+        139,
+        244,
+        336
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5191",
+      "bb": [
+        1721,
+        26,
+        197,
+        147
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5193",
+      "bb": [
+        519,
+        0,
+        82,
+        47
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5194",
+      "bb": [
+        739,
+        0,
+        52,
+        67
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5198",
+      "bb": [
+        496,
+        0,
+        51,
+        52
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5205",
+      "bb": [
+        710,
+        0,
+        42,
+        51
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5210",
+      "bb": [
+        779,
+        278,
+        252,
+        217
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5213",
+      "bb": [
+        588,
+        0,
+        63,
+        34
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5214",
+      "bb": [
+        411,
+        87,
+        409,
+        218
+      ],
+      "class_name": "oven",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5215",
+      "bb": [
+        741,
+        167,
+        63,
+        57
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5216",
+      "bb": [
+        1176,
+        415,
+        88,
+        51
+      ],
+      "class_name": "soap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5219",
+      "bb": [
+        0,
+        54,
+        103,
+        113
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5220",
+      "bb": [
+        649,
+        956,
+        111,
+        43
+      ],
+      "class_name": "earphone",
+      "auto_flg": true
+    },
+    {
+      "image_id": "096",
+      "id": "5222",
+      "bb": [
+        693,
+        0,
+        39,
+        48
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "096",
+    "id": "096",
+    "text": "<<<おはよう>>>。<<<テレビ>>><<<つけてくれる>>>？\r\n<<<おはようございます>>>。<<<かしこまりました0>>>。\r\n<<<ありがとう0>>>。<<<コーヒー>>>が<<<飲みたいんだ>>>けど、<<<手伝ってくれる>>>かな？\r\n<<<分かりました0>>>。<<<ミルク>>>は<<<どう>>><<<します>>>か？\r\n<<<そう0>>>だねー<<<じゃあ0>>>、<<<持ってきてもらえる>>>？<<<お湯>>>は<<<こっち>>>で<<<準備する>>>から。\r\n<<<かしこまりました1>>>。\r\n<<<あと>>>、<<<フルーツ0>>>が<<<食べたいんだ>>>けど、<<<冷蔵>>><<<庫>>>に<<<何>>>か<<<ある>>>かな？\r\n<<<うん0>>>\r\n<<<そう1>>>ですね<<<見てきます>>>。\r\n<<<リンゴ0>>>と<<<バナナ0>>>が<<<あります>>>よ。\r\n<<<あ>>><<<じゃあ1>>>、<<<リンゴ1>>>は<<<私>>>が<<<切る>>>から、<<<バナナ1>>><<<むいてくれる>>>？\r\n<<<はい0>>><<<分かりました1>>>。\r\n<<<フルーツ1>>>を<<<入れる>>><<<お皿>>>も<<<持ってきます>>>ね。\r\n<<<うん1>>><<<ありがとう1>>>。\r\n<<<お>>><<<ありがとう2>>>。<<<気>>>が<<<利く>>>ね。\r\n<<<はい1>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

@@ -1,0 +1,516 @@
+{
+  "image_id": "050",
+  "bounding_boxes": [
+    {
+      "image_id": "050",
+      "id": "004(棚)",
+      "bb": [
+        -53,
+        183,
+        237,
+        422
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "001(主人)",
+      "bb": [
+        343,
+        171,
+        502,
+        825
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "009(机)",
+      "bb": [
+        865,
+        432,
+        866,
+        648
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "3499",
+      "bb": [
+        1159,
+        244,
+        142,
+        111
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3505",
+      "bb": [
+        1313,
+        525,
+        55,
+        63
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3506",
+      "bb": [
+        1300,
+        453,
+        142,
+        95
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3510",
+      "bb": [
+        1360,
+        500,
+        197,
+        132
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3512",
+      "bb": [
+        364,
+        326,
+        482,
+        366
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3516",
+      "bb": [
+        96,
+        471,
+        270,
+        153
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3519",
+      "bb": [
+        1531,
+        494,
+        168,
+        202
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "005(ウェットティッシュ)",
+      "bb": [
+        1251,
+        568,
+        96,
+        114
+      ],
+      "class_name": "bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "3530",
+      "bb": [
+        1351,
+        673,
+        308,
+        244
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3535",
+      "bb": [
+        1615,
+        678,
+        234,
+        268
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3623",
+      "bb": [
+        1118,
+        467,
+        157,
+        122
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3634",
+      "bb": [
+        977,
+        635,
+        292,
+        265
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3637",
+      "bb": [
+        1261,
+        415,
+        16,
+        32
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "008(布巾)",
+      "bb": [
+        284,
+        575,
+        100,
+        67
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": false
+    },
+    {
+      "image_id": "050",
+      "id": "3688",
+      "bb": [
+        839,
+        565,
+        164,
+        340
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3691",
+      "bb": [
+        703,
+        316,
+        29,
+        45
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3740",
+      "bb": [
+        1387,
+        993,
+        204,
+        86
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3752",
+      "bb": [
+        182,
+        579,
+        98,
+        40
+      ],
+      "class_name": "tinfoil",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3819",
+      "bb": [
+        691,
+        317,
+        34,
+        49
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3824",
+      "bb": [
+        729,
+        263,
+        18,
+        38
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3825",
+      "bb": [
+        733,
+        305,
+        26,
+        42
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3842",
+      "bb": [
+        933,
+        193,
+        200,
+        141
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3861",
+      "bb": [
+        1204,
+        895,
+        218,
+        184
+      ],
+      "class_name": "mug",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3896",
+      "bb": [
+        1164,
+        244,
+        137,
+        85
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3955",
+      "bb": [
+        1843,
+        389,
+        76,
+        51
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "3972",
+      "bb": [
+        1328,
+        590,
+        82,
+        66
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4012",
+      "bb": [
+        720,
+        313,
+        24,
+        43
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4018",
+      "bb": [
+        934,
+        193,
+        200,
+        110
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4020",
+      "bb": [
+        660,
+        289,
+        84,
+        33
+      ],
+      "class_name": "bowl",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4031",
+      "bb": [
+        1026,
+        415,
+        72,
+        191
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4054",
+      "bb": [
+        729,
+        812,
+        39,
+        41
+      ],
+      "class_name": "shoe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4068",
+      "bb": [
+        778,
+        239,
+        36,
+        68
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4079",
+      "bb": [
+        480,
+        343,
+        86,
+        55
+      ],
+      "class_name": "necklace",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4083",
+      "bb": [
+        523,
+        574,
+        238,
+        379
+      ],
+      "class_name": "jean",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4100",
+      "bb": [
+        647,
+        923,
+        58,
+        68
+      ],
+      "class_name": "shoe",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4103",
+      "bb": [
+        604,
+        408,
+        19,
+        22
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4121",
+      "bb": [
+        779,
+        288,
+        19,
+        35
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4126",
+      "bb": [
+        27,
+        452,
+        608,
+        480
+      ],
+      "class_name": "bathtub",
+      "auto_flg": true
+    },
+    {
+      "image_id": "050",
+      "id": "4149",
+      "bb": [
+        50,
+        184,
+        18,
+        40
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "050",
+    "id": "050",
+    "text": "<<<ようし>>>、<<<お客さん0>>>が<<<来る>>><<<前0>>>に、<<<ここ>>>を<<<片付けよう>>>と。<<<ゴミ0>>>を<<<捨ててくれる>>>？\r\n<<<分かりました0>>>。\r\n<<<この>>><<<お菓子>>>の<<<箱>>>は<<<捨ててもいいです0>>>か？\r\n<<<あ>>><<<それ0>>>は<<<ちょっと>>><<<残ってる0>>>から、<<<戸棚0>>>に<<<しまっておいて>>>。\r\n<<<分かりました1>>>。<<<他0>>>の<<<物0>>>は<<<捨ててもいいです1>>>か？\r\n<<<うん0>>><<<他1>>>のは<<<大丈夫>>>。\r\n<<<はい0>>>\r\n<<<では>>>、<<<ゴミ1>>>を<<<捨てます>>>ね。\r\n<<<うん1>>><<<ありがとう0>>>。<<<私0>>>は<<<物1>>>を<<<整理する>>>から、<<<えっ>>>と<<<ゴミ2>>>が<<<終わったら>>>、<<<机0>>>を<<<拭いておいてくれる>>>？\r\n<<<はい1>>>\r\n<<<水0>>><<<拭き>>>で<<<いいです0>>>か？\r\n<<<そう0>>>だねー<<<水1>>><<<拭きした>>><<<後0>>>に、<<<アルコール0>>>で<<<拭いて欲しい>>>かな。\r\n<<<はい2>>><<<アルコール1>>>は<<<ウェット0>>><<<ティッシュ0>>>で<<<いいです1>>>か？\r\n<<<うん2>>><<<ウェット1>>><<<ティッシュ1>>>でも、<<<それ1>>>でも<<<大丈夫だ>>>よ。\r\n<<<分かりました2>>>。<<<水2>>><<<拭きして>>>から、<<<ウェット2>>><<<ティッシュ2>>>で<<<机1>>>を<<<拭きます>>>ね。\r\n<<<うん3>>><<<ありがとう1>>>。<<<そう1>>>だ。<<<前1>>>にさ、<<<買ってきた>>><<<緑茶0>>>って<<<まだ>>><<<残ってる1>>>かな？\r\n<<<戸棚1>>>に<<<半分>>><<<残っていました>>>。\r\n<<<じゃあ>>>、<<<お客さん1>>>に<<<出したい>>>から、<<<お湯0>>>を<<<沸かしておいて>>>。\r\n<<<分かりました3>>>。<<<机2>>>を<<<拭いた>>><<<後1>>>に、<<<お湯1>>>を<<<沸かしておきます>>>ね。\r\n<<<うん4>>><<<あり>>>がと。<<<私1>>>は<<<緑茶1>>>を<<<用意してくる>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

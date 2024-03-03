@@ -1,0 +1,432 @@
+{
+  "image_id": "090",
+  "bounding_boxes": [
+    {
+      "image_id": "090",
+      "id": "4672",
+      "bb": [
+        1323,
+        157,
+        201,
+        164
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "008(黄コップ)",
+      "bb": [
+        1356,
+        441,
+        65,
+        67
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "001(主人)",
+      "bb": [
+        883,
+        59,
+        295,
+        739
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "5319",
+      "bb": [
+        1135,
+        226,
+        38,
+        81
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "5333",
+      "bb": [
+        1395,
+        522,
+        167,
+        129
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "tv",
+      "bb": [
+        1494,
+        182,
+        200,
+        147
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "5985",
+      "bb": [
+        1171,
+        578,
+        664,
+        496
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6001",
+      "bb": [
+        1554,
+        228,
+        76,
+        69
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "022(棚)",
+      "bb": [
+        -10,
+        669,
+        246,
+        383
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "fan",
+      "bb": [
+        373,
+        279,
+        112,
+        91
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "018(電子レンジ)",
+      "bb": [
+        481,
+        222,
+        223,
+        120
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "009(冷蔵庫)",
+      "bb": [
+        0,
+        76,
+        536,
+        718
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "003(テーブル)",
+      "bb": [
+        1641,
+        402,
+        280,
+        312
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "6132",
+      "bb": [
+        1177,
+        217,
+        37,
+        79
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6139",
+      "bb": [
+        1593,
+        803,
+        148,
+        100
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6148",
+      "bb": [
+        1196,
+        218,
+        11,
+        7
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6150",
+      "bb": [
+        914,
+        408,
+        165,
+        229
+      ],
+      "class_name": "short_pants",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6158",
+      "bb": [
+        1491,
+        184,
+        103,
+        114
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6162",
+      "bb": [
+        912,
+        71,
+        62,
+        86
+      ],
+      "class_name": "headband",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6167",
+      "bb": [
+        1503,
+        675,
+        57,
+        70
+      ],
+      "class_name": "soap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6175",
+      "bb": [
+        1245,
+        265,
+        31,
+        60
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6195",
+      "bb": [
+        762,
+        522,
+        98,
+        70
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6197",
+      "bb": [
+        481,
+        257,
+        159,
+        92
+      ],
+      "class_name": "microwave_oven",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6200",
+      "bb": [
+        762,
+        522,
+        98,
+        95
+      ],
+      "class_name": "bucket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6213",
+      "bb": [
+        1725,
+        405,
+        193,
+        102
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6220",
+      "bb": [
+        1549,
+        709,
+        100,
+        98
+      ],
+      "class_name": "hairbrush",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "007(スプーン)",
+      "bb": [
+        1334,
+        520,
+        127,
+        26
+      ],
+      "class_name": "spoon",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "6240",
+      "bb": [
+        1323,
+        157,
+        201,
+        157
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6246",
+      "bb": [
+        1143,
+        881,
+        45,
+        83
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6251",
+      "bb": [
+        1603,
+        6,
+        259,
+        516
+      ],
+      "class_name": "tripod",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6262",
+      "bb": [
+        602,
+        259,
+        35,
+        83
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6264",
+      "bb": [
+        972,
+        200,
+        82,
+        50
+      ],
+      "class_name": "choker",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6275",
+      "bb": [
+        0,
+        74,
+        389,
+        456
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "006(皿)",
+      "bb": [
+        1087,
+        295,
+        120,
+        51
+      ],
+      "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "6289",
+      "bb": [
+        1158,
+        341,
+        68,
+        38
+      ],
+      "class_name": "bowl",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "090",
+    "id": "090",
+    "text": "<<<ダイニング>>><<<テーブル>>>の<<<上0>>>の<<<食器0>>>を<<<持ってきてくれる>>>？\r\n<<<はい0>>><<<分かりました0>>>。\r\n<<<うん0>>>\r\n<<<お願い0>>>。\r\n<<<これ>>>で<<<全部>>>ですよ。<<<食器1>>><<<洗いましょう>>>か？\r\n<<<うん1>>>\r\n<<<あ0>>><<<そうしてくれる>>>と<<<助かる>>>。<<<私>>>は<<<残り物>>>を<<<冷蔵0>>><<<庫0>>>に<<<入れてくる>>>から、<<<洗い>>><<<物>>><<<お願い1>>>ね。\r\n<<<はい1>>>\r\n<<<包丁>>>を<<<しまいます>>>ね。\r\n<<<うん2>>>\r\n<<<他>>>に<<<何>>>か<<<お手伝いすること>>>は<<<あります>>>か？\r\n<<<そう0>>>ねー<<<あそこ>>>に<<<ケチャップ>>>と<<<マスタード>>>が<<<あるでしょう>>>。<<<あれ>>>は<<<冷蔵1>>><<<庫1>>>に<<<しまっておいて0>>>。\r\n<<<はい2>>><<<分かりました1>>>。\r\n<<<うん3>>>\r\n<<<ここ>>>に<<<ある0>>><<<果物0>>>も<<<冷蔵2>>><<<庫2>>>に<<<しまいましょう>>>か？\r\n<<<あ1>>><<<そうだ>>>。<<<うん4>>><<<果物1>>>も<<<一緒に>>><<<しまっておいて1>>>ね。\r\n<<<えっ>>>と<<<それ>>>と、<<<冷蔵3>>><<<庫3>>>から<<<豆乳>>>を<<<出して>>>、<<<温めてくれる>>>？\r\n<<<はい3>>>\r\n<<<はい4>>>\r\n<<<温める>>><<<の>>>は<<<マグカップ0>>><<<一杯>>>で<<<いいです>>>か？\r\n<<<そう1>>>ね<<<マグカップ1>>>を<<<二杯>>><<<レンジ>>>で<<<温めてくれたらいい>>>わ。\r\n<<<はい5>>>\r\n<<<この後>>>、<<<ココア0>>>を<<<入れるんです>>>よね？\r\n<<<そうそう>>><<<いつも>>>の<<<分量>>>で<<<お願い2>>>ね。\r\n<<<ココア1>>>は<<<えっとね>>><<<そこの>>><<<棚>>>の<<<上1>>>に<<<ある1>>>と<<<思うんだ>>>けど。\r\n<<<うん5>>>\r\n<<<あ2>>>\r\n<<<ありました>>>。\r\n<<<うん6>>><<<ありがとう0>>>。\r\n<<<ココア2>>>を<<<作ったら>>>、<<<お子さんたち>>>に<<<持っていきます>>>ね。\r\n<<<うん7>>><<<ありがとう1>>>。<<<そうしてちょうだい>>>。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

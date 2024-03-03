@@ -1,0 +1,600 @@
+{
+  "image_id": "041",
+  "bounding_boxes": [
+    {
+      "image_id": "041",
+      "id": "002(ロボット)",
+      "bb": [
+        807,
+        905,
+        677,
+        176
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "007(人参)",
+      "bb": [
+        1218,
+        472,
+        701,
+        607
+      ],
+      "class_name": "carrot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "001(主人)",
+      "bb": [
+        95,
+        0,
+        979,
+        850
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "2327",
+      "bb": [
+        1363,
+        375,
+        148,
+        148
+      ],
+      "class_name": "hand_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "005(たまねぎ)",
+      "bb": [
+        1183,
+        380,
+        91,
+        79
+      ],
+      "class_name": "onion",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "009(ジャガイモ１つ)",
+      "bb": [
+        1115,
+        359,
+        64,
+        44
+      ],
+      "class_name": "potato",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "2338",
+      "bb": [
+        1008,
+        548,
+        483,
+        411
+      ],
+      "class_name": "desk",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2355",
+      "bb": [
+        1257,
+        156,
+        55,
+        87
+      ],
+      "class_name": "glass_(drink_container)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "010(ジャガイモ２つ入り袋)",
+      "bb": [
+        1011,
+        220,
+        125,
+        137
+      ],
+      "class_name": "potato",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "2361",
+      "bb": [
+        1159,
+        109,
+        48,
+        74
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2377",
+      "bb": [
+        1671,
+        105,
+        240,
+        83
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2382",
+      "bb": [
+        974,
+        13,
+        50,
+        120
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2388",
+      "bb": [
+        1124,
+        90,
+        42,
+        71
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2389",
+      "bb": [
+        1612,
+        126,
+        228,
+        81
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2390",
+      "bb": [
+        1101,
+        80,
+        43,
+        79
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2391",
+      "bb": [
+        997,
+        196,
+        143,
+        79
+      ],
+      "class_name": "frying_pan",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2404",
+      "bb": [
+        1036,
+        57,
+        32,
+        68
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        -43,
+        589,
+        511,
+        410
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "2413",
+      "bb": [
+        1120,
+        0,
+        279,
+        36
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2423",
+      "bb": [
+        909,
+        80,
+        40,
+        64
+      ],
+      "class_name": "bottle_opener",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2426",
+      "bb": [
+        983,
+        13,
+        16,
+        10
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2460",
+      "bb": [
+        1,
+        382,
+        80,
+        70
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2467",
+      "bb": [
+        830,
+        133,
+        45,
+        50
+      ],
+      "class_name": "jar",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2482",
+      "bb": [
+        1078,
+        70,
+        40,
+        70
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2492",
+      "bb": [
+        1394,
+        346,
+        32,
+        42
+      ],
+      "class_name": "spoon",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2500",
+      "bb": [
+        921,
+        45,
+        63,
+        91
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2506",
+      "bb": [
+        85,
+        401,
+        67,
+        58
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2511",
+      "bb": [
+        1057,
+        63,
+        37,
+        70
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2528",
+      "bb": [
+        1187,
+        121,
+        52,
+        74
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2559",
+      "bb": [
+        898,
+        81,
+        104,
+        140
+      ],
+      "class_name": "teakettle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "008(ルー)",
+      "bb": [
+        1060,
+        413,
+        205,
+        134
+      ],
+      "class_name": "carton",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "2583",
+      "bb": [
+        1012,
+        227,
+        102,
+        127
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2619",
+      "bb": [
+        1013,
+        282,
+        41,
+        60
+      ],
+      "class_name": "garlic",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2725",
+      "bb": [
+        800,
+        144,
+        33,
+        46
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2743",
+      "bb": [
+        1202,
+        281,
+        182,
+        187
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2802",
+      "bb": [
+        1576,
+        492,
+        134,
+        170
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2830",
+      "bb": [
+        175,
+        412,
+        40,
+        38
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2834",
+      "bb": [
+        1212,
+        136,
+        56,
+        108
+      ],
+      "class_name": "glass_(drink_container)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2860",
+      "bb": [
+        1738,
+        730,
+        181,
+        97
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2864",
+      "bb": [
+        1833,
+        94,
+        86,
+        68
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "004(バッグ)",
+      "bb": [
+        785,
+        306,
+        154,
+        278
+      ],
+      "class_name": "shopping_bag",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "2920",
+      "bb": [
+        1001,
+        315,
+        296,
+        243
+      ],
+      "class_name": "chopping_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2936",
+      "bb": [
+        552,
+        714,
+        396,
+        134
+      ],
+      "class_name": "plastic_bag",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2947",
+      "bb": [
+        113,
+        162,
+        27,
+        32
+      ],
+      "class_name": "barrette",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "2956",
+      "bb": [
+        1527,
+        420,
+        211,
+        297
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "3004",
+      "bb": [
+        1088,
+        417,
+        154,
+        71
+      ],
+      "class_name": "carrot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "3008",
+      "bb": [
+        1015,
+        568,
+        58,
+        72
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "3048",
+      "bb": [
+        725,
+        449,
+        66,
+        107
+      ],
+      "class_name": "bucket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "3051",
+      "bb": [
+        1151,
+        484,
+        100,
+        39
+      ],
+      "class_name": "carrot",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "041",
+    "id": "041",
+    "text": "<<<ちょっと0>>>、<<<カレー>>>を<<<作ろう>>>と<<<思う>>>から、<<<手伝ってくれる>>>？\r\n<<<いいです>>>ね。\r\n<<<うん0>>>\r\n<<<じゃがいも>>>と<<<玉ねぎ>>>が<<<あります0>>>。\r\n<<<じゃあ0>>>、<<<適当に>>><<<取ってきて>>>。<<<人参0>>>は<<<なかった>>><<<?>>>\r\n<<<人参1>>>は<<<ないです>>>ね。\r\n<<<ふーん>>>。\r\n<<<あ0>>><<<ありがとう>>>。\r\n<<<あ1>>>\r\n<<<ここ>>>に<<<ありました>>>。\r\n<<<あ2>>><<<そうだ>>><<<昨日>>>、<<<買って来たんだっ>>>だ。<<<それ>>><<<取って>>>。\r\n<<<はい0>>>\r\n<<<他>>>にも<<<何0>>>か<<<あります1>>>ね。\r\n<<<何1>>>だっけな。<<<えっ>>>と\r\n<<<これ0>>>と。\r\n<<<じゃあ1>>>、<<<残り>>>は<<<冷蔵>>><<<庫>>>に<<<戻してきて0>>>。<<<あと>>>ね、<<<これ1>>>が、<<<ちょっと1>>><<<多かった>>>から、<<<これ2>>>も<<<一緒に>>><<<戻してきて1>>>。\r\n<<<分かりました>>>。\r\n<<<うん1>>><<<お願い0>>>。\r\n<<<この後>>>、<<<皮>>><<<むき>>>を<<<手伝います>>>ね。\r\n<<<うん2>>><<<助かる>>>。\r\n<<<よいしょ>>>。\r\n<<<じゃあ2>>>、<<<これ3>>>、<<<洗い>>><<<終わった>>><<<もの>>>から<<<お願い1>>>。\r\n<<<はい1>>>\r\n<<<あ3>>>\u3000<<<そうそう>>>、<<<これ4>>><<<使って>>>。\r\n<<<ありがとうございます>>>。\r\n<<<うん3>>>"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

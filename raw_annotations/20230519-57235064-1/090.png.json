@@ -1,0 +1,624 @@
+{
+  "image_id": "090",
+  "bounding_boxes": [
+    {
+      "image_id": "090",
+      "id": "3523",
+      "bb": [
+        1238,
+        219,
+        31,
+        22
+      ],
+      "class_name": "ball",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "3547",
+      "bb": [
+        1272,
+        179,
+        49,
+        61
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "3580",
+      "bb": [
+        1248,
+        179,
+        35,
+        45
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "3630",
+      "bb": [
+        1240,
+        241,
+        35,
+        25
+      ],
+      "class_name": "bowling_ball",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "plate",
+      "bb": [
+        1328,
+        198,
+        181,
+        53
+      ],
+      "class_name": "plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "009(蓋)",
+      "bb": [
+        838,
+        507,
+        275,
+        97
+      ],
+      "class_name": "cover",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "003(ポット)",
+      "bb": [
+        1501,
+        197,
+        95,
+        79
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "014(皿a)",
+      "bb": [
+        1031,
+        534,
+        235,
+        86
+      ],
+      "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "005(かご)",
+      "bb": [
+        828,
+        381,
+        492,
+        342
+      ],
+      "class_name": "basket",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "5513",
+      "bb": [
+        371,
+        294,
+        128,
+        166
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "5517",
+      "bb": [
+        295,
+        420,
+        104,
+        109
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "5529",
+      "bb": [
+        856,
+        354,
+        61,
+        132
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "5537",
+      "bb": [
+        303,
+        352,
+        157,
+        160
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "004(青縁カップ)",
+      "bb": [
+        1157,
+        675,
+        116,
+        134
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "5755",
+      "bb": [
+        1059,
+        357,
+        62,
+        108
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "007(水道)",
+      "bb": [
+        1356,
+        504,
+        364,
+        279
+      ],
+      "class_name": "water_faucet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "5836",
+      "bb": [
+        1114,
+        297,
+        123,
+        182
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "5881",
+      "bb": [
+        753,
+        347,
+        68,
+        114
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "006(布巾)",
+      "bb": [
+        819,
+        810,
+        199,
+        138
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "008(白カップ)",
+      "bb": [
+        922,
+        447,
+        95,
+        89
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "012(調理台)",
+      "bb": [
+        1019,
+        176,
+        585,
+        141
+      ],
+      "class_name": "region",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "chair",
+      "bb": [
+        1032,
+        216,
+        194,
+        68
+      ],
+      "class_name": "plate",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "5980",
+      "bb": [
+        1292,
+        486,
+        625,
+        545
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6033",
+      "bb": [
+        624,
+        330,
+        68,
+        93
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6045",
+      "bb": [
+        1241,
+        129,
+        75,
+        97
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6063",
+      "bb": [
+        1308,
+        146,
+        135,
+        60
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "015(皿b)",
+      "bb": [
+        1046,
+        502,
+        226,
+        71
+      ],
+      "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "002(ロボット)",
+      "bb": [
+        674,
+        820,
+        320,
+        264
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "6280",
+      "bb": [
+        1330,
+        251,
+        222,
+        76
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "013(ポットの方)",
+      "bb": [
+        1633,
+        150,
+        286,
+        146
+      ],
+      "class_name": "region",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6319",
+      "bb": [
+        1834,
+        649,
+        85,
+        91
+      ],
+      "class_name": "potholder",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6333",
+      "bb": [
+        1248,
+        257,
+        307,
+        216
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6367",
+      "bb": [
+        1242,
+        129,
+        75,
+        54
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6368",
+      "bb": [
+        1105,
+        131,
+        143,
+        53
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6417",
+      "bb": [
+        1413,
+        50,
+        33,
+        53
+      ],
+      "class_name": "corkscrew",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6439",
+      "bb": [
+        1856,
+        134,
+        43,
+        23
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6451",
+      "bb": [
+        162,
+        587,
+        92,
+        66
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "001(主人)",
+      "bb": [
+        1835,
+        952,
+        88,
+        131
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "090",
+      "id": "6456",
+      "bb": [
+        213,
+        538,
+        108,
+        82
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6458",
+      "bb": [
+        258,
+        441,
+        110,
+        113
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6470",
+      "bb": [
+        804,
+        355,
+        64,
+        116
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6473",
+      "bb": [
+        492,
+        325,
+        64,
+        107
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6475",
+      "bb": [
+        571,
+        326,
+        62,
+        104
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6476",
+      "bb": [
+        537,
+        327,
+        61,
+        104
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6478",
+      "bb": [
+        701,
+        342,
+        77,
+        117
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6481",
+      "bb": [
+        1811,
+        173,
+        66,
+        21
+      ],
+      "class_name": "book",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6490",
+      "bb": [
+        459,
+        326,
+        57,
+        104
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6492",
+      "bb": [
+        311,
+        352,
+        40,
+        26
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6500",
+      "bb": [
+        1226,
+        56,
+        72,
+        30
+      ],
+      "class_name": "cash_register",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6527",
+      "bb": [
+        921,
+        970,
+        118,
+        48
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "090",
+      "id": "6559",
+      "bb": [
+        1530,
+        686,
+        180,
+        98
+      ],
+      "class_name": "can_opener",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "090",
+    "id": "090",
+    "text": "<<<よっし>>>、<<<洗い>>><<<物>>>が<<<終わったら0>>>、<<<コーヒー>>>でも<<<飲もう>>>かな。\r\n<<<それ0>>>なら、<<<お湯0>>>を<<<沸かしましょう>>>か？\r\n<<<うん0>>><<<お願いする>>>よ。<<<えっ0>>>と<<<それ1>>>を<<<使ってくれる>>>？\r\n<<<はい0>>>\r\n<<<水道>>>を<<<使わせて下さい>>>。\r\n<<<あ>>><<<ごめん>>>。<<<ちょっと>>>、<<<待って>>>ね。\r\n<<<よいしょ>>>。\r\n<<<はい1>>>、<<<どうぞ>>>。\r\n<<<ありがとうございます>>>。\r\n<<<沸く>>>まで、<<<少し>>><<<お待ち下さい>>>。\r\n<<<うん1>>><<<ありがとう0>>>。<<<えっ1>>>と<<<マグカップ0>>>も<<<用意しておいてもらえる>>>かな。\r\n<<<はい2>>>\r\n<<<マグカップ1>>>を<<<出しておきます>>>ね。\r\n<<<うん2>>><<<お願い0>>>。\r\n<<<洗い終わった>>><<<の>>>を、<<<かご>>>に<<<入れていってくれる>>>？\r\n<<<はい3>>>\r\n<<<はい4>>>。\r\n<<<並べておきます>>>ね。\r\n<<<うん3>>><<<お願い1>>>。\r\n<<<じゃ>>>、<<<それ2>>>が<<<終わったら1>>>、<<<布巾>>>で<<<この>>><<<あたり>>>も<<<拭いといてくれる>>>かな？\r\n<<<はい5>>><<<分かりました>>>。\r\n<<<調理>>><<<台>>>を<<<拭いておきます>>>ね。\r\n<<<うん4>>><<<ありがとう1>>>。\r\n<<<あと>>>、<<<あの>>><<<ポット>>>の<<<方>>>も<<<お願い2>>>。\r\n<<<はい6>>><<<お湯1>>>が<<<沸いたら>>>、<<<お知らせします>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

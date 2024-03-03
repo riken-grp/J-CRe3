@@ -1,0 +1,792 @@
+{
+  "image_id": "080",
+  "bounding_boxes": [
+    {
+      "image_id": "080",
+      "id": "1833",
+      "bb": [
+        919,
+        582,
+        908,
+        498
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "003(人参)",
+      "bb": [
+        1682,
+        638,
+        115,
+        133
+      ],
+      "class_name": "carrot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "012(洗ジャガイモ)",
+      "bb": [
+        1697,
+        791,
+        154,
+        125
+      ],
+      "class_name": "potato",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "007(豆乳)",
+      "bb": [
+        890,
+        439,
+        139,
+        199
+      ],
+      "class_name": "soya_milk",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "box",
+      "bb": [
+        1258,
+        342,
+        178,
+        144
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "2259",
+      "bb": [
+        933,
+        290,
+        93,
+        84
+      ],
+      "class_name": "mouse_(computer_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "031(ここ1)",
+      "bb": [
+        585,
+        430,
+        307,
+        301
+      ],
+      "class_name": "region",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "person",
+      "bb": [
+        1170,
+        835,
+        245,
+        240
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "3408",
+      "bb": [
+        1334,
+        594,
+        92,
+        98
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "013(皮むきジャガイモ)",
+      "bb": [
+        943,
+        629,
+        142,
+        103
+      ],
+      "class_name": "potato",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "021(鍋)",
+      "bb": [
+        385,
+        230,
+        214,
+        132
+      ],
+      "class_name": "pot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "009(包丁)",
+      "bb": [
+        626,
+        427,
+        102,
+        99
+      ],
+      "class_name": "knife",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "008(ボウル)",
+      "bb": [
+        562,
+        284,
+        163,
+        146
+      ],
+      "class_name": "bowl",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "001(主人)",
+      "bb": [
+        0,
+        185,
+        759,
+        708
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "014(ジャガイモ皮)",
+      "bb": [
+        1057,
+        711,
+        388,
+        319
+      ],
+      "class_name": "potato",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "4162",
+      "bb": [
+        1033,
+        234,
+        63,
+        106
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4224",
+      "bb": [
+        850,
+        281,
+        69,
+        81
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4333",
+      "bb": [
+        893,
+        344,
+        194,
+        115
+      ],
+      "class_name": "mouse_(computer_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4344",
+      "bb": [
+        976,
+        472,
+        41,
+        40
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4345",
+      "bb": [
+        1242,
+        437,
+        79,
+        66
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4370",
+      "bb": [
+        768,
+        256,
+        95,
+        90
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4378",
+      "bb": [
+        1442,
+        239,
+        359,
+        312
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4512",
+      "bb": [
+        408,
+        482,
+        37,
+        50
+      ],
+      "class_name": "bracelet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "002(ロボット)",
+      "bb": [
+        589,
+        627,
+        830,
+        455
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "080",
+      "id": "4595",
+      "bb": [
+        1074,
+        100,
+        17,
+        52
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4654",
+      "bb": [
+        330,
+        454,
+        13,
+        16
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4656",
+      "bb": [
+        1388,
+        140,
+        455,
+        175
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4662",
+      "bb": [
+        1611,
+        172,
+        231,
+        101
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4665",
+      "bb": [
+        1446,
+        192,
+        44,
+        28
+      ],
+      "class_name": "beachball",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4667",
+      "bb": [
+        337,
+        277,
+        59,
+        52
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "006(冷蔵庫)",
+      "bb": [
+        1524,
+        214,
+        285,
+        130
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4673",
+      "bb": [
+        1429,
+        176,
+        43,
+        25
+      ],
+      "class_name": "beachball",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4679",
+      "bb": [
+        1465,
+        170,
+        41,
+        28
+      ],
+      "class_name": "beachball",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4688",
+      "bb": [
+        1555,
+        209,
+        37,
+        26
+      ],
+      "class_name": "lemon",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4690",
+      "bb": [
+        721,
+        0,
+        285,
+        113
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4692",
+      "bb": [
+        1517,
+        137,
+        80,
+        70
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4695",
+      "bb": [
+        1214,
+        125,
+        209,
+        91
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4701",
+      "bb": [
+        777,
+        177,
+        60,
+        92
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4715",
+      "bb": [
+        1612,
+        116,
+        201,
+        84
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4716",
+      "bb": [
+        1290,
+        90,
+        201,
+        59
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4719",
+      "bb": [
+        476,
+        135,
+        111,
+        106
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4721",
+      "bb": [
+        1504,
+        133,
+        44,
+        51
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4725",
+      "bb": [
+        1501,
+        83,
+        108,
+        106
+      ],
+      "class_name": "flowerpot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4729",
+      "bb": [
+        1380,
+        61,
+        144,
+        69
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4731",
+      "bb": [
+        1507,
+        84,
+        104,
+        59
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4763",
+      "bb": [
+        692,
+        147,
+        51,
+        92
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4765",
+      "bb": [
+        434,
+        188,
+        56,
+        62
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4770",
+      "bb": [
+        468,
+        181,
+        54,
+        58
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4779",
+      "bb": [
+        851,
+        196,
+        59,
+        91
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4786",
+      "bb": [
+        814,
+        189,
+        53,
+        72
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4794",
+      "bb": [
+        677,
+        144,
+        60,
+        92
+      ],
+      "class_name": "glass_(drink_container)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4808",
+      "bb": [
+        296,
+        518,
+        302,
+        338
+      ],
+      "class_name": "short_pants",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4855",
+      "bb": [
+        848,
+        350,
+        199,
+        153
+      ],
+      "class_name": "mouse_(computer_equipment)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4867",
+      "bb": [
+        1397,
+        592,
+        27,
+        26
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "4883",
+      "bb": [
+        1812,
+        219,
+        107,
+        96
+      ],
+      "class_name": "teapot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "5011",
+      "bb": [
+        550,
+        97,
+        21,
+        16
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "5022",
+      "bb": [
+        723,
+        0,
+        282,
+        86
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "5043",
+      "bb": [
+        772,
+        170,
+        41,
+        95
+      ],
+      "class_name": "glass_(drink_container)",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "5045",
+      "bb": [
+        670,
+        144,
+        53,
+        90
+      ],
+      "class_name": "wineglass",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "5048",
+      "bb": [
+        225,
+        417,
+        16,
+        9
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "5061",
+      "bb": [
+        1099,
+        199,
+        116,
+        191
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "5091",
+      "bb": [
+        609,
+        569,
+        11,
+        14
+      ],
+      "class_name": "ring",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "5096",
+      "bb": [
+        538,
+        252,
+        60,
+        49
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "5119",
+      "bb": [
+        1415,
+        988,
+        28,
+        17
+      ],
+      "class_name": "crumb",
+      "auto_flg": true
+    },
+    {
+      "image_id": "080",
+      "id": "005(皮むき)",
+      "bb": [
+        1124,
+        789,
+        86,
+        88
+      ],
+      "class_name": "peeler_(tool_for_fruit_and_vegetables)",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "080",
+    "id": "080",
+    "text": "<<<あ0>>><<<じゃあ0>>>、<<<シチュー>>><<<作る>>><<<の0>>>を<<<手伝ってくれる>>>？\r\n<<<分かりました0>>>。\r\n<<<あららー>>><<<牛乳0>>>が<<<ありません>>>ね。\r\n<<<あ1>>><<<買う>>><<<の1>>><<<忘れてた>>>。<<<んー>>><<<代用できそうな>>><<<もの>>><<<何>>>か<<<ある0>>>？\r\n<<<豆乳0>>>なら<<<あります>>>よ。<<<牛乳1>>>が<<<ない>>><<<場合>>>は<<<豆乳1>>>で<<<代用する>>><<<こと>>>が<<<可能です>>>。\r\n<<<うん0>>><<<うん1>>>\r\n<<<おー>>><<<じゃあ1>>>、<<<それ>>>を<<<使おう>>>。\r\n<<<じゃあ2>>>、<<<とりあえず>>>、<<<ここ0>>>に<<<ある1>>><<<野菜0>>>を<<<切ってくれる>>>？\r\n<<<はい0>>><<<了解しました>>>。<<<最初に>>><<<皮0>>>を<<<剥きます>>>ね。\r\n<<<まず>>>、<<<剥かなきゃ>>>ね。\r\n<<<うん2>>><<<うん3>>>\r\n<<<うん4>>>\r\n<<<じゃあ3>>>、<<<皮1>>><<<むき>>>は<<<ここ1>>>に<<<ある2>>>からね。\r\n<<<はい1>>><<<お借りします>>>。\r\n<<<うん5>>>\r\n<<<切ったら>>><<<ここ2>>>に<<<入れていく>>>ね。\r\n<<<はい2>>>\r\n<<<よいしょ0>>>。\r\n<<<じゃあ4>>>、<<<私>>>も<<<手伝う>>>ね。<<<ちょっと>>>、<<<いい>>>？<<<ごめん>>>ね。\r\n<<<はい3>>>\r\n<<<助かります>>>。\r\n<<<うん6>>>\r\n<<<よいしょ1>>>。\r\n<<<はい4>>><<<ありがとう0>>>。<<<じゃあ5>>>、<<<切っていく>>>ね。\r\n<<<よいしょ2>>>。<<<切った0>>><<<野菜1>>>は<<<ここ3>>>に<<<入れます>>>。\r\n<<<人参>>>も<<<お願いできます>>>か？\r\n<<<うん7>>><<<もちろん>>>。\r\n<<<よいしょ3>>>。\r\n<<<えーっと>>>\r\n<<<よいしょ4>>>。\r\n<<<じゃあ6>>>、<<<切った1>>><<<野菜2>>>は<<<ここ4>>>に<<<入れて>>>。\r\n<<<あと>>>、<<<鶏肉0>>><<<取ってくれる>>>かな？\r\n<<<鶏肉1>>>ですね。\r\n<<<うん8>>>\r\n<<<冷蔵>>><<<庫>>>から<<<取ってきます>>>。\r\n<<<うん9>>><<<お願い>>>。\r\n<<<どうぞ>>>。\r\n<<<あ2>>><<<ありがとう1>>>。<<<じゃあ7>>>、<<<鶏肉2>>>を<<<炒める>>>から、<<<この>>><<<野菜3>>>、<<<チンしてきてくれる>>>？\r\n<<<はい5>>><<<分かりました1>>>。<<<何分>>><<<温めましょう>>>か？\r\n<<<うん10>>>\r\n<<<そう>>>だね<<<五分0>>>で<<<よろしく>>>。\r\n<<<五分1>>>ですね。<<<分かりました2>>>。\r\n<<<うん11>>>"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

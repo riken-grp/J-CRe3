@@ -1,0 +1,364 @@
+{
+  "image_id": "030",
+  "bounding_boxes": [
+    {
+      "image_id": "030",
+      "id": "005(たまねぎ)",
+      "bb": [
+        758,
+        21,
+        65,
+        52
+      ],
+      "class_name": "onion",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "008(ルー)",
+      "bb": [
+        968,
+        625,
+        186,
+        226
+      ],
+      "class_name": "carton",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "1734",
+      "bb": [
+        188,
+        740,
+        152,
+        78
+      ],
+      "class_name": "wristlet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "1766",
+      "bb": [
+        317,
+        -1,
+        363,
+        98
+      ],
+      "class_name": "shirt",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "001(主人)",
+      "bb": [
+        316,
+        -3,
+        431,
+        327
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "1913",
+      "bb": [
+        1817,
+        37,
+        102,
+        45
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "1929",
+      "bb": [
+        669,
+        2,
+        168,
+        124
+      ],
+      "class_name": "chopping_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "004(バッグ)",
+      "bb": [
+        228,
+        367,
+        1689,
+        620
+      ],
+      "class_name": "shopping_bag",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "014(トマトb)",
+      "bb": [
+        984,
+        596,
+        107,
+        77
+      ],
+      "class_name": "tomato",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "2050",
+      "bb": [
+        907,
+        123,
+        137,
+        64
+      ],
+      "class_name": "inhaler",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2056",
+      "bb": [
+        685,
+        73,
+        544,
+        532
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "013(トマトa)",
+      "bb": [
+        924,
+        690,
+        102,
+        92
+      ],
+      "class_name": "tomato",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "007(人参)",
+      "bb": [
+        959,
+        711,
+        165,
+        133
+      ],
+      "class_name": "carrot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "002(ロボット)",
+      "bb": [
+        99,
+        361,
+        1819,
+        738
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "2140",
+      "bb": [
+        0,
+        686,
+        121,
+        161
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2142",
+      "bb": [
+        1,
+        512,
+        133,
+        176
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2144",
+      "bb": [
+        1063,
+        222,
+        62,
+        123
+      ],
+      "class_name": "banana",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2150",
+      "bb": [
+        18,
+        792,
+        23,
+        21
+      ],
+      "class_name": "knob",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "2155",
+      "bb": [
+        1,
+        93,
+        119,
+        81
+      ],
+      "class_name": "alarm_clock",
+      "auto_flg": true
+    },
+    {
+      "image_id": "030",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        -10,
+        165,
+        333,
+        397
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "030",
+      "id": "006(ジャガイモ３つ入り袋)",
+      "bb": [
+        630,
+        -16,
+        175,
+        78
+      ],
+      "class_name": "potato",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "030",
+    "id": "030",
+    "text": "<<<ちょっと0>>>、<<<カレー>>>を<<<作ろう>>>と<<<思う>>>から、<<<手伝ってくれる>>>？\r\n<<<いいです>>>ね。\r\n<<<うん0>>>\r\n<<<じゃがいも>>>と<<<玉ねぎ>>>が<<<あります0>>>。\r\n<<<じゃあ0>>>、<<<適当に>>><<<取ってきて>>>。<<<人参0>>>は<<<なかった>>><<<?>>>\r\n<<<人参1>>>は<<<ないです>>>ね。\r\n<<<ふーん>>>。\r\n<<<あ0>>><<<ありがとう>>>。\r\n<<<あ1>>>\r\n<<<ここ>>>に<<<ありました>>>。\r\n<<<あ2>>><<<そうだ>>><<<昨日>>>、<<<買って来たんだっ>>>だ。<<<それ>>><<<取って>>>。\r\n<<<はい0>>>\r\n<<<他>>>にも<<<何0>>>か<<<あります1>>>ね。\r\n<<<何1>>>だっけな。<<<えっ>>>と\r\n<<<これ0>>>と。\r\n<<<じゃあ1>>>、<<<残り>>>は<<<冷蔵>>><<<庫>>>に<<<戻してきて0>>>。<<<あと>>>ね、<<<これ1>>>が、<<<ちょっと1>>><<<多かった>>>から、<<<これ2>>>も<<<一緒に>>><<<戻してきて1>>>。\r\n<<<分かりました>>>。\r\n<<<うん1>>><<<お願い0>>>。\r\n<<<この後>>>、<<<皮>>><<<むき>>>を<<<手伝います>>>ね。\r\n<<<うん2>>><<<助かる>>>。\r\n<<<よいしょ>>>。\r\n<<<じゃあ2>>>、<<<これ3>>>、<<<洗い>>><<<終わった>>><<<もの>>>から<<<お願い1>>>。\r\n<<<はい1>>>\r\n<<<あ3>>>\u3000<<<そうそう>>>、<<<これ4>>><<<使って>>>。\r\n<<<ありがとうございます>>>。\r\n<<<うん3>>>"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "030",
+      "id": "7",
+      "visual_id": "007(人参)",
+      "caption_id": "030",
+      "caption_region": [
+        155,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "8",
+      "visual_id": "007(人参)",
+      "caption_id": "030",
+      "caption_region": [
+        184,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "030",
+      "id": "9",
+      "visual_id": "007(人参)",
+      "caption_id": "030",
+      "caption_region": [
+        261,
+        5
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "030",
+      "id": "10",
+      "visual_id": "007(人参)",
+      "caption_id": "030",
+      "caption_region": [
+        301,
+        8
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "030",
+      "id": "11",
+      "visual_id": "007(人参)",
+      "caption_id": "030",
+      "caption_region": [
+        317,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "030",
+      "id": "12",
+      "visual_id": "007(人参)",
+      "caption_id": "030",
+      "caption_region": [
+        405,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "030",
+      "id": "13",
+      "visual_id": "008(ルー)",
+      "caption_id": "030",
+      "caption_region": [
+        405,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "030",
+      "id": "14",
+      "visual_id": "013(トマトa)",
+      "caption_id": "030",
+      "caption_region": [
+        429,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "030",
+      "id": "15",
+      "visual_id": "014(トマトb)",
+      "caption_id": "030",
+      "caption_region": [
+        429,
+        2
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "image_id": "059",
+  "bounding_boxes": [
+    {
+      "image_id": "059",
+      "id": "001(主人)",
+      "bb": [
+        1471,
+        694,
+        449,
+        373
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "059",
+      "id": "5189",
+      "bb": [
+        1709,
+        0,
+        98,
+        27
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "011(カップラーメン)",
+      "bb": [
+        775,
+        821,
+        133,
+        121
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "059",
+      "id": "5128",
+      "bb": [
+        1381,
+        82,
+        221,
+        240
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "014(バナナ)",
+      "bb": [
+        757,
+        800,
+        225,
+        135
+      ],
+      "class_name": "banana",
+      "auto_flg": false
+    },
+    {
+      "image_id": "059",
+      "id": "5080",
+      "bb": [
+        0,
+        218,
+        28,
+        37
+      ],
+      "class_name": "marker",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "5078",
+      "bb": [
+        -1,
+        139,
+        96,
+        75
+      ],
+      "class_name": "clipboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "4989",
+      "bb": [
+        652,
+        394,
+        400,
+        439
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "002(ロボット)",
+      "bb": [
+        739,
+        555,
+        720,
+        524
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "059",
+      "id": "4762",
+      "bb": [
+        863,
+        16,
+        116,
+        48
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "4761",
+      "bb": [
+        796,
+        85,
+        273,
+        174
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "4186",
+      "bb": [
+        579,
+        38,
+        204,
+        312
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "003(ダイニングテーブル)",
+      "bb": [
+        617,
+        33,
+        1037,
+        1023
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "059",
+      "id": "010(キッチン)",
+      "bb": [
+        0,
+        -1,
+        563,
+        845
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    },
+    {
+      "image_id": "059",
+      "id": "004(マグカップa)",
+      "bb": [
+        1141,
+        457,
+        106,
+        116
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "059",
+      "id": "3806",
+      "bb": [
+        1058,
+        120,
+        232,
+        223
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "3784",
+      "bb": [
+        1214,
+        0,
+        129,
+        90
+      ],
+      "class_name": "coffeepot",
+      "auto_flg": true
+    },
+    {
+      "image_id": "059",
+      "id": "005(マグカップb)",
+      "bb": [
+        1115,
+        508,
+        108,
+        93
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "059",
+    "id": "059",
+    "text": "<<<ここ>>>に<<<ある0>>><<<コップ0>>>を<<<片付けてくれない>>>？\r\n<<<沢山>>><<<あります>>>が<<<全部>>>ですか？\r\n<<<うん0>>><<<ガラス>>>の<<<コップ1>>>は<<<使ってない>>>から<<<棚>>>に<<<しまっておいて>>>、<<<えっ>>>と<<<マグカップ>>>と<<<タンブラー>>>は<<<洗い場>>>に<<<持っていってもらえる>>>？\r\n<<<分かりました0>>>。\r\n<<<ありがとうございます>>>。\r\n<<<あ0>>><<<あと>>><<<カップ0>>><<<ラーメン>>>も<<<キッチン>>>に<<<持っていって欲しい>>>な。\r\n<<<どこ>>>に<<<置きます>>>か？\r\n<<<床>>>に<<<箱>>>が<<<ある1>>>から<<<そこ>>>に<<<入れちゃって>>>。\r\n<<<分かりました1>>>。<<<カップ1>>>と<<<一緒に0>>><<<持っていきます0>>>ね。\r\n<<<ありがとう0>>>。<<<あ1>>><<<バナナ>>>も<<<一緒に1>>><<<冷蔵>>><<<庫>>>に<<<しまって欲しい>>>な。\r\n<<<分かりました2>>>。<<<一緒に2>>><<<持っていきます1>>>ね。\r\n<<<うん1>>>\r\n<<<ありがとう1>>>。<<<よろしく>>>ね。<<<あ2>>><<<これ>>>は<<<私>>>が<<<洗う>>>わ。\r\n<<<先>>>に<<<持っていきます2>>>ね。\r\n<<<ありがとう2>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "059",
+      "id": "18",
+      "visual_id": "004(マグカップa)",
+      "caption_id": "059",
+      "caption_region": [
+        399,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "059",
+      "id": "19",
+      "visual_id": "005(マグカップb)",
+      "caption_id": "059",
+      "caption_region": [
+        399,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "059",
+      "id": "20",
+      "visual_id": "001(主人)",
+      "caption_id": "059",
+      "caption_region": [
+        607,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "059",
+      "id": "21",
+      "visual_id": "004(マグカップa)",
+      "caption_id": "059",
+      "caption_region": [
+        598,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "059",
+      "id": "22",
+      "visual_id": "005(マグカップb)",
+      "caption_id": "059",
+      "caption_region": [
+        598,
+        2
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}

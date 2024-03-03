@@ -1,0 +1,276 @@
+{
+  "image_id": "024",
+  "bounding_boxes": [
+    {
+      "image_id": "024",
+      "id": "006(ケトル)",
+      "bb": [
+        749,
+        425,
+        190,
+        182
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "024",
+      "id": "003(テーブル)",
+      "bb": [
+        636,
+        94,
+        1233,
+        838
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "024",
+      "id": "776",
+      "bb": [
+        1357,
+        398,
+        182,
+        46
+      ],
+      "class_name": "remote_control",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "cup",
+      "bb": [
+        1198,
+        237,
+        102,
+        128
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "802",
+      "bb": [
+        1212,
+        112,
+        322,
+        127
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "008(お湯)",
+      "bb": [
+        925,
+        476,
+        143,
+        245
+      ],
+      "class_name": "fruit_juice",
+      "auto_flg": false
+    },
+    {
+      "image_id": "024",
+      "id": "005(台)",
+      "bb": [
+        825,
+        547,
+        118,
+        66
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "024",
+      "id": "853",
+      "bb": [
+        765,
+        128,
+        256,
+        182
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "001(主人)",
+      "bb": [
+        558,
+        0,
+        362,
+        437
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "024",
+      "id": "002(ロボット)",
+      "bb": [
+        755,
+        876,
+        1167,
+        210
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "024",
+      "id": "892",
+      "bb": [
+        1054,
+        503,
+        102,
+        86
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "904",
+      "bb": [
+        1435,
+        452,
+        148,
+        68
+      ],
+      "class_name": "butter",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "939",
+      "bb": [
+        821,
+        85,
+        19,
+        29
+      ],
+      "class_name": "wristlet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "1034",
+      "bb": [
+        1305,
+        296,
+        64,
+        77
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "007(水含布巾)",
+      "bb": [
+        801,
+        374,
+        120,
+        71
+      ],
+      "class_name": "dishtowel",
+      "auto_flg": false
+    },
+    {
+      "image_id": "024",
+      "id": "1133",
+      "bb": [
+        2,
+        798,
+        171,
+        218
+      ],
+      "class_name": "envelope",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "1135",
+      "bb": [
+        1450,
+        233,
+        355,
+        226
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "1137",
+      "bb": [
+        1630,
+        157,
+        67,
+        55
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "1143",
+      "bb": [
+        1577,
+        0,
+        333,
+        121
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "1149",
+      "bb": [
+        558,
+        0,
+        364,
+        440
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "1155",
+      "bb": [
+        1440,
+        396,
+        479,
+        271
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "024",
+      "id": "1160",
+      "bb": [
+        462,
+        0,
+        131,
+        119
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    }
+  ],
+  "caption": {
+    "image_id": "024",
+    "id": "024",
+    "text": "<<<あ0>>><<<こぼしちゃった>>>。<<<ハハ0>>><<<ハハ1>>>\r\n<<<大丈夫です>>>か？\r\n<<<大丈夫>>>。<<<テーブル>>>が<<<濡れた>>>から<<<布巾>>>で<<<拭いてくれる>>>かな？\r\n<<<はい0>>><<<分かりました0>>>。\r\n<<<お湯0>>>を<<<拭き取りました>>>。\r\n<<<ありがとう>>>。\r\n<<<台>>>の<<<下>>>も<<<濡れてる>>>な。<<<ちょっと>>>、<<<持ち上げてもらっていい>>>？\r\n<<<はい1>>>\r\n<<<よいしょ0>>>。\r\n<<<底>>>も<<<濡れてるので>>>、<<<拭いた>>><<<方>>>が<<<良さそうです>>>ね。\r\n<<<あ1>>><<<オッケー>>>。\r\n<<<よいしょ1>>>。\r\n<<<はい2>>>。\r\n<<<よいしょ2>>>。\r\n<<<もう>>>、<<<下ろしていい>>>よ。\r\n<<<はい3>>>\r\n<<<きれいになりました>>>。\r\n<<<うん0>>>\r\n<<<これ>>>は<<<汚れてない>>>から、<<<そのまま>>><<<乾かしといて>>>。\r\n<<<はい4>>><<<分かりました1>>>。<<<お湯1>>>は<<<足ります>>>か？\r\n<<<うん1>>><<<まだ>>>、<<<十分>>><<<残ってる>>>から<<<大丈夫だ>>>よ。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

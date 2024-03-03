@@ -1,0 +1,242 @@
+{
+  "image_id": "001",
+  "bounding_boxes": [
+    {
+      "image_id": "001",
+      "id": "7",
+      "bb": [
+        916,
+        391,
+        99,
+        72
+      ],
+      "class_name": "gameboard",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "4",
+      "bb": [
+        939,
+        443,
+        36,
+        73
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "5",
+      "bb": [
+        365,
+        785,
+        127,
+        131
+      ],
+      "class_name": "trash_can",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "8",
+      "bb": [
+        883,
+        561,
+        71,
+        65
+      ],
+      "class_name": "cellular_telephone",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "3",
+      "bb": [
+        986,
+        411,
+        37,
+        88
+      ],
+      "class_name": "bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "6",
+      "bb": [
+        1120,
+        592,
+        97,
+        55
+      ],
+      "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "9",
+      "bb": [
+        946,
+        516,
+        99,
+        55
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "1",
+      "bb": [
+        603,
+        71,
+        281,
+        451
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "24(全体床)",
+      "bb": [
+        0,
+        136,
+        1920,
+        944
+      ],
+      "class_name": "runner_(carpet)",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "001",
+    "id": "001",
+    "text": "<<<リビング>>>が<<<荒れてきた>>>わね。\r\n<<<掃除>>>を<<<しましょう>>>か？\r\n<<<そう>>>ね。<<<お願いしたい>>>わ。\r\n<<<まずは>>>、<<<ゴミ>>><<<捨て>>>を<<<お願い>>>。<<<ここ0>>>に<<<ある>>><<<ペットボトル>>>と<<<お菓子>>>の<<<箱>>>を<<<捨てて>>><<<ちょうだい0>>>。\r\n<<<わかりました0>>>。<<<では>>>、<<<捨てておきます>>>ね。\r\n<<<ありがとう0>>>。\r\n<<<それ0>>>が<<<終わったら0>>>、<<<パズル>>>の<<<ピース>>>が<<<落ちている>>>から、<<<それ1>>>を<<<集めて>>><<<ちょうだい1>>>。\r\n<<<わかりました1>>>。\r\n<<<こちら0>>><<<どこ>>>に<<<置きましょう>>>か？\r\n<<<この>>><<<土台>>>の<<<上>>>に<<<戻したい>>>から、<<<ここ1>>>まで<<<持ってきて>>><<<ちょうだい2>>>。\r\n<<<わかりました2>>>。<<<こちら1>>>に<<<置いておきます>>>ね。\r\n<<<ありがとう1>>>。\r\n<<<それ2>>>が<<<終わったら1>>>、<<<スマホ>>>と<<<リモコン>>>を<<<並べてほしいの>>>。\r\n<<<わかりました3>>>。\r\n<<<終わりました>>>。\r\n<<<ありがとう2>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "001",
+      "id": "000000",
+      "visual_id": "7",
+      "caption_id": "001",
+      "caption_region": [
+        395,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000001",
+      "visual_id": "3",
+      "caption_id": "001",
+      "caption_region": [
+        135,
+        6
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000002",
+      "visual_id": "4",
+      "caption_id": "001",
+      "caption_region": [
+        158,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000003",
+      "visual_id": "5",
+      "caption_id": "001",
+      "caption_region": [
+        98,
+        2
+      ],
+      "relation_name": "ニ格"
+    },
+    {
+      "image_id": "001",
+      "id": "000005",
+      "visual_id": "8",
+      "caption_id": "001",
+      "caption_region": [
+        542,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000006",
+      "visual_id": "9",
+      "caption_id": "001",
+      "caption_region": [
+        552,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000009",
+      "visual_id": "6",
+      "caption_id": "001",
+      "caption_region": [
+        278,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000010",
+      "visual_id": "6",
+      "caption_id": "001",
+      "caption_region": [
+        302,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000011",
+      "visual_id": "6",
+      "caption_id": "001",
+      "caption_region": [
+        352,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "000014",
+      "visual_id": "1",
+      "caption_id": "001",
+      "caption_region": [
+        64,
+        6
+      ],
+      "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "62",
+      "visual_id": "24(全体床)",
+      "caption_id": "001",
+      "caption_region": [
+        288,
+        5
+      ],
+      "relation_name": "ニ格"
+    }
+  ]
+}

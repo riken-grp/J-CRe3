@@ -1,0 +1,440 @@
+{
+  "image_id": "055",
+  "bounding_boxes": [
+    {
+      "image_id": "055",
+      "id": "8855",
+      "bb": [
+        1,
+        535,
+        328,
+        190
+      ],
+      "class_name": "cabinet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "8849",
+      "bb": [
+        1822,
+        374,
+        98,
+        187
+      ],
+      "class_name": "radiator",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "8848",
+      "bb": [
+        656,
+        1016,
+        150,
+        64
+      ],
+      "class_name": "sweater",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "007(玉ねぎ)",
+      "bb": [
+        997,
+        868,
+        83,
+        32
+      ],
+      "class_name": "onion",
+      "auto_flg": false
+    },
+    {
+      "image_id": "055",
+      "id": "006(エリンギ)",
+      "bb": [
+        1114,
+        624,
+        171,
+        149
+      ],
+      "class_name": "mushroom",
+      "auto_flg": false
+    },
+    {
+      "image_id": "055",
+      "id": "005(人参01)",
+      "bb": [
+        907,
+        667,
+        173,
+        131
+      ],
+      "class_name": "carrot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "055",
+      "id": "8835",
+      "bb": [
+        1732,
+        626,
+        187,
+        360
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "008(ピーマン)",
+      "bb": [
+        1076,
+        853,
+        89,
+        47
+      ],
+      "class_name": "bell_pepper",
+      "auto_flg": false
+    },
+    {
+      "image_id": "055",
+      "id": "8831",
+      "bb": [
+        858,
+        832,
+        128,
+        70
+      ],
+      "class_name": "broccoli",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "8827",
+      "bb": [
+        1692,
+        664,
+        78,
+        60
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "8825",
+      "bb": [
+        1728,
+        591,
+        144,
+        77
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "8824",
+      "bb": [
+        1694,
+        528,
+        178,
+        142
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "8823",
+      "bb": [
+        1700,
+        533,
+        113,
+        64
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "8819",
+      "bb": [
+        323,
+        657,
+        65,
+        85
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "002(ロボット)",
+      "bb": [
+        656,
+        932,
+        766,
+        148
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "055",
+      "id": "8795",
+      "bb": [
+        1208,
+        930,
+        218,
+        149
+      ],
+      "class_name": "person",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "8787",
+      "bb": [
+        516,
+        573,
+        23,
+        23
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "8786",
+      "bb": [
+        56,
+        555,
+        43,
+        31
+      ],
+      "class_name": "ball",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "8728",
+      "bb": [
+        1511,
+        370,
+        297,
+        238
+      ],
+      "class_name": "hair_dryer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "055",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        602,
+        -1,
+        1090,
+        1027
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "055",
+    "id": "055",
+    "text": "<<<今日>>>の<<<お昼>>><<<ご飯>>>は<<<ナポリタン>>>に<<<しよう>>>かな。\r\n<<<良いです>>>ね。<<<何0>>>から<<<始めたら良いです>>>か？\r\n<<<うん0>>><<<うん1>>>\r\n<<<そう0>>>だね<<<えっと>>><<<麺0>>>を<<<茹でる>>><<<ため>>>の<<<大きな>>><<<鍋>>>が<<<ある0>>>から、<<<水>>>を<<<入れて>>><<<火0>>>に<<<かけてもらえる>>>？\r\n<<<はい0>>>\r\n<<<具材0>>>は<<<何1>>>を<<<使います>>>か？\r\n<<<そう1>>>だね<<<冷蔵>>><<<庫>>>に<<<何2>>>か<<<使えそうな>>><<<野菜>>>って<<<入ってる>>>かな？\r\n<<<はい1>>><<<見てきます>>>ね。\r\n<<<うん2>>>\r\n<<<あ0>>><<<人参0>>>と<<<エリンギ>>>と<<<玉ねぎ>>>と<<<ピーマン>>>が<<<あります0>>>。\r\n<<<うん3>>>\r\n<<<うん4>>>\r\n<<<あ1>>><<<それ0>>>は<<<ちょうど>>><<<使えそうだ>>>ね。<<<お肉>>>って<<<何3>>>か<<<ある1>>>？\r\n<<<はい2>>><<<ちょっと>>><<<お待ちください>>>ね。\r\n<<<うん5>>><<<うん6>>>\r\n<<<あ2>>><<<ウィンナー>>>が<<<あります1>>>。\r\n<<<うんうん>>><<<うん7>>>\r\n<<<じゃあ0>>>、<<<それ1>>>を<<<使おっ>>>か。<<<麺1>>>が<<<茹で上がる>>>までに、<<<具材1>>>を<<<炒めておこう>>>。\r\n<<<はーい0>>>\r\n<<<よいしょ>>>。\r\n<<<じゃあ1>>>、<<<こっち>>>は<<<私>>>が<<<やる>>>ね。\r\n<<<はい3>>>\r\n<<<あと>>><<<お任せしていい>>>かな？\r\n<<<はい4>>>\r\n<<<これ0>>><<<お願い>>>。\r\n<<<では>>>、<<<人参1>>>の<<<皮0>>>を<<<むきます>>>ね。\r\n<<<はい5>>><<<あ3>>><<<そうそうそう>>>。<<<ピーラー>>>はね、<<<これ1>>>を<<<使って>>>。\r\n<<<あ4>>><<<ありがとうございます>>>。\r\n<<<皮1>>>を<<<むき終わりました>>>。<<<どの>>><<<くらい>>>の<<<大きさ>>>に<<<切ったら良いです>>>か？\r\n<<<あ5>>><<<ありがとう>>>。\r\n<<<そう2>>>だね<<<火1>>>が<<<通りやすいように>>>、<<<全部>>><<<薄切り>>>に<<<しよっ>>>か？\r\n<<<はい6>>><<<分かりました>>>。\r\n<<<終わったら>>>、<<<じゃあ2>>>。<<<うん8>>><<<炒め始めよう>>>。\r\n<<<あ6>>><<<先>>>に<<<油>>>を<<<ひいておいてもらえる>>>と<<<助かります>>>。\r\n<<<はーい1>>>"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "055",
+      "id": "6",
+      "visual_id": "006(エリンギ)",
+      "caption_id": "055",
+      "caption_region": [
+        402,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "055",
+      "id": "7",
+      "visual_id": "005(人参01)",
+      "caption_id": "055",
+      "caption_region": [
+        392,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "055",
+      "id": "8",
+      "visual_id": "005(人参01)",
+      "caption_id": "055",
+      "caption_region": [
+        878,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "055",
+      "id": "9",
+      "visual_id": "007(玉ねぎ)",
+      "caption_id": "055",
+      "caption_region": [
+        413,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "055",
+      "id": "10",
+      "visual_id": "008(ピーマン)",
+      "caption_id": "055",
+      "caption_region": [
+        423,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "055",
+      "id": "11",
+      "visual_id": "005(人参01)",
+      "caption_id": "055",
+      "caption_region": [
+        324,
+        2
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "055",
+      "id": "12",
+      "visual_id": "006(エリンギ)",
+      "caption_id": "055",
+      "caption_region": [
+        324,
+        2
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "055",
+      "id": "13",
+      "visual_id": "007(玉ねぎ)",
+      "caption_id": "055",
+      "caption_region": [
+        324,
+        2
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "055",
+      "id": "14",
+      "visual_id": "008(ピーマン)",
+      "caption_id": "055",
+      "caption_region": [
+        324,
+        2
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "055",
+      "id": "15",
+      "visual_id": "005(人参01)",
+      "caption_id": "055",
+      "caption_region": [
+        709,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "055",
+      "id": "16",
+      "visual_id": "006(エリンギ)",
+      "caption_id": "055",
+      "caption_region": [
+        709,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "055",
+      "id": "17",
+      "visual_id": "007(玉ねぎ)",
+      "caption_id": "055",
+      "caption_region": [
+        709,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "055",
+      "id": "18",
+      "visual_id": "008(ピーマン)",
+      "caption_id": "055",
+      "caption_region": [
+        709,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "055",
+      "id": "28",
+      "visual_id": "006(エリンギ)",
+      "caption_id": "055",
+      "caption_region": [
+        244,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "055",
+      "id": "29",
+      "visual_id": "007(玉ねぎ)",
+      "caption_id": "055",
+      "caption_region": [
+        244,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "055",
+      "id": "30",
+      "visual_id": "008(ピーマン)",
+      "caption_id": "055",
+      "caption_region": [
+        244,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "055",
+      "id": "31",
+      "visual_id": "005(人参01)",
+      "caption_id": "055",
+      "caption_region": [
+        244,
+        3
+      ],
+      "relation_name": "=≒格"
+    }
+  ]
+}

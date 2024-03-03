@@ -1,0 +1,425 @@
+{
+  "image_id": "012",
+  "bounding_boxes": [
+    {
+      "image_id": "012",
+      "id": "968",
+      "bb": [
+        251,
+        365,
+        150,
+        35
+      ],
+      "class_name": "strap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "012",
+      "id": "005(レタス)",
+      "bb": [
+        991,
+        522,
+        155,
+        117
+      ],
+      "class_name": "lettuce",
+      "auto_flg": false
+    },
+    {
+      "image_id": "012",
+      "id": "962",
+      "bb": [
+        1498,
+        799,
+        427,
+        275
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "012",
+      "id": "007(ブロッコリー)",
+      "bb": [
+        1105,
+        599,
+        94,
+        94
+      ],
+      "class_name": "broccoli",
+      "auto_flg": false
+    },
+    {
+      "image_id": "012",
+      "id": "008(トマトパック01)",
+      "bb": [
+        853,
+        527,
+        112,
+        134
+      ],
+      "class_name": "tomato",
+      "auto_flg": false
+    },
+    {
+      "image_id": "012",
+      "id": "004(キュウリ)",
+      "bb": [
+        901,
+        654,
+        75,
+        65
+      ],
+      "class_name": "cucumber",
+      "auto_flg": false
+    },
+    {
+      "image_id": "012",
+      "id": "006(キャベツ)",
+      "bb": [
+        955,
+        630,
+        135,
+        97
+      ],
+      "class_name": "lettuce",
+      "auto_flg": false
+    },
+    {
+      "image_id": "012",
+      "id": "902",
+      "bb": [
+        1628,
+        499,
+        111,
+        44
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "012",
+      "id": "900",
+      "bb": [
+        0,
+        393,
+        73,
+        81
+      ],
+      "class_name": "paper_towel",
+      "auto_flg": true
+    },
+    {
+      "image_id": "012",
+      "id": "891",
+      "bb": [
+        646,
+        305,
+        19,
+        19
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "012",
+      "id": "882",
+      "bb": [
+        323,
+        235,
+        44,
+        30
+      ],
+      "class_name": "lemon",
+      "auto_flg": true
+    },
+    {
+      "image_id": "012",
+      "id": "795",
+      "bb": [
+        1515,
+        493,
+        341,
+        199
+      ],
+      "class_name": "air_conditioner",
+      "auto_flg": true
+    },
+    {
+      "image_id": "012",
+      "id": "002(ロボット)",
+      "bb": [
+        530,
+        735,
+        907,
+        345
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "012",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        693,
+        -1,
+        1226,
+        880
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "012",
+      "id": "009(棚)",
+      "bb": [
+        461,
+        2,
+        331,
+        383
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    },
+    {
+      "image_id": "012",
+      "id": "001(主人)",
+      "bb": [
+        -2,
+        885,
+        382,
+        194
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "012",
+    "id": "012",
+    "text": "<<<今日>>>の<<<サラダ>>>は<<<冷蔵>>><<<庫>>>に<<<ある0>>><<<もの>>>で<<<作ろっ>>>か？\r\n<<<分かりました0>>>。<<<確か>>><<<きゅうり0>>>は<<<あった0>>>と<<<思います>>>。\r\n<<<きゅうり1>>>と<<<他>>>に<<<何>>>が<<<ある1>>>？\r\n<<<レタス>>>と<<<キャベツ>>>と<<<ブロッコリー0>>>と<<<トマト>>>が<<<あります>>>。\r\n<<<いい>>>ね。<<<全部>>><<<使っちゃおう>>>。\r\n<<<いいです>>>ね。<<<それでは>>>、<<<運ぶ>>><<<の0>>>を<<<手伝ってもらってもいいです>>>か？\r\n<<<はいはい>>><<<ちょっと>>><<<待って>>>ね。\r\n<<<ブロッコリー1>>>は<<<茹でなきゃ>>>ね。\r\n<<<はい0>>><<<私0>>>が<<<茹でます>>>。\r\n<<<ありがとう>>>。<<<助かる>>>わ。<<<じゃあ0>>><<<私1>>>は<<<野菜>>>を<<<切る>>>ね。\r\n<<<任せてください>>>。\r\n<<<きれいな>>><<<緑色>>>に<<<なるように>>><<<茹でて>>>ね。\r\n<<<じゃあ1>>>、<<<塩>>>は<<<入れた>>><<<方>>>が<<<良いです>>>か？\r\n<<<そう>>>ね<<<そこ>>>の<<<棚>>>に<<<あった1>>>と<<<思う>>>。\r\n<<<はい1>>><<<分かりました1>>>。\r\n<<<茹でる>>><<<の1>>>は、<<<少し>>><<<柔らかめで>>><<<お願い>>>。\r\n<<<はい2>>><<<分かりました2>>>。"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "012",
+      "id": "3",
+      "visual_id": "004(キュウリ)",
+      "caption_id": "012",
+      "caption_region": [
+        91,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "4",
+      "visual_id": "004(キュウリ)",
+      "caption_id": "012",
+      "caption_region": [
+        127,
+        5
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "5",
+      "visual_id": "005(レタス)",
+      "caption_id": "012",
+      "caption_region": [
+        167,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "6",
+      "visual_id": "006(キャベツ)",
+      "caption_id": "012",
+      "caption_region": [
+        177,
+        4
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "7",
+      "visual_id": "008(トマトパック01)",
+      "caption_id": "012",
+      "caption_region": [
+        202,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "10",
+      "visual_id": "007(ブロッコリー)",
+      "caption_id": "012",
+      "caption_region": [
+        188,
+        7
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "11",
+      "visual_id": "007(ブロッコリー)",
+      "caption_id": "012",
+      "caption_region": [
+        354,
+        7
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "18",
+      "visual_id": "005(レタス)",
+      "caption_id": "012",
+      "caption_region": [
+        456,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "19",
+      "visual_id": "006(キャベツ)",
+      "caption_id": "012",
+      "caption_region": [
+        456,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "20",
+      "visual_id": "008(トマトパック01)",
+      "caption_id": "012",
+      "caption_region": [
+        456,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "26",
+      "visual_id": "004(キュウリ)",
+      "caption_id": "012",
+      "caption_region": [
+        47,
+        2
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "012",
+      "id": "27",
+      "visual_id": "005(レタス)",
+      "caption_id": "012",
+      "caption_region": [
+        47,
+        2
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "012",
+      "id": "28",
+      "visual_id": "006(キャベツ)",
+      "caption_id": "012",
+      "caption_region": [
+        47,
+        2
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "012",
+      "id": "29",
+      "visual_id": "007(ブロッコリー)",
+      "caption_id": "012",
+      "caption_region": [
+        47,
+        2
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "012",
+      "id": "30",
+      "visual_id": "008(トマトパック01)",
+      "caption_id": "012",
+      "caption_region": [
+        47,
+        2
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "012",
+      "id": "33",
+      "visual_id": "005(レタス)",
+      "caption_id": "012",
+      "caption_region": [
+        235,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "34",
+      "visual_id": "006(キャベツ)",
+      "caption_id": "012",
+      "caption_region": [
+        235,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "35",
+      "visual_id": "007(ブロッコリー)",
+      "caption_id": "012",
+      "caption_region": [
+        235,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "36",
+      "visual_id": "008(トマトパック01)",
+      "caption_id": "012",
+      "caption_region": [
+        235,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "012",
+      "id": "37",
+      "visual_id": "004(キュウリ)",
+      "caption_id": "012",
+      "caption_region": [
+        235,
+        2
+      ],
+      "relation_name": "=格"
+    }
+  ]
+}
