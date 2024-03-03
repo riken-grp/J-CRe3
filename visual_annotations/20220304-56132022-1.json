@@ -1,0 +1,8381 @@
+{
+  "scenarioId": "20220304-56132022-1",
+  "images": [
+    {
+      "imageId": "001",
+      "boundingBoxes": [
+        {
+          "imageId": "001",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1372,
+            "y1": 446,
+            "x2": 1450,
+            "y2": 542
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1309,
+            "y1": 828,
+            "x2": 1363,
+            "y2": 898
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 168,
+            "x2": 323,
+            "y2": 742
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1232,
+            "y1": 765,
+            "x2": 1280,
+            "y2": 830
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "004(上)",
+          "rect": {
+            "x1": 1128,
+            "y1": 498,
+            "x2": 1837,
+            "y2": 1071
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1270,
+            "y1": 666,
+            "x2": 1325,
+            "y2": 733
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1337,
+            "y1": 581,
+            "x2": 1383,
+            "y2": 676
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1123,
+            "y1": 500,
+            "x2": 1839,
+            "y2": 1074
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 811,
+            "y1": 142,
+            "x2": 1041,
+            "y2": 824
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "002",
+      "boundingBoxes": [
+        {
+          "imageId": "002",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1367,
+            "y1": 446,
+            "x2": 1445,
+            "y2": 543
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1308,
+            "y1": 828,
+            "x2": 1359,
+            "y2": 899
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 178,
+            "x2": 319,
+            "y2": 753
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1229,
+            "y1": 765,
+            "x2": 1278,
+            "y2": 833
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1268,
+            "y1": 666,
+            "x2": 1323,
+            "y2": 734
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "004(上)",
+          "rect": {
+            "x1": 1127,
+            "y1": 502,
+            "x2": 1836,
+            "y2": 1063
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1333,
+            "y1": 582,
+            "x2": 1379,
+            "y2": 677
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1123,
+            "y1": 503,
+            "x2": 1839,
+            "y2": 1073
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 810,
+            "y1": 142,
+            "x2": 1036,
+            "y2": 822
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "003",
+      "boundingBoxes": [
+        {
+          "imageId": "003",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1384,
+            "y1": 447,
+            "x2": 1462,
+            "y2": 542
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1324,
+            "y1": 826,
+            "x2": 1376,
+            "y2": 897
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 170,
+            "x2": 332,
+            "y2": 740
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1245,
+            "y1": 763,
+            "x2": 1294,
+            "y2": 829
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "004(上)",
+          "rect": {
+            "x1": 1143,
+            "y1": 500,
+            "x2": 1850,
+            "y2": 1065
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1285,
+            "y1": 664,
+            "x2": 1339,
+            "y2": 732
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1351,
+            "y1": 581,
+            "x2": 1396,
+            "y2": 675
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1139,
+            "y1": 501,
+            "x2": 1853,
+            "y2": 1073
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 856,
+            "y1": 145,
+            "x2": 1075,
+            "y2": 841
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "004",
+      "boundingBoxes": [
+        {
+          "imageId": "004",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1340,
+            "y1": 393,
+            "x2": 1417,
+            "y2": 490
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1288,
+            "y1": 781,
+            "x2": 1340,
+            "y2": 853
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 184,
+            "x2": 297,
+            "y2": 758
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1206,
+            "y1": 721,
+            "x2": 1254,
+            "y2": 790
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "004(上)",
+          "rect": {
+            "x1": 1109,
+            "y1": 457,
+            "x2": 1828,
+            "y2": 1007
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1243,
+            "y1": 619,
+            "x2": 1298,
+            "y2": 687
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1308,
+            "y1": 532,
+            "x2": 1352,
+            "y2": 627
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1110,
+            "y1": 453,
+            "x2": 1832,
+            "y2": 1071
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 839,
+            "y1": 102,
+            "x2": 1068,
+            "y2": 807
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "005",
+      "boundingBoxes": [
+        {
+          "imageId": "005",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1309,
+            "y1": 357,
+            "x2": 1389,
+            "y2": 456
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1237,
+            "y1": 753,
+            "x2": 1289,
+            "y2": 826
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 169,
+            "x2": 286,
+            "y2": 740
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1157,
+            "y1": 690,
+            "x2": 1208,
+            "y2": 759
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "004(上)",
+          "rect": {
+            "x1": 1054,
+            "y1": 418,
+            "x2": 1788,
+            "y2": 985
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1199,
+            "y1": 586,
+            "x2": 1255,
+            "y2": 656
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1269,
+            "y1": 496,
+            "x2": 1314,
+            "y2": 594
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1050,
+            "y1": 418,
+            "x2": 1792,
+            "y2": 1077
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 828,
+            "y1": 56,
+            "x2": 1071,
+            "y2": 775
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "006",
+      "boundingBoxes": [
+        {
+          "imageId": "006",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1333,
+            "y1": 303,
+            "x2": 1410,
+            "y2": 399
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1394,
+            "y1": 698,
+            "x2": 1448,
+            "y2": 772
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 153,
+            "x2": 194,
+            "y2": 763
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1294,
+            "y1": 639,
+            "x2": 1344,
+            "y2": 710
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "004(上)",
+          "rect": {
+            "x1": 1224,
+            "y1": 367,
+            "x2": 1906,
+            "y2": 901
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1299,
+            "y1": 532,
+            "x2": 1355,
+            "y2": 602
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1345,
+            "y1": 442,
+            "x2": 1392,
+            "y2": 539
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1210,
+            "y1": 371,
+            "x2": 1904,
+            "y2": 1078
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 824,
+            "y1": 0,
+            "x2": 1101,
+            "y2": 742
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "007",
+      "boundingBoxes": [
+        {
+          "imageId": "007",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1139,
+            "y1": 205,
+            "x2": 1218,
+            "y2": 309
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1311,
+            "y1": 672,
+            "x2": 1372,
+            "y2": 752
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1185,
+            "y1": 617,
+            "x2": 1242,
+            "y2": 695
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1158,
+            "y1": 482,
+            "x2": 1220,
+            "y2": 561
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1188,
+            "y1": 371,
+            "x2": 1239,
+            "y2": 476
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1016,
+            "y1": 261,
+            "x2": 1836,
+            "y2": 1064
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 533,
+            "y1": 0,
+            "x2": 930,
+            "y2": 738
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "008",
+      "boundingBoxes": [
+        {
+          "imageId": "008",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 402,
+            "y1": 165,
+            "x2": 502,
+            "y2": 299
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 884,
+            "y1": 665,
+            "x2": 956,
+            "y2": 753
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 714,
+            "y1": 676,
+            "x2": 785,
+            "y2": 767
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 578,
+            "y1": 514,
+            "x2": 665,
+            "y2": 616
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 542,
+            "y1": 366,
+            "x2": 629,
+            "y2": 491
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 273,
+            "y1": 161,
+            "x2": 1370,
+            "y2": 1058
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 436,
+            "x2": 377,
+            "y2": 1011
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "009",
+      "boundingBoxes": [
+        {
+          "imageId": "009",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 931,
+            "y1": 176,
+            "x2": 1023,
+            "y2": 308
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1365,
+            "y1": 806,
+            "x2": 1443,
+            "y2": 896
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1195,
+            "y1": 772,
+            "x2": 1269,
+            "y2": 864
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1085,
+            "y1": 573,
+            "x2": 1167,
+            "y2": 681
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1070,
+            "y1": 411,
+            "x2": 1144,
+            "y2": 539
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 786,
+            "y1": 205,
+            "x2": 1867,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 162,
+            "y1": 0,
+            "x2": 741,
+            "y2": 910
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "010",
+      "boundingBoxes": [
+        {
+          "imageId": "010",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 753,
+            "x2": 29,
+            "y2": 822
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1274,
+            "y1": 303,
+            "x2": 1375,
+            "y2": 441
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1249,
+            "y1": 1000,
+            "x2": 1324,
+            "y2": 1080
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1251,
+            "y1": 764,
+            "x2": 1335,
+            "y2": 876
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1310,
+            "y1": 590,
+            "x2": 1378,
+            "y2": 721
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1128,
+            "y1": 365,
+            "x2": 1918,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 528,
+            "y1": 0,
+            "x2": 1001,
+            "y2": 918
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "011",
+      "boundingBoxes": [
+        {
+          "imageId": "011",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1106,
+            "y1": 881,
+            "x2": 1194,
+            "y2": 976
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 838,
+            "y1": 104,
+            "x2": 940,
+            "y2": 244
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 923,
+            "y1": 810,
+            "x2": 1001,
+            "y2": 902
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 871,
+            "y1": 565,
+            "x2": 959,
+            "y2": 685
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 900,
+            "y1": 380,
+            "x2": 974,
+            "y2": 518
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 683,
+            "y1": 149,
+            "x2": 1755,
+            "y2": 1078
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 641,
+            "y2": 822
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "012",
+      "boundingBoxes": [
+        {
+          "imageId": "012",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 385,
+            "y1": 0,
+            "x2": 788,
+            "y2": 465
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1769,
+            "y1": 754,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1148,
+            "y1": 0,
+            "x2": 1812,
+            "y2": 840
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "013",
+      "boundingBoxes": [
+        {
+          "imageId": "013",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1791,
+            "y1": 761,
+            "x2": 1910,
+            "y2": 903
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1857,
+            "y1": 480,
+            "x2": 1919,
+            "y2": 606
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1686,
+            "y1": 902,
+            "x2": 1793,
+            "y2": 1017
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1543,
+            "y1": 486,
+            "x2": 1919,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 907,
+            "y1": 0,
+            "x2": 1550,
+            "y2": 874
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 131,
+            "y1": 0,
+            "x2": 553,
+            "y2": 533
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "014",
+      "boundingBoxes": [
+        {
+          "imageId": "014",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1305,
+            "y1": 620,
+            "x2": 1380,
+            "y2": 751
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1245,
+            "y1": 786,
+            "x2": 1329,
+            "y2": 895
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1231,
+            "y1": 1018,
+            "x2": 1311,
+            "y2": 1079
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1283,
+            "y1": 347,
+            "x2": 1387,
+            "y2": 480
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1135,
+            "y1": 423,
+            "x2": 1918,
+            "y2": 1078
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 620,
+            "y1": 0,
+            "x2": 1094,
+            "y2": 930
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "015",
+      "boundingBoxes": [
+        {
+          "imageId": "015",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1393,
+            "y1": 1062,
+            "x2": 1454,
+            "y2": 1078
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1330,
+            "y1": 263,
+            "x2": 1441,
+            "y2": 399
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1340,
+            "y1": 541,
+            "x2": 1417,
+            "y2": 672
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1264,
+            "y1": 701,
+            "x2": 1353,
+            "y2": 811
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1240,
+            "y1": 936,
+            "x2": 1316,
+            "y2": 1024
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1156,
+            "y1": 332,
+            "x2": 1918,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 646,
+            "y1": 0,
+            "x2": 1088,
+            "y2": 848
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 557,
+            "x2": 49,
+            "y2": 676
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "016",
+      "boundingBoxes": [
+        {
+          "imageId": "016",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1639,
+            "y1": 27,
+            "x2": 1919,
+            "y2": 292
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 863,
+            "y1": 0,
+            "x2": 1176,
+            "y2": 469
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "017",
+      "boundingBoxes": [
+        {
+          "imageId": "017",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1473,
+            "y1": 73,
+            "x2": 1918,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 717,
+            "y1": 0,
+            "x2": 1035,
+            "y2": 530
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "018",
+      "boundingBoxes": [
+        {
+          "imageId": "018",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1673,
+            "y1": 478,
+            "x2": 1776,
+            "y2": 631
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1539,
+            "y1": 906,
+            "x2": 1632,
+            "y2": 1003
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1428,
+            "y1": 250,
+            "x2": 1919,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1596,
+            "y1": 651,
+            "x2": 1692,
+            "y2": 770
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1674,
+            "y1": 185,
+            "x2": 1802,
+            "y2": 355
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1696,
+            "y1": 1065,
+            "x2": 1745,
+            "y2": 1080
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 523,
+            "y1": 0,
+            "x2": 1366,
+            "y2": 749
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 16,
+            "x2": 343,
+            "y2": 650
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "019",
+      "boundingBoxes": [
+        {
+          "imageId": "019",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 858,
+            "y1": 57,
+            "x2": 963,
+            "y2": 198
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 878,
+            "y1": 519,
+            "x2": 972,
+            "y2": 641
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 925,
+            "y1": 767,
+            "x2": 1004,
+            "y2": 858
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1107,
+            "y1": 847,
+            "x2": 1194,
+            "y2": 937
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 707,
+            "y1": 103,
+            "x2": 1782,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 912,
+            "y1": 337,
+            "x2": 994,
+            "y2": 474
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 54,
+            "y1": 0,
+            "x2": 721,
+            "y2": 771
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "020",
+      "boundingBoxes": [
+        {
+          "imageId": "020",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1718,
+            "y1": 288,
+            "x2": 1920,
+            "y2": 882
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 770,
+            "y1": 0,
+            "x2": 1092,
+            "y2": 472
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "021",
+      "boundingBoxes": [
+        {
+          "imageId": "021",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1346,
+            "y1": 2,
+            "x2": 1920,
+            "y2": 1077
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 583,
+            "y1": 0,
+            "x2": 929,
+            "y2": 536
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "022",
+      "boundingBoxes": [
+        {
+          "imageId": "022",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1801,
+            "y1": 795,
+            "x2": 1920,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1139,
+            "y1": 0,
+            "x2": 1832,
+            "y2": 1017
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 389,
+            "y1": 0,
+            "x2": 775,
+            "y2": 568
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "023",
+      "boundingBoxes": [
+        {
+          "imageId": "023",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1432,
+            "y1": 195,
+            "x2": 1544,
+            "y2": 337
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1473,
+            "y1": 1007,
+            "x2": 1567,
+            "y2": 1079
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1339,
+            "y1": 871,
+            "x2": 1424,
+            "y2": 962
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1438,
+            "y1": 474,
+            "x2": 1525,
+            "y2": 607
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1251,
+            "y1": 266,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1373,
+            "y1": 636,
+            "x2": 1462,
+            "y2": 749
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 730,
+            "y1": 0,
+            "x2": 1143,
+            "y2": 769
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 385,
+            "x2": 141,
+            "y2": 733
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "024",
+      "boundingBoxes": [
+        {
+          "imageId": "024",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1096,
+            "y1": 59,
+            "x2": 1204,
+            "y2": 209
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1256,
+            "y1": 904,
+            "x2": 1345,
+            "y2": 997
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1085,
+            "y1": 791,
+            "x2": 1166,
+            "y2": 887
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1133,
+            "y1": 350,
+            "x2": 1212,
+            "y2": 490
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 939,
+            "y1": 137,
+            "x2": 1919,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1074,
+            "y1": 533,
+            "x2": 1168,
+            "y2": 654
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1142,
+            "y1": 1051,
+            "x2": 1225,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 268,
+            "y1": 0,
+            "x2": 800,
+            "y2": 707
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "025",
+      "boundingBoxes": [
+        {
+          "imageId": "025",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1334,
+            "y1": 966,
+            "x2": 1480,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1079,
+            "y1": 0,
+            "x2": 1193,
+            "y2": 143
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1332,
+            "y1": 975,
+            "x2": 1415,
+            "y2": 1053
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1148,
+            "y1": 856,
+            "x2": 1238,
+            "y2": 953
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1160,
+            "y1": 323,
+            "x2": 1245,
+            "y2": 478
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 904,
+            "y1": 59,
+            "x2": 1918,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1109,
+            "y1": 543,
+            "x2": 1213,
+            "y2": 685
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 692,
+            "y2": 725
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "026",
+      "boundingBoxes": [
+        {
+          "imageId": "026",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1192,
+            "y1": 1018,
+            "x2": 1287,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1146,
+            "y1": 1027,
+            "x2": 1223,
+            "y2": 1079
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 867,
+            "y1": 0,
+            "x2": 985,
+            "y2": 128
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1145,
+            "y1": 894,
+            "x2": 1241,
+            "y2": 987
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1031,
+            "y1": 334,
+            "x2": 1121,
+            "y2": 493
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 679,
+            "y1": 17,
+            "x2": 1911,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1031,
+            "y1": 579,
+            "x2": 1139,
+            "y2": 726
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 99,
+            "x2": 514,
+            "y2": 825
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "027",
+      "boundingBoxes": [
+        {
+          "imageId": "027",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 744,
+            "y1": 69,
+            "x2": 865,
+            "y2": 242
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1166,
+            "y1": 999,
+            "x2": 1262,
+            "y2": 1080
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 960,
+            "y1": 451,
+            "x2": 1054,
+            "y2": 607
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 561,
+            "y1": 84,
+            "x2": 1879,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1001,
+            "y1": 698,
+            "x2": 1109,
+            "y2": 848
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 427,
+            "x2": 481,
+            "y2": 1039
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "028",
+      "boundingBoxes": [
+        {
+          "imageId": "028",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 668,
+            "y1": 127,
+            "x2": 788,
+            "y2": 308
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1348,
+            "y1": 1047,
+            "x2": 1444,
+            "y2": 1080
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1309,
+            "y1": 958,
+            "x2": 1403,
+            "y2": 1041
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1098,
+            "y1": 722,
+            "x2": 1208,
+            "y2": 855
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 474,
+            "y1": 115,
+            "x2": 1801,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 699,
+            "x2": 469,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1009,
+            "y1": 495,
+            "x2": 1099,
+            "y2": 643
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "029",
+      "boundingBoxes": [
+        {
+          "imageId": "029",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 757,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1581,
+            "y1": 1066,
+            "x2": 1606,
+            "y2": 1077
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1116,
+            "y1": 139,
+            "x2": 1225,
+            "y2": 308
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1413,
+            "y1": 778,
+            "x2": 1523,
+            "y2": 916
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 912,
+            "y1": 157,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1601,
+            "y1": 1011,
+            "x2": 1778,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1366,
+            "y1": 540,
+            "x2": 1472,
+            "y2": 687
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "030",
+      "boundingBoxes": [
+        {
+          "imageId": "030",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1752,
+            "y1": 1033,
+            "x2": 1859,
+            "y2": 1079
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 906,
+            "x2": 24,
+            "y2": 961
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 425,
+            "y1": 0,
+            "x2": 1095,
+            "y2": 1059
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1587,
+            "y1": 324,
+            "x2": 1711,
+            "y2": 492
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1380,
+            "y1": 382,
+            "x2": 1918,
+            "y2": 1077
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1749,
+            "y1": 782,
+            "x2": 1878,
+            "y2": 926
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "031",
+      "boundingBoxes": [
+        {
+          "imageId": "031",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1,
+            "y1": 463,
+            "x2": 718,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 882,
+            "y1": 183,
+            "x2": 998,
+            "y2": 349
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1403,
+            "y1": 1032,
+            "x2": 1502,
+            "y2": 1079
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1226,
+            "y1": 771,
+            "x2": 1334,
+            "y2": 911
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 694,
+            "y1": 185,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1163,
+            "y1": 546,
+            "x2": 1256,
+            "y2": 690
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "032",
+      "boundingBoxes": [
+        {
+          "imageId": "032",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1340,
+            "y1": 1044,
+            "x2": 1431,
+            "y2": 1079
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1085,
+            "y1": 734,
+            "x2": 1187,
+            "y2": 863
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1296,
+            "y1": 957,
+            "x2": 1388,
+            "y2": 1044
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 684,
+            "y1": 201,
+            "x2": 805,
+            "y2": 372
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 582,
+            "x2": 536,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 511,
+            "y1": 185,
+            "x2": 1821,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 993,
+            "y1": 523,
+            "x2": 1076,
+            "y2": 666
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "033",
+      "boundingBoxes": [
+        {
+          "imageId": "033",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1098,
+            "y1": 678,
+            "x2": 1204,
+            "y2": 818
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 629,
+            "y1": 144,
+            "x2": 759,
+            "y2": 325
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1389,
+            "y1": 1001,
+            "x2": 1493,
+            "y2": 1080
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1341,
+            "y1": 906,
+            "x2": 1441,
+            "y2": 1000
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 742,
+            "x2": 426,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 456,
+            "y1": 124,
+            "x2": 1839,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 985,
+            "y1": 460,
+            "x2": 1072,
+            "y2": 614
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "034",
+      "boundingBoxes": [
+        {
+          "imageId": "034",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 842,
+            "x2": 425,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1027,
+            "y1": 652,
+            "x2": 1131,
+            "y2": 777
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 523,
+            "y1": 181,
+            "x2": 657,
+            "y2": 358
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1328,
+            "y1": 912,
+            "x2": 1421,
+            "y2": 998
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1273,
+            "y1": 834,
+            "x2": 1361,
+            "y2": 922
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 374,
+            "y1": 134,
+            "x2": 1711,
+            "y2": 1078
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 893,
+            "y1": 460,
+            "x2": 980,
+            "y2": 606
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "035",
+      "boundingBoxes": [
+        {
+          "imageId": "035",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 311,
+            "y1": 149,
+            "x2": 477,
+            "y2": 348
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 718,
+            "y1": 451,
+            "x2": 828,
+            "y2": 614
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1254,
+            "y1": 916,
+            "x2": 1440,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 887,
+            "y1": 669,
+            "x2": 1009,
+            "y2": 808
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "015(透明コップb)",
+          "rect": {
+            "x1": 1254,
+            "y1": 953,
+            "x2": 1352,
+            "y2": 1037
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "014(透明コップa)",
+          "rect": {
+            "x1": 1189,
+            "y1": 867,
+            "x2": 1285,
+            "y2": 961
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 187,
+            "y1": 75,
+            "x2": 1659,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "036",
+      "boundingBoxes": [
+        {
+          "imageId": "036",
+          "instanceId": "005(透明コップa, b)",
+          "rect": {
+            "x1": 1146,
+            "y1": 954,
+            "x2": 1343,
+            "y2": 1065
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1234,
+            "y1": 944,
+            "x2": 1405,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 630,
+            "y1": 506,
+            "x2": 770,
+            "y2": 671
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 226,
+            "y1": 168,
+            "x2": 410,
+            "y2": 380
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 816,
+            "y1": 746,
+            "x2": 954,
+            "y2": 898
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 125,
+            "y1": 70,
+            "x2": 1687,
+            "y2": 1069
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "037",
+      "boundingBoxes": [
+        {
+          "imageId": "037",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 912,
+            "y1": 800,
+            "x2": 1051,
+            "y2": 951
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "005(透明コップa, b)",
+          "rect": {
+            "x1": 1242,
+            "y1": 995,
+            "x2": 1376,
+            "y2": 1080
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1245,
+            "y1": 995,
+            "x2": 1413,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 711,
+            "y1": 549,
+            "x2": 843,
+            "y2": 707
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 258,
+            "y1": 174,
+            "x2": 447,
+            "y2": 391
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 151,
+            "y1": 67,
+            "x2": 1756,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "038",
+      "boundingBoxes": [
+        {
+          "imageId": "038",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 899,
+            "x2": 361,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 899,
+            "y1": 667,
+            "x2": 1016,
+            "y2": 817
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 543,
+            "y1": 173,
+            "x2": 696,
+            "y2": 391
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 960,
+            "y1": 991,
+            "x2": 1124,
+            "y2": 1080
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 351,
+            "y1": 141,
+            "x2": 1877,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "039",
+      "boundingBoxes": [
+        {
+          "imageId": "039",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 901,
+            "y1": 1058,
+            "x2": 1013,
+            "y2": 1080
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 994,
+            "y1": 0,
+            "x2": 1261,
+            "y2": 335
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "040",
+      "boundingBoxes": [
+        {
+          "imageId": "040",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 1255,
+            "y1": 0,
+            "x2": 1546,
+            "y2": 355
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "041",
+      "boundingBoxes": [
+        {
+          "imageId": "041",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 920,
+            "y1": 0,
+            "x2": 1290,
+            "y2": 519
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "042",
+      "boundingBoxes": [
+        {
+          "imageId": "042",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 515,
+            "y1": 0,
+            "x2": 1248,
+            "y2": 874
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "043",
+      "boundingBoxes": [
+        {
+          "imageId": "043",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1040,
+            "y1": 801,
+            "x2": 1326,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "005(透明コップa, b)",
+          "rect": {
+            "x1": 1027,
+            "y1": 823,
+            "x2": 1155,
+            "y2": 976
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1770,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "044",
+      "boundingBoxes": [
+        {
+          "imageId": "044",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "005(透明コップa, b)",
+          "rect": {
+            "x1": 1141,
+            "y1": 911,
+            "x2": 1297,
+            "y2": 1077
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1154,
+            "y1": 906,
+            "x2": 1386,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "045",
+      "boundingBoxes": [
+        {
+          "imageId": "045",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 963,
+            "y1": 954,
+            "x2": 1175,
+            "y2": 1078
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "016(二段目)",
+          "rect": {
+            "x1": 837,
+            "y1": 112,
+            "x2": 1649,
+            "y2": 404
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "017(三段目)",
+          "rect": {
+            "x1": 862,
+            "y1": 564,
+            "x2": 1454,
+            "y2": 862
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "046",
+      "boundingBoxes": [
+        {
+          "imageId": "046",
+          "instanceId": "016(二段目)",
+          "rect": {
+            "x1": 168,
+            "y1": 121,
+            "x2": 1317,
+            "y2": 513
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1022,
+            "y1": 617,
+            "x2": 1174,
+            "y2": 792
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 659,
+            "y1": 704,
+            "x2": 1084,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "017(三段目)",
+          "rect": {
+            "x1": 368,
+            "y1": 494,
+            "x2": 1223,
+            "y2": 995
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "047",
+      "boundingBoxes": [
+        {
+          "imageId": "047",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 961,
+            "y1": 430,
+            "x2": 1623,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "017(三段目)",
+          "rect": {
+            "x1": 593,
+            "y1": 641,
+            "x2": 1306,
+            "y2": 1074
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "016(二段目)",
+          "rect": {
+            "x1": 533,
+            "y1": 262,
+            "x2": 1393,
+            "y2": 662
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1112,
+            "y1": 752,
+            "x2": 1242,
+            "y2": 870
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "005(透明コップa, b)",
+          "rect": {
+            "x1": 1077,
+            "y1": 368,
+            "x2": 1485,
+            "y2": 784
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "048",
+      "boundingBoxes": [
+        {
+          "imageId": "048",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 897,
+            "y1": 308,
+            "x2": 1603,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "016(二段目)",
+          "rect": {
+            "x1": 650,
+            "y1": 319,
+            "x2": 1423,
+            "y2": 654
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "017(三段目)",
+          "rect": {
+            "x1": 724,
+            "y1": 704,
+            "x2": 1198,
+            "y2": 1077
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "005(透明コップa, b)",
+          "rect": {
+            "x1": 906,
+            "y1": 242,
+            "x2": 1051,
+            "y2": 521
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "049",
+      "boundingBoxes": [
+        {
+          "imageId": "049",
+          "instanceId": "017(三段目)",
+          "rect": {
+            "x1": 500,
+            "y1": 598,
+            "x2": 1254,
+            "y2": 1058
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "005(透明コップa, b)",
+          "rect": {
+            "x1": 756,
+            "y1": 90,
+            "x2": 943,
+            "y2": 427
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "006(白カップ)",
+          "rect": {
+            "x1": 1087,
+            "y1": 651,
+            "x2": 1235,
+            "y2": 839
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "016(二段目)",
+          "rect": {
+            "x1": 376,
+            "y1": 203,
+            "x2": 1404,
+            "y2": 617
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "050",
+      "boundingBoxes": [
+        {
+          "imageId": "050",
+          "instanceId": "016(二段目)",
+          "rect": {
+            "x1": 985,
+            "y1": 231,
+            "x2": 1144,
+            "y2": 418
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 969,
+            "y1": 931,
+            "x2": 1125,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "017(三段目)",
+          "rect": {
+            "x1": 1011,
+            "y1": 884,
+            "x2": 1133,
+            "y2": 927
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "051",
+      "boundingBoxes": [
+        {
+          "imageId": "051",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 901,
+            "y1": 904,
+            "x2": 1186,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "052",
+      "boundingBoxes": [
+        {
+          "imageId": "052",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 6,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 672,
+            "y1": 711,
+            "x2": 1165,
+            "y2": 1078
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "053",
+      "boundingBoxes": [
+        {
+          "imageId": "053",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 0,
+            "y1": 397,
+            "x2": 350,
+            "y2": 728
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "054",
+      "boundingBoxes": [
+        {
+          "imageId": "054",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 241,
+            "y1": 416,
+            "x2": 320,
+            "y2": 511
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 460,
+            "x2": 245,
+            "y2": 780
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 351,
+            "y1": 434,
+            "x2": 396,
+            "y2": 485
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 186,
+            "y1": 302,
+            "x2": 829,
+            "y2": 663
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "055",
+      "boundingBoxes": [
+        {
+          "imageId": "055",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 254,
+            "y1": 73,
+            "x2": 687,
+            "y2": 893
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 734,
+            "y1": 283,
+            "x2": 1583,
+            "y2": 895
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 847,
+            "y1": 265,
+            "x2": 925,
+            "y2": 360
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 910,
+            "y1": 348,
+            "x2": 958,
+            "y2": 429
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "056",
+      "boundingBoxes": [
+        {
+          "imageId": "056",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 553,
+            "y1": 38,
+            "x2": 914,
+            "y2": 881
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1114,
+            "y1": 369,
+            "x2": 1920,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1263,
+            "y1": 322,
+            "x2": 1359,
+            "y2": 443
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1263,
+            "y1": 452,
+            "x2": 1311,
+            "y2": 552
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "057",
+      "boundingBoxes": [
+        {
+          "imageId": "057",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1347,
+            "y1": 398,
+            "x2": 1464,
+            "y2": 532
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 533,
+            "y1": 82,
+            "x2": 927,
+            "y2": 943
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1190,
+            "y1": 457,
+            "x2": 1920,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1318,
+            "y1": 564,
+            "x2": 1376,
+            "y2": 680
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 815,
+            "x2": 46,
+            "y2": 924
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "058",
+      "boundingBoxes": [
+        {
+          "imageId": "058",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 688,
+            "x2": 85,
+            "y2": 895
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1456,
+            "y1": 434,
+            "x2": 1584,
+            "y2": 577
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 615,
+            "y1": 49,
+            "x2": 1011,
+            "y2": 968
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1282,
+            "y1": 510,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1426,
+            "y1": 608,
+            "x2": 1490,
+            "y2": 732
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "059",
+      "boundingBoxes": [
+        {
+          "imageId": "059",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 273,
+            "x2": 205,
+            "y2": 879
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1566,
+            "y1": 472,
+            "x2": 1694,
+            "y2": 611
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 794,
+            "y1": 48,
+            "x2": 1114,
+            "y2": 931
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1396,
+            "y1": 541,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1520,
+            "y1": 631,
+            "x2": 1588,
+            "y2": 749
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "060",
+      "boundingBoxes": [
+        {
+          "imageId": "060",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 311,
+            "x2": 186,
+            "y2": 862
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1543,
+            "y1": 493,
+            "x2": 1672,
+            "y2": 634
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 770,
+            "y1": 53,
+            "x2": 1071,
+            "y2": 943
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1376,
+            "y1": 561,
+            "x2": 1917,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1492,
+            "y1": 653,
+            "x2": 1562,
+            "y2": 771
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "061",
+      "boundingBoxes": [
+        {
+          "imageId": "061",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 331,
+            "x2": 167,
+            "y2": 840
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1529,
+            "y1": 507,
+            "x2": 1658,
+            "y2": 647
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 778,
+            "y1": 58,
+            "x2": 1051,
+            "y2": 951
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1359,
+            "y1": 577,
+            "x2": 1919,
+            "y2": 1078
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1475,
+            "y1": 664,
+            "x2": 1545,
+            "y2": 782
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "062",
+      "boundingBoxes": [
+        {
+          "imageId": "062",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 336,
+            "x2": 158,
+            "y2": 819
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1533,
+            "y1": 496,
+            "x2": 1664,
+            "y2": 637
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 734,
+            "y1": 32,
+            "x2": 1100,
+            "y2": 960
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1362,
+            "y1": 562,
+            "x2": 1918,
+            "y2": 1072
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1480,
+            "y1": 653,
+            "x2": 1552,
+            "y2": 774
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "063",
+      "boundingBoxes": [
+        {
+          "imageId": "063",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 148,
+            "x2": 195,
+            "y2": 783
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1548,
+            "y1": 490,
+            "x2": 1681,
+            "y2": 631
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 845,
+            "y1": 0,
+            "x2": 1178,
+            "y2": 969
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1364,
+            "y1": 545,
+            "x2": 1919,
+            "y2": 1078
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1486,
+            "y1": 642,
+            "x2": 1559,
+            "y2": 759
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "064",
+      "boundingBoxes": [
+        {
+          "imageId": "064",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1882,
+            "y1": 556,
+            "x2": 1917,
+            "y2": 706
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 533,
+            "y2": 509
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 946,
+            "y1": 0,
+            "x2": 1535,
+            "y2": 888
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1559,
+            "y1": 538,
+            "x2": 1918,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1785,
+            "y1": 669,
+            "x2": 1880,
+            "y2": 792
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "065",
+      "boundingBoxes": [
+        {
+          "imageId": "065",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1849,
+            "y1": 708,
+            "x2": 1919,
+            "y2": 821
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1665,
+            "y1": 596,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 316,
+            "y1": 0,
+            "x2": 620,
+            "y2": 422
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1041,
+            "y1": 0,
+            "x2": 1700,
+            "y2": 869
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "066",
+      "boundingBoxes": [
+        {
+          "imageId": "066",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1485,
+            "y1": 428,
+            "x2": 1587,
+            "y2": 534
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1420,
+            "y1": 508,
+            "x2": 1479,
+            "y2": 595
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1256,
+            "y1": 463,
+            "x2": 1915,
+            "y2": 1078
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 309,
+            "y2": 612
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 646,
+            "y1": 24,
+            "x2": 1176,
+            "y2": 788
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "067",
+      "boundingBoxes": [
+        {
+          "imageId": "067",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1646,
+            "y1": 386,
+            "x2": 1752,
+            "y2": 506
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1585,
+            "y1": 459,
+            "x2": 1642,
+            "y2": 552
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1436,
+            "y1": 417,
+            "x2": 1920,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 44,
+            "y1": 0,
+            "x2": 413,
+            "y2": 557
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1049,
+            "y1": 0,
+            "x2": 1355,
+            "y2": 817
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "068",
+      "boundingBoxes": [
+        {
+          "imageId": "068",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 646,
+            "y1": 0,
+            "x2": 935,
+            "y2": 410
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1522,
+            "y1": 0,
+            "x2": 1917,
+            "y2": 942
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "069",
+      "boundingBoxes": [
+        {
+          "imageId": "069",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 529,
+            "y1": 0,
+            "x2": 929,
+            "y2": 531
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "070",
+      "boundingBoxes": [
+        {
+          "imageId": "070",
+          "instanceId": "013(引き出し)",
+          "rect": {
+            "x1": 1375,
+            "y1": 370,
+            "x2": 1443,
+            "y2": 625
+          },
+          "className": "drawer"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 450,
+            "y2": 941
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "071",
+      "boundingBoxes": [
+        {
+          "imageId": "071",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1891,
+            "y1": 158,
+            "x2": 1918,
+            "y2": 230
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1633,
+            "y1": 93,
+            "x2": 1920,
+            "y2": 295
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1337,
+            "y1": 958,
+            "x2": 1516,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1745,
+            "y1": 30,
+            "x2": 1828,
+            "y2": 142
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "013(引き出し)",
+          "rect": {
+            "x1": 1139,
+            "y1": 535,
+            "x2": 1429,
+            "y2": 971
+          },
+          "className": "drawer"
+        }
+      ]
+    },
+    {
+      "imageId": "072",
+      "boundingBoxes": [
+        {
+          "imageId": "072",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1112,
+            "y1": 0,
+            "x2": 1867,
+            "y2": 147
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1225,
+            "y1": 972,
+            "x2": 1361,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "013(引き出し)",
+          "rect": {
+            "x1": 978,
+            "y1": 882,
+            "x2": 1506,
+            "y2": 1077
+          },
+          "className": "drawer"
+        }
+      ]
+    },
+    {
+      "imageId": "073",
+      "boundingBoxes": [
+        {
+          "imageId": "073",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1618,
+            "y1": 0,
+            "x2": 1902,
+            "y2": 134
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "013(引き出し)",
+          "rect": {
+            "x1": 508,
+            "y1": 642,
+            "x2": 1164,
+            "y2": 1079
+          },
+          "className": "drawer"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 847,
+            "y1": 1041,
+            "x2": 1017,
+            "y2": 1078
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 698,
+            "y1": 975,
+            "x2": 876,
+            "y2": 1077
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "074",
+      "boundingBoxes": [
+        {
+          "imageId": "074",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 800,
+            "y1": 629,
+            "x2": 873,
+            "y2": 1006
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "013(引き出し)",
+          "rect": {
+            "x1": 806,
+            "y1": 618,
+            "x2": 1340,
+            "y2": 950
+          },
+          "className": "drawer"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 644,
+            "y1": 841,
+            "x2": 1381,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "075",
+      "boundingBoxes": [
+        {
+          "imageId": "075",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 976,
+            "y1": 690,
+            "x2": 1918,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 998,
+            "y1": 640,
+            "x2": 1191,
+            "y2": 1078
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "013(引き出し)",
+          "rect": {
+            "x1": 1064,
+            "y1": 621,
+            "x2": 1711,
+            "y2": 792
+          },
+          "className": "drawer"
+        }
+      ]
+    },
+    {
+      "imageId": "076",
+      "boundingBoxes": [
+        {
+          "imageId": "076",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 152,
+            "y1": 0,
+            "x2": 535,
+            "y2": 462
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "013(引き出し)",
+          "rect": {
+            "x1": 479,
+            "y1": 958,
+            "x2": 696,
+            "y2": 1079
+          },
+          "className": "drawer"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1,
+            "y1": 345,
+            "x2": 76,
+            "y2": 457
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 146,
+            "y1": 189,
+            "x2": 194,
+            "y2": 241
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 126,
+            "y1": 287,
+            "x2": 181,
+            "y2": 343
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1277,
+            "y1": 848,
+            "x2": 1431,
+            "y2": 1079
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1211,
+            "y1": 1007,
+            "x2": 1398,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 2,
+            "y1": 31,
+            "x2": 614,
+            "y2": 601
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "077",
+      "boundingBoxes": [
+        {
+          "imageId": "077",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 849,
+            "y1": 946,
+            "x2": 1223,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1049,
+            "y1": 1023,
+            "x2": 1141,
+            "y2": 1079
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 0,
+            "y1": 290,
+            "x2": 349,
+            "y2": 671
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "078",
+      "boundingBoxes": [
+        {
+          "imageId": "078",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 3,
+            "y1": 517,
+            "x2": 67,
+            "y2": 578
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 872,
+            "y1": 969,
+            "x2": 1608,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1031,
+            "y1": 983,
+            "x2": 1484,
+            "y2": 1080
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 0,
+            "y1": 174,
+            "x2": 617,
+            "y2": 666
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 489,
+            "x2": 258,
+            "y2": 1006
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "079",
+      "boundingBoxes": [
+        {
+          "imageId": "079",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 704,
+            "y1": 232,
+            "x2": 802,
+            "y2": 340
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 344,
+            "y1": 0,
+            "x2": 833,
+            "y2": 829
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 773,
+            "y1": 368,
+            "x2": 829,
+            "y2": 441
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 611,
+            "y1": 230,
+            "x2": 1535,
+            "y2": 903
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "080",
+      "boundingBoxes": [
+        {
+          "imageId": "080",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1234,
+            "y1": 862,
+            "x2": 1526,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1289,
+            "y1": 492,
+            "x2": 1348,
+            "y2": 604
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1318,
+            "y1": 566,
+            "x2": 1390,
+            "y2": 662
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1317,
+            "y1": 353,
+            "x2": 1428,
+            "y2": 487
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 729,
+            "y1": 0,
+            "x2": 1154,
+            "y2": 978
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1138,
+            "y1": 547,
+            "x2": 1349,
+            "y2": 937
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1145,
+            "y1": 397,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "081",
+      "boundingBoxes": [
+        {
+          "imageId": "081",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1466,
+            "y1": 408,
+            "x2": 1604,
+            "y2": 566
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1487,
+            "y1": 679,
+            "x2": 1574,
+            "y2": 792
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1102,
+            "y1": 715,
+            "x2": 1262,
+            "y2": 1005
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1155,
+            "y1": 950,
+            "x2": 1402,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1456,
+            "y1": 583,
+            "x2": 1529,
+            "y2": 714
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 722,
+            "y1": 0,
+            "x2": 1243,
+            "y2": 1074
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1270,
+            "y1": 465,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "082",
+      "boundingBoxes": [
+        {
+          "imageId": "082",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1356,
+            "y1": 669,
+            "x2": 1439,
+            "y2": 779
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1340,
+            "y1": 402,
+            "x2": 1474,
+            "y2": 557
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1065,
+            "y1": 561,
+            "x2": 1196,
+            "y2": 605
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1326,
+            "y1": 575,
+            "x2": 1393,
+            "y2": 702
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 608,
+            "y1": 0,
+            "x2": 1145,
+            "y2": 1073
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "083",
+      "boundingBoxes": [
+        {
+          "imageId": "083",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 925,
+            "y1": 551,
+            "x2": 989,
+            "y2": 622
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1047,
+            "y1": 593,
+            "x2": 1133,
+            "y2": 701
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1024,
+            "y1": 318,
+            "x2": 1154,
+            "y2": 472
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1005,
+            "y1": 500,
+            "x2": 1071,
+            "y2": 627
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 313,
+            "y1": 0,
+            "x2": 1033,
+            "y2": 1071
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 837,
+            "y1": 344,
+            "x2": 1918,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "084",
+      "boundingBoxes": [
+        {
+          "imageId": "084",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1134,
+            "y1": 306,
+            "x2": 1262,
+            "y2": 459
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1148,
+            "y1": 575,
+            "x2": 1233,
+            "y2": 685
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1072,
+            "y1": 598,
+            "x2": 1143,
+            "y2": 709
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1112,
+            "y1": 483,
+            "x2": 1177,
+            "y2": 610
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 461,
+            "y1": 0,
+            "x2": 1160,
+            "y2": 1058
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 946,
+            "y1": 341,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "085",
+      "boundingBoxes": [
+        {
+          "imageId": "085",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 906,
+            "x2": 7,
+            "y2": 926
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1388,
+            "y1": 641,
+            "x2": 1448,
+            "y2": 754
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1464,
+            "y1": 371,
+            "x2": 1599,
+            "y2": 525
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1464,
+            "y1": 633,
+            "x2": 1546,
+            "y2": 741
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1444,
+            "y1": 538,
+            "x2": 1510,
+            "y2": 661
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 769,
+            "y1": 0,
+            "x2": 1191,
+            "y2": 1010
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1274,
+            "y1": 431,
+            "x2": 1920,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "086",
+      "boundingBoxes": [
+        {
+          "imageId": "086",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1378,
+            "y1": 685,
+            "x2": 1436,
+            "y2": 797
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1457,
+            "y1": 415,
+            "x2": 1594,
+            "y2": 571
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1455,
+            "y1": 676,
+            "x2": 1537,
+            "y2": 785
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1431,
+            "y1": 582,
+            "x2": 1497,
+            "y2": 698
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 630,
+            "y1": 0,
+            "x2": 1115,
+            "y2": 1025
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1265,
+            "y1": 474,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "087",
+      "boundingBoxes": [
+        {
+          "imageId": "087",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1364,
+            "y1": 737,
+            "x2": 1421,
+            "y2": 849
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "087",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1442,
+            "y1": 471,
+            "x2": 1580,
+            "y2": 624
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "087",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1439,
+            "y1": 729,
+            "x2": 1523,
+            "y2": 837
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "087",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1414,
+            "y1": 636,
+            "x2": 1484,
+            "y2": 752
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "087",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 603,
+            "y1": 18,
+            "x2": 1042,
+            "y2": 1073
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "087",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1254,
+            "y1": 532,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "088",
+      "boundingBoxes": [
+        {
+          "imageId": "088",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1395,
+            "y1": 711,
+            "x2": 1477,
+            "y2": 818
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "088",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1394,
+            "y1": 455,
+            "x2": 1527,
+            "y2": 605
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "088",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1368,
+            "y1": 619,
+            "x2": 1435,
+            "y2": 742
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "088",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 551,
+            "y1": 8,
+            "x2": 1239,
+            "y2": 1067
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "088",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1202,
+            "y1": 513,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "089",
+      "boundingBoxes": [
+        {
+          "imageId": "089",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1081,
+            "y1": 609,
+            "x2": 1164,
+            "y2": 717
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1006,
+            "y1": 637,
+            "x2": 1080,
+            "y2": 742
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1062,
+            "y1": 349,
+            "x2": 1185,
+            "y2": 499
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1046,
+            "y1": 522,
+            "x2": 1109,
+            "y2": 647
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 137,
+            "y1": 0,
+            "x2": 741,
+            "y2": 1071
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 877,
+            "y1": 381,
+            "x2": 1917,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "090",
+      "boundingBoxes": [
+        {
+          "imageId": "090",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1110,
+            "y1": 608,
+            "x2": 1190,
+            "y2": 713
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "090",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1093,
+            "y1": 354,
+            "x2": 1214,
+            "y2": 501
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "090",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1033,
+            "y1": 633,
+            "x2": 1106,
+            "y2": 736
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "090",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1075,
+            "y1": 523,
+            "x2": 1136,
+            "y2": 646
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "090",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 522,
+            "y1": 0,
+            "x2": 1132,
+            "y2": 994
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "090",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 907,
+            "y1": 388,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "091",
+      "boundingBoxes": [
+        {
+          "imageId": "091",
+          "instanceId": "018(ケトル台)",
+          "rect": {
+            "x1": 1315,
+            "y1": 478,
+            "x2": 1406,
+            "y2": 529
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "091",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1237,
+            "y1": 238,
+            "x2": 1379,
+            "y2": 420
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "091",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1309,
+            "y1": 638,
+            "x2": 1389,
+            "y2": 745
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "091",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1231,
+            "y1": 653,
+            "x2": 1296,
+            "y2": 760
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "091",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1281,
+            "y1": 549,
+            "x2": 1343,
+            "y2": 671
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "091",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 767,
+            "y1": 0,
+            "x2": 1297,
+            "y2": 907
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "091",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1109,
+            "y1": 438,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "092",
+      "boundingBoxes": [
+        {
+          "imageId": "092",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 829,
+            "y1": 400,
+            "x2": 1050,
+            "y2": 657
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "092",
+          "instanceId": "018(ケトル台)",
+          "rect": {
+            "x1": 1380,
+            "y1": 472,
+            "x2": 1472,
+            "y2": 530
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "092",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1360,
+            "y1": 639,
+            "x2": 1442,
+            "y2": 746
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "092",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1282,
+            "y1": 647,
+            "x2": 1341,
+            "y2": 758
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "092",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1334,
+            "y1": 546,
+            "x2": 1403,
+            "y2": 671
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "092",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 601,
+            "y1": 0,
+            "x2": 1022,
+            "y2": 1051
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "092",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1176,
+            "y1": 451,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "093",
+      "boundingBoxes": [
+        {
+          "imageId": "093",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 815,
+            "y1": 581,
+            "x2": 1163,
+            "y2": 957
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "093",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 587,
+            "y1": 1,
+            "x2": 1113,
+            "y2": 821
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "093",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 706,
+            "y1": 713,
+            "x2": 1514,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "093",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1491,
+            "y1": 650,
+            "x2": 1583,
+            "y2": 763
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "093",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1410,
+            "y1": 651,
+            "x2": 1472,
+            "y2": 771
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "093",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1460,
+            "y1": 550,
+            "x2": 1544,
+            "y2": 680
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "093",
+          "instanceId": "018(ケトル台)",
+          "rect": {
+            "x1": 1507,
+            "y1": 478,
+            "x2": 1595,
+            "y2": 544
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "093",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1289,
+            "y1": 464,
+            "x2": 1918,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "094",
+      "boundingBoxes": [
+        {
+          "imageId": "094",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 840,
+            "y1": 627,
+            "x2": 1309,
+            "y2": 1069
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "094",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 733,
+            "y1": 772,
+            "x2": 1481,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "094",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1504,
+            "y1": 688,
+            "x2": 1602,
+            "y2": 802
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "094",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 676,
+            "y1": 0,
+            "x2": 1211,
+            "y2": 776
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "094",
+          "instanceId": "018(ケトル台)",
+          "rect": {
+            "x1": 1554,
+            "y1": 524,
+            "x2": 1642,
+            "y2": 587
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "094",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1433,
+            "y1": 677,
+            "x2": 1483,
+            "y2": 802
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "094",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1487,
+            "y1": 585,
+            "x2": 1575,
+            "y2": 708
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "094",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1338,
+            "y1": 493,
+            "x2": 1920,
+            "y2": 1077
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "095",
+      "boundingBoxes": [
+        {
+          "imageId": "095",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 912,
+            "y1": 837,
+            "x2": 1307,
+            "y2": 1079
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "095",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1272,
+            "y1": 927,
+            "x2": 1373,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "095",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 372,
+            "y1": 0,
+            "x2": 717,
+            "y2": 340
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "095",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1353,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 971
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "096",
+      "boundingBoxes": [
+        {
+          "imageId": "096",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 1307,
+            "y1": 0,
+            "x2": 1583,
+            "y2": 287
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "097",
+      "boundingBoxes": [
+        {
+          "imageId": "097",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 673,
+            "y1": 0,
+            "x2": 1054,
+            "y2": 390
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "098",
+      "boundingBoxes": [
+        {
+          "imageId": "098",
+          "instanceId": "013(引き出し)",
+          "rect": {
+            "x1": 1362,
+            "y1": 319,
+            "x2": 1494,
+            "y2": 717
+          },
+          "className": "drawer"
+        },
+        {
+          "imageId": "098",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1122,
+            "y1": 912,
+            "x2": 1343,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "098",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 873,
+            "y1": 901,
+            "x2": 1226,
+            "y2": 1080
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "098",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 370,
+            "x2": 249,
+            "y2": 1039
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "099",
+      "boundingBoxes": [
+        {
+          "imageId": "099",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1418,
+            "y1": 84,
+            "x2": 1915,
+            "y2": 484
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "099",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1443,
+            "y1": 0,
+            "x2": 1899,
+            "y2": 529
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "099",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 968,
+            "y1": 784,
+            "x2": 1248,
+            "y2": 1079
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "099",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1014,
+            "y1": 894,
+            "x2": 1276,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "100",
+      "boundingBoxes": [
+        {
+          "imageId": "100",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 840,
+            "y1": 903,
+            "x2": 1151,
+            "y2": 1080
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "100",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1005,
+            "y1": 0,
+            "x2": 1836,
+            "y2": 487
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "100",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1030,
+            "y1": 966,
+            "x2": 1187,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "100",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1108,
+            "y1": 0,
+            "x2": 1497,
+            "y2": 294
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "101",
+      "boundingBoxes": [
+        {
+          "imageId": "101",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 656,
+            "y1": 847,
+            "x2": 941,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "101",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1058,
+            "y1": 813,
+            "x2": 1467,
+            "y2": 1078
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "101",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1433,
+            "y1": 0,
+            "x2": 1916,
+            "y2": 385
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "101",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1421,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 463
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "101",
+          "instanceId": "018(ケトル台)",
+          "rect": {
+            "x1": 1529,
+            "y1": 0,
+            "x2": 1609,
+            "y2": 47
+          },
+          "className": "coffeepot"
+        }
+      ]
+    },
+    {
+      "imageId": "102",
+      "boundingBoxes": [
+        {
+          "imageId": "102",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 806,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "103",
+      "boundingBoxes": [
+        {
+          "imageId": "103",
+          "instanceId": "012(水)",
+          "rect": {
+            "x1": 1163,
+            "y1": 820,
+            "x2": 1218,
+            "y2": 998
+          },
+          "className": "bottle"
+        },
+        {
+          "imageId": "103",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 763,
+            "y2": 1066
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "104",
+      "boundingBoxes": [
+        {
+          "imageId": "104",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 699,
+            "x2": 348,
+            "y2": 1079
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "104",
+          "instanceId": "012(水)",
+          "rect": {
+            "x1": 1092,
+            "y1": 820,
+            "x2": 1281,
+            "y2": 1030
+          },
+          "className": "bottle"
+        },
+        {
+          "imageId": "104",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 714,
+            "y1": 553,
+            "x2": 1613,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "105",
+      "boundingBoxes": [
+        {
+          "imageId": "105",
+          "instanceId": "012(水)",
+          "rect": {
+            "x1": 373,
+            "y1": 939,
+            "x2": 1001,
+            "y2": 1080
+          },
+          "className": "bottle"
+        },
+        {
+          "imageId": "105",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 241,
+            "y1": 918,
+            "x2": 1528,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "105",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 402,
+            "x2": 438,
+            "y2": 1079
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "106",
+      "boundingBoxes": [
+        {
+          "imageId": "106",
+          "instanceId": "012(水)",
+          "rect": {
+            "x1": 849,
+            "y1": 879,
+            "x2": 1200,
+            "y2": 1079
+          },
+          "className": "bottle"
+        },
+        {
+          "imageId": "106",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 718,
+            "y1": 649,
+            "x2": 1784,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "106",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 805,
+            "y2": 937
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "107",
+      "boundingBoxes": [
+        {
+          "imageId": "107",
+          "instanceId": "013(引き出し)",
+          "rect": {
+            "x1": 1780,
+            "y1": 877,
+            "x2": 1919,
+            "y2": 1080
+          },
+          "className": "drawer"
+        },
+        {
+          "imageId": "107",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 586,
+            "y1": 919,
+            "x2": 1326,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "108",
+      "boundingBoxes": [
+        {
+          "imageId": "108",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 53,
+            "y1": 972,
+            "x2": 1057,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "108",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 966,
+            "y1": 0,
+            "x2": 1689,
+            "y2": 287
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "108",
+          "instanceId": "018(ケトル台)",
+          "rect": {
+            "x1": 1035,
+            "y1": 0,
+            "x2": 1087,
+            "y2": 20
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "108",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1065,
+            "y1": 0,
+            "x2": 1331,
+            "y2": 295
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "108",
+          "instanceId": "013(引き出し)",
+          "rect": {
+            "x1": 874,
+            "y1": 767,
+            "x2": 1377,
+            "y2": 980
+          },
+          "className": "drawer"
+        },
+        {
+          "imageId": "108",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 930,
+            "y1": 421,
+            "x2": 1200,
+            "y2": 783
+          },
+          "className": "coffeepot"
+        }
+      ]
+    },
+    {
+      "imageId": "109",
+      "boundingBoxes": [
+        {
+          "imageId": "109",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 816,
+            "y1": 824,
+            "x2": 1276,
+            "y2": 1080
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "109",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1284,
+            "y1": 0,
+            "x2": 1505,
+            "y2": 226
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "110",
+      "boundingBoxes": [
+        {
+          "imageId": "110",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1273,
+            "y1": 0,
+            "x2": 1314,
+            "y2": 124
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "110",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 811,
+            "y1": 875,
+            "x2": 1331,
+            "y2": 1079
+          },
+          "className": "coffeepot"
+        }
+      ]
+    },
+    {
+      "imageId": "111",
+      "boundingBoxes": [
+        {
+          "imageId": "111",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 640,
+            "y1": 0,
+            "x2": 1069,
+            "y2": 238
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "111",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1274,
+            "y1": 0,
+            "x2": 1322,
+            "y2": 143
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "111",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 883,
+            "y1": 853,
+            "x2": 1368,
+            "y2": 1079
+          },
+          "className": "coffeepot"
+        }
+      ]
+    },
+    {
+      "imageId": "112",
+      "boundingBoxes": [
+        {
+          "imageId": "112",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1192,
+            "y1": 40,
+            "x2": 1919,
+            "y2": 362
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "112",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1208,
+            "y1": 0,
+            "x2": 1606,
+            "y2": 394
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "112",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1161,
+            "y1": 698,
+            "x2": 1468,
+            "y2": 987
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "112",
+          "instanceId": "012(水)",
+          "rect": {
+            "x1": 913,
+            "y1": 871,
+            "x2": 1292,
+            "y2": 1079
+          },
+          "className": "bottle"
+        },
+        {
+          "imageId": "112",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 793,
+            "y1": 883,
+            "x2": 1338,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "113",
+      "boundingBoxes": [
+        {
+          "imageId": "113",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 631,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "113",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 976,
+            "y1": 1029,
+            "x2": 1303,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "114",
+      "boundingBoxes": [
+        {
+          "imageId": "114",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1319,
+            "y1": 884,
+            "x2": 1544,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "114",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 811,
+            "y2": 1068
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "115",
+      "boundingBoxes": [
+        {
+          "imageId": "115",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 682,
+            "y1": 859,
+            "x2": 926,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "115",
+          "instanceId": "012(水)",
+          "rect": {
+            "x1": 762,
+            "y1": 814,
+            "x2": 1253,
+            "y2": 1079
+          },
+          "className": "bottle"
+        },
+        {
+          "imageId": "115",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 536,
+            "x2": 447,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "116",
+      "boundingBoxes": [
+        {
+          "imageId": "116",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1079,
+            "y1": 936,
+            "x2": 1281,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "116",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 228,
+            "x2": 491,
+            "y2": 1079
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "117",
+      "boundingBoxes": [
+        {
+          "imageId": "117",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 840,
+            "y1": 926,
+            "x2": 1301,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "117",
+          "instanceId": "012(水)",
+          "rect": {
+            "x1": 1026,
+            "y1": 583,
+            "x2": 1072,
+            "y2": 747
+          },
+          "className": "bottle"
+        }
+      ]
+    },
+    {
+      "imageId": "118",
+      "boundingBoxes": [
+        {
+          "imageId": "118",
+          "instanceId": "013(引き出し)",
+          "rect": {
+            "x1": 1762,
+            "y1": 804,
+            "x2": 1918,
+            "y2": 1080
+          },
+          "className": "drawer"
+        }
+      ]
+    },
+    {
+      "imageId": "119",
+      "boundingBoxes": [
+        {
+          "imageId": "119",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 684,
+            "y1": 890,
+            "x2": 888,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "119",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1291,
+            "y1": 79,
+            "x2": 1700,
+            "y2": 455
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "119",
+          "instanceId": "013(引き出し)",
+          "rect": {
+            "x1": 835,
+            "y1": 852,
+            "x2": 1286,
+            "y2": 1049
+          },
+          "className": "drawer"
+        },
+        {
+          "imageId": "119",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 973,
+            "y1": 0,
+            "x2": 1314,
+            "y2": 345
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "119",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 856,
+            "y1": 478,
+            "x2": 1110,
+            "y2": 826
+          },
+          "className": "coffeepot"
+        }
+      ]
+    },
+    {
+      "imageId": "120",
+      "boundingBoxes": [
+        {
+          "imageId": "120",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 752,
+            "y1": 952,
+            "x2": 1112,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "120",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 735,
+            "y1": 968,
+            "x2": 1039,
+            "y2": 1080
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "120",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 979,
+            "y1": 32,
+            "x2": 1373,
+            "y2": 411
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "120",
+          "instanceId": "13210",
+          "rect": {
+            "x1": 519,
+            "y1": 0,
+            "x2": 992,
+            "y2": 406
+          },
+          "className": "poncho"
+        }
+      ]
+    },
+    {
+      "imageId": "121",
+      "boundingBoxes": [
+        {
+          "imageId": "121",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 0,
+            "y1": 105,
+            "x2": 520,
+            "y2": 445
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "122",
+      "boundingBoxes": [
+        {
+          "imageId": "122",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 0,
+            "y1": 449,
+            "x2": 149,
+            "y2": 811
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "122",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1015,
+            "y1": 944,
+            "x2": 1370,
+            "y2": 1080
+          },
+          "className": "coffeepot"
+        }
+      ]
+    },
+    {
+      "imageId": "123",
+      "boundingBoxes": [
+        {
+          "imageId": "123",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 603,
+            "y1": 312,
+            "x2": 667,
+            "y2": 384
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "123",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 566,
+            "y1": 290,
+            "x2": 624,
+            "y2": 379
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "123",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 154,
+            "x2": 564,
+            "y2": 954
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "123",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 574,
+            "y1": 386,
+            "x2": 653,
+            "y2": 402
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "123",
+          "instanceId": "018(ケトル台)",
+          "rect": {
+            "x1": 550,
+            "y1": 277,
+            "x2": 618,
+            "y2": 311
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "123",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 435,
+            "y1": 199,
+            "x2": 1301,
+            "y2": 731
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "123",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1281,
+            "y1": 969,
+            "x2": 1605,
+            "y2": 1080
+          },
+          "className": "coffeepot"
+        }
+      ]
+    },
+    {
+      "imageId": "124",
+      "boundingBoxes": [
+        {
+          "imageId": "124",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1359,
+            "y1": 448,
+            "x2": 1412,
+            "y2": 559
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "124",
+          "instanceId": "018(ケトル台)",
+          "rect": {
+            "x1": 1359,
+            "y1": 385,
+            "x2": 1441,
+            "y2": 439
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "124",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1323,
+            "y1": 557,
+            "x2": 1410,
+            "y2": 632
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "124",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1387,
+            "y1": 506,
+            "x2": 1456,
+            "y2": 599
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "124",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 513,
+            "y1": 27,
+            "x2": 1035,
+            "y2": 1064
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "124",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1171,
+            "y1": 338,
+            "x2": 1920,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "125",
+      "boundingBoxes": [
+        {
+          "imageId": "125",
+          "instanceId": "018(ケトル台)",
+          "rect": {
+            "x1": 1776,
+            "y1": 619,
+            "x2": 1879,
+            "y2": 686
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "125",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 580,
+            "x2": 239,
+            "y2": 1079
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "125",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1723,
+            "y1": 720,
+            "x2": 1804,
+            "y2": 856
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "125",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1663,
+            "y1": 826,
+            "x2": 1719,
+            "y2": 965
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "125",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1730,
+            "y1": 812,
+            "x2": 1826,
+            "y2": 933
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "125",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 746,
+            "y1": 109,
+            "x2": 1249,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "125",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1546,
+            "y1": 593,
+            "x2": 1918,
+            "y2": 1078
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "126",
+      "boundingBoxes": [
+        {
+          "imageId": "126",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1730,
+            "y1": 846,
+            "x2": 1831,
+            "y2": 967
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "126",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 552,
+            "x2": 207,
+            "y2": 1059
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "126",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1733,
+            "y1": 752,
+            "x2": 1813,
+            "y2": 853
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "126",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1667,
+            "y1": 860,
+            "x2": 1722,
+            "y2": 1000
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "126",
+          "instanceId": "018(ケトル台)",
+          "rect": {
+            "x1": 1785,
+            "y1": 647,
+            "x2": 1888,
+            "y2": 731
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "126",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 777,
+            "y1": 70,
+            "x2": 1236,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "126",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1555,
+            "y1": 639,
+            "x2": 1918,
+            "y2": 1078
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "127",
+      "boundingBoxes": [
+        {
+          "imageId": "127",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1631,
+            "y1": 689,
+            "x2": 1724,
+            "y2": 804
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "127",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1613,
+            "y1": 603,
+            "x2": 1698,
+            "y2": 737
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "127",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1557,
+            "y1": 706,
+            "x2": 1627,
+            "y2": 838
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "127",
+          "instanceId": "007(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 821,
+            "x2": 64,
+            "y2": 976
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "127",
+          "instanceId": "018(ケトル台)",
+          "rect": {
+            "x1": 1644,
+            "y1": 509,
+            "x2": 1748,
+            "y2": 582
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "127",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 641,
+            "y1": 0,
+            "x2": 1127,
+            "y2": 1062
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "127",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 1426,
+            "y1": 485,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "128",
+      "boundingBoxes": [
+        {
+          "imageId": "128",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 876,
+            "y1": 800,
+            "x2": 1388,
+            "y2": 1080
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "128",
+          "instanceId": "018(ケトル台)",
+          "rect": {
+            "x1": 1169,
+            "y1": 425,
+            "x2": 1291,
+            "y2": 515
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "128",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1,
+            "y1": 453,
+            "x2": 686,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "128",
+          "instanceId": "010(ラーメン)",
+          "rect": {
+            "x1": 1224,
+            "y1": 699,
+            "x2": 1326,
+            "y2": 828
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "128",
+          "instanceId": "008(タンブラー)",
+          "rect": {
+            "x1": 1185,
+            "y1": 594,
+            "x2": 1274,
+            "y2": 741
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "128",
+          "instanceId": "011(箸)",
+          "rect": {
+            "x1": 1123,
+            "y1": 731,
+            "x2": 1211,
+            "y2": 825
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "128",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 915,
+            "y1": 337,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "129",
+      "boundingBoxes": [
+        {
+          "imageId": "129",
+          "instanceId": "009(ケトル)",
+          "rect": {
+            "x1": 1096,
+            "y1": 465,
+            "x2": 1387,
+            "y2": 830
+          },
+          "className": "coffeepot"
+        },
+        {
+          "imageId": "129",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1195,
+            "y1": 730,
+            "x2": 1567,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "129",
+          "instanceId": "003(机)",
+          "rect": {
+            "x1": 739,
+            "y1": 407,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    }
+  ],
+  "utterances": [
+    {
+      "text": "机の上を片付けたいんだけど、手伝ってくれない？",
+      "phrases": [
+        {
+          "text": "机の",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(机)"
+            }
+          ]
+        },
+        {
+          "text": "上を",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(机)"
+            },
+            {
+              "type": "=",
+              "instanceId": "004(上)"
+            }
+          ]
+        },
+        {
+          "text": "片付けたいんだけど、",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(上)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(白カップ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(タンブラー)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "014(透明コップa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "015(透明コップb)"
+            }
+          ]
+        },
+        {
+          "text": "手伝ってくれない？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "何をすればいいですか?",
+      "phrases": [
+        {
+          "text": "何を",
+          "relations": []
+        },
+        {
+          "text": "すればいいですか",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "?",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "まずはコップとカップを棚に片付けてくれる？",
+      "phrases": [
+        {
+          "text": "まずは",
+          "relations": []
+        },
+        {
+          "text": "コップと",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "005(透明コップa, b)"
+            },
+            {
+              "type": "=",
+              "instanceId": "014(透明コップa)"
+            },
+            {
+              "type": "=",
+              "instanceId": "015(透明コップb)"
+            }
+          ]
+        },
+        {
+          "text": "カップを",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(白カップ)"
+            }
+          ]
+        },
+        {
+          "text": "棚に",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "007(棚)"
+            }
+          ]
+        },
+        {
+          "text": "片付けてくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(透明コップa, b)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(白カップ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "014(透明コップa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "015(透明コップb)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "007(棚)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "まず、コップは棚の上から二段目。カップは棚の上から三段目にお願いね。",
+      "phrases": [
+        {
+          "text": "まず、",
+          "relations": []
+        },
+        {
+          "text": "コップは",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "005(透明コップa, b)"
+            },
+            {
+              "type": "=",
+              "instanceId": "014(透明コップa)"
+            },
+            {
+              "type": "=",
+              "instanceId": "015(透明コップb)"
+            }
+          ]
+        },
+        {
+          "text": "棚の",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "007(棚)"
+            }
+          ]
+        },
+        {
+          "text": "上から",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "007(棚)"
+            }
+          ]
+        },
+        {
+          "text": "二段目。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "005(透明コップa, b)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "014(透明コップa)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "015(透明コップb)"
+            },
+            {
+              "type": "=",
+              "instanceId": "016(二段目)"
+            }
+          ]
+        },
+        {
+          "text": "カップは",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(白カップ)"
+            }
+          ]
+        },
+        {
+          "text": "棚の",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "007(棚)"
+            }
+          ]
+        },
+        {
+          "text": "上から",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "007(棚)"
+            }
+          ]
+        },
+        {
+          "text": "三段目に",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "006(白カップ)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "007(棚)"
+            },
+            {
+              "type": "=",
+              "instanceId": "017(三段目)"
+            }
+          ]
+        },
+        {
+          "text": "お願いね。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(透明コップa, b)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(白カップ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "014(透明コップa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "015(透明コップb)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "017(三段目)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "わかりました。",
+      "phrases": [
+        {
+          "text": "わかりました。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "016(二段目)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "017(三段目)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "とー机の上の物すべて片付けていいですか？",
+      "phrases": [
+        {
+          "text": "とー",
+          "relations": []
+        },
+        {
+          "text": "机の",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(机)"
+            }
+          ]
+        },
+        {
+          "text": "上の",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(机)"
+            },
+            {
+              "type": "=",
+              "instanceId": "004(上)"
+            }
+          ]
+        },
+        {
+          "text": "物",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "004(上)"
+            },
+            {
+              "type": "=",
+              "instanceId": "006(白カップ)"
+            },
+            {
+              "type": "=",
+              "instanceId": "008(タンブラー)"
+            },
+            {
+              "type": "=",
+              "instanceId": "009(ケトル)"
+            },
+            {
+              "type": "=",
+              "instanceId": "014(透明コップa)"
+            },
+            {
+              "type": "=",
+              "instanceId": "015(透明コップb)"
+            }
+          ]
+        },
+        {
+          "text": "すべて",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "006(白カップ)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "008(タンブラー)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "009(ケトル)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "014(透明コップa)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "015(透明コップb)"
+            }
+          ]
+        },
+        {
+          "text": "片付けていいですか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(白カップ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(タンブラー)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(ケトル)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "014(透明コップa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "015(透明コップb)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うんうんタンブラーはそのままにしていいわよ。",
+      "phrases": [
+        {
+          "text": "うんうん",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "タンブラーは",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "008(タンブラー)"
+            }
+          ]
+        },
+        {
+          "text": "そのままに",
+          "relations": []
+        },
+        {
+          "text": "していいわよ。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(タンブラー)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "わかりました。",
+      "phrases": [
+        {
+          "text": "わかりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "他は何をすればいいですか？",
+      "phrases": [
+        {
+          "text": "他は",
+          "relations": []
+        },
+        {
+          "text": "何を",
+          "relations": []
+        },
+        {
+          "text": "すればいいですか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "カップラーメンを食べたいから、お箸を持ってきてちょうだい。",
+      "phrases": [
+        {
+          "text": "カップ",
+          "relations": []
+        },
+        {
+          "text": "ラーメンを",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "010(ラーメン)"
+            }
+          ]
+        },
+        {
+          "text": "食べたいから、",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "010(ラーメン)"
+            }
+          ]
+        },
+        {
+          "text": "お箸を",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "011(箸)"
+            }
+          ]
+        },
+        {
+          "text": "持ってきて",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "011(箸)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "ちょうだい。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "わかりました。",
+      "phrases": [
+        {
+          "text": "わかりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "",
+      "phrases": []
+    },
+    {
+      "text": "キッチンの引き出しにあるから。",
+      "phrases": [
+        {
+          "text": "キッチンの",
+          "relations": []
+        },
+        {
+          "text": "引き出しに",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "013(引き出し)"
+            }
+          ]
+        },
+        {
+          "text": "あるから。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "011(箸)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "013(引き出し)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "わかりました。",
+      "phrases": [
+        {
+          "text": "わかりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "持ってきました。",
+      "phrases": [
+        {
+          "text": "持ってきました。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "011(箸)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ありがとう。",
+      "phrases": [
+        {
+          "text": "ありがとう。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "やかんでお湯を沸かしましょうか？",
+      "phrases": [
+        {
+          "text": "やかんで",
+          "relations": []
+        },
+        {
+          "text": "お湯を",
+          "relations": []
+        },
+        {
+          "text": "沸かしましょうか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うんでも、やかんじゃなくてこれでお湯を沸かすから、これに水を入れてちょうだい。",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "でも、",
+          "relations": []
+        },
+        {
+          "text": "やかんじゃなくて",
+          "relations": []
+        },
+        {
+          "text": "これで",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "009(ケトル)"
+            }
+          ]
+        },
+        {
+          "text": "お湯を",
+          "relations": []
+        },
+        {
+          "text": "沸かすから、",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "009(ケトル)"
+            }
+          ]
+        },
+        {
+          "text": "これに",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "009(ケトル)"
+            }
+          ]
+        },
+        {
+          "text": "水を",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "012(水)"
+            }
+          ]
+        },
+        {
+          "text": "入れて",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "012(水)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "009(ケトル)"
+            }
+          ]
+        },
+        {
+          "text": "ちょうだい。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "わかりました。",
+      "phrases": [
+        {
+          "text": "わかりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "セットしますか？",
+      "phrases": [
+        {
+          "text": "セットしますか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(ケトル)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "018(ケトル台)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うんありがとう。",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "ありがとう。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4265 @@
+{
+  "scenarioId": "20230426-57195245-0",
+  "images": [
+    {
+      "imageId": "001",
+      "boundingBoxes": [
+        {
+          "imageId": "001",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 960,
+            "y1": 0,
+            "x2": 1144,
+            "y2": 244
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 569,
+            "y1": 731,
+            "x2": 1478,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "002",
+      "boundingBoxes": [
+        {
+          "imageId": "002",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1058,
+            "y1": 0,
+            "x2": 1269,
+            "y2": 317
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 528,
+            "y1": 739,
+            "x2": 1460,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "003",
+      "boundingBoxes": [
+        {
+          "imageId": "003",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 550,
+            "y1": 667,
+            "x2": 1506,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1131,
+            "y1": 0,
+            "x2": 1666,
+            "y2": 302
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "004",
+      "boundingBoxes": [
+        {
+          "imageId": "004",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 541,
+            "y1": 740,
+            "x2": 1455,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1011,
+            "y1": 0,
+            "x2": 1305,
+            "y2": 263
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "005",
+      "boundingBoxes": [
+        {
+          "imageId": "005",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 579,
+            "y1": 706,
+            "x2": 1474,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 904,
+            "y1": 0,
+            "x2": 1230,
+            "y2": 444
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "006",
+      "boundingBoxes": [
+        {
+          "imageId": "006",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 629,
+            "y1": 750,
+            "x2": 1372,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 35,
+            "y1": 0,
+            "x2": 792,
+            "y2": 684
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1043,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 374
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "007",
+      "boundingBoxes": [
+        {
+          "imageId": "007",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 640,
+            "y1": 797,
+            "x2": 1432,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 143,
+            "x2": 543,
+            "y2": 645
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 739,
+            "y2": 238
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "008",
+      "boundingBoxes": [
+        {
+          "imageId": "008",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 531,
+            "y1": 747,
+            "x2": 1405,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 47,
+            "y1": 0,
+            "x2": 675,
+            "y2": 520
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 625,
+            "y2": 309
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "009",
+      "boundingBoxes": [
+        {
+          "imageId": "009",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 613,
+            "y1": 743,
+            "x2": 1468,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 817,
+            "y1": 0,
+            "x2": 1195,
+            "y2": 568
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 614,
+            "y2": 295
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "010",
+      "boundingBoxes": [
+        {
+          "imageId": "010",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 608,
+            "y1": 736,
+            "x2": 1463,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1340,
+            "y1": 192,
+            "x2": 1920,
+            "y2": 738
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 603,
+            "y2": 282
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "011",
+      "boundingBoxes": [
+        {
+          "imageId": "011",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 637,
+            "y1": 739,
+            "x2": 1570,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 781,
+            "y2": 288
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1728,
+            "y1": 816,
+            "x2": 1920,
+            "y2": 1037
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "012",
+      "boundingBoxes": [
+        {
+          "imageId": "012",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 598,
+            "y1": 667,
+            "x2": 1503,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1690,
+            "y1": 698,
+            "x2": 1920,
+            "y2": 883
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 601,
+            "y2": 298
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "013",
+      "boundingBoxes": [
+        {
+          "imageId": "013",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 628,
+            "y1": 700,
+            "x2": 1511,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1762,
+            "y1": 745,
+            "x2": 1920,
+            "y2": 929
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 683,
+            "y2": 324
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "014",
+      "boundingBoxes": [
+        {
+          "imageId": "014",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 590,
+            "y1": 778,
+            "x2": 1515,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 26,
+            "y1": 0,
+            "x2": 1363,
+            "y2": 119
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "015",
+      "boundingBoxes": [
+        {
+          "imageId": "015",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 580,
+            "y1": 787,
+            "x2": 1436,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 650,
+            "y2": 393
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1753,
+            "y1": 740,
+            "x2": 1919,
+            "y2": 859
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "016",
+      "boundingBoxes": [
+        {
+          "imageId": "016",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 582,
+            "y1": 757,
+            "x2": 1425,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1211,
+            "y1": 0,
+            "x2": 1579,
+            "y2": 328
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "017",
+      "boundingBoxes": [
+        {
+          "imageId": "017",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 572,
+            "y1": 766,
+            "x2": 1433,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1094,
+            "y1": 0,
+            "x2": 1432,
+            "y2": 323
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "018",
+      "boundingBoxes": [
+        {
+          "imageId": "018",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 576,
+            "y1": 764,
+            "x2": 1500,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1082,
+            "y1": 0,
+            "x2": 1468,
+            "y2": 388
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "019",
+      "boundingBoxes": [
+        {
+          "imageId": "019",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 581,
+            "y1": 729,
+            "x2": 1494,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1166,
+            "y1": 0,
+            "x2": 1465,
+            "y2": 351
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "020",
+      "boundingBoxes": [
+        {
+          "imageId": "020",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 572,
+            "y1": 723,
+            "x2": 1494,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1217,
+            "y1": 2,
+            "x2": 1464,
+            "y2": 339
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "021",
+      "boundingBoxes": [
+        {
+          "imageId": "021",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 599,
+            "y1": 721,
+            "x2": 1516,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1215,
+            "y1": 1,
+            "x2": 1554,
+            "y2": 349
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "022",
+      "boundingBoxes": [
+        {
+          "imageId": "022",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 593,
+            "y1": 760,
+            "x2": 1513,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1136,
+            "y1": 0,
+            "x2": 1444,
+            "y2": 347
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "023",
+      "boundingBoxes": [
+        {
+          "imageId": "023",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 600,
+            "y1": 706,
+            "x2": 1531,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1050,
+            "y1": 0,
+            "x2": 1432,
+            "y2": 334
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "024",
+      "boundingBoxes": [
+        {
+          "imageId": "024",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 577,
+            "y1": 693,
+            "x2": 1497,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1062,
+            "y1": 0,
+            "x2": 1443,
+            "y2": 340
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "025",
+      "boundingBoxes": [
+        {
+          "imageId": "025",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 570,
+            "y1": 825,
+            "x2": 1538,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1146,
+            "y1": 0,
+            "x2": 1506,
+            "y2": 385
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "026",
+      "boundingBoxes": [
+        {
+          "imageId": "026",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 490,
+            "y1": 858,
+            "x2": 1497,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 199,
+            "x2": 59,
+            "y2": 300
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1297,
+            "y1": 0,
+            "x2": 1919,
+            "y2": 476
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "027",
+      "boundingBoxes": [
+        {
+          "imageId": "027",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 545,
+            "y1": 893,
+            "x2": 1485,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1496,
+            "y2": 148
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "028",
+      "boundingBoxes": [
+        {
+          "imageId": "028",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 540,
+            "y1": 833,
+            "x2": 1500,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1893,
+            "y2": 328
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "029",
+      "boundingBoxes": [
+        {
+          "imageId": "029",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 305,
+            "y1": 124,
+            "x2": 1603,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "030",
+      "boundingBoxes": [
+        {
+          "imageId": "030",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 215,
+            "y1": 0,
+            "x2": 1756,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 930
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 814,
+            "y1": 0,
+            "x2": 1216,
+            "y2": 115
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "031",
+      "boundingBoxes": [
+        {
+          "imageId": "031",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1012
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 276,
+            "y1": 0,
+            "x2": 1879,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "032",
+      "boundingBoxes": [
+        {
+          "imageId": "032",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1078,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 533,
+            "y1": 375,
+            "x2": 1523,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 893,
+            "y1": 118,
+            "x2": 1320,
+            "y2": 688
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "033",
+      "boundingBoxes": [
+        {
+          "imageId": "033",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1514,
+            "y1": 793,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 562,
+            "y1": 366,
+            "x2": 1539,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 935,
+            "y1": 373,
+            "x2": 1060,
+            "y2": 436
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 818,
+            "y1": 136,
+            "x2": 1280,
+            "y2": 524
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "1462",
+          "rect": {
+            "x1": 1513,
+            "y1": 777,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "tape_measure"
+        }
+      ]
+    },
+    {
+      "imageId": "034",
+      "boundingBoxes": [
+        {
+          "imageId": "034",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 486,
+            "y1": 301,
+            "x2": 1459,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 965,
+            "y1": 401,
+            "x2": 1090,
+            "y2": 433
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1609,
+            "y1": 980,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 833,
+            "y1": 196,
+            "x2": 1209,
+            "y2": 505
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "035",
+      "boundingBoxes": [
+        {
+          "imageId": "035",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 525,
+            "y1": 302,
+            "x2": 1521,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1833,
+            "y1": 1025,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 648,
+            "y1": 159,
+            "x2": 1053,
+            "y2": 521
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 881,
+            "y1": 373,
+            "x2": 976,
+            "y2": 440
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "036",
+      "boundingBoxes": [
+        {
+          "imageId": "036",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 507,
+            "y1": 431,
+            "x2": 1501,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 476,
+            "y1": 153,
+            "x2": 947,
+            "y2": 524
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 709,
+            "y1": 368,
+            "x2": 818,
+            "y2": 449
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "037",
+      "boundingBoxes": [
+        {
+          "imageId": "037",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 459,
+            "y1": 466,
+            "x2": 1524,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 580,
+            "y1": 401,
+            "x2": 689,
+            "y2": 481
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 342,
+            "y1": 186,
+            "x2": 835,
+            "y2": 562
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "038",
+      "boundingBoxes": [
+        {
+          "imageId": "038",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 501,
+            "y1": 504,
+            "x2": 1499,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 873,
+            "y1": 528,
+            "x2": 968,
+            "y2": 558
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 746,
+            "y1": 351,
+            "x2": 1048,
+            "y2": 624
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "039",
+      "boundingBoxes": [
+        {
+          "imageId": "039",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 518,
+            "y1": 517,
+            "x2": 1477,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 873,
+            "y1": 608,
+            "x2": 960,
+            "y2": 671
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1557,
+            "y1": 0,
+            "x2": 1853,
+            "y2": 203
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 54,
+            "x2": 150,
+            "y2": 428
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 691,
+            "y1": 416,
+            "x2": 1011,
+            "y2": 735
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "040",
+      "boundingBoxes": [
+        {
+          "imageId": "040",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 478,
+            "y1": 577,
+            "x2": 1404,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 623,
+            "y1": 668,
+            "x2": 680,
+            "y2": 761
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1661,
+            "y1": 0,
+            "x2": 1919,
+            "y2": 306
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 181,
+            "x2": 70,
+            "y2": 355
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 383,
+            "y1": 502,
+            "x2": 707,
+            "y2": 837
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "041",
+      "boundingBoxes": [
+        {
+          "imageId": "041",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 491,
+            "y1": 612,
+            "x2": 1435,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 159,
+            "x2": 79,
+            "y2": 335
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 627,
+            "y1": 688,
+            "x2": 724,
+            "y2": 761
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1686,
+            "y1": 29,
+            "x2": 1919,
+            "y2": 343
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 430,
+            "y1": 507,
+            "x2": 812,
+            "y2": 833
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "042",
+      "boundingBoxes": [
+        {
+          "imageId": "042",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 494,
+            "y1": 605,
+            "x2": 1411,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 620,
+            "y1": 687,
+            "x2": 716,
+            "y2": 713
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 331,
+            "y2": 423
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 478,
+            "y1": 534,
+            "x2": 825,
+            "y2": 721
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1865,
+            "y1": 424,
+            "x2": 1920,
+            "y2": 467
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "043",
+      "boundingBoxes": [
+        {
+          "imageId": "043",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 440,
+            "y1": 332,
+            "x2": 1502,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 936,
+            "y1": 373,
+            "x2": 1021,
+            "y2": 445
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 852,
+            "y1": 166,
+            "x2": 1229,
+            "y2": 519
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1290,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 194
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "044",
+      "boundingBoxes": [
+        {
+          "imageId": "044",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 469,
+            "y1": 381,
+            "x2": 1502,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1106,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 409
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 894,
+            "y1": 420,
+            "x2": 968,
+            "y2": 448
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "003(時計)",
+          "rect": {
+            "x1": 785,
+            "y1": 247,
+            "x2": 1101,
+            "y2": 549
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "045",
+      "boundingBoxes": [
+        {
+          "imageId": "045",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 539,
+            "y1": 410,
+            "x2": 1517,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1291,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 434
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 799,
+            "y1": 307,
+            "x2": 1088,
+            "y2": 577
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 668,
+            "y1": 470,
+            "x2": 759,
+            "y2": 522
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "046",
+      "boundingBoxes": [
+        {
+          "imageId": "046",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 470,
+            "y1": 455,
+            "x2": 1453,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 638,
+            "y1": 269,
+            "x2": 976,
+            "y2": 585
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1215,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 200
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "047",
+      "boundingBoxes": [
+        {
+          "imageId": "047",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 399,
+            "y1": 402,
+            "x2": 1555,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 326,
+            "y1": 73,
+            "x2": 936,
+            "y2": 586
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1070,
+            "y1": 380,
+            "x2": 1128,
+            "y2": 408
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "048",
+      "boundingBoxes": [
+        {
+          "imageId": "048",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 243,
+            "y1": 326,
+            "x2": 1822,
+            "y2": 1073
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 67,
+            "y1": 141,
+            "x2": 829,
+            "y2": 703
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1030,
+            "y1": 391,
+            "x2": 1068,
+            "y2": 415
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "049",
+      "boundingBoxes": [
+        {
+          "imageId": "049",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 458,
+            "y1": 398,
+            "x2": 1708,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 537,
+            "y1": 134,
+            "x2": 1049,
+            "y2": 572
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1344,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 64
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "050",
+      "boundingBoxes": [
+        {
+          "imageId": "050",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 471,
+            "y1": 332,
+            "x2": 1674,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 809,
+            "y1": 155,
+            "x2": 1205,
+            "y2": 511
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1490,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 222
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1313,
+            "y1": 441,
+            "x2": 1339,
+            "y2": 478
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "051",
+      "boundingBoxes": [
+        {
+          "imageId": "051",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 386,
+            "y1": 198,
+            "x2": 1504,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 1040,
+            "y1": 238,
+            "x2": 1520,
+            "y2": 660
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1533,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 224
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 865,
+            "y1": 238,
+            "x2": 900,
+            "y2": 320
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "052",
+      "boundingBoxes": [
+        {
+          "imageId": "052",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 455,
+            "y1": 250,
+            "x2": 1531,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 1026,
+            "y1": 245,
+            "x2": 1518,
+            "y2": 670
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 1548,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 208
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 893,
+            "y1": 278,
+            "x2": 902,
+            "y2": 299
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1410,
+            "y1": 577,
+            "x2": 1416,
+            "y2": 594
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "053",
+      "boundingBoxes": [
+        {
+          "imageId": "053",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 456,
+            "y1": 306,
+            "x2": 1527,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "008(全体壁)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1777,
+            "y2": 255
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 803,
+            "y1": 408,
+            "x2": 924,
+            "y2": 454
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 936,
+            "y1": 215,
+            "x2": 1365,
+            "y2": 576
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1311,
+            "y1": 469,
+            "x2": 1322,
+            "y2": 491
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "054",
+      "boundingBoxes": [
+        {
+          "imageId": "054",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 697,
+            "y1": 376,
+            "x2": 804,
+            "y2": 435
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 460,
+            "y1": 371,
+            "x2": 1494,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 884,
+            "y1": 193,
+            "x2": 1209,
+            "y2": 510
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "055",
+      "boundingBoxes": [
+        {
+          "imageId": "055",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 686,
+            "y1": 407,
+            "x2": 790,
+            "y2": 453
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 447,
+            "y1": 402,
+            "x2": 1457,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 847,
+            "y1": 246,
+            "x2": 1171,
+            "y2": 548
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1154,
+            "y1": 454,
+            "x2": 1168,
+            "y2": 474
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "056",
+      "boundingBoxes": [
+        {
+          "imageId": "056",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 931,
+            "y1": 234,
+            "x2": 1280,
+            "y2": 567
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 754,
+            "y1": 352,
+            "x2": 860,
+            "y2": 402
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 472,
+            "y1": 350,
+            "x2": 1479,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1796,
+            "y1": 381,
+            "x2": 1919,
+            "y2": 527
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "057",
+      "boundingBoxes": [
+        {
+          "imageId": "057",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 939,
+            "y1": 465,
+            "x2": 991,
+            "y2": 498
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 538,
+            "y1": 460,
+            "x2": 1473,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 974,
+            "y1": 356,
+            "x2": 1283,
+            "y2": 664
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1525,
+            "y1": 283,
+            "x2": 1920,
+            "y2": 683
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "058",
+      "boundingBoxes": [
+        {
+          "imageId": "058",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 962,
+            "y1": 460,
+            "x2": 1274,
+            "y2": 759
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 551,
+            "y1": 521,
+            "x2": 1418,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1495,
+            "y1": 156,
+            "x2": 1920,
+            "y2": 607
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 964,
+            "y1": 543,
+            "x2": 1018,
+            "y2": 566
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "059",
+      "boundingBoxes": [
+        {
+          "imageId": "059",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 511,
+            "y1": 365,
+            "x2": 1505,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 877,
+            "y1": 231,
+            "x2": 1144,
+            "y2": 479
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1390,
+            "y1": 1,
+            "x2": 1919,
+            "y2": 451
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1188,
+            "y1": 387,
+            "x2": 1240,
+            "y2": 451
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "060",
+      "boundingBoxes": [
+        {
+          "imageId": "060",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 479,
+            "y1": 382,
+            "x2": 1501,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1060,
+            "y1": 426,
+            "x2": 1136,
+            "y2": 472
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 782,
+            "y1": 228,
+            "x2": 1113,
+            "y2": 535
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1299,
+            "y1": 0,
+            "x2": 1918,
+            "y2": 333
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "061",
+      "boundingBoxes": [
+        {
+          "imageId": "061",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 492,
+            "y1": 334,
+            "x2": 1513,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1024,
+            "y1": 436,
+            "x2": 1131,
+            "y2": 470
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 913,
+            "y1": 289,
+            "x2": 1194,
+            "y2": 553
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1449,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 400
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 865,
+            "y1": 366,
+            "x2": 904,
+            "y2": 393
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "062",
+      "boundingBoxes": [
+        {
+          "imageId": "062",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 548,
+            "y1": 486,
+            "x2": 1585,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 976,
+            "y1": 395,
+            "x2": 1217,
+            "y2": 627
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1555,
+            "y1": 118,
+            "x2": 1920,
+            "y2": 524
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1064,
+            "y1": 533,
+            "x2": 1156,
+            "y2": 568
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 964,
+            "y1": 414,
+            "x2": 990,
+            "y2": 429
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "063",
+      "boundingBoxes": [
+        {
+          "imageId": "063",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 571,
+            "y1": 494,
+            "x2": 1544,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 1019,
+            "y1": 367,
+            "x2": 1299,
+            "y2": 623
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1600,
+            "y1": 159,
+            "x2": 1920,
+            "y2": 593
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 1011,
+            "y1": 428,
+            "x2": 1030,
+            "y2": 447
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1123,
+            "y1": 526,
+            "x2": 1193,
+            "y2": 570
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "064",
+      "boundingBoxes": [
+        {
+          "imageId": "064",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 514,
+            "y1": 438,
+            "x2": 1557,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 905,
+            "y1": 284,
+            "x2": 1240,
+            "y2": 594
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "3056",
+          "rect": {
+            "x1": 1523,
+            "y1": 42,
+            "x2": 1918,
+            "y2": 424
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1046,
+            "y1": 484,
+            "x2": 1160,
+            "y2": 515
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "065",
+      "boundingBoxes": [
+        {
+          "imageId": "065",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 500,
+            "y1": 429,
+            "x2": 1582,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1493,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 351
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 980,
+            "y1": 524,
+            "x2": 1100,
+            "y2": 563
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 820,
+            "y1": 309,
+            "x2": 1221,
+            "y2": 574
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "066",
+      "boundingBoxes": [
+        {
+          "imageId": "066",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 508,
+            "y1": 412,
+            "x2": 1508,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 713,
+            "y1": 234,
+            "x2": 1158,
+            "y2": 573
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1489,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 322
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 947,
+            "y1": 473,
+            "x2": 1060,
+            "y2": 537
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "067",
+      "boundingBoxes": [
+        {
+          "imageId": "067",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 567,
+            "y1": 445,
+            "x2": 1534,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1519,
+            "y1": 16,
+            "x2": 1920,
+            "y2": 319
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 895,
+            "y1": 276,
+            "x2": 939,
+            "y2": 302
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 1050,
+            "y1": 312,
+            "x2": 1359,
+            "y2": 572
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1171,
+            "y1": 501,
+            "x2": 1276,
+            "y2": 544
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "068",
+      "boundingBoxes": [
+        {
+          "imageId": "068",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1070,
+            "y1": 478,
+            "x2": 1182,
+            "y2": 519
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 841,
+            "y1": 275,
+            "x2": 885,
+            "y2": 303
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 916,
+            "y1": 277,
+            "x2": 1266,
+            "y2": 538
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "069",
+      "boundingBoxes": [
+        {
+          "imageId": "069",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 475,
+            "y1": 424,
+            "x2": 1524,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1513,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 251
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 956,
+            "y1": 528,
+            "x2": 1070,
+            "y2": 557
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 815,
+            "y1": 285,
+            "x2": 857,
+            "y2": 314
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 809,
+            "y1": 347,
+            "x2": 1215,
+            "y2": 552
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "070",
+      "boundingBoxes": [
+        {
+          "imageId": "070",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 502,
+            "y1": 370,
+            "x2": 1523,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1498,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 255
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 982,
+            "y1": 463,
+            "x2": 1095,
+            "y2": 494
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 827,
+            "y1": 288,
+            "x2": 855,
+            "y2": 311
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 853,
+            "y1": 268,
+            "x2": 1221,
+            "y2": 524
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "071",
+      "boundingBoxes": [
+        {
+          "imageId": "071",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 506,
+            "y1": 348,
+            "x2": 1507,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1516,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 252
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 970,
+            "y1": 440,
+            "x2": 1052,
+            "y2": 501
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 832,
+            "y1": 280,
+            "x2": 873,
+            "y2": 309
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 879,
+            "y1": 205,
+            "x2": 1267,
+            "y2": 580
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "072",
+      "boundingBoxes": [
+        {
+          "imageId": "072",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 543,
+            "y1": 357,
+            "x2": 1530,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 1007,
+            "y1": 203,
+            "x2": 1434,
+            "y2": 567
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1517,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 254
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1131,
+            "y1": 372,
+            "x2": 1220,
+            "y2": 462
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 840,
+            "y1": 280,
+            "x2": 882,
+            "y2": 309
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "073",
+      "boundingBoxes": [
+        {
+          "imageId": "073",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 464,
+            "y1": 310,
+            "x2": 1502,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1447,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 215
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 781,
+            "y1": 293,
+            "x2": 822,
+            "y2": 324
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 978,
+            "y1": 402,
+            "x2": 1074,
+            "y2": 503
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 917,
+            "y1": 208,
+            "x2": 1306,
+            "y2": 593
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "074",
+      "boundingBoxes": [
+        {
+          "imageId": "074",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 560,
+            "y1": 294,
+            "x2": 1549,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 953,
+            "y1": 217,
+            "x2": 1235,
+            "y2": 594
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1354,
+            "y1": 0,
+            "x2": 1737,
+            "y2": 194
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 862,
+            "y1": 296,
+            "x2": 902,
+            "y2": 325
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 991,
+            "y1": 456,
+            "x2": 1028,
+            "y2": 521
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "075",
+      "boundingBoxes": [
+        {
+          "imageId": "075",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 551,
+            "y1": 291,
+            "x2": 1541,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1327,
+            "y1": 0,
+            "x2": 1683,
+            "y2": 195
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 877,
+            "y1": 295,
+            "x2": 918,
+            "y2": 324
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "005(新電池)",
+          "rect": {
+            "x1": 1033,
+            "y1": 458,
+            "x2": 1073,
+            "y2": 525
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "006(電池なし時計)",
+          "rect": {
+            "x1": 978,
+            "y1": 226,
+            "x2": 1305,
+            "y2": 598
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "076",
+      "boundingBoxes": [
+        {
+          "imageId": "076",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 517,
+            "y1": 378,
+            "x2": 1494,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1314,
+            "y1": 0,
+            "x2": 1591,
+            "y2": 129
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 859,
+            "y1": 298,
+            "x2": 901,
+            "y2": 325
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "007(新電池入り時計)",
+          "rect": {
+            "x1": 850,
+            "y1": 220,
+            "x2": 1036,
+            "y2": 668
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "077",
+      "boundingBoxes": [
+        {
+          "imageId": "077",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 517,
+            "y1": 379,
+            "x2": 1507,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1542,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 270
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "007(新電池入り時計)",
+          "rect": {
+            "x1": 775,
+            "y1": 224,
+            "x2": 1043,
+            "y2": 663
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "078",
+      "boundingBoxes": [
+        {
+          "imageId": "078",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 522,
+            "y1": 421,
+            "x2": 1498,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1707,
+            "y1": 375,
+            "x2": 1920,
+            "y2": 588
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "007(新電池入り時計)",
+          "rect": {
+            "x1": 767,
+            "y1": 287,
+            "x2": 1107,
+            "y2": 703
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 912,
+            "y1": 330,
+            "x2": 953,
+            "y2": 359
+          },
+          "className": "battery"
+        }
+      ]
+    },
+    {
+      "imageId": "079",
+      "boundingBoxes": [
+        {
+          "imageId": "079",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 582,
+            "y1": 499,
+            "x2": 1542,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1774,
+            "y1": 606,
+            "x2": 1920,
+            "y2": 786
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "007(新電池入り時計)",
+          "rect": {
+            "x1": 849,
+            "y1": 281,
+            "x2": 1266,
+            "y2": 635
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "080",
+      "boundingBoxes": [
+        {
+          "imageId": "080",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 559,
+            "y1": 485,
+            "x2": 1529,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1770,
+            "y1": 620,
+            "x2": 1920,
+            "y2": 796
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "007(新電池入り時計)",
+          "rect": {
+            "x1": 904,
+            "y1": 365,
+            "x2": 1266,
+            "y2": 648
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "081",
+      "boundingBoxes": [
+        {
+          "imageId": "081",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 553,
+            "y1": 533,
+            "x2": 1657,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1706,
+            "y1": 436,
+            "x2": 1920,
+            "y2": 688
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "004(古電池)",
+          "rect": {
+            "x1": 1021,
+            "y1": 277,
+            "x2": 1058,
+            "y2": 295
+          },
+          "className": "battery"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "007(新電池入り時計)",
+          "rect": {
+            "x1": 992,
+            "y1": 445,
+            "x2": 1369,
+            "y2": 749
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "082",
+      "boundingBoxes": [
+        {
+          "imageId": "082",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 452,
+            "y1": 593,
+            "x2": 1451,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "007(新電池入り時計)",
+          "rect": {
+            "x1": 596,
+            "y1": 505,
+            "x2": 982,
+            "y2": 805
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1042,
+            "y1": 0,
+            "x2": 1212,
+            "y2": 108
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "083",
+      "boundingBoxes": [
+        {
+          "imageId": "083",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 479,
+            "y1": 586,
+            "x2": 1425,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "007(新電池入り時計)",
+          "rect": {
+            "x1": 563,
+            "y1": 501,
+            "x2": 951,
+            "y2": 813
+          },
+          "className": "clock"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 984,
+            "y1": 0,
+            "x2": 1039,
+            "y2": 25
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "084",
+      "boundingBoxes": [
+        {
+          "imageId": "084",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 404,
+            "y1": 483,
+            "x2": 1425,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "007(新電池入り時計)",
+          "rect": {
+            "x1": 538,
+            "y1": 376,
+            "x2": 947,
+            "y2": 714
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "085",
+      "boundingBoxes": [
+        {
+          "imageId": "085",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 467,
+            "y1": 441,
+            "x2": 1441,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "007(新電池入り時計)",
+          "rect": {
+            "x1": 796,
+            "y1": 350,
+            "x2": 1110,
+            "y2": 611
+          },
+          "className": "clock"
+        }
+      ]
+    },
+    {
+      "imageId": "086",
+      "boundingBoxes": [
+        {
+          "imageId": "086",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 492,
+            "y1": 515,
+            "x2": 1482,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "007(新電池入り時計)",
+          "rect": {
+            "x1": 801,
+            "y1": 429,
+            "x2": 1095,
+            "y2": 683
+          },
+          "className": "clock"
+        }
+      ]
+    }
+  ],
+  "utterances": [
+    {
+      "text": "よいしょ。",
+      "phrases": [
+        {
+          "text": "よいしょ。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "あれ変だね。今何時？",
+      "phrases": [
+        {
+          "text": "あれ",
+          "relations": []
+        },
+        {
+          "text": "変だね。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "003(時計)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "006(電池なし時計)"
+            }
+          ]
+        },
+        {
+          "text": "今",
+          "relations": []
+        },
+        {
+          "text": "何時？",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "今はお昼の十二時過ぎです。この時計は止まっているみたいですね。電池切れですね。",
+      "phrases": [
+        {
+          "text": "今は",
+          "relations": []
+        },
+        {
+          "text": "お昼の",
+          "relations": []
+        },
+        {
+          "text": "十二時過ぎです。",
+          "relations": []
+        },
+        {
+          "text": "この",
+          "relations": []
+        },
+        {
+          "text": "時計は",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(時計)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "006(電池なし時計)"
+            }
+          ]
+        },
+        {
+          "text": "止まっているみたいですね。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "003(時計)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "006(電池なし時計)"
+            }
+          ]
+        },
+        {
+          "text": "電池",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(時計)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "006(電池なし時計)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "004(古電池)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "005(新電池)"
+            }
+          ]
+        },
+        {
+          "text": "切れですね。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "やっぱそうだよね。いやこのままだと待ち合わせ時間に遅れるところだったよ。",
+      "phrases": [
+        {
+          "text": "やっぱ",
+          "relations": []
+        },
+        {
+          "text": "そうだよね。",
+          "relations": []
+        },
+        {
+          "text": "いや",
+          "relations": []
+        },
+        {
+          "text": "このままだと",
+          "relations": []
+        },
+        {
+          "text": "待ち合わせ",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "時間に",
+          "relations": []
+        },
+        {
+          "text": "遅れる",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "ところだったよ。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "うん",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "時間を合わせないとだめですね。",
+      "phrases": [
+        {
+          "text": "時間を",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(時計)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "006(電池なし時計)"
+            }
+          ]
+        },
+        {
+          "text": "合わせないとだめですね。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "そうだね。壁から外してくれない？",
+      "phrases": [
+        {
+          "text": "そうだね。",
+          "relations": []
+        },
+        {
+          "text": "壁から",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "008(全体壁)"
+            }
+          ]
+        },
+        {
+          "text": "外してくれない？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(時計)"
+            },
+            {
+              "type": "カラ",
+              "instanceId": "008(全体壁)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "006(電池なし時計)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい電池を調べてみますね。",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "電池を",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(時計)"
+            },
+            {
+              "type": "=",
+              "instanceId": "004(古電池)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "006(電池なし時計)"
+            }
+          ]
+        },
+        {
+          "text": "調べてみますね。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(古電池)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "お願いします。",
+      "phrases": [
+        {
+          "text": "お願いします。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "じゃあ、私はその間に着替えてくるから、電池を入れ替えておいてくれる？",
+      "phrases": [
+        {
+          "text": "じゃあ、",
+          "relations": []
+        },
+        {
+          "text": "私は",
+          "relations": []
+        },
+        {
+          "text": "その",
+          "relations": []
+        },
+        {
+          "text": "間に",
+          "relations": []
+        },
+        {
+          "text": "着替えてくるから、",
+          "relations": []
+        },
+        {
+          "text": "電池を",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(時計)"
+            },
+            {
+              "type": "=",
+              "instanceId": "004(古電池)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "006(電池なし時計)"
+            }
+          ]
+        },
+        {
+          "text": "入れ替えておいてくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(古電池)"
+            },
+            {
+              "type": "ト",
+              "instanceId": "005(新電池)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい分かりました。",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うん",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "あ時間も合わせてくれるかな？",
+      "phrases": [
+        {
+          "text": "あ",
+          "relations": []
+        },
+        {
+          "text": "時間も",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "007(新電池入り時計)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "003(時計)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "006(電池なし時計)"
+            }
+          ]
+        },
+        {
+          "text": "合わせてくれるかな？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "分かりました。ピッタリに合わせますよ。",
+      "phrases": [
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "ピッタリに",
+          "relations": []
+        },
+        {
+          "text": "合わせますよ。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うんありがとう。じゃあ、また終わったら、また壁に戻しておいて。",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": []
+        },
+        {
+          "text": "ありがとう。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "じゃあ、",
+          "relations": []
+        },
+        {
+          "text": "また",
+          "relations": []
+        },
+        {
+          "text": "終わったら、",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "また",
+          "relations": []
+        },
+        {
+          "text": "壁に",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "008(全体壁)"
+            }
+          ]
+        },
+        {
+          "text": "戻しておいて。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(新電池入り時計)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "008(全体壁)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "003(時計)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "006(電池なし時計)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "よいしょ。じゃあ、もうそろそろ時間だから行こっかな。",
+      "phrases": [
+        {
+          "text": "よいしょ。",
+          "relations": []
+        },
+        {
+          "text": "じゃあ、",
+          "relations": []
+        },
+        {
+          "text": "もう",
+          "relations": []
+        },
+        {
+          "text": "そろそろ",
+          "relations": []
+        },
+        {
+          "text": "時間だから",
+          "relations": []
+        },
+        {
+          "text": "行こっかな。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "了解です。お出かけ気を付けて行ってらっしゃい。",
+      "phrases": [
+        {
+          "text": "了解です。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "お出かけ",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "気を",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "付けて",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "行ってらっしゃい。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "行ってきます。",
+      "phrases": [
+        {
+          "text": "行ってきます。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

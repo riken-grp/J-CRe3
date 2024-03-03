@@ -1,0 +1,7638 @@
+{
+  "scenarioId": "20230426-57195303-1",
+  "images": [
+    {
+      "imageId": "001",
+      "boundingBoxes": [
+        {
+          "imageId": "001",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 818,
+            "y1": 272,
+            "x2": 1004,
+            "y2": 315
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1040,
+            "y1": 0,
+            "x2": 1258,
+            "y2": 139
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1136,
+            "y1": 145,
+            "x2": 1179,
+            "y2": 183
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 1045,
+            "y1": 140,
+            "x2": 1098,
+            "y2": 195
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 986,
+            "y1": 164,
+            "x2": 1026,
+            "y2": 213
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 1021,
+            "y1": 183,
+            "x2": 1064,
+            "y2": 236
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 584,
+            "y1": 758,
+            "x2": 1517,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1100,
+            "y1": 136,
+            "x2": 1165,
+            "y2": 179
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 866,
+            "y1": 194,
+            "x2": 993,
+            "y2": 271
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "004(お皿小)",
+          "rect": {
+            "x1": 1053,
+            "y1": 62,
+            "x2": 1147,
+            "y2": 86
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1008,
+            "y1": 265,
+            "x2": 1078,
+            "y2": 344
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 1011,
+            "y1": 259,
+            "x2": 1052,
+            "y2": 336
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1156,
+            "y1": 142,
+            "x2": 1192,
+            "y2": 181
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "002",
+      "boundingBoxes": [
+        {
+          "imageId": "002",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 804,
+            "y1": 286,
+            "x2": 984,
+            "y2": 321
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1012,
+            "y1": 0,
+            "x2": 1231,
+            "y2": 142
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1110,
+            "y1": 148,
+            "x2": 1154,
+            "y2": 186
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 1019,
+            "y1": 145,
+            "x2": 1071,
+            "y2": 201
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 960,
+            "y1": 171,
+            "x2": 999,
+            "y2": 219
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 996,
+            "y1": 188,
+            "x2": 1037,
+            "y2": 241
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 559,
+            "y1": 762,
+            "x2": 1501,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1075,
+            "y1": 137,
+            "x2": 1137,
+            "y2": 183
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 843,
+            "y1": 202,
+            "x2": 969,
+            "y2": 280
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "004(お皿小)",
+          "rect": {
+            "x1": 1024,
+            "y1": 61,
+            "x2": 1103,
+            "y2": 90
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 988,
+            "y1": 271,
+            "x2": 1057,
+            "y2": 351
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1126,
+            "y1": 145,
+            "x2": 1164,
+            "y2": 183
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 990,
+            "y1": 263,
+            "x2": 1027,
+            "y2": 342
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "003",
+      "boundingBoxes": [
+        {
+          "imageId": "003",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 787,
+            "y1": 288,
+            "x2": 964,
+            "y2": 322
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 990,
+            "y1": 0,
+            "x2": 1208,
+            "y2": 135
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1091,
+            "y1": 142,
+            "x2": 1138,
+            "y2": 182
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 1000,
+            "y1": 142,
+            "x2": 1053,
+            "y2": 198
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 942,
+            "y1": 170,
+            "x2": 982,
+            "y2": 218
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 978,
+            "y1": 188,
+            "x2": 1019,
+            "y2": 240
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 555,
+            "y1": 784,
+            "x2": 1504,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1056,
+            "y1": 133,
+            "x2": 1118,
+            "y2": 180
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 824,
+            "y1": 201,
+            "x2": 951,
+            "y2": 281
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "004(お皿小)",
+          "rect": {
+            "x1": 995,
+            "y1": 60,
+            "x2": 1060,
+            "y2": 81
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 974,
+            "y1": 268,
+            "x2": 1041,
+            "y2": 348
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1109,
+            "y1": 140,
+            "x2": 1144,
+            "y2": 180
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 974,
+            "y1": 261,
+            "x2": 1012,
+            "y2": 343
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "004",
+      "boundingBoxes": [
+        {
+          "imageId": "004",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 770,
+            "y1": 281,
+            "x2": 951,
+            "y2": 308
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 973,
+            "y1": 0,
+            "x2": 1185,
+            "y2": 121
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1072,
+            "y1": 129,
+            "x2": 1117,
+            "y2": 168
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 982,
+            "y1": 130,
+            "x2": 1034,
+            "y2": 186
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 924,
+            "y1": 158,
+            "x2": 962,
+            "y2": 206
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 960,
+            "y1": 175,
+            "x2": 1001,
+            "y2": 226
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 549,
+            "y1": 766,
+            "x2": 1507,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1094,
+            "y1": 125,
+            "x2": 1128,
+            "y2": 168
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1039,
+            "y1": 121,
+            "x2": 1101,
+            "y2": 165
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 807,
+            "y1": 193,
+            "x2": 934,
+            "y2": 269
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "004(お皿小)",
+          "rect": {
+            "x1": 974,
+            "y1": 49,
+            "x2": 1031,
+            "y2": 69
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 958,
+            "y1": 255,
+            "x2": 1022,
+            "y2": 339
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 959,
+            "y1": 250,
+            "x2": 993,
+            "y2": 331
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "005",
+      "boundingBoxes": [
+        {
+          "imageId": "005",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 764,
+            "y1": 283,
+            "x2": 937,
+            "y2": 307
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 950,
+            "y1": 0,
+            "x2": 1162,
+            "y2": 117
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1057,
+            "y1": 129,
+            "x2": 1096,
+            "y2": 166
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 966,
+            "y1": 130,
+            "x2": 1018,
+            "y2": 185
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 909,
+            "y1": 158,
+            "x2": 948,
+            "y2": 205
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 945,
+            "y1": 173,
+            "x2": 987,
+            "y2": 226
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 570,
+            "y1": 754,
+            "x2": 1523,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 949,
+            "y1": 246,
+            "x2": 982,
+            "y2": 329
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1024,
+            "y1": 118,
+            "x2": 1082,
+            "y2": 165
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 793,
+            "y1": 193,
+            "x2": 921,
+            "y2": 270
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "004(お皿小)",
+          "rect": {
+            "x1": 949,
+            "y1": 52,
+            "x2": 1022,
+            "y2": 75
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 945,
+            "y1": 254,
+            "x2": 1008,
+            "y2": 337
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1075,
+            "y1": 125,
+            "x2": 1109,
+            "y2": 164
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "006",
+      "boundingBoxes": [
+        {
+          "imageId": "006",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 700,
+            "y1": 305,
+            "x2": 895,
+            "y2": 326
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 892,
+            "y1": 0,
+            "x2": 1123,
+            "y2": 114
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1016,
+            "y1": 128,
+            "x2": 1053,
+            "y2": 170
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 918,
+            "y1": 133,
+            "x2": 973,
+            "y2": 191
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 859,
+            "y1": 166,
+            "x2": 901,
+            "y2": 216
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 898,
+            "y1": 183,
+            "x2": 942,
+            "y2": 237
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 552,
+            "y1": 790,
+            "x2": 1519,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 979,
+            "y1": 119,
+            "x2": 1039,
+            "y2": 169
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 741,
+            "y1": 207,
+            "x2": 875,
+            "y2": 291
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "004(お皿小)",
+          "rect": {
+            "x1": 891,
+            "y1": 60,
+            "x2": 979,
+            "y2": 81
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 905,
+            "y1": 266,
+            "x2": 968,
+            "y2": 360
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 908,
+            "y1": 258,
+            "x2": 941,
+            "y2": 351
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1037,
+            "y1": 123,
+            "x2": 1068,
+            "y2": 166
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "007",
+      "boundingBoxes": [
+        {
+          "imageId": "007",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 688,
+            "y1": 277,
+            "x2": 886,
+            "y2": 292
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 830,
+            "y1": 0,
+            "x2": 1114,
+            "y2": 93
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 998,
+            "y1": 98,
+            "x2": 1039,
+            "y2": 140
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 901,
+            "y1": 103,
+            "x2": 956,
+            "y2": 159
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 842,
+            "y1": 136,
+            "x2": 885,
+            "y2": 185
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 883,
+            "y1": 151,
+            "x2": 927,
+            "y2": 205
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 547,
+            "y1": 743,
+            "x2": 1538,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 891,
+            "y1": 227,
+            "x2": 921,
+            "y2": 324
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 961,
+            "y1": 88,
+            "x2": 1020,
+            "y2": 140
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 725,
+            "y1": 177,
+            "x2": 858,
+            "y2": 260
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 892,
+            "y1": 233,
+            "x2": 949,
+            "y2": 324
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1019,
+            "y1": 91,
+            "x2": 1064,
+            "y2": 136
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "004(お皿小)",
+          "rect": {
+            "x1": 811,
+            "y1": 83,
+            "x2": 911,
+            "y2": 122
+          },
+          "className": "plate"
+        }
+      ]
+    },
+    {
+      "imageId": "008",
+      "boundingBoxes": [
+        {
+          "imageId": "008",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 701,
+            "y1": 262,
+            "x2": 892,
+            "y2": 282
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1012,
+            "y1": 92,
+            "x2": 1051,
+            "y2": 134
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 916,
+            "y1": 96,
+            "x2": 970,
+            "y2": 153
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 858,
+            "y1": 129,
+            "x2": 900,
+            "y2": 177
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 897,
+            "y1": 135,
+            "x2": 941,
+            "y2": 198
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 568,
+            "y1": 728,
+            "x2": 1551,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 975,
+            "y1": 84,
+            "x2": 1034,
+            "y2": 133
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 742,
+            "y1": 168,
+            "x2": 873,
+            "y2": 248
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 903,
+            "y1": 227,
+            "x2": 963,
+            "y2": 314
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 905,
+            "y1": 219,
+            "x2": 937,
+            "y2": 306
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1012,
+            "y1": 89,
+            "x2": 1061,
+            "y2": 129
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "004(お皿小)",
+          "rect": {
+            "x1": 832,
+            "y1": 102,
+            "x2": 922,
+            "y2": 152
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 833,
+            "y1": 0,
+            "x2": 1136,
+            "y2": 108
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "009",
+      "boundingBoxes": [
+        {
+          "imageId": "009",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 715,
+            "y1": 264,
+            "x2": 908,
+            "y2": 291
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1028,
+            "y1": 104,
+            "x2": 1070,
+            "y2": 144
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 933,
+            "y1": 106,
+            "x2": 987,
+            "y2": 164
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 875,
+            "y1": 135,
+            "x2": 918,
+            "y2": 185
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 914,
+            "y1": 153,
+            "x2": 955,
+            "y2": 205
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 567,
+            "y1": 717,
+            "x2": 1535,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 992,
+            "y1": 95,
+            "x2": 1053,
+            "y2": 141
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 757,
+            "y1": 174,
+            "x2": 888,
+            "y2": 253
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 913,
+            "y1": 236,
+            "x2": 978,
+            "y2": 321
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 918,
+            "y1": 228,
+            "x2": 950,
+            "y2": 311
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1046,
+            "y1": 100,
+            "x2": 1080,
+            "y2": 138
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "004(お皿小)",
+          "rect": {
+            "x1": 849,
+            "y1": 110,
+            "x2": 942,
+            "y2": 158
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 931,
+            "y1": 0,
+            "x2": 1119,
+            "y2": 92
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "010",
+      "boundingBoxes": [
+        {
+          "imageId": "010",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 1125,
+            "y1": 217,
+            "x2": 1279,
+            "y2": 321
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1501,
+            "y1": 231,
+            "x2": 1570,
+            "y2": 256
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 1397,
+            "y1": 178,
+            "x2": 1474,
+            "y2": 234
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 1347,
+            "y1": 208,
+            "x2": 1405,
+            "y2": 265
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 548,
+            "y1": 742,
+            "x2": 1509,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1459,
+            "y1": 213,
+            "x2": 1560,
+            "y2": 235
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 1177,
+            "y1": 175,
+            "x2": 1315,
+            "y2": 257
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 1271,
+            "y1": 283,
+            "x2": 1353,
+            "y2": 347
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1525,
+            "y1": 230,
+            "x2": 1587,
+            "y2": 256
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1264,
+            "y1": 304,
+            "x2": 1377,
+            "y2": 355
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "mat1",
+          "rect": {
+            "x1": 1310,
+            "y1": 154,
+            "x2": 1416,
+            "y2": 208
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1458,
+            "y1": 0,
+            "x2": 1740,
+            "y2": 242
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 1324,
+            "y1": 177,
+            "x2": 1377,
+            "y2": 230
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "011",
+      "boundingBoxes": [
+        {
+          "imageId": "011",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 527,
+            "y1": 769,
+            "x2": 1488,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 925,
+            "y1": 0,
+            "x2": 1123,
+            "y2": 69
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "012",
+      "boundingBoxes": [
+        {
+          "imageId": "012",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 605,
+            "y1": 786,
+            "x2": 1563,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 1271,
+            "y1": 168,
+            "x2": 1418,
+            "y2": 239
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 1501,
+            "y1": 193,
+            "x2": 1579,
+            "y2": 248
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 1423,
+            "y1": 173,
+            "x2": 1481,
+            "y2": 230
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "mat1",
+          "rect": {
+            "x1": 1431,
+            "y1": 169,
+            "x2": 1534,
+            "y2": 219
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 1216,
+            "y1": 185,
+            "x2": 1338,
+            "y2": 297
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1568,
+            "y1": 0,
+            "x2": 1919,
+            "y2": 477
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 1433,
+            "y1": 213,
+            "x2": 1495,
+            "y2": 267
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 1315,
+            "y1": 272,
+            "x2": 1421,
+            "y2": 310
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1307,
+            "y1": 293,
+            "x2": 1435,
+            "y2": 317
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1572,
+            "y1": 247,
+            "x2": 1702,
+            "y2": 257
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1610,
+            "y1": 264,
+            "x2": 1708,
+            "y2": 280
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1641,
+            "y1": 271,
+            "x2": 1729,
+            "y2": 284
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "013",
+      "boundingBoxes": [
+        {
+          "imageId": "013",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 493,
+            "y1": 695,
+            "x2": 1465,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 647,
+            "y1": 347,
+            "x2": 820,
+            "y2": 491
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 849,
+            "y1": 405,
+            "x2": 908,
+            "y2": 474
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "vase",
+          "rect": {
+            "x1": 619,
+            "y1": 89,
+            "x2": 824,
+            "y2": 205
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1009,
+            "y1": 2,
+            "x2": 1423,
+            "y2": 408
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 918,
+            "y1": 328,
+            "x2": 1012,
+            "y2": 414
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 724,
+            "y1": 527,
+            "x2": 845,
+            "y2": 647
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1019,
+            "y1": 337,
+            "x2": 1157,
+            "y2": 395
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 835,
+            "y1": 342,
+            "x2": 891,
+            "y2": 408
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "004(お皿小)",
+          "rect": {
+            "x1": 845,
+            "y1": 275,
+            "x2": 979,
+            "y2": 374
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1085,
+            "y1": 364,
+            "x2": 1186,
+            "y2": 427
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 718,
+            "y1": 550,
+            "x2": 875,
+            "y2": 653
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1058,
+            "y1": 367,
+            "x2": 1161,
+            "y2": 427
+          },
+          "className": "spoon"
+        }
+      ]
+    },
+    {
+      "imageId": "014",
+      "boundingBoxes": [
+        {
+          "imageId": "014",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 511,
+            "y1": 378,
+            "x2": 1477,
+            "y2": 1071
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "003(お皿大)",
+          "rect": {
+            "x1": 713,
+            "y1": 451,
+            "x2": 922,
+            "y2": 652
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 927,
+            "y1": 623,
+            "x2": 1002,
+            "y2": 693
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1159,
+            "y1": 641,
+            "x2": 1190,
+            "y2": 658
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1274,
+            "y1": 192,
+            "x2": 1920,
+            "y2": 704
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 1036,
+            "y1": 563,
+            "x2": 1167,
+            "y2": 656
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 949,
+            "y1": 528,
+            "x2": 1021,
+            "y2": 602
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "004(お皿小)",
+          "rect": {
+            "x1": 1006,
+            "y1": 314,
+            "x2": 1192,
+            "y2": 487
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 658,
+            "y1": 487,
+            "x2": 735,
+            "y2": 710
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 783,
+            "y1": 767,
+            "x2": 906,
+            "y2": 797
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 758,
+            "y1": 729,
+            "x2": 880,
+            "y2": 788
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "015",
+      "boundingBoxes": [
+        {
+          "imageId": "015",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 553,
+            "y1": 502,
+            "x2": 1502,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 885,
+            "y1": 767,
+            "x2": 970,
+            "y2": 794
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 839,
+            "y1": 475,
+            "x2": 1033,
+            "y2": 677
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1359,
+            "y1": 781,
+            "x2": 1456,
+            "y2": 798
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1433,
+            "y1": 552,
+            "x2": 1919,
+            "y2": 1022
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 885,
+            "y1": 802,
+            "x2": 988,
+            "y2": 820
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 787,
+            "y1": 476,
+            "x2": 813,
+            "y2": 639
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1312,
+            "y1": 731,
+            "x2": 1480,
+            "y2": 758
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1371,
+            "y1": 790,
+            "x2": 1487,
+            "y2": 816
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "016",
+      "boundingBoxes": [
+        {
+          "imageId": "016",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 544,
+            "y1": 530,
+            "x2": 1608,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 933,
+            "y1": 655,
+            "x2": 963,
+            "y2": 742
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 1145,
+            "y1": 715,
+            "x2": 1223,
+            "y2": 781
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 1206,
+            "y1": 659,
+            "x2": 1225,
+            "y2": 678
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1482,
+            "y1": 956,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 901,
+            "y1": 762,
+            "x2": 1064,
+            "y2": 786
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 932,
+            "y1": 460,
+            "x2": 1177,
+            "y2": 698
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1414,
+            "y1": 888,
+            "x2": 1508,
+            "y2": 913
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 899,
+            "y1": 773,
+            "x2": 1069,
+            "y2": 836
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 1309,
+            "y1": 723,
+            "x2": 1395,
+            "y2": 800
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 215,
+            "x2": 56,
+            "y2": 301
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1403,
+            "y1": 833,
+            "x2": 1544,
+            "y2": 884
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1422,
+            "y1": 904,
+            "x2": 1534,
+            "y2": 927
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "017",
+      "boundingBoxes": [
+        {
+          "imageId": "017",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 446,
+            "y1": 814,
+            "x2": 1499,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 786,
+            "y1": 729,
+            "x2": 1068,
+            "y2": 968
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 1257,
+            "y1": 0,
+            "x2": 1578,
+            "y2": 190
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "018",
+      "boundingBoxes": [
+        {
+          "imageId": "018",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 437,
+            "y1": 366,
+            "x2": 1441,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 751,
+            "y1": 267,
+            "x2": 1110,
+            "y2": 583
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 1062,
+            "y1": 0,
+            "x2": 1337,
+            "y2": 32
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "019",
+      "boundingBoxes": [
+        {
+          "imageId": "019",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 504,
+            "y1": 344,
+            "x2": 1508,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 676,
+            "y1": 277,
+            "x2": 1042,
+            "y2": 568
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 640,
+            "y1": 0,
+            "x2": 1102,
+            "y2": 309
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "020",
+      "boundingBoxes": [
+        {
+          "imageId": "020",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 513,
+            "y1": 215,
+            "x2": 1512,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 610,
+            "y1": 353,
+            "x2": 971,
+            "y2": 663
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 70,
+            "y1": 0,
+            "x2": 1351,
+            "y2": 693
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "021",
+      "boundingBoxes": [
+        {
+          "imageId": "021",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 518,
+            "y1": 530,
+            "x2": 1517,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 778,
+            "y1": 390,
+            "x2": 1148,
+            "y2": 722
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 754
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "022",
+      "boundingBoxes": [
+        {
+          "imageId": "022",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 557,
+            "y1": 478,
+            "x2": 1698,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 931,
+            "y1": 402,
+            "x2": 1160,
+            "y2": 587
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "023",
+      "boundingBoxes": [
+        {
+          "imageId": "023",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 863,
+            "y1": 408,
+            "x2": 1051,
+            "y2": 540
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 501,
+            "y1": 670,
+            "x2": 1554,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "1208",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 988
+          },
+          "className": "sweater"
+        }
+      ]
+    },
+    {
+      "imageId": "024",
+      "boundingBoxes": [
+        {
+          "imageId": "024",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 459,
+            "y1": 409,
+            "x2": 1405,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 843
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "025",
+      "boundingBoxes": [
+        {
+          "imageId": "025",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 558,
+            "y1": 591,
+            "x2": 1497,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 1320,
+            "y1": 916,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 37,
+            "y1": 0,
+            "x2": 285,
+            "y2": 72
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "026",
+      "boundingBoxes": [
+        {
+          "imageId": "026",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 514,
+            "y1": 795,
+            "x2": 1485,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 849,
+            "y1": 0,
+            "x2": 927,
+            "y2": 99
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "027",
+      "boundingBoxes": [
+        {
+          "imageId": "027",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 520,
+            "y1": 806,
+            "x2": 1488,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 796,
+            "y1": 0,
+            "x2": 905,
+            "y2": 164
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 678,
+            "y1": 0,
+            "x2": 710,
+            "y2": 18
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 636,
+            "y1": 55,
+            "x2": 694,
+            "y2": 70
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 647,
+            "y1": 4,
+            "x2": 676,
+            "y2": 35
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 674,
+            "y1": 0,
+            "x2": 703,
+            "y2": 34
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 701,
+            "y1": 33,
+            "x2": 711,
+            "y2": 62
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 708,
+            "y1": 35,
+            "x2": 725,
+            "y2": 64
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 710,
+            "y1": 0,
+            "x2": 716,
+            "y2": 10
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "028",
+      "boundingBoxes": [
+        {
+          "imageId": "028",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 543,
+            "y1": 820,
+            "x2": 1636,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 817,
+            "y1": 65,
+            "x2": 843,
+            "y2": 92
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 801,
+            "y1": 0,
+            "x2": 1034,
+            "y2": 316
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 795,
+            "y1": 66,
+            "x2": 814,
+            "y2": 88
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 710,
+            "y1": 158,
+            "x2": 758,
+            "y2": 213
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 538,
+            "y1": 190,
+            "x2": 707,
+            "y2": 207
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 673,
+            "y1": 96,
+            "x2": 710,
+            "y2": 136
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 704,
+            "y1": 103,
+            "x2": 741,
+            "y2": 146
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 763,
+            "y1": 65,
+            "x2": 796,
+            "y2": 101
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 718,
+            "y1": 71,
+            "x2": 762,
+            "y2": 115
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 712,
+            "y1": 155,
+            "x2": 750,
+            "y2": 210
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "029",
+      "boundingBoxes": [
+        {
+          "imageId": "029",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 530,
+            "y1": 741,
+            "x2": 1481,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 974,
+            "y1": 200,
+            "x2": 1032,
+            "y2": 245
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 692,
+            "y1": 0,
+            "x2": 1351,
+            "y2": 541
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 745,
+            "y1": 345,
+            "x2": 849,
+            "y2": 438
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "mat",
+          "rect": {
+            "x1": 529,
+            "y1": 236,
+            "x2": 873,
+            "y2": 482
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 777,
+            "y1": 221,
+            "x2": 823,
+            "y2": 274
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 802,
+            "y1": 248,
+            "x2": 849,
+            "y2": 305
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 847,
+            "y1": 196,
+            "x2": 906,
+            "y2": 258
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 905,
+            "y1": 183,
+            "x2": 977,
+            "y2": 238
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 744,
+            "y1": 338,
+            "x2": 820,
+            "y2": 436
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 593,
+            "y1": 339,
+            "x2": 749,
+            "y2": 398
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 950,
+            "y1": 185,
+            "x2": 1009,
+            "y2": 227
+          },
+          "className": "spoon"
+        }
+      ]
+    },
+    {
+      "imageId": "030",
+      "boundingBoxes": [
+        {
+          "imageId": "030",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 583,
+            "y1": 699,
+            "x2": 1541,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1456,
+            "y1": 415,
+            "x2": 1610,
+            "y2": 500
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 1705,
+            "y1": 399,
+            "x2": 1793,
+            "y2": 455
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 1667,
+            "y1": 432,
+            "x2": 1759,
+            "y2": 490
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 1758,
+            "y1": 466,
+            "x2": 1875,
+            "y2": 539
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1386,
+            "y1": 753,
+            "x2": 1920,
+            "y2": 942
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1808,
+            "y1": 539,
+            "x2": 1919,
+            "y2": 608
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1826,
+            "y1": 619,
+            "x2": 1918,
+            "y2": 681
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 124,
+            "y1": 0,
+            "x2": 456,
+            "y2": 98
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 1505,
+            "y1": 263,
+            "x2": 1533,
+            "y2": 420
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1851,
+            "y1": 587,
+            "x2": 1920,
+            "y2": 640
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 1469,
+            "y1": 421,
+            "x2": 1610,
+            "y2": 470
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "031",
+      "boundingBoxes": [
+        {
+          "imageId": "031",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 552,
+            "y1": 709,
+            "x2": 1495,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 788,
+            "y1": 246,
+            "x2": 934,
+            "y2": 304
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 705,
+            "y1": 152,
+            "x2": 827,
+            "y2": 270
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 925,
+            "y1": 102,
+            "x2": 974,
+            "y2": 150
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 928,
+            "y1": 140,
+            "x2": 980,
+            "y2": 201
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 992,
+            "y1": 98,
+            "x2": 1075,
+            "y2": 169
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1073,
+            "y1": 115,
+            "x2": 1190,
+            "y2": 156
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1137,
+            "y1": 155,
+            "x2": 1240,
+            "y2": 191
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1109,
+            "y1": 0,
+            "x2": 1819,
+            "y2": 523
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 796,
+            "y1": 225,
+            "x2": 909,
+            "y2": 301
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1126,
+            "y1": 134,
+            "x2": 1223,
+            "y2": 163
+          },
+          "className": "spoon"
+        }
+      ]
+    },
+    {
+      "imageId": "032",
+      "boundingBoxes": [
+        {
+          "imageId": "032",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 724,
+            "y1": 714,
+            "x2": 782,
+            "y2": 752
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 887,
+            "y1": 415,
+            "x2": 953,
+            "y2": 490
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 893,
+            "y1": 500,
+            "x2": 961,
+            "y2": 573
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 982,
+            "y1": 413,
+            "x2": 1096,
+            "y2": 508
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 733,
+            "y1": 640,
+            "x2": 857,
+            "y2": 744
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 603,
+            "y1": 463,
+            "x2": 761,
+            "y2": 692
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1233,
+            "y1": 259,
+            "x2": 1920,
+            "y2": 786
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1161,
+            "y1": 423,
+            "x2": 1287,
+            "y2": 497
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1087,
+            "y1": 395,
+            "x2": 1244,
+            "y2": 481
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 580,
+            "y1": 515,
+            "x2": 1567,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "033",
+      "boundingBoxes": [
+        {
+          "imageId": "033",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 568,
+            "y1": 509,
+            "x2": 1489,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 928,
+            "y1": 772,
+            "x2": 943,
+            "y2": 788
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "011(グラスa, b)",
+          "rect": {
+            "x1": 913,
+            "y1": 489,
+            "x2": 996,
+            "y2": 584
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 598,
+            "y1": 541,
+            "x2": 762,
+            "y2": 781
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1160,
+            "y1": 461,
+            "x2": 1328,
+            "y2": 565
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1230,
+            "y1": 495,
+            "x2": 1377,
+            "y2": 587
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1303,
+            "y1": 427,
+            "x2": 1919,
+            "y2": 967
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 1029,
+            "y1": 500,
+            "x2": 1163,
+            "y2": 604
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "034",
+      "boundingBoxes": [
+        {
+          "imageId": "034",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 520,
+            "y1": 487,
+            "x2": 1590,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1130,
+            "y1": 617,
+            "x2": 1225,
+            "y2": 680
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "011(グラスa, b)",
+          "rect": {
+            "x1": 929,
+            "y1": 471,
+            "x2": 1037,
+            "y2": 608
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 1026,
+            "y1": 504,
+            "x2": 1162,
+            "y2": 668
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1470,
+            "y1": 729,
+            "x2": 1629,
+            "y2": 811
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1502,
+            "y1": 785,
+            "x2": 1624,
+            "y2": 855
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "015(フォークb)",
+          "rect": {
+            "x1": 1466,
+            "y1": 808,
+            "x2": 1596,
+            "y2": 872
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1467,
+            "y1": 810,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 1149,
+            "y1": 362,
+            "x2": 1222,
+            "y2": 535
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 378,
+            "y2": 139
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 1140,
+            "y1": 606,
+            "x2": 1235,
+            "y2": 642
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "035",
+      "boundingBoxes": [
+        {
+          "imageId": "035",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 471,
+            "y1": 347,
+            "x2": 1486,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "011(グラスa, b)",
+          "rect": {
+            "x1": 704,
+            "y1": 316,
+            "x2": 848,
+            "y2": 474
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 954,
+            "y1": 340,
+            "x2": 1110,
+            "y2": 507
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 1502,
+            "y1": 658,
+            "x2": 1625,
+            "y2": 883
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 164,
+            "y1": 0,
+            "x2": 541,
+            "y2": 132
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1545,
+            "y1": 892,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "013(フォークa)",
+          "rect": {
+            "x1": 1507,
+            "y1": 893,
+            "x2": 1573,
+            "y2": 925
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1474,
+            "y1": 899,
+            "x2": 1584,
+            "y2": 971
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "036",
+      "boundingBoxes": [
+        {
+          "imageId": "036",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 580,
+            "y1": 339,
+            "x2": 1543,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "011(グラスa, b)",
+          "rect": {
+            "x1": 683,
+            "y1": 287,
+            "x2": 857,
+            "y2": 452
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 958,
+            "y1": 276,
+            "x2": 1109,
+            "y2": 429
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 380,
+            "y2": 305
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "037",
+      "boundingBoxes": [
+        {
+          "imageId": "037",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 585,
+            "y1": 338,
+            "x2": 1501,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "011(グラスa, b)",
+          "rect": {
+            "x1": 740,
+            "y1": 365,
+            "x2": 894,
+            "y2": 535
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 955,
+            "y1": 267,
+            "x2": 1045,
+            "y2": 368
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 194,
+            "y1": 0,
+            "x2": 605,
+            "y2": 132
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "038",
+      "boundingBoxes": [
+        {
+          "imageId": "038",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 566,
+            "y1": 275,
+            "x2": 1576,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 467,
+            "y2": 205
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 837,
+            "y1": 263,
+            "x2": 919,
+            "y2": 363
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 871,
+            "y1": 393,
+            "x2": 937,
+            "y2": 459
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "039",
+      "boundingBoxes": [
+        {
+          "imageId": "039",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 453,
+            "y1": 493,
+            "x2": 558,
+            "y2": 533
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 561,
+            "y1": 511,
+            "x2": 638,
+            "y2": 560
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 1658,
+            "y1": 1035,
+            "x2": 1675,
+            "y2": 1080
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 518,
+            "y1": 560,
+            "x2": 623,
+            "y2": 636
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1474,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "040",
+      "boundingBoxes": [
+        {
+          "imageId": "040",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 146,
+            "y1": 578,
+            "x2": 277,
+            "y2": 661
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 256,
+            "y1": 616,
+            "x2": 364,
+            "y2": 683
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "person",
+          "rect": {
+            "x1": 1484,
+            "y1": 699,
+            "x2": 1919,
+            "y2": 1073
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 250,
+            "y1": 555,
+            "x2": 352,
+            "y2": 616
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 181,
+            "y1": 561,
+            "x2": 1918,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 1475,
+            "y1": 493,
+            "x2": 1705,
+            "y2": 685
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1888,
+            "y1": 480,
+            "x2": 1920,
+            "y2": 512
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "041",
+      "boundingBoxes": [
+        {
+          "imageId": "041",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 244,
+            "y1": 360,
+            "x2": 313,
+            "y2": 403
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 150,
+            "y1": 394,
+            "x2": 253,
+            "y2": 462
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 457,
+            "y1": 573,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 1231,
+            "y1": 228,
+            "x2": 1422,
+            "y2": 326
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1627,
+            "y1": 192,
+            "x2": 1673,
+            "y2": 233
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1554,
+            "y1": 170,
+            "x2": 1624,
+            "y2": 210
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 249,
+            "y1": 400,
+            "x2": 337,
+            "y2": 459
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1606,
+            "y1": 186,
+            "x2": 1652,
+            "y2": 213
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1491,
+            "y1": 96,
+            "x2": 1920,
+            "y2": 596
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1619,
+            "y1": 202,
+            "x2": 1668,
+            "y2": 239
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "042",
+      "boundingBoxes": [
+        {
+          "imageId": "042",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1204,
+            "y1": 86,
+            "x2": 1244,
+            "y2": 118
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 565,
+            "y1": 810,
+            "x2": 1558,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1160,
+            "y1": 81,
+            "x2": 1219,
+            "y2": 116
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "011(グラスa, b)",
+          "rect": {
+            "x1": 0,
+            "y1": 385,
+            "x2": 77,
+            "y2": 465
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1258,
+            "y1": 0,
+            "x2": 1666,
+            "y2": 427
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 0,
+            "y1": 433,
+            "x2": 15,
+            "y2": 470
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1212,
+            "y1": 94,
+            "x2": 1260,
+            "y2": 130
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 891,
+            "y1": 168,
+            "x2": 1043,
+            "y2": 220
+          },
+          "className": "chopstick"
+        }
+      ]
+    },
+    {
+      "imageId": "043",
+      "boundingBoxes": [
+        {
+          "imageId": "043",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 696,
+            "y1": 197,
+            "x2": 867,
+            "y2": 227
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 991,
+            "y1": 62,
+            "x2": 1034,
+            "y2": 96
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1010,
+            "y1": 66,
+            "x2": 1040,
+            "y2": 113
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 956,
+            "y1": 62,
+            "x2": 1003,
+            "y2": 106
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1005,
+            "y1": 69,
+            "x2": 1044,
+            "y2": 113
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1177,
+            "y1": 0,
+            "x2": 1453,
+            "y2": 350
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 550,
+            "y1": 817,
+            "x2": 1534,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "044",
+      "boundingBoxes": [
+        {
+          "imageId": "044",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1021,
+            "y1": 54,
+            "x2": 1068,
+            "y2": 86
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1042,
+            "y1": 60,
+            "x2": 1073,
+            "y2": 106
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 986,
+            "y1": 52,
+            "x2": 1034,
+            "y2": 95
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1035,
+            "y1": 61,
+            "x2": 1077,
+            "y2": 105
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1113,
+            "y1": 0,
+            "x2": 1319,
+            "y2": 232
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 738,
+            "y1": 192,
+            "x2": 888,
+            "y2": 214
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 541,
+            "y1": 817,
+            "x2": 1526,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "045",
+      "boundingBoxes": [
+        {
+          "imageId": "045",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1026,
+            "y1": 46,
+            "x2": 1067,
+            "y2": 77
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1046,
+            "y1": 52,
+            "x2": 1074,
+            "y2": 98
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 988,
+            "y1": 44,
+            "x2": 1041,
+            "y2": 87
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1039,
+            "y1": 53,
+            "x2": 1082,
+            "y2": 96
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1114,
+            "y1": 0,
+            "x2": 1392,
+            "y2": 321
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 746,
+            "y1": 184,
+            "x2": 892,
+            "y2": 207
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 535,
+            "y1": 811,
+            "x2": 1540,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "046",
+      "boundingBoxes": [
+        {
+          "imageId": "046",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1083,
+            "y1": 31,
+            "x2": 1123,
+            "y2": 63
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1099,
+            "y1": 35,
+            "x2": 1133,
+            "y2": 82
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1095,
+            "y1": 36,
+            "x2": 1139,
+            "y2": 79
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1029,
+            "y1": 0,
+            "x2": 1494,
+            "y2": 323
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 763,
+            "y1": 151,
+            "x2": 935,
+            "y2": 190
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 555,
+            "y1": 796,
+            "x2": 1629,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1041,
+            "y1": 46,
+            "x2": 1067,
+            "y2": 70
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "047",
+      "boundingBoxes": [
+        {
+          "imageId": "047",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1145,
+            "y1": 31,
+            "x2": 1162,
+            "y2": 43
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1160,
+            "y1": 47,
+            "x2": 1178,
+            "y2": 65
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 516,
+            "y1": 786,
+            "x2": 1463,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 815,
+            "y1": 118,
+            "x2": 982,
+            "y2": 164
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1100,
+            "y1": 6,
+            "x2": 1160,
+            "y2": 48
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1154,
+            "y1": 44,
+            "x2": 1189,
+            "y2": 63
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "048",
+      "boundingBoxes": [
+        {
+          "imageId": "048",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 651,
+            "y1": 0,
+            "x2": 886,
+            "y2": 91
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 697,
+            "y1": 659,
+            "x2": 1645,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 1848,
+            "y1": 953,
+            "x2": 1920,
+            "y2": 1047
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "011(グラスa, b)",
+          "rect": {
+            "x1": 1519,
+            "y1": 156,
+            "x2": 1619,
+            "y2": 215
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 1500,
+            "y1": 116,
+            "x2": 1567,
+            "y2": 168
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "049",
+      "boundingBoxes": [
+        {
+          "imageId": "049",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1225,
+            "y1": 54,
+            "x2": 1281,
+            "y2": 95
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1228,
+            "y1": 57,
+            "x2": 1272,
+            "y2": 103
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1295,
+            "y1": 0,
+            "x2": 1782,
+            "y2": 373
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1165,
+            "y1": 42,
+            "x2": 1236,
+            "y2": 82
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1210,
+            "y1": 48,
+            "x2": 1266,
+            "y2": 80
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 860,
+            "y1": 139,
+            "x2": 1026,
+            "y2": 196
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 505,
+            "y1": 765,
+            "x2": 1452,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "050",
+      "boundingBoxes": [
+        {
+          "imageId": "050",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1323,
+            "y1": 334,
+            "x2": 1427,
+            "y2": 415
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1307,
+            "y1": 248,
+            "x2": 1920,
+            "y2": 736
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1328,
+            "y1": 333,
+            "x2": 1418,
+            "y2": 423
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1256,
+            "y1": 296,
+            "x2": 1373,
+            "y2": 362
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1323,
+            "y1": 313,
+            "x2": 1413,
+            "y2": 371
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 616,
+            "y1": 498,
+            "x2": 1646,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 817,
+            "y1": 371,
+            "x2": 992,
+            "y2": 533
+          },
+          "className": "chopstick"
+        }
+      ]
+    },
+    {
+      "imageId": "051",
+      "boundingBoxes": [
+        {
+          "imageId": "051",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1567,
+            "y1": 670,
+            "x2": 1725,
+            "y2": 712
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "014(ナイフa)",
+          "rect": {
+            "x1": 1561,
+            "y1": 676,
+            "x2": 1725,
+            "y2": 711
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "016(ナイフb)",
+          "rect": {
+            "x1": 1564,
+            "y1": 593,
+            "x2": 1727,
+            "y2": 644
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 551,
+            "y1": 452,
+            "x2": 1487,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1618,
+            "y1": 642,
+            "x2": 1739,
+            "y2": 689
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 974,
+            "y1": 267,
+            "x2": 1051,
+            "y2": 662
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1347,
+            "y1": 776,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "052",
+      "boundingBoxes": [
+        {
+          "imageId": "052",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 607,
+            "y1": 390,
+            "x2": 1200,
+            "y2": 444
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 507,
+            "y1": 347,
+            "x2": 1456,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "053",
+      "boundingBoxes": [
+        {
+          "imageId": "053",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 736,
+            "y1": 446,
+            "x2": 1276,
+            "y2": 489
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 570,
+            "y1": 395,
+            "x2": 1544,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 962,
+            "y1": 0,
+            "x2": 1236,
+            "y2": 125
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "054",
+      "boundingBoxes": [
+        {
+          "imageId": "054",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 664,
+            "y1": 488,
+            "x2": 1171,
+            "y2": 554
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 559,
+            "y1": 477,
+            "x2": 1529,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 458,
+            "y1": 0,
+            "x2": 1040,
+            "y2": 486
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "055",
+      "boundingBoxes": [
+        {
+          "imageId": "055",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 490,
+            "y1": 540,
+            "x2": 913,
+            "y2": 752
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 566,
+            "y1": 292,
+            "x2": 1628,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1384,
+            "y2": 724
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "056",
+      "boundingBoxes": [
+        {
+          "imageId": "056",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 468,
+            "y1": 409,
+            "x2": 1514,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 706,
+            "y1": 423,
+            "x2": 1127,
+            "y2": 760
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 881,
+            "y1": 90,
+            "x2": 1064,
+            "y2": 220
+          },
+          "className": "plate"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 639
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "057",
+      "boundingBoxes": [
+        {
+          "imageId": "057",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 486,
+            "y1": 289,
+            "x2": 1687,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 1037,
+            "y1": 342,
+            "x2": 1098,
+            "y2": 773
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 879
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 1004,
+            "y1": 145,
+            "x2": 1200,
+            "y2": 284
+          },
+          "className": "plate"
+        }
+      ]
+    },
+    {
+      "imageId": "058",
+      "boundingBoxes": [
+        {
+          "imageId": "058",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 494,
+            "y1": 397,
+            "x2": 1410,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 876,
+            "y1": 364,
+            "x2": 918,
+            "y2": 428
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 1085,
+            "y1": 322,
+            "x2": 1299,
+            "y2": 458
+          },
+          "className": "plate"
+        }
+      ]
+    },
+    {
+      "imageId": "059",
+      "boundingBoxes": [
+        {
+          "imageId": "059",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 519,
+            "y1": 677,
+            "x2": 1682,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "009(お箸)",
+          "rect": {
+            "x1": 782,
+            "y1": 350,
+            "x2": 839,
+            "y2": 505
+          },
+          "className": "chopstick"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "005(お皿大・小)",
+          "rect": {
+            "x1": 972,
+            "y1": 297,
+            "x2": 1146,
+            "y2": 424
+          },
+          "className": "plate"
+        }
+      ]
+    },
+    {
+      "imageId": "060",
+      "boundingBoxes": [
+        {
+          "imageId": "060",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 530,
+            "y1": 331,
+            "x2": 1455,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "061",
+      "boundingBoxes": [
+        {
+          "imageId": "061",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 467,
+            "y1": 469,
+            "x2": 1747,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 731,
+            "y1": 0,
+            "x2": 1918,
+            "y2": 858
+          },
+          "className": "cabinet"
+        }
+      ]
+    },
+    {
+      "imageId": "062",
+      "boundingBoxes": [
+        {
+          "imageId": "062",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 493,
+            "y1": 774,
+            "x2": 1578,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 146,
+            "y1": 189,
+            "x2": 214,
+            "y2": 240
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "011(グラスa, b)",
+          "rect": {
+            "x1": 188,
+            "y1": 150,
+            "x2": 277,
+            "y2": 199
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "4111",
+          "rect": {
+            "x1": 712,
+            "y1": 0,
+            "x2": 901,
+            "y2": 192
+          },
+          "className": "skirt"
+        }
+      ]
+    },
+    {
+      "imageId": "063",
+      "boundingBoxes": [
+        {
+          "imageId": "063",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 539,
+            "y1": 828,
+            "x2": 1640,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 0,
+            "y1": 223,
+            "x2": 44,
+            "y2": 281
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 988,
+            "y1": 35,
+            "x2": 1047,
+            "y2": 52
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 806,
+            "y1": 0,
+            "x2": 1093,
+            "y2": 364
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "019(ナイフa, b)",
+          "rect": {
+            "x1": 991,
+            "y1": 38,
+            "x2": 1006,
+            "y2": 51
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "011(グラスa, b)",
+          "rect": {
+            "x1": 14,
+            "y1": 184,
+            "x2": 128,
+            "y2": 244
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 978,
+            "y1": 29,
+            "x2": 993,
+            "y2": 50
+          },
+          "className": "spoon"
+        }
+      ]
+    },
+    {
+      "imageId": "064",
+      "boundingBoxes": [
+        {
+          "imageId": "064",
+          "instanceId": "011(グラスa, b)",
+          "rect": {
+            "x1": 289,
+            "y1": 1,
+            "x2": 398,
+            "y2": 50
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1342,
+            "y1": 215,
+            "x2": 1435,
+            "y2": 252
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1092,
+            "y1": 0,
+            "x2": 1779,
+            "y2": 581
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 584,
+            "y1": 755,
+            "x2": 1472,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1311,
+            "y1": 195,
+            "x2": 1349,
+            "y2": 236
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "019(ナイフa, b)",
+          "rect": {
+            "x1": 1331,
+            "y1": 197,
+            "x2": 1359,
+            "y2": 245
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 233,
+            "y1": 30,
+            "x2": 311,
+            "y2": 92
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "065",
+      "boundingBoxes": [
+        {
+          "imageId": "065",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1394,
+            "y1": 399,
+            "x2": 1920,
+            "y2": 801
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 722,
+            "y1": 681,
+            "x2": 1606,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "011(グラスa, b)",
+          "rect": {
+            "x1": 684,
+            "y1": 0,
+            "x2": 783,
+            "y2": 32
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 640,
+            "y1": 3,
+            "x2": 704,
+            "y2": 70
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "066",
+      "boundingBoxes": [
+        {
+          "imageId": "066",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 592,
+            "y1": 678,
+            "x2": 1485,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 0,
+            "y1": 553,
+            "x2": 34,
+            "y2": 630
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1016,
+            "y1": 0,
+            "x2": 1434,
+            "y2": 343
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1263,
+            "y1": 18,
+            "x2": 1338,
+            "y2": 39
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 1244,
+            "y1": 13,
+            "x2": 1268,
+            "y2": 34
+          },
+          "className": "spoon"
+        }
+      ]
+    },
+    {
+      "imageId": "067",
+      "boundingBoxes": [
+        {
+          "imageId": "067",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 544,
+            "y1": 864,
+            "x2": 1482,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 760,
+            "y1": 0,
+            "x2": 1075,
+            "y2": 405
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 965,
+            "y1": 49,
+            "x2": 1023,
+            "y2": 71
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 948,
+            "y1": 52,
+            "x2": 974,
+            "y2": 72
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "012(あそこ１・ここ)",
+          "rect": {
+            "x1": 126,
+            "y1": 698,
+            "x2": 367,
+            "y2": 991
+          },
+          "className": "region"
+        }
+      ]
+    },
+    {
+      "imageId": "068",
+      "boundingBoxes": [
+        {
+          "imageId": "068",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 907,
+            "y1": 0,
+            "x2": 968,
+            "y2": 39
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 636,
+            "y1": 577,
+            "x2": 1652,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "012(あそこ１・ここ)",
+          "rect": {
+            "x1": 737,
+            "y1": 216,
+            "x2": 1074,
+            "y2": 305
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1566,
+            "y1": 213,
+            "x2": 1919,
+            "y2": 699
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "069",
+      "boundingBoxes": [
+        {
+          "imageId": "069",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 591,
+            "y1": 192,
+            "x2": 1398,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1584,
+            "y1": 360,
+            "x2": 1920,
+            "y2": 737
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "012(あそこ１・ここ)",
+          "rect": {
+            "x1": 802,
+            "y1": 169,
+            "x2": 1146,
+            "y2": 247
+          },
+          "className": "region"
+        }
+      ]
+    },
+    {
+      "imageId": "070",
+      "boundingBoxes": [
+        {
+          "imageId": "070",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 531,
+            "y1": 512,
+            "x2": 1564,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "012(あそこ１・ここ)",
+          "rect": {
+            "x1": 738,
+            "y1": 486,
+            "x2": 1160,
+            "y2": 633
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 921,
+            "y1": 98,
+            "x2": 999,
+            "y2": 188
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 1004,
+            "y1": 52,
+            "x2": 1058,
+            "y2": 113
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 937,
+            "y1": 55,
+            "x2": 989,
+            "y2": 107
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1616,
+            "y1": 602,
+            "x2": 1920,
+            "y2": 842
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "071",
+      "boundingBoxes": [
+        {
+          "imageId": "071",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 517,
+            "y1": 600,
+            "x2": 1493,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 626,
+            "y1": 0,
+            "x2": 734,
+            "y2": 98
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1441,
+            "y1": 199,
+            "x2": 1919,
+            "y2": 523
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "072",
+      "boundingBoxes": [
+        {
+          "imageId": "072",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 370,
+            "y1": 385,
+            "x2": 1439,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 969,
+            "y1": 0,
+            "x2": 1407,
+            "y2": 391
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 959,
+            "y1": 322,
+            "x2": 1036,
+            "y2": 565
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "019(ナイフa, b)",
+          "rect": {
+            "x1": 926,
+            "y1": 363,
+            "x2": 1010,
+            "y2": 565
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 922,
+            "y1": 284,
+            "x2": 1036,
+            "y2": 489
+          },
+          "className": "spoon"
+        }
+      ]
+    },
+    {
+      "imageId": "073",
+      "boundingBoxes": [
+        {
+          "imageId": "073",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 248,
+            "y1": 63,
+            "x2": 348,
+            "y2": 131
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 343,
+            "y1": 318,
+            "x2": 1373,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 159,
+            "y1": 98,
+            "x2": 267,
+            "y2": 151
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1215,
+            "y1": 0,
+            "x2": 1918,
+            "y2": 464
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "019(ナイフa, b)",
+          "rect": {
+            "x1": 962,
+            "y1": 309,
+            "x2": 1116,
+            "y2": 600
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 969,
+            "y1": 282,
+            "x2": 1114,
+            "y2": 535
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 159,
+            "y1": 142,
+            "x2": 307,
+            "y2": 236
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 1000,
+            "y1": 341,
+            "x2": 1117,
+            "y2": 599
+          },
+          "className": "fork"
+        }
+      ]
+    },
+    {
+      "imageId": "074",
+      "boundingBoxes": [
+        {
+          "imageId": "074",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 552,
+            "y1": 653,
+            "x2": 1649,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 956,
+            "y1": 39,
+            "x2": 1049,
+            "y2": 146
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 811,
+            "y1": 656,
+            "x2": 1054,
+            "y2": 701
+          },
+          "className": "spoon"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 987,
+            "y1": 0,
+            "x2": 1052,
+            "y2": 58
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "019(ナイフa, b)",
+          "rect": {
+            "x1": 815,
+            "y1": 656,
+            "x2": 1052,
+            "y2": 701
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 824,
+            "y1": 657,
+            "x2": 1053,
+            "y2": 706
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 1068,
+            "y1": 0,
+            "x2": 1134,
+            "y2": 63
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "075",
+      "boundingBoxes": [
+        {
+          "imageId": "075",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 989,
+            "y1": 119,
+            "x2": 1082,
+            "y2": 227
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 1026,
+            "y1": 63,
+            "x2": 1092,
+            "y2": 140
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "019(ナイフa, b)",
+          "rect": {
+            "x1": 858,
+            "y1": 731,
+            "x2": 1039,
+            "y2": 782
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 1105,
+            "y1": 67,
+            "x2": 1175,
+            "y2": 152
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "018(フォークa, b)",
+          "rect": {
+            "x1": 863,
+            "y1": 723,
+            "x2": 988,
+            "y2": 759
+          },
+          "className": "fork"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 519,
+            "y1": 765,
+            "x2": 1648,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "017(スプーン)",
+          "rect": {
+            "x1": 887,
+            "y1": 766,
+            "x2": 1058,
+            "y2": 807
+          },
+          "className": "spoon"
+        }
+      ]
+    },
+    {
+      "imageId": "076",
+      "boundingBoxes": [
+        {
+          "imageId": "076",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 989,
+            "y1": 196,
+            "x2": 1073,
+            "y2": 294
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 1020,
+            "y1": 142,
+            "x2": 1078,
+            "y2": 212
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 1091,
+            "y1": 144,
+            "x2": 1153,
+            "y2": 218
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 517,
+            "y1": 604,
+            "x2": 1583,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1478,
+            "y1": 0,
+            "x2": 1919,
+            "y2": 232
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "077",
+      "boundingBoxes": [
+        {
+          "imageId": "077",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 506,
+            "y1": 206,
+            "x2": 574,
+            "y2": 266
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 426,
+            "y1": 259,
+            "x2": 513,
+            "y2": 338
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 521,
+            "y1": 853,
+            "x2": 1453,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 867,
+            "y1": 0,
+            "x2": 984,
+            "y2": 120
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 445,
+            "y1": 222,
+            "x2": 506,
+            "y2": 276
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "078",
+      "boundingBoxes": [
+        {
+          "imageId": "078",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 565,
+            "y1": 180,
+            "x2": 636,
+            "y2": 241
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 480,
+            "y1": 227,
+            "x2": 563,
+            "y2": 302
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 532,
+            "y1": 771,
+            "x2": 1483,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 912,
+            "y1": 0,
+            "x2": 988,
+            "y2": 95
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 509,
+            "y1": 194,
+            "x2": 571,
+            "y2": 253
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "079",
+      "boundingBoxes": [
+        {
+          "imageId": "079",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 286,
+            "y1": 248,
+            "x2": 379,
+            "y2": 324
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 555,
+            "y1": 762,
+            "x2": 1574,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 330,
+            "y1": 212,
+            "x2": 385,
+            "y2": 260
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 893,
+            "y1": 0,
+            "x2": 1040,
+            "y2": 76
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 385,
+            "y1": 198,
+            "x2": 446,
+            "y2": 249
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "080",
+      "boundingBoxes": [
+        {
+          "imageId": "080",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 204,
+            "y1": 348,
+            "x2": 306,
+            "y2": 432
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 546,
+            "y1": 758,
+            "x2": 1557,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 251,
+            "y1": 302,
+            "x2": 326,
+            "y2": 361
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 310,
+            "y1": 284,
+            "x2": 381,
+            "y2": 342
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 942,
+            "y1": 0,
+            "x2": 1074,
+            "y2": 147
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "081",
+      "boundingBoxes": [
+        {
+          "imageId": "081",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 274,
+            "y1": 261,
+            "x2": 354,
+            "y2": 325
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 214,
+            "y1": 283,
+            "x2": 291,
+            "y2": 339
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 166,
+            "y1": 326,
+            "x2": 269,
+            "y2": 415
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 550,
+            "y1": 708,
+            "x2": 1492,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 937,
+            "y1": 0,
+            "x2": 1111,
+            "y2": 99
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "082",
+      "boundingBoxes": [
+        {
+          "imageId": "082",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 260,
+            "y1": 297,
+            "x2": 346,
+            "y2": 362
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 155,
+            "y1": 362,
+            "x2": 264,
+            "y2": 455
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 202,
+            "y1": 315,
+            "x2": 281,
+            "y2": 369
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 549,
+            "y1": 730,
+            "x2": 1496,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 932,
+            "y1": 1,
+            "x2": 1094,
+            "y2": 128
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "083",
+      "boundingBoxes": [
+        {
+          "imageId": "083",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 172,
+            "y1": 362,
+            "x2": 273,
+            "y2": 450
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 220,
+            "y1": 316,
+            "x2": 293,
+            "y2": 373
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 549,
+            "y1": 737,
+            "x2": 1496,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 277,
+            "y1": 296,
+            "x2": 331,
+            "y2": 346
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 939,
+            "y1": 1,
+            "x2": 1101,
+            "y2": 136
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "084",
+      "boundingBoxes": [
+        {
+          "imageId": "084",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 587,
+            "y1": 123,
+            "x2": 656,
+            "y2": 181
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 529,
+            "y1": 137,
+            "x2": 591,
+            "y2": 189
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 475,
+            "y1": 169,
+            "x2": 560,
+            "y2": 249
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 594,
+            "y1": 742,
+            "x2": 1671,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1268,
+            "y1": 0,
+            "x2": 1472,
+            "y2": 125
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "085",
+      "boundingBoxes": [
+        {
+          "imageId": "085",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 747,
+            "y1": 150,
+            "x2": 800,
+            "y2": 203
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 641,
+            "y1": 176,
+            "x2": 715,
+            "y2": 250
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 700,
+            "y1": 145,
+            "x2": 750,
+            "y2": 193
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 593,
+            "y1": 757,
+            "x2": 1663,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1389,
+            "y1": 0,
+            "x2": 1736,
+            "y2": 263
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "086",
+      "boundingBoxes": [
+        {
+          "imageId": "086",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 200,
+            "y1": 359,
+            "x2": 290,
+            "y2": 428
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 94,
+            "y1": 431,
+            "x2": 196,
+            "y2": 525
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 140,
+            "y1": 383,
+            "x2": 217,
+            "y2": 436
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 520,
+            "y1": 771,
+            "x2": 1479,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 861,
+            "y1": 0,
+            "x2": 1027,
+            "y2": 185
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "087",
+      "boundingBoxes": [
+        {
+          "imageId": "087",
+          "instanceId": "006(白コップ)",
+          "rect": {
+            "x1": 169,
+            "y1": 321,
+            "x2": 273,
+            "y2": 409
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "087",
+          "instanceId": "008(グラスb)",
+          "rect": {
+            "x1": 223,
+            "y1": 277,
+            "x2": 294,
+            "y2": 333
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "087",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 525,
+            "y1": 717,
+            "x2": 1540,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "087",
+          "instanceId": "007(グラスa)",
+          "rect": {
+            "x1": 283,
+            "y1": 260,
+            "x2": 361,
+            "y2": 324
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "087",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 944,
+            "y1": 0,
+            "x2": 1105,
+            "y2": 150
+          },
+          "className": "person"
+        }
+      ]
+    }
+  ],
+  "utterances": [
+    {
+      "text": "後片付け手伝ってくれない？",
+      "phrases": [
+        {
+          "text": "後片付け",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(お皿大)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(お皿小)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(お皿大・小)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(白コップ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(グラスa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(グラスb)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(お箸)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "011(グラスa, b)"
+            }
+          ]
+        },
+        {
+          "text": "手伝ってくれない？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "分かりました。何を片付ければいいですか？",
+      "phrases": [
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "何を",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(お皿大)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "004(お皿小)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "005(お皿大・小)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "006(白コップ)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "007(グラスa)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "008(グラスb)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "009(お箸)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "011(グラスa, b)"
+            }
+          ]
+        },
+        {
+          "text": "片付ければいいですか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "まずは、お皿をあそこにしまってくれる？",
+      "phrases": [
+        {
+          "text": "まずは、",
+          "relations": []
+        },
+        {
+          "text": "お皿を",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(お皿大)"
+            },
+            {
+              "type": "=",
+              "instanceId": "004(お皿小)"
+            },
+            {
+              "type": "=",
+              "instanceId": "005(お皿大・小)"
+            }
+          ]
+        },
+        {
+          "text": "あそこに",
+          "relations": []
+        },
+        {
+          "text": "しまってくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(お皿大)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(お皿小)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(お皿大・小)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい分かりました。",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "次は何を片付ければいいですか？",
+      "phrases": [
+        {
+          "text": "次は",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(お皿大)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "004(お皿小)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "005(お皿大・小)"
+            }
+          ]
+        },
+        {
+          "text": "何を",
+          "relations": [
+            {
+              "type": "ノ≒",
+              "instanceId": "003(お皿大)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "004(お皿小)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "005(お皿大・小)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "006(白コップ)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "007(グラスa)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "008(グラスb)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "009(お箸)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "011(グラスa, b)"
+            }
+          ]
+        },
+        {
+          "text": "片付ければいいですか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "じゃあ、次はコップをあっちに置いてくれるかな。",
+      "phrases": [
+        {
+          "text": "じゃあ、",
+          "relations": []
+        },
+        {
+          "text": "次は",
+          "relations": []
+        },
+        {
+          "text": "コップを",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(白コップ)"
+            },
+            {
+              "type": "=",
+              "instanceId": "007(グラスa)"
+            },
+            {
+              "type": "=",
+              "instanceId": "008(グラスb)"
+            },
+            {
+              "type": "=",
+              "instanceId": "011(グラスa, b)"
+            }
+          ]
+        },
+        {
+          "text": "あっちに",
+          "relations": []
+        },
+        {
+          "text": "置いてくれるかな。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(白コップ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(グラスa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(グラスb)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "011(グラスa, b)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "あっちですね。",
+      "phrases": [
+        {
+          "text": "あっちですね。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "もう片付けるものはないですか？",
+      "phrases": [
+        {
+          "text": "もう",
+          "relations": []
+        },
+        {
+          "text": "片付ける",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "ものは",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "009(お箸)"
+            }
+          ]
+        },
+        {
+          "text": "ないですか？",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "まだあるよ。じゃあ、次はこのお箸を棚にしまってくれるかな？",
+      "phrases": [
+        {
+          "text": "まだ",
+          "relations": []
+        },
+        {
+          "text": "あるよ。",
+          "relations": []
+        },
+        {
+          "text": "じゃあ、",
+          "relations": []
+        },
+        {
+          "text": "次は",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "006(白コップ)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "007(グラスa)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "008(グラスb)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "011(グラスa, b)"
+            }
+          ]
+        },
+        {
+          "text": "この",
+          "relations": []
+        },
+        {
+          "text": "お箸を",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "009(お箸)"
+            }
+          ]
+        },
+        {
+          "text": "棚に",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "010(棚)"
+            }
+          ]
+        },
+        {
+          "text": "しまってくれるかな？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(お箸)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "010(棚)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "棚ですね。",
+      "phrases": [
+        {
+          "text": "棚ですね。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "010(棚)"
+            },
+            {
+              "type": "=",
+              "instanceId": "010(棚)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "もう終わりですか？",
+      "phrases": [
+        {
+          "text": "もう",
+          "relations": []
+        },
+        {
+          "text": "終わりですか？",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "あとはこれを片付ければ、全部完了だよ。",
+      "phrases": [
+        {
+          "text": "あとは",
+          "relations": []
+        },
+        {
+          "text": "これを",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "013(フォークa)"
+            },
+            {
+              "type": "=",
+              "instanceId": "014(ナイフa)"
+            },
+            {
+              "type": "=",
+              "instanceId": "015(フォークb)"
+            },
+            {
+              "type": "=",
+              "instanceId": "016(ナイフb)"
+            },
+            {
+              "type": "=",
+              "instanceId": "017(スプーン)"
+            },
+            {
+              "type": "=",
+              "instanceId": "018(フォークa, b)"
+            },
+            {
+              "type": "=",
+              "instanceId": "019(ナイフa, b)"
+            }
+          ]
+        },
+        {
+          "text": "片付ければ、",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "013(フォークa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "014(ナイフa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "015(フォークb)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "016(ナイフb)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "017(スプーン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "018(フォークa, b)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "019(ナイフa, b)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "012(あそこ１・ここ)"
+            }
+          ]
+        },
+        {
+          "text": "全部",
+          "relations": []
+        },
+        {
+          "text": "完了だよ。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "分かりました。",
+      "phrases": [
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "これをあそこに入れてくれる？",
+      "phrases": [
+        {
+          "text": "これを",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "013(フォークa)"
+            },
+            {
+              "type": "=",
+              "instanceId": "014(ナイフa)"
+            },
+            {
+              "type": "=",
+              "instanceId": "015(フォークb)"
+            },
+            {
+              "type": "=",
+              "instanceId": "016(ナイフb)"
+            },
+            {
+              "type": "=",
+              "instanceId": "017(スプーン)"
+            },
+            {
+              "type": "=",
+              "instanceId": "018(フォークa, b)"
+            },
+            {
+              "type": "=",
+              "instanceId": "019(ナイフa, b)"
+            }
+          ]
+        },
+        {
+          "text": "あそこに",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "012(あそこ１・ここ)"
+            }
+          ]
+        },
+        {
+          "text": "入れてくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "013(フォークa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "014(ナイフa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "015(フォークb)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "016(ナイフb)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "017(スプーン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "018(フォークa, b)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "019(ナイフa, b)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "012(あそこ１・ここ)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ここですね。",
+      "phrases": [
+        {
+          "text": "ここですね。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "012(あそこ１・ここ)"
+            },
+            {
+              "type": "=",
+              "instanceId": "012(あそこ１・ここ)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい。",
+      "phrases": [
+        {
+          "text": "はい。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "はい。全部終わりですか？",
+      "phrases": [
+        {
+          "text": "はい。",
+          "relations": []
+        },
+        {
+          "text": "全部",
+          "relations": []
+        },
+        {
+          "text": "終わりですか？",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "うんそうだね。全部終わったよ。いやーすごく助かったよ。ありがとう。",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "そうだね。",
+          "relations": []
+        },
+        {
+          "text": "全部",
+          "relations": []
+        },
+        {
+          "text": "終わったよ。",
+          "relations": []
+        },
+        {
+          "text": "いやー",
+          "relations": []
+        },
+        {
+          "text": "すごく",
+          "relations": []
+        },
+        {
+          "text": "助かったよ。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "ありがとう。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "どういたしまして。きれいに片付いて良かったですね。",
+      "phrases": [
+        {
+          "text": "どう",
+          "relations": []
+        },
+        {
+          "text": "いたしまして。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "きれいに",
+          "relations": []
+        },
+        {
+          "text": "片付いて",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "003(お皿大)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "004(お皿小)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "005(お皿大・小)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "006(白コップ)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "007(グラスa)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "008(グラスb)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "009(お箸)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "011(グラスa, b)"
+            }
+          ]
+        },
+        {
+          "text": "良かったですね。",
+          "relations": []
+        }
+      ]
+    }
+  ]
+}

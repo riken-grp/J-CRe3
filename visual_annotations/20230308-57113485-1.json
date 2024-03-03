@@ -1,0 +1,3757 @@
+{
+  "scenarioId": "20230308-57113485-1",
+  "images": [
+    {
+      "imageId": "001",
+      "boundingBoxes": [
+        {
+          "imageId": "001",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 786,
+            "y1": 892,
+            "x2": 1578,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 403,
+            "y1": 640,
+            "x2": 523,
+            "y2": 823
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 966,
+            "y1": 0,
+            "x2": 1291,
+            "y2": 628
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "002",
+      "boundingBoxes": [
+        {
+          "imageId": "002",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 778,
+            "y1": 883,
+            "x2": 1574,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 396,
+            "y1": 637,
+            "x2": 515,
+            "y2": 822
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 879,
+            "y1": 0,
+            "x2": 1292,
+            "y2": 618
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "003",
+      "boundingBoxes": [
+        {
+          "imageId": "003",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 770,
+            "y1": 875,
+            "x2": 1589,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 398,
+            "y1": 622,
+            "x2": 520,
+            "y2": 808
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 958,
+            "y1": 1,
+            "x2": 1321,
+            "y2": 611
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "004",
+      "boundingBoxes": [
+        {
+          "imageId": "004",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 767,
+            "y1": 885,
+            "x2": 1573,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 390,
+            "y1": 628,
+            "x2": 514,
+            "y2": 812
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 952,
+            "y1": 2,
+            "x2": 1305,
+            "y2": 623
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "005",
+      "boundingBoxes": [
+        {
+          "imageId": "005",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 335,
+            "y1": 769,
+            "x2": 432,
+            "y2": 958
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 693,
+            "y1": 863,
+            "x2": 1590,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 810,
+            "y1": 0,
+            "x2": 1145,
+            "y2": 673
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "006",
+      "boundingBoxes": [
+        {
+          "imageId": "006",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1,
+            "y1": 974,
+            "x2": 484,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 690,
+            "y1": 871,
+            "x2": 1433,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "007",
+      "boundingBoxes": [
+        {
+          "imageId": "007",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 611,
+            "y1": 568,
+            "x2": 1525,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "008",
+      "boundingBoxes": [
+        {
+          "imageId": "008",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 834,
+            "y1": 627,
+            "x2": 1123,
+            "y2": 757
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 536,
+            "y1": 591,
+            "x2": 1747,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "009",
+      "boundingBoxes": [
+        {
+          "imageId": "009",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 435,
+            "y1": 610,
+            "x2": 1679,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 821,
+            "y1": 671,
+            "x2": 1136,
+            "y2": 785
+          },
+          "className": "beef_(food)"
+        }
+      ]
+    },
+    {
+      "imageId": "010",
+      "boundingBoxes": [
+        {
+          "imageId": "010",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 890,
+            "y1": 624,
+            "x2": 1247,
+            "y2": 819
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 562,
+            "y1": 642,
+            "x2": 1665,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 1009,
+            "x2": 219,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "011",
+      "boundingBoxes": [
+        {
+          "imageId": "011",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 562,
+            "y1": 701,
+            "x2": 1638,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 886,
+            "y1": 579,
+            "x2": 1329,
+            "y2": 911
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1,
+            "y1": 934,
+            "x2": 327,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "012",
+      "boundingBoxes": [
+        {
+          "imageId": "012",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 265,
+            "y1": 421,
+            "x2": 423,
+            "y2": 535
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 808,
+            "y1": 645,
+            "x2": 1227,
+            "y2": 803
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 866,
+            "y1": 0,
+            "x2": 1088,
+            "y2": 594
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 548,
+            "y1": 674,
+            "x2": 1518,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "013",
+      "boundingBoxes": [
+        {
+          "imageId": "013",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 731,
+            "y1": 573,
+            "x2": 1170,
+            "y2": 757
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "1199",
+          "rect": {
+            "x1": 780,
+            "y1": 613,
+            "x2": 887,
+            "y2": 698
+          },
+          "className": "tag"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 247,
+            "y1": 366,
+            "x2": 408,
+            "y2": 485
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 862,
+            "y1": 0,
+            "x2": 1097,
+            "y2": 531
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 470,
+            "y1": 611,
+            "x2": 1481,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "014",
+      "boundingBoxes": [
+        {
+          "imageId": "014",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 771,
+            "y1": 542,
+            "x2": 1230,
+            "y2": 727
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 250,
+            "y1": 269,
+            "x2": 417,
+            "y2": 387
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 911,
+            "y1": 0,
+            "x2": 1189,
+            "y2": 455
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 499,
+            "y1": 591,
+            "x2": 1479,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "015",
+      "boundingBoxes": [
+        {
+          "imageId": "015",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 840,
+            "y1": 485,
+            "x2": 1294,
+            "y2": 709
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 0,
+            "y1": 777,
+            "x2": 326,
+            "y2": 1079
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1459,
+            "y1": 552,
+            "x2": 1920,
+            "y2": 865
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1190,
+            "y1": 222,
+            "x2": 1367,
+            "y2": 261
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 504,
+            "y1": 534,
+            "x2": 1509,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "016",
+      "boundingBoxes": [
+        {
+          "imageId": "016",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 509,
+            "y1": 151,
+            "x2": 1030,
+            "y2": 492
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 811,
+            "y1": 549,
+            "x2": 1214,
+            "y2": 745
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 527,
+            "y1": 603,
+            "x2": 1487,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "017",
+      "boundingBoxes": [
+        {
+          "imageId": "017",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 522,
+            "y1": 199,
+            "x2": 1088,
+            "y2": 574
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 960,
+            "y1": 537,
+            "x2": 1355,
+            "y2": 803
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 567,
+            "y1": 467,
+            "x2": 1422,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "018",
+      "boundingBoxes": [
+        {
+          "imageId": "018",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 631,
+            "y1": 162,
+            "x2": 1228,
+            "y2": 779
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 910,
+            "y1": 528,
+            "x2": 1287,
+            "y2": 784
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 575,
+            "y1": 683,
+            "x2": 1396,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "019",
+      "boundingBoxes": [
+        {
+          "imageId": "019",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 811,
+            "y1": 459,
+            "x2": 1124,
+            "y2": 696
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 562,
+            "y1": 543,
+            "x2": 1483,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 584,
+            "y1": 183,
+            "x2": 1371,
+            "y2": 807
+          },
+          "className": "microwave_oven"
+        }
+      ]
+    },
+    {
+      "imageId": "020",
+      "boundingBoxes": [
+        {
+          "imageId": "020",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 908,
+            "y1": 481,
+            "x2": 1118,
+            "y2": 573
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 562,
+            "y1": 484,
+            "x2": 1476,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 606,
+            "y1": 230,
+            "x2": 1432,
+            "y2": 900
+          },
+          "className": "microwave_oven"
+        }
+      ]
+    },
+    {
+      "imageId": "021",
+      "boundingBoxes": [
+        {
+          "imageId": "021",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 889,
+            "y1": 457,
+            "x2": 1123,
+            "y2": 552
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 540,
+            "y1": 470,
+            "x2": 1471,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 585,
+            "y1": 214,
+            "x2": 1389,
+            "y2": 850
+          },
+          "className": "microwave_oven"
+        }
+      ]
+    },
+    {
+      "imageId": "022",
+      "boundingBoxes": [
+        {
+          "imageId": "022",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 912,
+            "y1": 456,
+            "x2": 1138,
+            "y2": 569
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 590,
+            "y1": 768,
+            "x2": 1358,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 584,
+            "y1": 229,
+            "x2": 1411,
+            "y2": 843
+          },
+          "className": "microwave_oven"
+        }
+      ]
+    },
+    {
+      "imageId": "023",
+      "boundingBoxes": [
+        {
+          "imageId": "023",
+          "instanceId": "003(合挽きミンチ)",
+          "rect": {
+            "x1": 934,
+            "y1": 421,
+            "x2": 1157,
+            "y2": 536
+          },
+          "className": "beef_(food)"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 533,
+            "y1": 708,
+            "x2": 1391,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 825,
+            "y1": 211,
+            "x2": 1424,
+            "y2": 781
+          },
+          "className": "microwave_oven"
+        }
+      ]
+    },
+    {
+      "imageId": "024",
+      "boundingBoxes": [
+        {
+          "imageId": "024",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 517,
+            "y1": 275,
+            "x2": 1114,
+            "y2": 673
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 589,
+            "y1": 587,
+            "x2": 1431,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "025",
+      "boundingBoxes": [
+        {
+          "imageId": "025",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1398,
+            "y1": 191,
+            "x2": 1920,
+            "y2": 713
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 95,
+            "y1": 986,
+            "x2": 637,
+            "y2": 1079
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1263,
+            "y1": 245,
+            "x2": 1448,
+            "y2": 261
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 825,
+            "y1": 851,
+            "x2": 1494,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "026",
+      "boundingBoxes": [
+        {
+          "imageId": "026",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 1122,
+            "y1": 339,
+            "x2": 1729,
+            "y2": 831
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 631,
+            "y1": 849,
+            "x2": 1358,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "027",
+      "boundingBoxes": [
+        {
+          "imageId": "027",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 1677,
+            "y1": 700,
+            "x2": 1920,
+            "y2": 1079
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 588,
+            "y1": 453,
+            "x2": 1548,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "028",
+      "boundingBoxes": [
+        {
+          "imageId": "028",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 1725,
+            "y1": 414,
+            "x2": 1919,
+            "y2": 730
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 616,
+            "y1": 685,
+            "x2": 1465,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "029",
+      "boundingBoxes": [
+        {
+          "imageId": "029",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 584,
+            "y1": 775,
+            "x2": 1919,
+            "y2": 1078
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "030",
+      "boundingBoxes": [
+        {
+          "imageId": "030",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 1623,
+            "y1": 283,
+            "x2": 1920,
+            "y2": 735
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 614,
+            "y1": 596,
+            "x2": 1557,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "031",
+      "boundingBoxes": [
+        {
+          "imageId": "031",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 1612,
+            "y1": 297,
+            "x2": 1920,
+            "y2": 771
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 619,
+            "y1": 611,
+            "x2": 1508,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "004(玉ねぎ皮付き)",
+          "rect": {
+            "x1": 1049,
+            "y1": 515,
+            "x2": 1119,
+            "y2": 573
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "032",
+      "boundingBoxes": [
+        {
+          "imageId": "032",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 839,
+            "y1": 729,
+            "x2": 1451,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 1652,
+            "y1": 419,
+            "x2": 1919,
+            "y2": 869
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "004(玉ねぎ皮付き)",
+          "rect": {
+            "x1": 1098,
+            "y1": 752,
+            "x2": 1140,
+            "y2": 808
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "033",
+      "boundingBoxes": [
+        {
+          "imageId": "033",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 1604,
+            "y1": 442,
+            "x2": 1920,
+            "y2": 927
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 635,
+            "y1": 717,
+            "x2": 1510,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "004(玉ねぎ皮付き)",
+          "rect": {
+            "x1": 1061,
+            "y1": 727,
+            "x2": 1177,
+            "y2": 828
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "034",
+      "boundingBoxes": [
+        {
+          "imageId": "034",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 749,
+            "x2": 493,
+            "y2": 991
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 604,
+            "y1": 751,
+            "x2": 1438,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "004(玉ねぎ皮付き)",
+          "rect": {
+            "x1": 970,
+            "y1": 763,
+            "x2": 1072,
+            "y2": 868
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "035",
+      "boundingBoxes": [
+        {
+          "imageId": "035",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 823,
+            "y1": 282,
+            "x2": 992,
+            "y2": 314
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 896,
+            "y1": 1,
+            "x2": 1299,
+            "y2": 687
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 556,
+            "y1": 669,
+            "x2": 1457,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "004(玉ねぎ皮付き)",
+          "rect": {
+            "x1": 876,
+            "y1": 670,
+            "x2": 987,
+            "y2": 780
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "036",
+      "boundingBoxes": [
+        {
+          "imageId": "036",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 817,
+            "y1": 474,
+            "x2": 1041,
+            "y2": 507
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1013,
+            "y1": 141,
+            "x2": 1920,
+            "y2": 900
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 641,
+            "y1": 544,
+            "x2": 1530,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "004(玉ねぎ皮付き)",
+          "rect": {
+            "x1": 984,
+            "y1": 538,
+            "x2": 1109,
+            "y2": 658
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "037",
+      "boundingBoxes": [
+        {
+          "imageId": "037",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1184,
+            "y1": 573,
+            "x2": 1918,
+            "y2": 1007
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1064,
+            "y1": 502,
+            "x2": 1289,
+            "y2": 559
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 596,
+            "y1": 563,
+            "x2": 1416,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "004(玉ねぎ皮付き)",
+          "rect": {
+            "x1": 1277,
+            "y1": 567,
+            "x2": 1381,
+            "y2": 647
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "038",
+      "boundingBoxes": [
+        {
+          "imageId": "038",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1114,
+            "y1": 424,
+            "x2": 1920,
+            "y2": 959
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1210,
+            "y1": 446,
+            "x2": 1433,
+            "y2": 530
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 526,
+            "y1": 854,
+            "x2": 1453,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "004(玉ねぎ皮付き)",
+          "rect": {
+            "x1": 1336,
+            "y1": 512,
+            "x2": 1426,
+            "y2": 589
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 1,
+            "y1": 878,
+            "x2": 95,
+            "y2": 1079
+          },
+          "className": "microwave_oven"
+        }
+      ]
+    },
+    {
+      "imageId": "039",
+      "boundingBoxes": [
+        {
+          "imageId": "039",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 551,
+            "y1": 910,
+            "x2": 1478,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 0,
+            "y1": 639,
+            "x2": 268,
+            "y2": 1002
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1109,
+            "y1": 0,
+            "x2": 1892,
+            "y2": 839
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "004(玉ねぎ皮付き)",
+          "rect": {
+            "x1": 1249,
+            "y1": 315,
+            "x2": 1308,
+            "y2": 360
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "040",
+      "boundingBoxes": [
+        {
+          "imageId": "040",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 0,
+            "y1": 534,
+            "x2": 316,
+            "y2": 945
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 708,
+            "y1": 888,
+            "x2": 1544,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1244,
+            "y1": 287,
+            "x2": 1266,
+            "y2": 309
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1129,
+            "y1": 1,
+            "x2": 1862,
+            "y2": 790
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "007(玉ねぎ皮なし)",
+          "rect": {
+            "x1": 1269,
+            "y1": 252,
+            "x2": 1337,
+            "y2": 292
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "041",
+      "boundingBoxes": [
+        {
+          "imageId": "041",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 0,
+            "y1": 498,
+            "x2": 328,
+            "y2": 920
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 700,
+            "y1": 880,
+            "x2": 1582,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1261,
+            "y1": 297,
+            "x2": 1287,
+            "y2": 315
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1126,
+            "y1": 1,
+            "x2": 1890,
+            "y2": 795
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "007(玉ねぎ皮なし)",
+          "rect": {
+            "x1": 1291,
+            "y1": 259,
+            "x2": 1352,
+            "y2": 299
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "042",
+      "boundingBoxes": [
+        {
+          "imageId": "042",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 0,
+            "y1": 501,
+            "x2": 303,
+            "y2": 921
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 679,
+            "y1": 899,
+            "x2": 1538,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1249,
+            "y1": 299,
+            "x2": 1278,
+            "y2": 319
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1114,
+            "y1": 0,
+            "x2": 1901,
+            "y2": 810
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "007(玉ねぎ皮なし)",
+          "rect": {
+            "x1": 1286,
+            "y1": 254,
+            "x2": 1358,
+            "y2": 286
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "043",
+      "boundingBoxes": [
+        {
+          "imageId": "043",
+          "instanceId": "007(玉ねぎ皮なし)",
+          "rect": {
+            "x1": 1220,
+            "y1": 291,
+            "x2": 1300,
+            "y2": 349
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 736,
+            "y1": 902,
+            "x2": 1535,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1135,
+            "y1": 45,
+            "x2": 1918,
+            "y2": 848
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 1,
+            "y1": 568,
+            "x2": 258,
+            "y2": 950
+          },
+          "className": "microwave_oven"
+        }
+      ]
+    },
+    {
+      "imageId": "044",
+      "boundingBoxes": [
+        {
+          "imageId": "044",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 681,
+            "y1": 863,
+            "x2": 1523,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1195,
+            "y1": 331,
+            "x2": 1392,
+            "y2": 383
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "006(電子レンジ)",
+          "rect": {
+            "x1": 0,
+            "y1": 843,
+            "x2": 252,
+            "y2": 1080
+          },
+          "className": "microwave_oven"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1204,
+            "y1": 69,
+            "x2": 1919,
+            "y2": 868
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "007(玉ねぎ皮なし)",
+          "rect": {
+            "x1": 1254,
+            "y1": 513,
+            "x2": 1367,
+            "y2": 617
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "045",
+      "boundingBoxes": [
+        {
+          "imageId": "045",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 893,
+            "y1": 305,
+            "x2": 1100,
+            "y2": 339
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 662,
+            "y1": 827,
+            "x2": 1511,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1065,
+            "y1": 0,
+            "x2": 1743,
+            "y2": 799
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "007(玉ねぎ皮なし)",
+          "rect": {
+            "x1": 1059,
+            "y1": 539,
+            "x2": 1180,
+            "y2": 662
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "046",
+      "boundingBoxes": [
+        {
+          "imageId": "046",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 907,
+            "y1": 279,
+            "x2": 1113,
+            "y2": 316
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 566,
+            "y1": 613,
+            "x2": 1475,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1057,
+            "y1": 1,
+            "x2": 1851,
+            "y2": 704
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "007(玉ねぎ皮なし)",
+          "rect": {
+            "x1": 1048,
+            "y1": 552,
+            "x2": 1176,
+            "y2": 674
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "047",
+      "boundingBoxes": [
+        {
+          "imageId": "047",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1169,
+            "y1": 638,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1162,
+            "y1": 541,
+            "x2": 1405,
+            "y2": 613
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 569,
+            "y1": 681,
+            "x2": 1393,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "007(玉ねぎ皮なし)",
+          "rect": {
+            "x1": 1101,
+            "y1": 676,
+            "x2": 1212,
+            "y2": 792
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "048",
+      "boundingBoxes": [
+        {
+          "imageId": "048",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 599,
+            "y1": 735,
+            "x2": 1409,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1114,
+            "y1": 720,
+            "x2": 1372,
+            "y2": 832
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "007(玉ねぎ皮なし)",
+          "rect": {
+            "x1": 1071,
+            "y1": 743,
+            "x2": 1155,
+            "y2": 834
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "049",
+      "boundingBoxes": [
+        {
+          "imageId": "049",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 552,
+            "y1": 642,
+            "x2": 1427,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1075,
+            "y1": 639,
+            "x2": 1146,
+            "y2": 730
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1364,
+            "y1": 926,
+            "x2": 1888,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1156,
+            "y1": 608,
+            "x2": 1190,
+            "y2": 768
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "050",
+      "boundingBoxes": [
+        {
+          "imageId": "050",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 550,
+            "y1": 598,
+            "x2": 1493,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1015,
+            "y1": 588,
+            "x2": 1091,
+            "y2": 684
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1083,
+            "y1": 540,
+            "x2": 1137,
+            "y2": 725
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "051",
+      "boundingBoxes": [
+        {
+          "imageId": "051",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1209,
+            "y1": 661,
+            "x2": 1244,
+            "y2": 815
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 627,
+            "y1": 680,
+            "x2": 1436,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1144,
+            "y1": 678,
+            "x2": 1217,
+            "y2": 767
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "052",
+      "boundingBoxes": [
+        {
+          "imageId": "052",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 973,
+            "y1": 407,
+            "x2": 1067,
+            "y2": 750
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 598,
+            "y1": 587,
+            "x2": 1544,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 878,
+            "y1": 574,
+            "x2": 959,
+            "y2": 672
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "053",
+      "boundingBoxes": [
+        {
+          "imageId": "053",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 613,
+            "y1": 661,
+            "x2": 1514,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1081,
+            "y1": 651,
+            "x2": 1159,
+            "y2": 739
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1145,
+            "y1": 620,
+            "x2": 1190,
+            "y2": 778
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "8060",
+          "rect": {
+            "x1": 1309,
+            "y1": 836,
+            "x2": 1310,
+            "y2": 912
+          },
+          "className": ""
+        }
+      ]
+    },
+    {
+      "imageId": "054",
+      "boundingBoxes": [
+        {
+          "imageId": "054",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 533,
+            "y1": 495,
+            "x2": 1557,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1031,
+            "y1": 490,
+            "x2": 1105,
+            "y2": 589
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1085,
+            "y1": 450,
+            "x2": 1139,
+            "y2": 618
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "055",
+      "boundingBoxes": [
+        {
+          "imageId": "055",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1100,
+            "y1": 426,
+            "x2": 1157,
+            "y2": 603
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 564,
+            "y1": 465,
+            "x2": 1603,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1033,
+            "y1": 453,
+            "x2": 1112,
+            "y2": 550
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "056",
+      "boundingBoxes": [
+        {
+          "imageId": "056",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1128,
+            "y1": 421,
+            "x2": 1181,
+            "y2": 595
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 607,
+            "y1": 459,
+            "x2": 1639,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1051,
+            "y1": 451,
+            "x2": 1143,
+            "y2": 545
+          },
+          "className": "onion"
+        }
+      ]
+    },
+    {
+      "imageId": "057",
+      "boundingBoxes": [
+        {
+          "imageId": "057",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1130,
+            "y1": 423,
+            "x2": 1179,
+            "y2": 600
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1061,
+            "y1": 452,
+            "x2": 1144,
+            "y2": 548
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 580,
+            "y1": 462,
+            "x2": 1604,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "058",
+      "boundingBoxes": [
+        {
+          "imageId": "058",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 595,
+            "y1": 464,
+            "x2": 1627,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1067,
+            "y1": 452,
+            "x2": 1159,
+            "y2": 545
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1143,
+            "y1": 430,
+            "x2": 1191,
+            "y2": 599
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "059",
+      "boundingBoxes": [
+        {
+          "imageId": "059",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1064,
+            "y1": 442,
+            "x2": 1150,
+            "y2": 539
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 575,
+            "y1": 457,
+            "x2": 1586,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1139,
+            "y1": 420,
+            "x2": 1183,
+            "y2": 594
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "060",
+      "boundingBoxes": [
+        {
+          "imageId": "060",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1066,
+            "y1": 456,
+            "x2": 1152,
+            "y2": 547
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 573,
+            "y1": 467,
+            "x2": 1587,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1138,
+            "y1": 434,
+            "x2": 1183,
+            "y2": 603
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "061",
+      "boundingBoxes": [
+        {
+          "imageId": "061",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1073,
+            "y1": 457,
+            "x2": 1132,
+            "y2": 620
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1009,
+            "y1": 485,
+            "x2": 1095,
+            "y2": 580
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 560,
+            "y1": 499,
+            "x2": 1585,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "062",
+      "boundingBoxes": [
+        {
+          "imageId": "062",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1045,
+            "y1": 529,
+            "x2": 1129,
+            "y2": 622
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 594,
+            "y1": 542,
+            "x2": 1611,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1114,
+            "y1": 493,
+            "x2": 1169,
+            "y2": 671
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "063",
+      "boundingBoxes": [
+        {
+          "imageId": "063",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1043,
+            "y1": 524,
+            "x2": 1129,
+            "y2": 618
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1110,
+            "y1": 502,
+            "x2": 1168,
+            "y2": 667
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 597,
+            "y1": 540,
+            "x2": 1609,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "064",
+      "boundingBoxes": [
+        {
+          "imageId": "064",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1047,
+            "y1": 531,
+            "x2": 1134,
+            "y2": 624
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1117,
+            "y1": 505,
+            "x2": 1167,
+            "y2": 669
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 605,
+            "y1": 544,
+            "x2": 1615,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "065",
+      "boundingBoxes": [
+        {
+          "imageId": "065",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1050,
+            "y1": 536,
+            "x2": 1135,
+            "y2": 628
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1119,
+            "y1": 509,
+            "x2": 1167,
+            "y2": 673
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 608,
+            "y1": 548,
+            "x2": 1615,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "066",
+      "boundingBoxes": [
+        {
+          "imageId": "066",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1035,
+            "y1": 532,
+            "x2": 1122,
+            "y2": 626
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1108,
+            "y1": 514,
+            "x2": 1155,
+            "y2": 671
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 593,
+            "y1": 546,
+            "x2": 1591,
+            "y2": 1078
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "067",
+      "boundingBoxes": [
+        {
+          "imageId": "067",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1103,
+            "y1": 515,
+            "x2": 1151,
+            "y2": 671
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1034,
+            "y1": 536,
+            "x2": 1118,
+            "y2": 628
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 586,
+            "y1": 549,
+            "x2": 1590,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "068",
+      "boundingBoxes": [
+        {
+          "imageId": "068",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1077,
+            "y1": 479,
+            "x2": 1129,
+            "y2": 638
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1006,
+            "y1": 503,
+            "x2": 1087,
+            "y2": 594
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 573,
+            "y1": 517,
+            "x2": 1566,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "069",
+      "boundingBoxes": [
+        {
+          "imageId": "069",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1075,
+            "y1": 449,
+            "x2": 1135,
+            "y2": 623
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1008,
+            "y1": 481,
+            "x2": 1096,
+            "y2": 577
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 569,
+            "y1": 498,
+            "x2": 1596,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "070",
+      "boundingBoxes": [
+        {
+          "imageId": "070",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1105,
+            "y1": 500,
+            "x2": 1153,
+            "y2": 690
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 1019,
+            "y1": 519,
+            "x2": 1101,
+            "y2": 612
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 591,
+            "y1": 511,
+            "x2": 1573,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "071",
+      "boundingBoxes": [
+        {
+          "imageId": "071",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1016,
+            "y1": 489,
+            "x2": 1075,
+            "y2": 651
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 932,
+            "y1": 523,
+            "x2": 1009,
+            "y2": 611
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 549,
+            "y1": 521,
+            "x2": 1541,
+            "y2": 1078
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "072",
+      "boundingBoxes": [
+        {
+          "imageId": "072",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 948,
+            "y1": 517,
+            "x2": 1027,
+            "y2": 609
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 598,
+            "y1": 527,
+            "x2": 1588,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1024,
+            "y1": 503,
+            "x2": 1088,
+            "y2": 658
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "073",
+      "boundingBoxes": [
+        {
+          "imageId": "073",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 947,
+            "y1": 512,
+            "x2": 1027,
+            "y2": 603
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1026,
+            "y1": 495,
+            "x2": 1085,
+            "y2": 659
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 576,
+            "y1": 522,
+            "x2": 1578,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "074",
+      "boundingBoxes": [
+        {
+          "imageId": "074",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 955,
+            "y1": 515,
+            "x2": 1025,
+            "y2": 606
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 571,
+            "y1": 523,
+            "x2": 1563,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1025,
+            "y1": 504,
+            "x2": 1084,
+            "y2": 657
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "075",
+      "boundingBoxes": [
+        {
+          "imageId": "075",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 936,
+            "y1": 547,
+            "x2": 1007,
+            "y2": 635
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 597,
+            "y1": 555,
+            "x2": 1592,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1004,
+            "y1": 527,
+            "x2": 1067,
+            "y2": 684
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "076",
+      "boundingBoxes": [
+        {
+          "imageId": "076",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 961,
+            "y1": 544,
+            "x2": 1038,
+            "y2": 707
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 892,
+            "y1": 584,
+            "x2": 963,
+            "y2": 671
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 591,
+            "y1": 595,
+            "x2": 1568,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "077",
+      "boundingBoxes": [
+        {
+          "imageId": "077",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 586,
+            "y1": 587,
+            "x2": 1560,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 945,
+            "y1": 578,
+            "x2": 1019,
+            "y2": 667
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1019,
+            "y1": 543,
+            "x2": 1082,
+            "y2": 729
+          },
+          "className": "knife"
+        }
+      ]
+    },
+    {
+      "imageId": "078",
+      "boundingBoxes": [
+        {
+          "imageId": "078",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 1011,
+            "y1": 501,
+            "x2": 1134,
+            "y2": 683
+          },
+          "className": "knife"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 911,
+            "y1": 533,
+            "x2": 993,
+            "y2": 629
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 572,
+            "y1": 533,
+            "x2": 1561,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "079",
+      "boundingBoxes": [
+        {
+          "imageId": "079",
+          "instanceId": "008(みじん切り玉ねぎ)",
+          "rect": {
+            "x1": 921,
+            "y1": 529,
+            "x2": 1017,
+            "y2": 627
+          },
+          "className": "onion"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 585,
+            "y1": 638,
+            "x2": 1589,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "005(包丁)",
+          "rect": {
+            "x1": 881,
+            "y1": 627,
+            "x2": 1096,
+            "y2": 694
+          },
+          "className": "knife"
+        }
+      ]
+    }
+  ],
+  "utterances": [
+    {
+      "text": "合挽きのミンチのお肉を解凍してくれる？",
+      "phrases": [
+        {
+          "text": "合",
+          "relations": []
+        },
+        {
+          "text": "挽きの",
+          "relations": []
+        },
+        {
+          "text": "ミンチの",
+          "relations": []
+        },
+        {
+          "text": "お肉を",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "003(合挽きミンチ)"
+            }
+          ]
+        },
+        {
+          "text": "解凍してくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "006(電子レンジ)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うん",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "このお肉を解凍したらいいですか？",
+      "phrases": [
+        {
+          "text": "この",
+          "relations": []
+        },
+        {
+          "text": "お肉を",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(合挽きミンチ)"
+            }
+          ]
+        },
+        {
+          "text": "解凍したらいいですか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(合挽きミンチ)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "006(電子レンジ)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うんお願いね。",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "お願いね。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "分かりました。",
+      "phrases": [
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ああと、玉ねぎも持ってきてくれる？",
+      "phrases": [
+        {
+          "text": "あ",
+          "relations": []
+        },
+        {
+          "text": "あと、",
+          "relations": []
+        },
+        {
+          "text": "玉ねぎも",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "004(玉ねぎ皮付き)"
+            }
+          ]
+        },
+        {
+          "text": "持ってきてくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい、持ってきました。",
+      "phrases": [
+        {
+          "text": "はい、",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "持ってきました。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(玉ねぎ皮付き)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ありがとう。",
+      "phrases": [
+        {
+          "text": "ありがとう。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "じゃあ、皮がむけたから少し大きめのみじん切りにしてくれる？",
+      "phrases": [
+        {
+          "text": "じゃあ、",
+          "relations": []
+        },
+        {
+          "text": "皮が",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "004(玉ねぎ皮付き)"
+            }
+          ]
+        },
+        {
+          "text": "むけたから",
+          "relations": []
+        },
+        {
+          "text": "少し",
+          "relations": []
+        },
+        {
+          "text": "大きめの",
+          "relations": []
+        },
+        {
+          "text": "みじん切りに",
+          "relations": []
+        },
+        {
+          "text": "してくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(玉ねぎ皮なし)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "005(包丁)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "008(みじん切り玉ねぎ)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "これは良く切れますね。綺麗に研いでいて偉いですね。",
+      "phrases": [
+        {
+          "text": "これは",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "005(包丁)"
+            }
+          ]
+        },
+        {
+          "text": "良く",
+          "relations": []
+        },
+        {
+          "text": "切れますね。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "005(包丁)"
+            }
+          ]
+        },
+        {
+          "text": "綺麗に",
+          "relations": []
+        },
+        {
+          "text": "研いでいて",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(包丁)"
+            }
+          ]
+        },
+        {
+          "text": "偉いですね。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ありがとう。今調味料を探してるんだけど、ハンバーグは何がいいと思う？",
+      "phrases": [
+        {
+          "text": "ありがとう。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "今",
+          "relations": []
+        },
+        {
+          "text": "調味料を",
+          "relations": []
+        },
+        {
+          "text": "探してるんだけど、",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "ハンバーグは",
+          "relations": []
+        },
+        {
+          "text": "何が",
+          "relations": []
+        },
+        {
+          "text": "いいと",
+          "relations": []
+        },
+        {
+          "text": "思う？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うん",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ナツメグを入れると美味しくなりますよ。ソースはケチャップとウスターソースとみりんを混ぜて煮立たせたものがおすすめです。",
+      "phrases": [
+        {
+          "text": "ナツメグを",
+          "relations": []
+        },
+        {
+          "text": "入れると",
+          "relations": []
+        },
+        {
+          "text": "美味しくなりますよ。",
+          "relations": []
+        },
+        {
+          "text": "ソースは",
+          "relations": []
+        },
+        {
+          "text": "ケチャップと",
+          "relations": []
+        },
+        {
+          "text": "ウスター",
+          "relations": []
+        },
+        {
+          "text": "ソースと",
+          "relations": []
+        },
+        {
+          "text": "みりんを",
+          "relations": []
+        },
+        {
+          "text": "混ぜて",
+          "relations": []
+        },
+        {
+          "text": "煮立たせた",
+          "relations": []
+        },
+        {
+          "text": "ものが",
+          "relations": []
+        },
+        {
+          "text": "おすすめです。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "オッケー。ありがとう。あでもナツメグがないけど大丈夫かな。",
+      "phrases": [
+        {
+          "text": "オッケー。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "ありがとう。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "あ",
+          "relations": []
+        },
+        {
+          "text": "でも",
+          "relations": []
+        },
+        {
+          "text": "ナツメグが",
+          "relations": []
+        },
+        {
+          "text": "ないけど",
+          "relations": []
+        },
+        {
+          "text": "大丈夫かな。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "なくても美味しく出来ると思いますよ。",
+      "phrases": [
+        {
+          "text": "なくても",
+          "relations": []
+        },
+        {
+          "text": "美味しく出来ると",
+          "relations": []
+        },
+        {
+          "text": "思いますよ。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2400 @@
+{
+  "scenarioId": "20230308-57194356-0",
+  "images": [
+    {
+      "imageId": "001",
+      "boundingBoxes": [
+        {
+          "imageId": "001",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 607,
+            "x2": 204,
+            "y2": 761
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 602,
+            "y1": 791,
+            "x2": 1556,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 758,
+            "y1": 0,
+            "x2": 1010,
+            "y2": 183
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "002",
+      "boundingBoxes": [
+        {
+          "imageId": "002",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 620,
+            "x2": 208,
+            "y2": 769
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 610,
+            "y1": 788,
+            "x2": 1548,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 745,
+            "y1": 0,
+            "x2": 999,
+            "y2": 183
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "003",
+      "boundingBoxes": [
+        {
+          "imageId": "003",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 622,
+            "x2": 201,
+            "y2": 770
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 611,
+            "y1": 785,
+            "x2": 1546,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 742,
+            "y1": 0,
+            "x2": 998,
+            "y2": 185
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "004",
+      "boundingBoxes": [
+        {
+          "imageId": "004",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 635,
+            "x2": 191,
+            "y2": 776
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 594,
+            "y1": 796,
+            "x2": 1554,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 805,
+            "y1": 0,
+            "x2": 1011,
+            "y2": 177
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "005",
+      "boundingBoxes": [
+        {
+          "imageId": "005",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 656,
+            "x2": 184,
+            "y2": 794
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 583,
+            "y1": 799,
+            "x2": 1549,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 803,
+            "y1": 0,
+            "x2": 999,
+            "y2": 181
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "006",
+      "boundingBoxes": [
+        {
+          "imageId": "006",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 649,
+            "x2": 154,
+            "y2": 789
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 636,
+            "y1": 815,
+            "x2": 1563,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 790,
+            "y1": 0,
+            "x2": 993,
+            "y2": 163
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "007",
+      "boundingBoxes": [
+        {
+          "imageId": "007",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 582,
+            "y1": 723,
+            "x2": 1564,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 629,
+            "x2": 159,
+            "y2": 766
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 788,
+            "y1": 0,
+            "x2": 985,
+            "y2": 146
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "008",
+      "boundingBoxes": [
+        {
+          "imageId": "008",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 523,
+            "x2": 212,
+            "y2": 693
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 583,
+            "y1": 735,
+            "x2": 1548,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 885,
+            "y1": 1,
+            "x2": 1086,
+            "y2": 148
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "009",
+      "boundingBoxes": [
+        {
+          "imageId": "009",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 548,
+            "y1": 741,
+            "x2": 1510,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 920,
+            "y1": 0,
+            "x2": 1122,
+            "y2": 143
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 468,
+            "x2": 228,
+            "y2": 656
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "010",
+      "boundingBoxes": [
+        {
+          "imageId": "010",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 140,
+            "x2": 456,
+            "y2": 431
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 125,
+            "y1": 143,
+            "x2": 313,
+            "y2": 240
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 631,
+            "y1": 771,
+            "x2": 1577,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1245,
+            "y1": 0,
+            "x2": 1462,
+            "y2": 186
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "011",
+      "boundingBoxes": [
+        {
+          "imageId": "011",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 1452,
+            "y1": 15,
+            "x2": 1643,
+            "y2": 102
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1026,
+            "y1": 0,
+            "x2": 1617,
+            "y2": 290
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 738,
+            "y1": 744,
+            "x2": 1588,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "012",
+      "boundingBoxes": [
+        {
+          "imageId": "012",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 1630,
+            "y1": 43,
+            "x2": 1869,
+            "y2": 144
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1098,
+            "y1": 0,
+            "x2": 1835,
+            "y2": 263
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 643,
+            "y1": 453,
+            "x2": 1506,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "013",
+      "boundingBoxes": [
+        {
+          "imageId": "013",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 809,
+            "y1": 0,
+            "x2": 1554,
+            "y2": 75
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 572,
+            "y1": 399,
+            "x2": 1559,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "014",
+      "boundingBoxes": [
+        {
+          "imageId": "014",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 569,
+            "y1": 0,
+            "x2": 1194,
+            "y2": 126
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 550,
+            "y1": 504,
+            "x2": 1544,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "015",
+      "boundingBoxes": [
+        {
+          "imageId": "015",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 513,
+            "y1": 0,
+            "x2": 1145,
+            "y2": 132
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 576,
+            "y1": 399,
+            "x2": 1553,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "016",
+      "boundingBoxes": [
+        {
+          "imageId": "016",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 505,
+            "y1": 0,
+            "x2": 1142,
+            "y2": 145
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 570,
+            "y1": 438,
+            "x2": 1554,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "017",
+      "boundingBoxes": [
+        {
+          "imageId": "017",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 337,
+            "y1": 0,
+            "x2": 981,
+            "y2": 213
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 619,
+            "y1": 445,
+            "x2": 1557,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "018",
+      "boundingBoxes": [
+        {
+          "imageId": "018",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 0,
+            "y1": 159,
+            "x2": 195,
+            "y2": 287
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 176,
+            "x2": 410,
+            "y2": 523
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 483,
+            "y1": 619,
+            "x2": 1486,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "019",
+      "boundingBoxes": [
+        {
+          "imageId": "019",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 325,
+            "x2": 222,
+            "y2": 512
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 690,
+            "y1": 0,
+            "x2": 766,
+            "y2": 37
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 440,
+            "y1": 627,
+            "x2": 1527,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "020",
+      "boundingBoxes": [
+        {
+          "imageId": "020",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 488,
+            "y1": 0,
+            "x2": 661,
+            "y2": 78
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 571,
+            "y1": 546,
+            "x2": 1528,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 580,
+            "x2": 93,
+            "y2": 651
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "021",
+      "boundingBoxes": [
+        {
+          "imageId": "021",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 917,
+            "x2": 106,
+            "y2": 963
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 359,
+            "y1": 1,
+            "x2": 567,
+            "y2": 187
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 505,
+            "y1": 628,
+            "x2": 1585,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "022",
+      "boundingBoxes": [
+        {
+          "imageId": "022",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 272,
+            "y1": 63,
+            "x2": 599,
+            "y2": 343
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 696,
+            "y1": 742,
+            "x2": 1507,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "023",
+      "boundingBoxes": [
+        {
+          "imageId": "023",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 229,
+            "y1": 129,
+            "x2": 718,
+            "y2": 500
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 718,
+            "y1": 700,
+            "x2": 1610,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "024",
+      "boundingBoxes": [
+        {
+          "imageId": "024",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 196,
+            "x2": 732,
+            "y2": 700
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 734,
+            "y1": 694,
+            "x2": 1479,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "025",
+      "boundingBoxes": [
+        {
+          "imageId": "025",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 129,
+            "y1": 319,
+            "x2": 745,
+            "y2": 769
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 740,
+            "y1": 688,
+            "x2": 1539,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "026",
+      "boundingBoxes": [
+        {
+          "imageId": "026",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 642,
+            "x2": 581,
+            "y2": 959
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 521,
+            "y1": 402,
+            "x2": 1492,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "027",
+      "boundingBoxes": [
+        {
+          "imageId": "027",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 609,
+            "x2": 587,
+            "y2": 925
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "005(天気予報)",
+          "rect": {
+            "x1": 970,
+            "y1": 0,
+            "x2": 1227,
+            "y2": 68
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 571,
+            "y1": 401,
+            "x2": 1548,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "028",
+      "boundingBoxes": [
+        {
+          "imageId": "028",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 549,
+            "x2": 593,
+            "y2": 888
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "005(天気予報)",
+          "rect": {
+            "x1": 1082,
+            "y1": 0,
+            "x2": 1297,
+            "y2": 67
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 540,
+            "y1": 542,
+            "x2": 1512,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "029",
+      "boundingBoxes": [
+        {
+          "imageId": "029",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 333,
+            "x2": 642,
+            "y2": 788
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "005(天気予報)",
+          "rect": {
+            "x1": 1506,
+            "y1": 0,
+            "x2": 1712,
+            "y2": 63
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 818,
+            "y1": 636,
+            "x2": 1550,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "030",
+      "boundingBoxes": [
+        {
+          "imageId": "030",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 270,
+            "x2": 645,
+            "y2": 797
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "005(天気予報)",
+          "rect": {
+            "x1": 1629,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 87
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 804,
+            "y1": 679,
+            "x2": 1493,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "031",
+      "boundingBoxes": [
+        {
+          "imageId": "031",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1,
+            "y1": 614,
+            "x2": 645,
+            "y2": 964
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "005(天気予報)",
+          "rect": {
+            "x1": 1094,
+            "y1": 0,
+            "x2": 1576,
+            "y2": 192
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 688,
+            "y1": 834,
+            "x2": 1535,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "032",
+      "boundingBoxes": [
+        {
+          "imageId": "032",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 700,
+            "y1": 842,
+            "x2": 1528,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 511,
+            "x2": 593,
+            "y2": 865
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "005(天気予報)",
+          "rect": {
+            "x1": 977,
+            "y1": 0,
+            "x2": 1375,
+            "y2": 121
+          },
+          "className": "television_set"
+        }
+      ]
+    },
+    {
+      "imageId": "033",
+      "boundingBoxes": [
+        {
+          "imageId": "033",
+          "instanceId": "005(天気予報)",
+          "rect": {
+            "x1": 1082,
+            "y1": 0,
+            "x2": 1286,
+            "y2": 51
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 533,
+            "x2": 620,
+            "y2": 827
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 619,
+            "y1": 848,
+            "x2": 1526,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "034",
+      "boundingBoxes": [
+        {
+          "imageId": "034",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 241,
+            "y1": 201,
+            "x2": 898,
+            "y2": 529
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 570,
+            "y1": 785,
+            "x2": 1495,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "005(天気予報)",
+          "rect": {
+            "x1": 1633,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 304
+          },
+          "className": "television_set"
+        }
+      ]
+    },
+    {
+      "imageId": "035",
+      "boundingBoxes": [
+        {
+          "imageId": "035",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 590,
+            "y1": 35,
+            "x2": 1068,
+            "y2": 431
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 539,
+            "y1": 803,
+            "x2": 1511,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "036",
+      "boundingBoxes": [
+        {
+          "imageId": "036",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 856,
+            "y1": 4,
+            "x2": 1209,
+            "y2": 476
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 602,
+            "y1": 816,
+            "x2": 1571,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1,
+            "y1": 977,
+            "x2": 109,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "037",
+      "boundingBoxes": [
+        {
+          "imageId": "037",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 937,
+            "y1": 0,
+            "x2": 1260,
+            "y2": 470
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 518,
+            "y1": 791,
+            "x2": 1477,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 862,
+            "x2": 75,
+            "y2": 985
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "038",
+      "boundingBoxes": [
+        {
+          "imageId": "038",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 992,
+            "y1": 1,
+            "x2": 1311,
+            "y2": 460
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 540,
+            "y1": 761,
+            "x2": 1518,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 741,
+            "x2": 98,
+            "y2": 938
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "039",
+      "boundingBoxes": [
+        {
+          "imageId": "039",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 704,
+            "x2": 117,
+            "y2": 902
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1027,
+            "y1": 0,
+            "x2": 1346,
+            "y2": 462
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 518,
+            "y1": 760,
+            "x2": 1489,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "040",
+      "boundingBoxes": [
+        {
+          "imageId": "040",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 27,
+            "x2": 612,
+            "y2": 332
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1483,
+            "y1": 335,
+            "x2": 1920,
+            "y2": 888
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 380,
+            "y1": 9,
+            "x2": 549,
+            "y2": 85
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 553,
+            "y1": 795,
+            "x2": 1442,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "041",
+      "boundingBoxes": [
+        {
+          "imageId": "041",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 833,
+            "y1": 0,
+            "x2": 987,
+            "y2": 81
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 445,
+            "y1": 0,
+            "x2": 1053,
+            "y2": 327
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 494,
+            "y1": 806,
+            "x2": 1470,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1837,
+            "y1": 986,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "042",
+      "boundingBoxes": [
+        {
+          "imageId": "042",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 755,
+            "y1": 0,
+            "x2": 940,
+            "y2": 90
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 332,
+            "y1": 0,
+            "x2": 1020,
+            "y2": 370
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 550,
+            "y1": 734,
+            "x2": 1494,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "043",
+      "boundingBoxes": [
+        {
+          "imageId": "043",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 808,
+            "y1": 52,
+            "x2": 1022,
+            "y2": 228
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 416,
+            "y1": 0,
+            "x2": 1122,
+            "y2": 502
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 556,
+            "y1": 661,
+            "x2": 1538,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "044",
+      "boundingBoxes": [
+        {
+          "imageId": "044",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 781,
+            "y1": 262,
+            "x2": 1125,
+            "y2": 571
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 465,
+            "y1": 0,
+            "x2": 1165,
+            "y2": 660
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 508,
+            "y1": 640,
+            "x2": 1446,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "045",
+      "boundingBoxes": [
+        {
+          "imageId": "045",
+          "instanceId": "005(天気予報)",
+          "rect": {
+            "x1": 146,
+            "y1": 0,
+            "x2": 359,
+            "y2": 32
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 950,
+            "y1": 691,
+            "x2": 1362,
+            "y2": 1000
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 956,
+            "y1": 439,
+            "x2": 1920,
+            "y2": 1055
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 538,
+            "y1": 758,
+            "x2": 1309,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "046",
+      "boundingBoxes": [
+        {
+          "imageId": "046",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 251,
+            "y1": 0,
+            "x2": 592,
+            "y2": 86
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 1097,
+            "y1": 737,
+            "x2": 1548,
+            "y2": 1080
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1015,
+            "y1": 555,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 517,
+            "y1": 752,
+            "x2": 1226,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "047",
+      "boundingBoxes": [
+        {
+          "imageId": "047",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 506,
+            "y1": 646,
+            "x2": 1383,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 1058,
+            "y1": 555,
+            "x2": 1535,
+            "y2": 1010
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1150,
+            "y1": 609,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 456,
+            "y1": 0,
+            "x2": 755,
+            "y2": 64
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "048",
+      "boundingBoxes": [
+        {
+          "imageId": "048",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 519,
+            "y1": 589,
+            "x2": 1403,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 1021,
+            "y1": 471,
+            "x2": 1523,
+            "y2": 934
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1153,
+            "y1": 605,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 519,
+            "y1": 0,
+            "x2": 794,
+            "y2": 46
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "049",
+      "boundingBoxes": [
+        {
+          "imageId": "049",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 516,
+            "y1": 559,
+            "x2": 1403,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 1012,
+            "y1": 433,
+            "x2": 1518,
+            "y2": 903
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1132,
+            "y1": 543,
+            "x2": 1918,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 547,
+            "y1": 0,
+            "x2": 650,
+            "y2": 30
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "050",
+      "boundingBoxes": [
+        {
+          "imageId": "050",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 547,
+            "y1": 517,
+            "x2": 1466,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 975,
+            "y1": 352,
+            "x2": 1547,
+            "y2": 829
+          },
+          "className": "backpack"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1122,
+            "y1": 351,
+            "x2": 1920,
+            "y2": 1038
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 109,
+            "x2": 297,
+            "y2": 210
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "051",
+      "boundingBoxes": [
+        {
+          "imageId": "051",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 815,
+            "y1": 124,
+            "x2": 1919,
+            "y2": 827
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 537,
+            "y1": 563,
+            "x2": 1574,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "003(リュック)",
+          "rect": {
+            "x1": 1031,
+            "y1": 410,
+            "x2": 1611,
+            "y2": 839
+          },
+          "className": "backpack"
+        }
+      ]
+    }
+  ],
+  "utterances": [
+    {
+      "text": "おはよう。今日はいい天気だね。",
+      "phrases": [
+        {
+          "text": "おはよう。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "今日は",
+          "relations": []
+        },
+        {
+          "text": "いい",
+          "relations": []
+        },
+        {
+          "text": "天気だね。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "おはようございます。いい天気ですね。コーヒーはいかがですか？",
+      "phrases": [
+        {
+          "text": "おはようございます。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "いい",
+          "relations": []
+        },
+        {
+          "text": "天気ですね。",
+          "relations": []
+        },
+        {
+          "text": "コーヒーは",
+          "relations": []
+        },
+        {
+          "text": "いかがですか？",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "じゃあ、カフェオレお願い。",
+      "phrases": [
+        {
+          "text": "じゃあ、",
+          "relations": []
+        },
+        {
+          "text": "カフェオレ",
+          "relations": []
+        },
+        {
+          "text": "お願い。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "分かりました。",
+      "phrases": [
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "あーそういえば、今日は夕方まで出かけるんだけど、天気はもつかな？",
+      "phrases": [
+        {
+          "text": "あー",
+          "relations": []
+        },
+        {
+          "text": "そう",
+          "relations": []
+        },
+        {
+          "text": "いえば、",
+          "relations": []
+        },
+        {
+          "text": "今日は",
+          "relations": []
+        },
+        {
+          "text": "夕方まで",
+          "relations": []
+        },
+        {
+          "text": "出かけるんだけど、",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "天気は",
+          "relations": []
+        },
+        {
+          "text": "もつかな？",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "そうですねー確認しましょう。",
+      "phrases": [
+        {
+          "text": "そうですねー",
+          "relations": []
+        },
+        {
+          "text": "確認しましょう。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(天気予報)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うんありがとう。天気はもつみたいだね。じゃあ、自転車で行こうかな。",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "ありがとう。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "天気は",
+          "relations": []
+        },
+        {
+          "text": "もつみたいだね。",
+          "relations": []
+        },
+        {
+          "text": "じゃあ、",
+          "relations": []
+        },
+        {
+          "text": "自転車で",
+          "relations": []
+        },
+        {
+          "text": "行こうかな。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "そうですねでは、カバンはリュックがいかがですか？",
+      "phrases": [
+        {
+          "text": "そうですね",
+          "relations": []
+        },
+        {
+          "text": "では、",
+          "relations": []
+        },
+        {
+          "text": "カバンは",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "003(リュック)"
+            }
+          ]
+        },
+        {
+          "text": "リュックが",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "003(リュック)"
+            }
+          ]
+        },
+        {
+          "text": "いかがですか？",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "うんリュックがいいね。",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": []
+        },
+        {
+          "text": "リュックが",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "003(リュック)"
+            }
+          ]
+        },
+        {
+          "text": "いいね。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "そっちのテーブルに置いてあるから、持ってきてくれる？",
+      "phrases": [
+        {
+          "text": "そっちの",
+          "relations": []
+        },
+        {
+          "text": "テーブルに",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "004(テーブル)"
+            }
+          ]
+        },
+        {
+          "text": "置いてあるから、",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(リュック)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "004(テーブル)"
+            }
+          ]
+        },
+        {
+          "text": "持ってきてくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(リュック)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "これですね。あとは何か必要なものはありますか？",
+      "phrases": [
+        {
+          "text": "これですね。",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(リュック)"
+            }
+          ]
+        },
+        {
+          "text": "あとは",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(リュック)"
+            }
+          ]
+        },
+        {
+          "text": "何か",
+          "relations": []
+        },
+        {
+          "text": "必要な",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "ものは",
+          "relations": []
+        },
+        {
+          "text": "ありますか？",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うんあとは自分でやるから大丈夫。",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": []
+        },
+        {
+          "text": "あとは",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(リュック)"
+            }
+          ]
+        },
+        {
+          "text": "自分で",
+          "relations": []
+        },
+        {
+          "text": "やるから",
+          "relations": []
+        },
+        {
+          "text": "大丈夫。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "分かりました。",
+      "phrases": [
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

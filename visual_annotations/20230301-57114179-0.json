@@ -1,0 +1,4661 @@
+{
+  "scenarioId": "20230301-57114179-0",
+  "images": [
+    {
+      "imageId": "001",
+      "boundingBoxes": [
+        {
+          "imageId": "001",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1440,
+            "y1": 459,
+            "x2": 1491,
+            "y2": 493
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1386,
+            "y1": 478,
+            "x2": 1496,
+            "y2": 514
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 693,
+            "y1": 121,
+            "x2": 966,
+            "y2": 611
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 875,
+            "y1": 202,
+            "x2": 1100,
+            "y2": 775
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "002",
+      "boundingBoxes": [
+        {
+          "imageId": "002",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1387,
+            "y1": 477,
+            "x2": 1497,
+            "y2": 512
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1438,
+            "y1": 457,
+            "x2": 1489,
+            "y2": 492
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 686,
+            "y1": 123,
+            "x2": 960,
+            "y2": 613
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 867,
+            "y1": 200,
+            "x2": 1098,
+            "y2": 773
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "003",
+      "boundingBoxes": [
+        {
+          "imageId": "003",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1409,
+            "y1": 467,
+            "x2": 1523,
+            "y2": 504
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1466,
+            "y1": 449,
+            "x2": 1517,
+            "y2": 483
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 700,
+            "y1": 118,
+            "x2": 976,
+            "y2": 607
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 882,
+            "y1": 195,
+            "x2": 1113,
+            "y2": 761
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "004",
+      "boundingBoxes": [
+        {
+          "imageId": "004",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1540,
+            "y1": 427,
+            "x2": 1596,
+            "y2": 463
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 759,
+            "y1": 87,
+            "x2": 1033,
+            "y2": 567
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1478,
+            "y1": 445,
+            "x2": 1599,
+            "y2": 485
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 920,
+            "y1": 161,
+            "x2": 1155,
+            "y2": 740
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "005",
+      "boundingBoxes": [
+        {
+          "imageId": "005",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1554,
+            "y1": 428,
+            "x2": 1610,
+            "y2": 465
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 772,
+            "y1": 81,
+            "x2": 1046,
+            "y2": 561
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1491,
+            "y1": 446,
+            "x2": 1614,
+            "y2": 487
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 937,
+            "y1": 159,
+            "x2": 1169,
+            "y2": 760
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "006",
+      "boundingBoxes": [
+        {
+          "imageId": "006",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1552,
+            "y1": 435,
+            "x2": 1608,
+            "y2": 469
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 775,
+            "y1": 81,
+            "x2": 1055,
+            "y2": 567
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1489,
+            "y1": 448,
+            "x2": 1612,
+            "y2": 493
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1002,
+            "y1": 153,
+            "x2": 1229,
+            "y2": 752
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "007",
+      "boundingBoxes": [
+        {
+          "imageId": "007",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1817,
+            "y1": 523,
+            "x2": 1887,
+            "y2": 565
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 936,
+            "y1": 87,
+            "x2": 1221,
+            "y2": 596
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1737,
+            "y1": 534,
+            "x2": 1887,
+            "y2": 595
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1183,
+            "y1": 180,
+            "x2": 1506,
+            "y2": 867
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "008",
+      "boundingBoxes": [
+        {
+          "imageId": "008",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1615,
+            "y1": 983,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1143,
+            "y1": 103,
+            "x2": 1563,
+            "y2": 772
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "009",
+      "boundingBoxes": [
+        {
+          "imageId": "009",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1215,
+            "y1": 929,
+            "x2": 1516,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1251,
+            "y1": 74,
+            "x2": 1920,
+            "y2": 1056
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "010",
+      "boundingBoxes": [
+        {
+          "imageId": "010",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 974,
+            "y1": 835,
+            "x2": 1447,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1356,
+            "y1": 55,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "011",
+      "boundingBoxes": [
+        {
+          "imageId": "011",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 610,
+            "y1": 760,
+            "x2": 1468,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1142,
+            "y1": 549,
+            "x2": 1271,
+            "y2": 662
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1081,
+            "y1": 591,
+            "x2": 1199,
+            "y2": 703
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 985,
+            "y1": 614,
+            "x2": 1074,
+            "y2": 732
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1457,
+            "y1": 808,
+            "x2": 1918,
+            "y2": 1079
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "012",
+      "boundingBoxes": [
+        {
+          "imageId": "012",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1014,
+            "y1": 614,
+            "x2": 1144,
+            "y2": 735
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 766,
+            "y1": 701,
+            "x2": 1362,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1093,
+            "y1": 565,
+            "x2": 1233,
+            "y2": 688
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 903,
+            "y1": 643,
+            "x2": 1000,
+            "y2": 764
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "013",
+      "boundingBoxes": [
+        {
+          "imageId": "013",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1073,
+            "y1": 846,
+            "x2": 1282,
+            "y2": 1009
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 986,
+            "y1": 687,
+            "x2": 1130,
+            "y2": 815
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 767,
+            "y1": 753,
+            "x2": 1395,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1070,
+            "y1": 633,
+            "x2": 1230,
+            "y2": 763
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "014",
+      "boundingBoxes": [
+        {
+          "imageId": "014",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1172,
+            "y1": 764,
+            "x2": 1319,
+            "y2": 934
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1040,
+            "y1": 804,
+            "x2": 1194,
+            "y2": 943
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 777,
+            "y1": 823,
+            "x2": 1310,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1063,
+            "y1": 623,
+            "x2": 1219,
+            "y2": 753
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "015",
+      "boundingBoxes": [
+        {
+          "imageId": "015",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1268,
+            "y1": 852,
+            "x2": 1428,
+            "y2": 998
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1116,
+            "y1": 851,
+            "x2": 1272,
+            "y2": 1003
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 738,
+            "y1": 691,
+            "x2": 1357,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1080,
+            "y1": 632,
+            "x2": 1220,
+            "y2": 762
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "016",
+      "boundingBoxes": [
+        {
+          "imageId": "016",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1126,
+            "y1": 801,
+            "x2": 1310,
+            "y2": 941
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1045,
+            "y1": 782,
+            "x2": 1184,
+            "y2": 907
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 950,
+            "y1": 871,
+            "x2": 1372,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 935,
+            "y1": 759,
+            "x2": 1091,
+            "y2": 922
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1246,
+            "y1": 371,
+            "x2": 1918,
+            "y2": 1079
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "017",
+      "boundingBoxes": [
+        {
+          "imageId": "017",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 829,
+            "y1": 665,
+            "x2": 1396,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1387,
+            "y1": 935,
+            "x2": 1592,
+            "y2": 1079
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1225,
+            "y1": 920,
+            "x2": 1407,
+            "y2": 1079
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1270,
+            "y1": 2,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "018",
+      "boundingBoxes": [
+        {
+          "imageId": "018",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1149,
+            "y1": 1026,
+            "x2": 1370,
+            "y2": 1079
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 681,
+            "y1": 621,
+            "x2": 1421,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1347,
+            "y1": 908,
+            "x2": 1546,
+            "y2": 1059
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1209,
+            "y1": 900,
+            "x2": 1364,
+            "y2": 1041
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1412,
+            "y1": 248,
+            "x2": 1919,
+            "y2": 1057
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "019",
+      "boundingBoxes": [
+        {
+          "imageId": "019",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 826,
+            "y1": 811,
+            "x2": 1598,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1570,
+            "y1": 1043,
+            "x2": 1748,
+            "y2": 1079
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1373,
+            "y1": 987,
+            "x2": 1577,
+            "y2": 1080
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "020",
+      "boundingBoxes": [
+        {
+          "imageId": "020",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 254,
+            "x2": 649,
+            "y2": 978
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1114,
+            "y1": 931,
+            "x2": 1351,
+            "y2": 1080
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1373,
+            "y1": 934,
+            "x2": 1587,
+            "y2": 1062
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1249,
+            "y1": 853,
+            "x2": 1432,
+            "y2": 1017
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1086,
+            "y1": 962,
+            "x2": 1405,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 271,
+            "y1": 284,
+            "x2": 677,
+            "y2": 411
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "021",
+      "boundingBoxes": [
+        {
+          "imageId": "021",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1273,
+            "y1": 864,
+            "x2": 1483,
+            "y2": 990
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 911,
+            "y1": 928,
+            "x2": 1331,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 445,
+            "y1": 259,
+            "x2": 1009,
+            "y2": 531
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 587,
+            "x2": 613,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 959,
+            "y1": 845,
+            "x2": 1138,
+            "y2": 1037
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1122,
+            "y1": 810,
+            "x2": 1279,
+            "y2": 966
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "022",
+      "boundingBoxes": [
+        {
+          "imageId": "022",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1140,
+            "y1": 788,
+            "x2": 1291,
+            "y2": 901
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 810,
+            "y1": 863,
+            "x2": 1385,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 521,
+            "y1": 298,
+            "x2": 1290,
+            "y2": 796
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 815,
+            "y1": 813,
+            "x2": 976,
+            "y2": 989
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1027,
+            "y1": 774,
+            "x2": 1154,
+            "y2": 898
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "023",
+      "boundingBoxes": [
+        {
+          "imageId": "023",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1163,
+            "y1": 785,
+            "x2": 1264,
+            "y2": 873
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 813,
+            "y1": 827,
+            "x2": 1429,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 520,
+            "y1": 288,
+            "x2": 1771,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 787,
+            "y1": 897,
+            "x2": 959,
+            "y2": 1080
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1072,
+            "y1": 772,
+            "x2": 1166,
+            "y2": 860
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "024",
+      "boundingBoxes": [
+        {
+          "imageId": "024",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1156,
+            "y1": 765,
+            "x2": 1245,
+            "y2": 871
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 791,
+            "y1": 839,
+            "x2": 1357,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 443,
+            "y1": 231,
+            "x2": 1833,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 788,
+            "y1": 873,
+            "x2": 978,
+            "y2": 1070
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1063,
+            "y1": 744,
+            "x2": 1154,
+            "y2": 855
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "025",
+      "boundingBoxes": [
+        {
+          "imageId": "025",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 652,
+            "y1": 702,
+            "x2": 1332,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1087,
+            "y1": 840,
+            "x2": 1276,
+            "y2": 1007
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 487,
+            "y1": 190,
+            "x2": 1507,
+            "y2": 1023
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 764,
+            "y1": 590,
+            "x2": 965,
+            "y2": 812
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 821,
+            "y1": 580,
+            "x2": 877,
+            "y2": 597
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "026",
+      "boundingBoxes": [
+        {
+          "imageId": "026",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 753,
+            "y1": 790,
+            "x2": 1593,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1199,
+            "y1": 706,
+            "x2": 1330,
+            "y2": 844
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 661,
+            "y1": 530,
+            "x2": 746,
+            "y2": 603
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 493,
+            "y1": 168,
+            "x2": 1269,
+            "y2": 929
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 775,
+            "y1": 727,
+            "x2": 942,
+            "y2": 906
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 10,
+            "y1": 342,
+            "x2": 50,
+            "y2": 368
+          },
+          "className": "potato"
+        }
+      ]
+    },
+    {
+      "imageId": "027",
+      "boundingBoxes": [
+        {
+          "imageId": "027",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 3,
+            "y1": 127,
+            "x2": 313,
+            "y2": 343
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 897,
+            "y1": 637,
+            "x2": 1600,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1079,
+            "y1": 633,
+            "x2": 1184,
+            "y2": 729
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 718,
+            "y1": 586,
+            "x2": 821,
+            "y2": 668
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 514,
+            "y1": 163,
+            "x2": 1591,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 753,
+            "y1": 970,
+            "x2": 935,
+            "y2": 1080
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 94,
+            "y1": 0,
+            "x2": 462,
+            "y2": 222
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 457,
+            "y1": 168,
+            "x2": 469,
+            "y2": 184
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 409,
+            "y1": 187,
+            "x2": 445,
+            "y2": 204
+          },
+          "className": "carrot"
+        }
+      ]
+    },
+    {
+      "imageId": "028",
+      "boundingBoxes": [
+        {
+          "imageId": "028",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 450,
+            "y1": 0,
+            "x2": 648,
+            "y2": 158
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 811,
+            "y1": 582,
+            "x2": 1792,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1088,
+            "y1": 450,
+            "x2": 1167,
+            "y2": 533
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 840,
+            "y1": 374,
+            "x2": 917,
+            "y2": 439
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 605,
+            "y1": 119,
+            "x2": 1729,
+            "y2": 955
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 884,
+            "y1": 605,
+            "x2": 1110,
+            "y2": 798
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 595,
+            "y1": 0,
+            "x2": 762,
+            "y2": 95
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 755,
+            "y1": 45,
+            "x2": 771,
+            "y2": 57
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 717,
+            "y1": 61,
+            "x2": 742,
+            "y2": 75
+          },
+          "className": "carrot"
+        }
+      ]
+    },
+    {
+      "imageId": "029",
+      "boundingBoxes": [
+        {
+          "imageId": "029",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 864,
+            "y1": 723,
+            "x2": 1634,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 277,
+            "y1": 52,
+            "x2": 476,
+            "y2": 220
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 631,
+            "y1": 630,
+            "x2": 721,
+            "y2": 706
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 476,
+            "y1": 526,
+            "x2": 552,
+            "y2": 591
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 253,
+            "y1": 257,
+            "x2": 1352,
+            "y2": 1044
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1061,
+            "y1": 656,
+            "x2": 1252,
+            "y2": 804
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 421,
+            "y1": 0,
+            "x2": 643,
+            "y2": 166
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 575,
+            "y1": 136,
+            "x2": 596,
+            "y2": 154
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 537,
+            "y1": 145,
+            "x2": 554,
+            "y2": 161
+          },
+          "className": "carrot"
+        }
+      ]
+    },
+    {
+      "imageId": "030",
+      "boundingBoxes": [
+        {
+          "imageId": "030",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 789,
+            "y1": 671,
+            "x2": 1582,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 378,
+            "y1": 682,
+            "x2": 488,
+            "y2": 759
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 395,
+            "y1": 452,
+            "x2": 481,
+            "y2": 525
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 10,
+            "y1": 322,
+            "x2": 1438,
+            "y2": 952
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1054,
+            "y1": 618,
+            "x2": 1178,
+            "y2": 727
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 650,
+            "y1": 0,
+            "x2": 781,
+            "y2": 42
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "031",
+      "boundingBoxes": [
+        {
+          "imageId": "031",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1143,
+            "y1": 1,
+            "x2": 1293,
+            "y2": 95
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 636,
+            "y1": 593,
+            "x2": 1607,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 809,
+            "y1": 514,
+            "x2": 869,
+            "y2": 587
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 872,
+            "y1": 355,
+            "x2": 924,
+            "y2": 415
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 457,
+            "y1": 310,
+            "x2": 1639,
+            "y2": 977
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1314,
+            "y1": 694,
+            "x2": 1425,
+            "y2": 780
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1399,
+            "y1": 0,
+            "x2": 1585,
+            "y2": 123
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1391,
+            "y1": 102,
+            "x2": 1415,
+            "y2": 115
+          },
+          "className": "potato"
+        }
+      ]
+    },
+    {
+      "imageId": "032",
+      "boundingBoxes": [
+        {
+          "imageId": "032",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1001,
+            "y1": 923,
+            "x2": 1895,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1133,
+            "y1": 456,
+            "x2": 1215,
+            "y2": 534
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 703,
+            "y1": 275,
+            "x2": 1919,
+            "y2": 799
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1705,
+            "y1": 535,
+            "x2": 1831,
+            "y2": 619
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1092,
+            "y1": 299,
+            "x2": 1143,
+            "y2": 357
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1347,
+            "y1": 1,
+            "x2": 1505,
+            "y2": 41
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1212,
+            "y1": 0,
+            "x2": 1327,
+            "y2": 23
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1368,
+            "y1": 22,
+            "x2": 1388,
+            "y2": 38
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1409,
+            "y1": 29,
+            "x2": 1432,
+            "y2": 49
+          },
+          "className": "potato"
+        }
+      ]
+    },
+    {
+      "imageId": "033",
+      "boundingBoxes": [
+        {
+          "imageId": "033",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 636,
+            "y1": 0,
+            "x2": 797,
+            "y2": 52
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1001,
+            "y1": 871,
+            "x2": 1780,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 588,
+            "y1": 372,
+            "x2": 654,
+            "y2": 435
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 646,
+            "y1": 530,
+            "x2": 738,
+            "y2": 609
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 270,
+            "y1": 235,
+            "x2": 1530,
+            "y2": 822
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1184,
+            "y1": 424,
+            "x2": 1278,
+            "y2": 507
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 883,
+            "y1": 5,
+            "x2": 904,
+            "y2": 25
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 854,
+            "y1": 9,
+            "x2": 866,
+            "y2": 19
+          },
+          "className": "carrot"
+        }
+      ]
+    },
+    {
+      "imageId": "034",
+      "boundingBoxes": [
+        {
+          "imageId": "034",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1604,
+            "y1": 0,
+            "x2": 1811,
+            "y2": 155
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 920,
+            "y1": 950,
+            "x2": 1586,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1481,
+            "y1": 384,
+            "x2": 1551,
+            "y2": 448
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1499,
+            "y1": 555,
+            "x2": 1597,
+            "y2": 632
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 1031,
+            "y1": 301,
+            "x2": 1920,
+            "y2": 951
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1799,
+            "y1": 0,
+            "x2": 1919,
+            "y2": 199
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1862,
+            "y1": 180,
+            "x2": 1886,
+            "y2": 199
+          },
+          "className": "carrot"
+        }
+      ]
+    },
+    {
+      "imageId": "035",
+      "boundingBoxes": [
+        {
+          "imageId": "035",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1571,
+            "y1": 38,
+            "x2": 1780,
+            "y2": 236
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1803,
+            "y1": 743,
+            "x2": 1912,
+            "y2": 819
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 1287,
+            "y1": 600,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 659,
+            "y1": 1039,
+            "x2": 1097,
+            "y2": 1077
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1706,
+            "y1": 1,
+            "x2": 1917,
+            "y2": 257
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "036",
+      "boundingBoxes": [
+        {
+          "imageId": "036",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1390,
+            "y1": 20,
+            "x2": 1698,
+            "y2": 299
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1278,
+            "y1": 0,
+            "x2": 1548,
+            "y2": 302
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1769,
+            "y1": 283,
+            "x2": 1812,
+            "y2": 319
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 707,
+            "y1": 1048,
+            "x2": 1145,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1698,
+            "y1": 277,
+            "x2": 1767,
+            "y2": 324
+          },
+          "className": "carrot"
+        }
+      ]
+    },
+    {
+      "imageId": "037",
+      "boundingBoxes": [
+        {
+          "imageId": "037",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 972,
+            "y1": 0,
+            "x2": 1271,
+            "y2": 461
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1302,
+            "y1": 107,
+            "x2": 1920,
+            "y2": 806
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "038",
+      "boundingBoxes": [
+        {
+          "imageId": "038",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 869,
+            "y1": 1,
+            "x2": 1342,
+            "y2": 695
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1570,
+            "y1": 993,
+            "x2": 1919,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 711,
+            "y1": 1000,
+            "x2": 1171,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "039",
+      "boundingBoxes": [
+        {
+          "imageId": "039",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 719,
+            "y1": 551,
+            "x2": 1641,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 670,
+            "y1": 0,
+            "x2": 1615,
+            "y2": 975
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "040",
+      "boundingBoxes": [
+        {
+          "imageId": "040",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 1051,
+            "y1": 137,
+            "x2": 1223,
+            "y2": 249
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 652,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 844,
+            "y1": 1017,
+            "x2": 1712,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "041",
+      "boundingBoxes": [
+        {
+          "imageId": "041",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 778,
+            "y1": 1030,
+            "x2": 1007,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 884,
+            "y1": 119,
+            "x2": 1075,
+            "y2": 241
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 423,
+            "y1": 0,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "042",
+      "boundingBoxes": [
+        {
+          "imageId": "042",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 624,
+            "y1": 403,
+            "x2": 1500,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 746,
+            "y1": 110,
+            "x2": 955,
+            "y2": 244
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 78,
+            "y1": 2,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "043",
+      "boundingBoxes": [
+        {
+          "imageId": "043",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 915,
+            "y1": 164,
+            "x2": 1149,
+            "y2": 321
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 600,
+            "y1": 157,
+            "x2": 1705,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 104,
+            "y1": 0,
+            "x2": 1919,
+            "y2": 1080
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "044",
+      "boundingBoxes": [
+        {
+          "imageId": "044",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 635,
+            "y1": 159,
+            "x2": 1691,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1,
+            "y1": 2,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 918,
+            "y1": 101,
+            "x2": 1176,
+            "y2": 304
+          },
+          "className": "box"
+        }
+      ]
+    },
+    {
+      "imageId": "045",
+      "boundingBoxes": [
+        {
+          "imageId": "045",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 785,
+            "y1": 431,
+            "x2": 1627,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 1074,
+            "y1": 312,
+            "x2": 1443,
+            "y2": 671
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 341,
+            "y1": 1,
+            "x2": 1920,
+            "y2": 1078
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "046",
+      "boundingBoxes": [
+        {
+          "imageId": "046",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 859,
+            "y1": 687,
+            "x2": 1583,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 1120,
+            "y1": 591,
+            "x2": 1421,
+            "y2": 899
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 561,
+            "y1": 0,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "047",
+      "boundingBoxes": [
+        {
+          "imageId": "047",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 763,
+            "y1": 647,
+            "x2": 1521,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 953,
+            "y1": 553,
+            "x2": 1253,
+            "y2": 868
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 160,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1079
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "048",
+      "boundingBoxes": [
+        {
+          "imageId": "048",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 795,
+            "y1": 655,
+            "x2": 1554,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 981,
+            "y1": 544,
+            "x2": 1289,
+            "y2": 869
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 144,
+            "y1": 0,
+            "x2": 1919,
+            "y2": 1002
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "049",
+      "boundingBoxes": [
+        {
+          "imageId": "049",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 931,
+            "y1": 567,
+            "x2": 1248,
+            "y2": 920
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 667,
+            "y1": 673,
+            "x2": 1476,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 387,
+            "y1": 2,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "050",
+      "boundingBoxes": [
+        {
+          "imageId": "050",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 995,
+            "y1": 542,
+            "x2": 1301,
+            "y2": 888
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 623,
+            "y1": 655,
+            "x2": 1517,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 438,
+            "y1": 1,
+            "x2": 1918,
+            "y2": 1079
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "051",
+      "boundingBoxes": [
+        {
+          "imageId": "051",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 306,
+            "y1": 0,
+            "x2": 1918,
+            "y2": 1080
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 927,
+            "y1": 469,
+            "x2": 1245,
+            "y2": 782
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 683,
+            "y1": 557,
+            "x2": 1666,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "052",
+      "boundingBoxes": [
+        {
+          "imageId": "052",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1,
+            "y1": 1,
+            "x2": 1920,
+            "y2": 942
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 797,
+            "y1": 525,
+            "x2": 1135,
+            "y2": 848
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 730,
+            "y1": 600,
+            "x2": 1663,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "053",
+      "boundingBoxes": [
+        {
+          "imageId": "053",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 611,
+            "y1": 487,
+            "x2": 1898,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 13,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 927
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 585,
+            "y1": 583,
+            "x2": 933,
+            "y2": 923
+          },
+          "className": "box"
+        }
+      ]
+    },
+    {
+      "imageId": "054",
+      "boundingBoxes": [
+        {
+          "imageId": "054",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 641,
+            "y1": 549,
+            "x2": 981,
+            "y2": 890
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 634,
+            "y1": 496,
+            "x2": 1535,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 887,
+            "y1": 3,
+            "x2": 1919,
+            "y2": 844
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "055",
+      "boundingBoxes": [
+        {
+          "imageId": "055",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 561,
+            "y1": 644,
+            "x2": 1496,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 1026,
+            "y1": 632,
+            "x2": 1419,
+            "y2": 987
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1,
+            "y1": 970,
+            "x2": 536,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 1223,
+            "y1": 767,
+            "x2": 1919,
+            "y2": 1076
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "056",
+      "boundingBoxes": [
+        {
+          "imageId": "056",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 1142,
+            "y1": 722,
+            "x2": 1462,
+            "y2": 983
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 42,
+            "x2": 790,
+            "y2": 853
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 589,
+            "y1": 789,
+            "x2": 1450,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 338,
+            "y1": 71,
+            "x2": 893,
+            "y2": 217
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 685,
+            "y1": 75,
+            "x2": 713,
+            "y2": 99
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 475,
+            "y1": 96,
+            "x2": 515,
+            "y2": 119
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 717,
+            "y1": 101,
+            "x2": 748,
+            "y2": 126
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "057",
+      "boundingBoxes": [
+        {
+          "imageId": "057",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 1037,
+            "y1": 643,
+            "x2": 1377,
+            "y2": 897
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 863,
+            "y1": 147,
+            "x2": 898,
+            "y2": 184
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 487,
+            "y1": 104,
+            "x2": 1104,
+            "y2": 394
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 865,
+            "y1": 103,
+            "x2": 897,
+            "y2": 135
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 664,
+            "y1": 110,
+            "x2": 696,
+            "y2": 137
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1,
+            "y1": 395,
+            "x2": 644,
+            "y2": 1061
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 620,
+            "y1": 757,
+            "x2": 1490,
+            "y2": 1077
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 62,
+            "y1": 612,
+            "x2": 109,
+            "y2": 644
+          },
+          "className": "carrot"
+        }
+      ]
+    },
+    {
+      "imageId": "058",
+      "boundingBoxes": [
+        {
+          "imageId": "058",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 813,
+            "y1": 108,
+            "x2": 853,
+            "y2": 149
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 947,
+            "y1": 557,
+            "x2": 1283,
+            "y2": 770
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 994,
+            "y1": 267,
+            "x2": 1045,
+            "y2": 327
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 561,
+            "y1": 94,
+            "x2": 1432,
+            "y2": 560
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1053,
+            "y1": 165,
+            "x2": 1096,
+            "y2": 213
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 682,
+            "y1": 638,
+            "x2": 1671,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "059",
+      "boundingBoxes": [
+        {
+          "imageId": "059",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 937,
+            "y1": 519,
+            "x2": 1135,
+            "y2": 681
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1022,
+            "y1": 137,
+            "x2": 1077,
+            "y2": 197
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1154,
+            "y1": 613,
+            "x2": 1243,
+            "y2": 719
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 659,
+            "y1": 97,
+            "x2": 1918,
+            "y2": 1071
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1339,
+            "y1": 367,
+            "x2": 1427,
+            "y2": 460
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 696,
+            "y1": 636,
+            "x2": 1491,
+            "y2": 1078
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "060",
+      "boundingBoxes": [
+        {
+          "imageId": "060",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 1111,
+            "y1": 491,
+            "x2": 1324,
+            "y2": 658
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1500,
+            "y1": 315,
+            "x2": 1626,
+            "y2": 425
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1122,
+            "y1": 6,
+            "x2": 1190,
+            "y2": 73
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1287,
+            "y1": 655,
+            "x2": 1414,
+            "y2": 773
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 699,
+            "y1": 1,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 695,
+            "y1": 621,
+            "x2": 1434,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "061",
+      "boundingBoxes": [
+        {
+          "imageId": "061",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 1340,
+            "y1": 594,
+            "x2": 1515,
+            "y2": 702
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 175,
+            "y1": 453,
+            "x2": 278,
+            "y2": 483
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "005(コップc）",
+          "rect": {
+            "x1": 1466,
+            "y1": 222,
+            "x2": 1533,
+            "y2": 279
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1446,
+            "y1": 719,
+            "x2": 1555,
+            "y2": 803
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 1099,
+            "y1": 190,
+            "x2": 1918,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "003(コップa）",
+          "rect": {
+            "x1": 1691,
+            "y1": 532,
+            "x2": 1807,
+            "y2": 624
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 636,
+            "y1": 654,
+            "x2": 1574,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 536,
+            "x2": 100,
+            "y2": 794
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 244,
+            "y1": 399,
+            "x2": 298,
+            "y2": 436
+          },
+          "className": "potato"
+        }
+      ]
+    },
+    {
+      "imageId": "062",
+      "boundingBoxes": [
+        {
+          "imageId": "062",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1225,
+            "y1": 118,
+            "x2": 1298,
+            "y2": 154
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 887,
+            "y1": 1,
+            "x2": 1120,
+            "y2": 211
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 1560,
+            "y1": 799,
+            "x2": 1920,
+            "y2": 1078
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 699,
+            "y1": 879,
+            "x2": 1591,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1287,
+            "y1": 112,
+            "x2": 1327,
+            "y2": 142
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 868,
+            "y1": 0,
+            "x2": 931,
+            "y2": 85
+          },
+          "className": "refrigerator"
+        }
+      ]
+    },
+    {
+      "imageId": "063",
+      "boundingBoxes": [
+        {
+          "imageId": "063",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 951,
+            "y1": 0,
+            "x2": 1086,
+            "y2": 198
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 897,
+            "y1": 856,
+            "x2": 1699,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1401,
+            "y1": 132,
+            "x2": 1490,
+            "y2": 180
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1041,
+            "y1": 0,
+            "x2": 1294,
+            "y2": 225
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1474,
+            "y1": 129,
+            "x2": 1525,
+            "y2": 163
+          },
+          "className": "potato"
+        }
+      ]
+    },
+    {
+      "imageId": "064",
+      "boundingBoxes": [
+        {
+          "imageId": "064",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 881,
+            "y1": 782,
+            "x2": 1691,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1131,
+            "y1": 1,
+            "x2": 1631,
+            "y2": 652
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 680,
+            "y1": 0,
+            "x2": 1014,
+            "y2": 306
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1562,
+            "y1": 174,
+            "x2": 1632,
+            "y2": 219
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1594,
+            "y1": 216,
+            "x2": 1624,
+            "y2": 243
+          },
+          "className": "carrot"
+        }
+      ]
+    },
+    {
+      "imageId": "065",
+      "boundingBoxes": [
+        {
+          "imageId": "065",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1148,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 859
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "007(冷蔵庫）",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 613,
+            "y2": 767
+          },
+          "className": "refrigerator"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 871,
+            "y1": 791,
+            "x2": 1683,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1348,
+            "y1": 221,
+            "x2": 1407,
+            "y2": 253
+          },
+          "className": "potato"
+        }
+      ]
+    },
+    {
+      "imageId": "066",
+      "boundingBoxes": [
+        {
+          "imageId": "066",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1238,
+            "y1": 330,
+            "x2": 1306,
+            "y2": 485
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1253,
+            "y1": 160,
+            "x2": 1920,
+            "y2": 925
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "004(コップb）",
+          "rect": {
+            "x1": 1656,
+            "y1": 13,
+            "x2": 1716,
+            "y2": 50
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 1195,
+            "y1": 0,
+            "x2": 1915,
+            "y2": 175
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "008(きんぴら)",
+          "rect": {
+            "x1": 1582,
+            "y1": 0,
+            "x2": 1648,
+            "y2": 33
+          },
+          "className": "dish"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 767,
+            "y1": 831,
+            "x2": 1681,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1148,
+            "y1": 305,
+            "x2": 1231,
+            "y2": 378
+          },
+          "className": "potato"
+        }
+      ]
+    },
+    {
+      "imageId": "067",
+      "boundingBoxes": [
+        {
+          "imageId": "067",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 876,
+            "y1": 1,
+            "x2": 1639,
+            "y2": 133
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 679,
+            "y1": 820,
+            "x2": 1603,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1234,
+            "y1": 458,
+            "x2": 1296,
+            "y2": 667
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1102,
+            "y1": 467,
+            "x2": 1183,
+            "y2": 564
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1407,
+            "y1": 812,
+            "x2": 1919,
+            "y2": 1072
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "011(そこ)",
+          "rect": {
+            "x1": 1031,
+            "y1": 425,
+            "x2": 1433,
+            "y2": 670
+          },
+          "className": "region"
+        }
+      ]
+    },
+    {
+      "imageId": "068",
+      "boundingBoxes": [
+        {
+          "imageId": "068",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1258,
+            "y1": 488,
+            "x2": 1316,
+            "y2": 703
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 689,
+            "y1": 827,
+            "x2": 1654,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1124,
+            "y1": 497,
+            "x2": 1206,
+            "y2": 597
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 910,
+            "y1": 2,
+            "x2": 1691,
+            "y2": 108
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1488,
+            "y1": 853,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "011(そこ)",
+          "rect": {
+            "x1": 1030,
+            "y1": 450,
+            "x2": 1472,
+            "y2": 696
+          },
+          "className": "region"
+        }
+      ]
+    },
+    {
+      "imageId": "069",
+      "boundingBoxes": [
+        {
+          "imageId": "069",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1572,
+            "y1": 941,
+            "x2": 1919,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1281,
+            "y1": 570,
+            "x2": 1347,
+            "y2": 780
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 742,
+            "y1": 583,
+            "x2": 1627,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1139,
+            "y1": 583,
+            "x2": 1227,
+            "y2": 690
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 928,
+            "y1": 1,
+            "x2": 1760,
+            "y2": 180
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "070",
+      "boundingBoxes": [
+        {
+          "imageId": "070",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1284,
+            "y1": 491,
+            "x2": 1332,
+            "y2": 699
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 622,
+            "y1": 449,
+            "x2": 1692,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1129,
+            "y1": 443,
+            "x2": 1260,
+            "y2": 593
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1590,
+            "y1": 902,
+            "x2": 1918,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 950,
+            "y1": 3,
+            "x2": 1758,
+            "y2": 101
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "071",
+      "boundingBoxes": [
+        {
+          "imageId": "071",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1317,
+            "y1": 476,
+            "x2": 1359,
+            "y2": 677
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 985,
+            "y1": 1,
+            "x2": 1788,
+            "y2": 112
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1611,
+            "y1": 919,
+            "x2": 1919,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 644,
+            "y1": 447,
+            "x2": 1734,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1153,
+            "y1": 461,
+            "x2": 1299,
+            "y2": 599
+          },
+          "className": "potato"
+        }
+      ]
+    },
+    {
+      "imageId": "072",
+      "boundingBoxes": [
+        {
+          "imageId": "072",
+          "instanceId": "010(にんじん)",
+          "rect": {
+            "x1": 1319,
+            "y1": 481,
+            "x2": 1359,
+            "y2": 681
+          },
+          "className": "carrot"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1610,
+            "y1": 917,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 634,
+            "y1": 428,
+            "x2": 1720,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "009(じゃがいも)",
+          "rect": {
+            "x1": 1133,
+            "y1": 455,
+            "x2": 1293,
+            "y2": 578
+          },
+          "className": "potato"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "006(ダイニングテーブル）",
+          "rect": {
+            "x1": 993,
+            "y1": 1,
+            "x2": 1797,
+            "y2": 113
+          },
+          "className": "dining_table"
+        }
+      ]
+    }
+  ],
+  "utterances": [
+    {
+      "text": "人数分のコップをテーブルに用意してくれる？",
+      "phrases": [
+        {
+          "text": "人数",
+          "relations": []
+        },
+        {
+          "text": "分の",
+          "relations": []
+        },
+        {
+          "text": "コップを",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "003(コップa）"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "004(コップb）"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "005(コップc）"
+            }
+          ]
+        },
+        {
+          "text": "テーブルに",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(ダイニングテーブル）"
+            }
+          ]
+        },
+        {
+          "text": "用意してくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "006(ダイニングテーブル）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい分かりました。",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "あそれから、冷蔵庫にお惣菜が入ってるからそれもよろしく。",
+      "phrases": [
+        {
+          "text": "あ",
+          "relations": []
+        },
+        {
+          "text": "それから、",
+          "relations": []
+        },
+        {
+          "text": "冷蔵",
+          "relations": []
+        },
+        {
+          "text": "庫に",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "007(冷蔵庫）"
+            }
+          ]
+        },
+        {
+          "text": "お惣菜が",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "008(きんぴら)"
+            }
+          ]
+        },
+        {
+          "text": "入ってるから",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "007(冷蔵庫）"
+            }
+          ]
+        },
+        {
+          "text": "それも",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "008(きんぴら)"
+            }
+          ]
+        },
+        {
+          "text": "よろしく。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(きんぴら)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい分かりました。",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "あきんぴらですね？",
+      "phrases": [
+        {
+          "text": "あ",
+          "relations": []
+        },
+        {
+          "text": "きんぴらですね？",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "008(きんぴら)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "008(きんぴら)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "そうきんぴら。あと、卯の花ってなかったっけ？",
+      "phrases": [
+        {
+          "text": "そう",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "きんぴら。",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "008(きんぴら)"
+            }
+          ]
+        },
+        {
+          "text": "あと、",
+          "relations": []
+        },
+        {
+          "text": "卯の花って",
+          "relations": []
+        },
+        {
+          "text": "なかったっけ？",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "007(冷蔵庫）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "卯の花ですか？見当たらないですね。",
+      "phrases": [
+        {
+          "text": "卯の花ですか？",
+          "relations": []
+        },
+        {
+          "text": "見当たらないですね。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "007(冷蔵庫）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "了解。じゃあ、きんぴらだけテーブルに出しておいて。",
+      "phrases": [
+        {
+          "text": "了解。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "じゃあ、",
+          "relations": []
+        },
+        {
+          "text": "きんぴらだけ",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "008(きんぴら)"
+            }
+          ]
+        },
+        {
+          "text": "テーブルに",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(ダイニングテーブル）"
+            }
+          ]
+        },
+        {
+          "text": "出しておいて。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(きんぴら)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "006(ダイニングテーブル）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい出しておきます。",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "出しておきます。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(きんぴら)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "006(ダイニングテーブル）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "それが終わったら野菜切るの手伝ってくれる？",
+      "phrases": [
+        {
+          "text": "それが",
+          "relations": []
+        },
+        {
+          "text": "終わったら",
+          "relations": []
+        },
+        {
+          "text": "野菜",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "009(じゃがいも)"
+            },
+            {
+              "type": "=",
+              "instanceId": "010(にんじん)"
+            }
+          ]
+        },
+        {
+          "text": "切る",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(じゃがいも)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "010(にんじん)"
+            }
+          ]
+        },
+        {
+          "text": "の",
+          "relations": []
+        },
+        {
+          "text": "手伝ってくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はいどれを切ればいいですか？",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "どれを",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "009(じゃがいも)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "010(にんじん)"
+            }
+          ]
+        },
+        {
+          "text": "切ればいいですか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "そこにあるジャガイモお願い。",
+      "phrases": [
+        {
+          "text": "そこに",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "011(そこ)"
+            }
+          ]
+        },
+        {
+          "text": "ある",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "009(じゃがいも)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "011(そこ)"
+            }
+          ]
+        },
+        {
+          "text": "ジャガイモ",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "009(じゃがいも)"
+            }
+          ]
+        },
+        {
+          "text": "お願い。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(じゃがいも)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい分かりました。",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

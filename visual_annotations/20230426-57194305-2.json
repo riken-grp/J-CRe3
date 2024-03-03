@@ -1,0 +1,7914 @@
+{
+  "scenarioId": "20230426-57194305-2",
+  "images": [
+    {
+      "imageId": "001",
+      "boundingBoxes": [
+        {
+          "imageId": "001",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 655,
+            "y1": 781,
+            "x2": 1494,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 375,
+            "y1": 630,
+            "x2": 552,
+            "y2": 778
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 9,
+            "y1": 486,
+            "x2": 98,
+            "y2": 549
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 374,
+            "y1": 574,
+            "x2": 502,
+            "y2": 697
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1239,
+            "y1": 106,
+            "x2": 1374,
+            "y2": 237
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1204,
+            "y1": 0,
+            "x2": 1462,
+            "y2": 272
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "002",
+      "boundingBoxes": [
+        {
+          "imageId": "002",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 606,
+            "y1": 819,
+            "x2": 1500,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 292,
+            "y1": 698,
+            "x2": 430,
+            "y2": 821
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1087,
+            "y1": 115,
+            "x2": 1203,
+            "y2": 240
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 307,
+            "y1": 748,
+            "x2": 464,
+            "y2": 891
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1043,
+            "y1": 0,
+            "x2": 1293,
+            "y2": 270
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "003",
+      "boundingBoxes": [
+        {
+          "imageId": "003",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1044,
+            "y1": 113,
+            "x2": 1159,
+            "y2": 239
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 609,
+            "y1": 821,
+            "x2": 1524,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 292,
+            "y1": 735,
+            "x2": 415,
+            "y2": 859
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 308,
+            "y1": 788,
+            "x2": 473,
+            "y2": 921
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1026,
+            "y1": 0,
+            "x2": 1249,
+            "y2": 263
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "004",
+      "boundingBoxes": [
+        {
+          "imageId": "004",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1007,
+            "y1": 112,
+            "x2": 1118,
+            "y2": 237
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 619,
+            "y1": 811,
+            "x2": 1551,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 298,
+            "y1": 761,
+            "x2": 420,
+            "y2": 882
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 319,
+            "y1": 807,
+            "x2": 473,
+            "y2": 941
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1033,
+            "y1": 0,
+            "x2": 1210,
+            "y2": 255
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "005",
+      "boundingBoxes": [
+        {
+          "imageId": "005",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 610,
+            "y1": 819,
+            "x2": 1538,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 986,
+            "y1": 116,
+            "x2": 1100,
+            "y2": 242
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 286,
+            "y1": 777,
+            "x2": 409,
+            "y2": 908
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 308,
+            "y1": 837,
+            "x2": 462,
+            "y2": 968
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1010,
+            "y1": 0,
+            "x2": 1190,
+            "y2": 256
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "006",
+      "boundingBoxes": [
+        {
+          "imageId": "006",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 601,
+            "y1": 849,
+            "x2": 1567,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 921,
+            "y1": 118,
+            "x2": 1037,
+            "y2": 252
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 270,
+            "y1": 830,
+            "x2": 394,
+            "y2": 961
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 301,
+            "y1": 886,
+            "x2": 446,
+            "y2": 1019
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 937,
+            "y1": 0,
+            "x2": 1131,
+            "y2": 256
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "007",
+      "boundingBoxes": [
+        {
+          "imageId": "007",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 872,
+            "y1": 123,
+            "x2": 989,
+            "y2": 253
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 599,
+            "y1": 835,
+            "x2": 1569,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 231,
+            "y1": 858,
+            "x2": 346,
+            "y2": 978
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 263,
+            "y1": 908,
+            "x2": 409,
+            "y2": 1039
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 896,
+            "y1": 0,
+            "x2": 1092,
+            "y2": 248
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "008",
+      "boundingBoxes": [
+        {
+          "imageId": "008",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 583,
+            "y1": 775,
+            "x2": 1519,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 813,
+            "y1": 273,
+            "x2": 959,
+            "y2": 436
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 861,
+            "y1": 0,
+            "x2": 1079,
+            "y2": 369
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "009",
+      "boundingBoxes": [
+        {
+          "imageId": "009",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 617,
+            "y1": 705,
+            "x2": 1704,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 665,
+            "y1": 481,
+            "x2": 857,
+            "y2": 655
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 837,
+            "y1": 0,
+            "x2": 1067,
+            "y2": 481
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "010",
+      "boundingBoxes": [
+        {
+          "imageId": "010",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 637,
+            "y1": 768,
+            "x2": 1578,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 733,
+            "y1": 474,
+            "x2": 929,
+            "y2": 647
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 938,
+            "y1": 0,
+            "x2": 1182,
+            "y2": 489
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "011",
+      "boundingBoxes": [
+        {
+          "imageId": "011",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 565,
+            "y1": 757,
+            "x2": 1509,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 776,
+            "y1": 435,
+            "x2": 981,
+            "y2": 614
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 0,
+            "y1": 970,
+            "x2": 54,
+            "y2": 1049
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 1036,
+            "x2": 98,
+            "y2": 1080
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1027,
+            "y1": 0,
+            "x2": 1304,
+            "y2": 467
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "012",
+      "boundingBoxes": [
+        {
+          "imageId": "012",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 655,
+            "y1": 701,
+            "x2": 1652,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 901,
+            "y1": 374,
+            "x2": 1101,
+            "y2": 558
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1,
+            "y1": 815,
+            "x2": 100,
+            "y2": 899
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 891,
+            "x2": 115,
+            "y2": 970
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1183,
+            "y1": 0,
+            "x2": 1505,
+            "y2": 454
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "013",
+      "boundingBoxes": [
+        {
+          "imageId": "013",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 658,
+            "y1": 714,
+            "x2": 1624,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 948,
+            "y1": 377,
+            "x2": 1146,
+            "y2": 561
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 20,
+            "y1": 768,
+            "x2": 122,
+            "y2": 854
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 843,
+            "x2": 128,
+            "y2": 925
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1140,
+            "y1": 0,
+            "x2": 1509,
+            "y2": 471
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "014",
+      "boundingBoxes": [
+        {
+          "imageId": "014",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 630,
+            "y1": 715,
+            "x2": 1562,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 17,
+            "y1": 762,
+            "x2": 118,
+            "y2": 845
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 937,
+            "y1": 374,
+            "x2": 1138,
+            "y2": 559
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 833,
+            "x2": 125,
+            "y2": 920
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1107,
+            "y1": 0,
+            "x2": 1439,
+            "y2": 473
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "015",
+      "boundingBoxes": [
+        {
+          "imageId": "015",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1081,
+            "y1": 0,
+            "x2": 1428,
+            "y2": 468
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 612,
+            "y1": 698,
+            "x2": 1509,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 0,
+            "y1": 769,
+            "x2": 88,
+            "y2": 851
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 880,
+            "y1": 382,
+            "x2": 1090,
+            "y2": 568
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 840,
+            "x2": 90,
+            "y2": 925
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "016",
+      "boundingBoxes": [
+        {
+          "imageId": "016",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1161,
+            "y1": 0,
+            "x2": 1566,
+            "y2": 434
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 590,
+            "y1": 417,
+            "x2": 1577,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 0,
+            "y1": 713,
+            "x2": 37,
+            "y2": 793
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 882,
+            "y1": 470,
+            "x2": 1117,
+            "y2": 658
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 799,
+            "x2": 32,
+            "y2": 868
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "017",
+      "boundingBoxes": [
+        {
+          "imageId": "017",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1249,
+            "y1": 9,
+            "x2": 1781,
+            "y2": 512
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 668,
+            "y1": 458,
+            "x2": 1653,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 914,
+            "y1": 466,
+            "x2": 1113,
+            "y2": 661
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "018",
+      "boundingBoxes": [
+        {
+          "imageId": "018",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1329,
+            "y1": 29,
+            "x2": 1920,
+            "y2": 559
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 701,
+            "y1": 518,
+            "x2": 1697,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 0,
+            "y1": 568,
+            "x2": 34,
+            "y2": 649
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 994,
+            "y1": 465,
+            "x2": 1222,
+            "y2": 692
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 664,
+            "x2": 13,
+            "y2": 735
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "019",
+      "boundingBoxes": [
+        {
+          "imageId": "019",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1282,
+            "y1": 85,
+            "x2": 1815,
+            "y2": 617
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 613,
+            "y1": 493,
+            "x2": 1605,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 3,
+            "y1": 563,
+            "x2": 101,
+            "y2": 639
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 931,
+            "y1": 401,
+            "x2": 1228,
+            "y2": 713
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 642,
+            "x2": 73,
+            "y2": 721
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "020",
+      "boundingBoxes": [
+        {
+          "imageId": "020",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 871,
+            "y1": 377,
+            "x2": 1191,
+            "y2": 672
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1147,
+            "y1": 0,
+            "x2": 1565,
+            "y2": 503
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 649,
+            "y1": 461,
+            "x2": 1665,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 0,
+            "y1": 776,
+            "x2": 27,
+            "y2": 851
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 858,
+            "x2": 32,
+            "y2": 921
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "021",
+      "boundingBoxes": [
+        {
+          "imageId": "021",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 893,
+            "y1": 407,
+            "x2": 1262,
+            "y2": 719
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 0,
+            "y1": 957,
+            "x2": 83,
+            "y2": 1035
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 996,
+            "y1": 0,
+            "x2": 1391,
+            "y2": 398
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 678,
+            "y1": 510,
+            "x2": 1696,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 1028,
+            "x2": 131,
+            "y2": 1080
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "022",
+      "boundingBoxes": [
+        {
+          "imageId": "022",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 924,
+            "y1": 364,
+            "x2": 1232,
+            "y2": 613
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1504,
+            "y1": 263,
+            "x2": 1920,
+            "y2": 709
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 627,
+            "y1": 453,
+            "x2": 1624,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 193,
+            "y1": 59,
+            "x2": 319,
+            "y2": 121
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 104,
+            "y1": 105,
+            "x2": 246,
+            "y2": 181
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "023",
+      "boundingBoxes": [
+        {
+          "imageId": "023",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 816,
+            "y1": 425,
+            "x2": 1114,
+            "y2": 679
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 588,
+            "y1": 482,
+            "x2": 1559,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "024",
+      "boundingBoxes": [
+        {
+          "imageId": "024",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1330,
+            "y1": 230,
+            "x2": 1517,
+            "y2": 390
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 739,
+            "y1": 434,
+            "x2": 1052,
+            "y2": 678
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1407,
+            "y1": 219,
+            "x2": 1585,
+            "y2": 346
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 607,
+            "y1": 529,
+            "x2": 1558,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "025",
+      "boundingBoxes": [
+        {
+          "imageId": "025",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 463,
+            "y2": 458
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1711,
+            "y1": 580,
+            "x2": 1920,
+            "y2": 717
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1686,
+            "y1": 463,
+            "x2": 1891,
+            "y2": 591
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 796,
+            "y1": 418,
+            "x2": 1127,
+            "y2": 705
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1296,
+            "y1": 13,
+            "x2": 1373,
+            "y2": 86
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 602,
+            "y1": 543,
+            "x2": 1501,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "026",
+      "boundingBoxes": [
+        {
+          "imageId": "026",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1431,
+            "y1": 202,
+            "x2": 1592,
+            "y2": 328
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1583,
+            "y1": 222,
+            "x2": 1753,
+            "y2": 361
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1002,
+            "y1": 460,
+            "x2": 1402,
+            "y2": 714
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 723,
+            "y1": 208,
+            "x2": 834,
+            "y2": 296
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 556,
+            "y1": 570,
+            "x2": 1529,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "027",
+      "boundingBoxes": [
+        {
+          "imageId": "027",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 676,
+            "y1": 458,
+            "x2": 787,
+            "y2": 546
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1120,
+            "y1": 542,
+            "x2": 1318,
+            "y2": 756
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 546,
+            "y1": 370,
+            "x2": 1668,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1468,
+            "y1": 378,
+            "x2": 1633,
+            "y2": 553
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1625,
+            "y1": 414,
+            "x2": 1807,
+            "y2": 589
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "028",
+      "boundingBoxes": [
+        {
+          "imageId": "028",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 555,
+            "y1": 321,
+            "x2": 1527,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1105,
+            "y1": 556,
+            "x2": 1317,
+            "y2": 750
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 669,
+            "y1": 486,
+            "x2": 773,
+            "y2": 576
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1479,
+            "y1": 404,
+            "x2": 1639,
+            "y2": 580
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1648,
+            "y1": 436,
+            "x2": 1831,
+            "y2": 611
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "029",
+      "boundingBoxes": [
+        {
+          "imageId": "029",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 541,
+            "y1": 316,
+            "x2": 1481,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1106,
+            "y1": 562,
+            "x2": 1308,
+            "y2": 763
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 665,
+            "y1": 497,
+            "x2": 757,
+            "y2": 584
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1478,
+            "y1": 390,
+            "x2": 1659,
+            "y2": 576
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1651,
+            "y1": 424,
+            "x2": 1844,
+            "y2": 603
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "030",
+      "boundingBoxes": [
+        {
+          "imageId": "030",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 539,
+            "y1": 314,
+            "x2": 1468,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1108,
+            "y1": 568,
+            "x2": 1312,
+            "y2": 761
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 665,
+            "y1": 501,
+            "x2": 756,
+            "y2": 587
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1482,
+            "y1": 394,
+            "x2": 1655,
+            "y2": 572
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1653,
+            "y1": 424,
+            "x2": 1841,
+            "y2": 600
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "031",
+      "boundingBoxes": [
+        {
+          "imageId": "031",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 547,
+            "y1": 553,
+            "x2": 1623,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1060,
+            "y1": 607,
+            "x2": 1254,
+            "y2": 823
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 584,
+            "y1": 596,
+            "x2": 721,
+            "y2": 696
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1338,
+            "y1": 380,
+            "x2": 1485,
+            "y2": 539
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1494,
+            "y1": 385,
+            "x2": 1643,
+            "y2": 541
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "032",
+      "boundingBoxes": [
+        {
+          "imageId": "032",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 434,
+            "y1": 634,
+            "x2": 579,
+            "y2": 734
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1003,
+            "y1": 577,
+            "x2": 1248,
+            "y2": 786
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 585,
+            "y1": 642,
+            "x2": 1533,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1098,
+            "y1": 285,
+            "x2": 1204,
+            "y2": 406
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1206,
+            "y1": 266,
+            "x2": 1331,
+            "y2": 389
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "033",
+      "boundingBoxes": [
+        {
+          "imageId": "033",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 437,
+            "y1": 657,
+            "x2": 585,
+            "y2": 753
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 964,
+            "y1": 623,
+            "x2": 1274,
+            "y2": 847
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 577,
+            "y1": 692,
+            "x2": 1556,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1105,
+            "y1": 265,
+            "x2": 1220,
+            "y2": 398
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1212,
+            "y1": 243,
+            "x2": 1350,
+            "y2": 367
+          },
+          "className": "tray"
+        }
+      ]
+    },
+    {
+      "imageId": "034",
+      "boundingBoxes": [
+        {
+          "imageId": "034",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 865,
+            "y1": 356,
+            "x2": 1245,
+            "y2": 684
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 896,
+            "y1": 102,
+            "x2": 1011,
+            "y2": 215
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 604,
+            "y1": 503,
+            "x2": 1569,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 203,
+            "y1": 594,
+            "x2": 346,
+            "y2": 681
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 793,
+            "y1": 150,
+            "x2": 906,
+            "y2": 258
+          },
+          "className": "cover"
+        }
+      ]
+    },
+    {
+      "imageId": "035",
+      "boundingBoxes": [
+        {
+          "imageId": "035",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 929,
+            "y1": 0,
+            "x2": 1040,
+            "y2": 88
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 903,
+            "y1": 395,
+            "x2": 1266,
+            "y2": 711
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 657,
+            "y1": 333,
+            "x2": 784,
+            "y2": 480
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 0,
+            "y1": 711,
+            "x2": 66,
+            "y2": 775
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 601,
+            "y1": 536,
+            "x2": 1699,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 556,
+            "y1": 356,
+            "x2": 677,
+            "y2": 510
+          },
+          "className": "cover"
+        }
+      ]
+    },
+    {
+      "imageId": "036",
+      "boundingBoxes": [
+        {
+          "imageId": "036",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 941,
+            "y1": 396,
+            "x2": 1239,
+            "y2": 657
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1104,
+            "y1": 0,
+            "x2": 1321,
+            "y2": 243
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 228,
+            "y1": 922,
+            "x2": 391,
+            "y2": 1076
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 321,
+            "y1": 983,
+            "x2": 505,
+            "y2": 1080
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 549,
+            "y1": 397,
+            "x2": 1630,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "037",
+      "boundingBoxes": [
+        {
+          "imageId": "037",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1035,
+            "y1": 483,
+            "x2": 1280,
+            "y2": 708
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1410,
+            "y1": 117,
+            "x2": 1920,
+            "y2": 591
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 602,
+            "y1": 537,
+            "x2": 1535,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "038",
+      "boundingBoxes": [
+        {
+          "imageId": "038",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 611,
+            "y1": 449,
+            "x2": 1799,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 286,
+            "y1": 1064,
+            "x2": 351,
+            "y2": 1080
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 989,
+            "y1": 348,
+            "x2": 1206,
+            "y2": 548
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "039",
+      "boundingBoxes": [
+        {
+          "imageId": "039",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 855,
+            "y1": 311,
+            "x2": 1054,
+            "y2": 538
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 601,
+            "y1": 484,
+            "x2": 1583,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 947,
+            "x2": 538,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "040",
+      "boundingBoxes": [
+        {
+          "imageId": "040",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 274,
+            "x2": 116,
+            "y2": 464
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 293,
+            "y1": 275,
+            "x2": 400,
+            "y2": 348
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 217,
+            "y1": 329,
+            "x2": 355,
+            "y2": 405
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 304,
+            "y1": 80,
+            "x2": 329,
+            "y2": 99
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 693,
+            "y1": 754,
+            "x2": 1571,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 225,
+            "x2": 282,
+            "y2": 500
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1274,
+            "y1": 349,
+            "x2": 1485,
+            "y2": 574
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "041",
+      "boundingBoxes": [
+        {
+          "imageId": "041",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 635,
+            "y1": 298,
+            "x2": 780,
+            "y2": 401
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 688,
+            "y1": 248,
+            "x2": 807,
+            "y2": 320
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 245,
+            "y1": 0,
+            "x2": 580,
+            "y2": 181
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 161,
+            "x2": 272,
+            "y2": 487
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 612,
+            "y1": 44,
+            "x2": 655,
+            "y2": 93
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 795,
+            "y1": 606,
+            "x2": 1639,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1833,
+            "y1": 430,
+            "x2": 1920,
+            "y2": 565
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "042",
+      "boundingBoxes": [
+        {
+          "imageId": "042",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 67,
+            "x2": 406,
+            "y2": 561
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "014(袋菓子全部)",
+          "rect": {
+            "x1": 826,
+            "y1": 123,
+            "x2": 866,
+            "y2": 180
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1321,
+            "y1": 330,
+            "x2": 1514,
+            "y2": 414
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1370,
+            "y1": 395,
+            "x2": 1559,
+            "y2": 505
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 599,
+            "y1": 0,
+            "x2": 899,
+            "y2": 359
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 822,
+            "y1": 161,
+            "x2": 898,
+            "y2": 194
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 766,
+            "y1": 737,
+            "x2": 1484,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1030,
+            "y1": 57,
+            "x2": 1086,
+            "y2": 120
+          },
+          "className": "mug"
+        }
+      ]
+    },
+    {
+      "imageId": "043",
+      "boundingBoxes": [
+        {
+          "imageId": "043",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1613,
+            "y1": 407,
+            "x2": 1920,
+            "y2": 729
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 790,
+            "y1": 0,
+            "x2": 1187,
+            "y2": 368
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 648,
+            "y1": 842,
+            "x2": 1709,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "044",
+      "boundingBoxes": [
+        {
+          "imageId": "044",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 423,
+            "y1": 0,
+            "x2": 1259,
+            "y2": 681
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 612,
+            "y1": 795,
+            "x2": 1556,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "045",
+      "boundingBoxes": [
+        {
+          "imageId": "045",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1592,
+            "y2": 816
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 607,
+            "y1": 387,
+            "x2": 1579,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "046",
+      "boundingBoxes": [
+        {
+          "imageId": "046",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 911
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "013(ティーバッグ箱)",
+          "rect": {
+            "x1": 830,
+            "y1": 238,
+            "x2": 1009,
+            "y2": 375
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "007(コーヒー)",
+          "rect": {
+            "x1": 996,
+            "y1": 186,
+            "x2": 1186,
+            "y2": 405
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 494,
+            "y1": 638,
+            "x2": 1512,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "047",
+      "boundingBoxes": [
+        {
+          "imageId": "047",
+          "instanceId": "007(コーヒー)",
+          "rect": {
+            "x1": 1238,
+            "y1": 181,
+            "x2": 1429,
+            "y2": 410
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 958
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "013(ティーバッグ箱)",
+          "rect": {
+            "x1": 1033,
+            "y1": 172,
+            "x2": 1218,
+            "y2": 365
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 605,
+            "y1": 202,
+            "x2": 1581,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "048",
+      "boundingBoxes": [
+        {
+          "imageId": "048",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 820
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "007(コーヒー)",
+          "rect": {
+            "x1": 1104,
+            "y1": 148,
+            "x2": 1302,
+            "y2": 363
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1028,
+            "y1": 581,
+            "x2": 1246,
+            "y2": 683
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 538,
+            "y1": 462,
+            "x2": 1525,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "049",
+      "boundingBoxes": [
+        {
+          "imageId": "049",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 208,
+            "y1": 0,
+            "x2": 1919,
+            "y2": 718
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1068,
+            "y1": 513,
+            "x2": 1202,
+            "y2": 648
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 555,
+            "y1": 235,
+            "x2": 1502,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "050",
+      "boundingBoxes": [
+        {
+          "imageId": "050",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1103,
+            "y1": 497,
+            "x2": 1291,
+            "y2": 745
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 599,
+            "y1": 0,
+            "x2": 1918,
+            "y2": 677
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 581,
+            "y1": 425,
+            "x2": 1550,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "051",
+      "boundingBoxes": [
+        {
+          "imageId": "051",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 762,
+            "y1": 0,
+            "x2": 913,
+            "y2": 140
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 418,
+            "y1": 35,
+            "x2": 482,
+            "y2": 77
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1196,
+            "y1": 419,
+            "x2": 1434,
+            "y2": 623
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 73,
+            "y1": 220,
+            "x2": 172,
+            "y2": 281
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 462,
+            "y1": 0,
+            "x2": 540,
+            "y2": 48
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 600,
+            "y1": 482,
+            "x2": 1684,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "052",
+      "boundingBoxes": [
+        {
+          "imageId": "052",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1368,
+            "y1": 91,
+            "x2": 1444,
+            "y2": 146
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1327,
+            "y1": 0,
+            "x2": 1390,
+            "y2": 30
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 875,
+            "y1": 128,
+            "x2": 950,
+            "y2": 186
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1286,
+            "y1": 94,
+            "x2": 1363,
+            "y2": 141
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1484,
+            "y1": 0,
+            "x2": 1793,
+            "y2": 255
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 870,
+            "y1": 480,
+            "x2": 1022,
+            "y2": 646
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 580,
+            "y1": 589,
+            "x2": 1610,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "053",
+      "boundingBoxes": [
+        {
+          "imageId": "053",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1547,
+            "y1": 34,
+            "x2": 1659,
+            "y2": 113
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1697,
+            "y1": 317,
+            "x2": 1835,
+            "y2": 438
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 953,
+            "y1": 414,
+            "x2": 1070,
+            "y2": 515
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1589,
+            "y1": 329,
+            "x2": 1694,
+            "y2": 427
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1533,
+            "y1": 0,
+            "x2": 1859,
+            "y2": 274
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 850,
+            "y1": 443,
+            "x2": 1011,
+            "y2": 609
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 629,
+            "y1": 430,
+            "x2": 1584,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "054",
+      "boundingBoxes": [
+        {
+          "imageId": "054",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1778,
+            "y1": 275,
+            "x2": 1920,
+            "y2": 396
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1561,
+            "y1": 0,
+            "x2": 1691,
+            "y2": 55
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1454,
+            "y1": 0,
+            "x2": 1781,
+            "y2": 184
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1062,
+            "y1": 429,
+            "x2": 1198,
+            "y2": 553
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1678,
+            "y1": 301,
+            "x2": 1787,
+            "y2": 387
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 875,
+            "y1": 459,
+            "x2": 1038,
+            "y2": 619
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 629,
+            "y1": 495,
+            "x2": 1604,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "055",
+      "boundingBoxes": [
+        {
+          "imageId": "055",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1183,
+            "y1": 635,
+            "x2": 1396,
+            "y2": 806
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1213,
+            "y1": 0,
+            "x2": 1367,
+            "y2": 105
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 1191,
+            "y1": 126,
+            "x2": 1288,
+            "y2": 202
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1289,
+            "y1": 107,
+            "x2": 1399,
+            "y2": 198
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1081,
+            "y1": 432,
+            "x2": 1266,
+            "y2": 623
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 631,
+            "y1": 541,
+            "x2": 1445,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "056",
+      "boundingBoxes": [
+        {
+          "imageId": "056",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 889,
+            "y1": 197,
+            "x2": 991,
+            "y2": 282
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1173,
+            "y1": 0,
+            "x2": 1246,
+            "y2": 24
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 986,
+            "y1": 185,
+            "x2": 1093,
+            "y2": 295
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1201,
+            "y1": 0,
+            "x2": 1368,
+            "y2": 163
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1181,
+            "y1": 613,
+            "x2": 1394,
+            "y2": 784
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1050,
+            "y1": 455,
+            "x2": 1201,
+            "y2": 622
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 667,
+            "y1": 559,
+            "x2": 1700,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "057",
+      "boundingBoxes": [
+        {
+          "imageId": "057",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1140,
+            "y1": 1,
+            "x2": 1176,
+            "y2": 54
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 597,
+            "y1": 364,
+            "x2": 749,
+            "y2": 490
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "014(袋菓子全部)",
+          "rect": {
+            "x1": 1159,
+            "y1": 41,
+            "x2": 1247,
+            "y2": 69
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1269,
+            "y1": 26,
+            "x2": 1388,
+            "y2": 131
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 648,
+            "y1": 385,
+            "x2": 803,
+            "y2": 533
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "chair",
+          "rect": {
+            "x1": 951,
+            "y1": 60,
+            "x2": 1168,
+            "y2": 359
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1339,
+            "y1": 0,
+            "x2": 1656,
+            "y2": 306
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1200,
+            "y1": 596,
+            "x2": 1406,
+            "y2": 774
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1061,
+            "y1": 455,
+            "x2": 1222,
+            "y2": 626
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 624,
+            "y1": 559,
+            "x2": 1658,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "058",
+      "boundingBoxes": [
+        {
+          "imageId": "058",
+          "instanceId": "4120",
+          "rect": {
+            "x1": 988,
+            "y1": 370,
+            "x2": 1102,
+            "y2": 424
+          },
+          "className": "pen"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1175,
+            "y1": 92,
+            "x2": 1222,
+            "y2": 168
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "014(袋菓子全部)",
+          "rect": {
+            "x1": 1175,
+            "y1": 159,
+            "x2": 1294,
+            "y2": 209
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1266,
+            "y1": 173,
+            "x2": 1412,
+            "y2": 323
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 255,
+            "y1": 570,
+            "x2": 423,
+            "y2": 709
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 265,
+            "y1": 507,
+            "x2": 419,
+            "y2": 620
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1354,
+            "y1": 0,
+            "x2": 1863,
+            "y2": 559
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1152,
+            "y1": 542,
+            "x2": 1364,
+            "y2": 715
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1006,
+            "y1": 431,
+            "x2": 1146,
+            "y2": 582
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 637,
+            "y1": 540,
+            "x2": 1683,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "059",
+      "boundingBoxes": [
+        {
+          "imageId": "059",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 156,
+            "y1": 508,
+            "x2": 308,
+            "y2": 615
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 194,
+            "y1": 443,
+            "x2": 331,
+            "y2": 536
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1220,
+            "y1": 219,
+            "x2": 1368,
+            "y2": 389
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1182,
+            "y1": 107,
+            "x2": 1237,
+            "y2": 189
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "014(袋菓子全部)",
+          "rect": {
+            "x1": 1174,
+            "y1": 184,
+            "x2": 1297,
+            "y2": 236
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1396,
+            "y1": 58,
+            "x2": 1920,
+            "y2": 558
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1022,
+            "y1": 525,
+            "x2": 1230,
+            "y2": 697
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 838,
+            "y1": 461,
+            "x2": 1004,
+            "y2": 633
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 604,
+            "y1": 589,
+            "x2": 1619,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "060",
+      "boundingBoxes": [
+        {
+          "imageId": "060",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 993,
+            "y1": 463,
+            "x2": 1133,
+            "y2": 619
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1089,
+            "y1": 338,
+            "x2": 1230,
+            "y2": 543
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 89,
+            "y1": 495,
+            "x2": 194,
+            "y2": 577
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1103,
+            "y1": 179,
+            "x2": 1156,
+            "y2": 271
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "014(袋菓子全部)",
+          "rect": {
+            "x1": 1082,
+            "y1": 265,
+            "x2": 1217,
+            "y2": 341
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 27,
+            "y1": 567,
+            "x2": 167,
+            "y2": 658
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1414,
+            "y1": 196,
+            "x2": 1920,
+            "y2": 683
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1149,
+            "y1": 565,
+            "x2": 1359,
+            "y2": 736
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 656,
+            "y1": 576,
+            "x2": 1751,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "061",
+      "boundingBoxes": [
+        {
+          "imageId": "061",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1358,
+            "y1": 386,
+            "x2": 1920,
+            "y2": 835
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 906,
+            "y1": 533,
+            "x2": 1073,
+            "y2": 752
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 0,
+            "y1": 523,
+            "x2": 70,
+            "y2": 601
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "014(袋菓子全部)",
+          "rect": {
+            "x1": 972,
+            "y1": 386,
+            "x2": 1111,
+            "y2": 504
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1003,
+            "y1": 289,
+            "x2": 1063,
+            "y2": 391
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 821,
+            "y1": 396,
+            "x2": 1003,
+            "y2": 571
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 606,
+            "x2": 31,
+            "y2": 688
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1091,
+            "y1": 461,
+            "x2": 1290,
+            "y2": 625
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 637,
+            "y1": 546,
+            "x2": 1647,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "062",
+      "boundingBoxes": [
+        {
+          "imageId": "062",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1402,
+            "y1": 450,
+            "x2": 1920,
+            "y2": 908
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 825,
+            "y1": 555,
+            "x2": 1014,
+            "y2": 780
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1078,
+            "y1": 521,
+            "x2": 1210,
+            "y2": 638
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 0,
+            "y1": 501,
+            "x2": 26,
+            "y2": 575
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1187,
+            "y1": 461,
+            "x2": 1302,
+            "y2": 570
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 974,
+            "y1": 288,
+            "x2": 1039,
+            "y2": 393
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "014(袋菓子全部)",
+          "rect": {
+            "x1": 940,
+            "y1": 392,
+            "x2": 1085,
+            "y2": 519
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 672,
+            "y1": 528,
+            "x2": 1647,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "063",
+      "boundingBoxes": [
+        {
+          "imageId": "063",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 796,
+            "y1": 690,
+            "x2": 992,
+            "y2": 918
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1206,
+            "y1": 522,
+            "x2": 1310,
+            "y2": 620
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1487,
+            "y1": 181,
+            "x2": 1920,
+            "y2": 898
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1136,
+            "y1": 607,
+            "x2": 1258,
+            "y2": 718
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 0,
+            "y1": 500,
+            "x2": 14,
+            "y2": 535
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1017,
+            "y1": 347,
+            "x2": 1097,
+            "y2": 470
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "014(袋菓子全部)",
+          "rect": {
+            "x1": 976,
+            "y1": 468,
+            "x2": 1136,
+            "y2": 632
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 722,
+            "y1": 500,
+            "x2": 1701,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "064",
+      "boundingBoxes": [
+        {
+          "imageId": "064",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1226,
+            "y1": 395,
+            "x2": 1313,
+            "y2": 484
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 540,
+            "x2": 104,
+            "y2": 612
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1428,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 763
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 916,
+            "y1": 527,
+            "x2": 1102,
+            "y2": 752
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 50,
+            "y1": 471,
+            "x2": 140,
+            "y2": 548
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "014(袋菓子全部)",
+          "rect": {
+            "x1": 1021,
+            "y1": 377,
+            "x2": 1170,
+            "y2": 500
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1054,
+            "y1": 274,
+            "x2": 1119,
+            "y2": 380
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1165,
+            "y1": 482,
+            "x2": 1234,
+            "y2": 565
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 643,
+            "y1": 451,
+            "x2": 1668,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "065",
+      "boundingBoxes": [
+        {
+          "imageId": "065",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 640,
+            "y1": 787,
+            "x2": 1616,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1282,
+            "y1": 312,
+            "x2": 1382,
+            "y2": 387
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1099,
+            "y1": 328,
+            "x2": 1246,
+            "y2": 548
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1333,
+            "y1": 239,
+            "x2": 1417,
+            "y2": 320
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1423,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 550
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 103,
+            "y1": 468,
+            "x2": 233,
+            "y2": 545
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 164,
+            "y1": 402,
+            "x2": 263,
+            "y2": 469
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "014(袋菓子全部)",
+          "rect": {
+            "x1": 1130,
+            "y1": 241,
+            "x2": 1275,
+            "y2": 335
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1166,
+            "y1": 149,
+            "x2": 1225,
+            "y2": 245
+          },
+          "className": "can"
+        }
+      ]
+    },
+    {
+      "imageId": "066",
+      "boundingBoxes": [
+        {
+          "imageId": "066",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 440,
+            "x2": 16,
+            "y2": 481
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 653,
+            "y1": 683,
+            "x2": 1644,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1258,
+            "y1": 294,
+            "x2": 1352,
+            "y2": 364
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1078,
+            "y1": 305,
+            "x2": 1217,
+            "y2": 516
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1304,
+            "y1": 223,
+            "x2": 1383,
+            "y2": 299
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1385,
+            "y1": 0,
+            "x2": 1916,
+            "y2": 531
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 109,
+            "y1": 449,
+            "x2": 234,
+            "y2": 521
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 165,
+            "y1": 385,
+            "x2": 269,
+            "y2": 457
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "014(袋菓子全部)",
+          "rect": {
+            "x1": 1114,
+            "y1": 230,
+            "x2": 1251,
+            "y2": 317
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1143,
+            "y1": 141,
+            "x2": 1199,
+            "y2": 234
+          },
+          "className": "can"
+        }
+      ]
+    },
+    {
+      "imageId": "067",
+      "boundingBoxes": [
+        {
+          "imageId": "067",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1101,
+            "y1": 232,
+            "x2": 1200,
+            "y2": 313
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1241,
+            "y1": 291,
+            "x2": 1340,
+            "y2": 361
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1063,
+            "y1": 305,
+            "x2": 1203,
+            "y2": 515
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 636,
+            "y1": 688,
+            "x2": 1567,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1115,
+            "y1": 0,
+            "x2": 1750,
+            "y2": 519
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 91,
+            "y1": 462,
+            "x2": 213,
+            "y2": 531
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 1138,
+            "y1": 229,
+            "x2": 1229,
+            "y2": 306
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 148,
+            "y1": 391,
+            "x2": 254,
+            "y2": 467
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1130,
+            "y1": 142,
+            "x2": 1185,
+            "y2": 234
+          },
+          "className": "can"
+        }
+      ]
+    },
+    {
+      "imageId": "068",
+      "boundingBoxes": [
+        {
+          "imageId": "068",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1198,
+            "y1": 139,
+            "x2": 1318,
+            "y2": 178
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1255,
+            "y1": 217,
+            "x2": 1335,
+            "y2": 295
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1108,
+            "y1": 79,
+            "x2": 1177,
+            "y2": 179
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1043,
+            "y1": 309,
+            "x2": 1181,
+            "y2": 517
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1215,
+            "y1": 290,
+            "x2": 1309,
+            "y2": 360
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 649,
+            "y1": 774,
+            "x2": 1701,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1150,
+            "y1": 0,
+            "x2": 1798,
+            "y2": 513
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 69,
+            "y1": 496,
+            "x2": 193,
+            "y2": 574
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 1103,
+            "y1": 229,
+            "x2": 1203,
+            "y2": 308
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 121,
+            "y1": 430,
+            "x2": 226,
+            "y2": 503
+          },
+          "className": "cover"
+        }
+      ]
+    },
+    {
+      "imageId": "069",
+      "boundingBoxes": [
+        {
+          "imageId": "069",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 625,
+            "y1": 802,
+            "x2": 1592,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1183,
+            "y1": 231,
+            "x2": 1258,
+            "y2": 309
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1274,
+            "y1": 81,
+            "x2": 1346,
+            "y2": 153
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1240,
+            "y1": 143,
+            "x2": 1338,
+            "y2": 177
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 977,
+            "y1": 343,
+            "x2": 1132,
+            "y2": 565
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1151,
+            "y1": 306,
+            "x2": 1245,
+            "y2": 379
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1257,
+            "y1": 0,
+            "x2": 1674,
+            "y2": 502
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 2,
+            "y1": 615,
+            "x2": 119,
+            "y2": 694
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 1028,
+            "y1": 254,
+            "x2": 1139,
+            "y2": 330
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 45,
+            "y1": 540,
+            "x2": 146,
+            "y2": 627
+          },
+          "className": "cover"
+        }
+      ]
+    },
+    {
+      "imageId": "070",
+      "boundingBoxes": [
+        {
+          "imageId": "070",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1243,
+            "y1": 245,
+            "x2": 1302,
+            "y2": 279
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 608,
+            "y1": 823,
+            "x2": 1554,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1037,
+            "y1": 382,
+            "x2": 1113,
+            "y2": 469
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1283,
+            "y1": 188,
+            "x2": 1344,
+            "y2": 262
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 830,
+            "y1": 578,
+            "x2": 1020,
+            "y2": 770
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1011,
+            "y1": 469,
+            "x2": 1109,
+            "y2": 552
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1202,
+            "y1": 13,
+            "x2": 1767,
+            "y2": 566
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 877,
+            "y1": 415,
+            "x2": 998,
+            "y2": 511
+          },
+          "className": "packet"
+        }
+      ]
+    },
+    {
+      "imageId": "071",
+      "boundingBoxes": [
+        {
+          "imageId": "071",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 627,
+            "y1": 821,
+            "x2": 1644,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1278,
+            "y1": 419,
+            "x2": 1366,
+            "y2": 506
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1308,
+            "y1": 230,
+            "x2": 1388,
+            "y2": 340
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1278,
+            "y1": 325,
+            "x2": 1435,
+            "y2": 374
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1052,
+            "y1": 606,
+            "x2": 1217,
+            "y2": 816
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1231,
+            "y1": 506,
+            "x2": 1337,
+            "y2": 599
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1289,
+            "y1": 116,
+            "x2": 1919,
+            "y2": 642
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 793,
+            "x2": 101,
+            "y2": 861
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 1091,
+            "y1": 426,
+            "x2": 1216,
+            "y2": 531
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 18,
+            "y1": 705,
+            "x2": 119,
+            "y2": 794
+          },
+          "className": "cover"
+        }
+      ]
+    },
+    {
+      "imageId": "072",
+      "boundingBoxes": [
+        {
+          "imageId": "072",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1060,
+            "y1": 612,
+            "x2": 1222,
+            "y2": 814
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 653,
+            "y1": 805,
+            "x2": 1678,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1273,
+            "y1": 408,
+            "x2": 1363,
+            "y2": 497
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1306,
+            "y1": 231,
+            "x2": 1387,
+            "y2": 338
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1268,
+            "y1": 323,
+            "x2": 1420,
+            "y2": 356
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1231,
+            "y1": 497,
+            "x2": 1338,
+            "y2": 591
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1294,
+            "y1": 81,
+            "x2": 1919,
+            "y2": 615
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1,
+            "y1": 827,
+            "x2": 122,
+            "y2": 894
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 32,
+            "y1": 745,
+            "x2": 129,
+            "y2": 821
+          },
+          "className": "cover"
+        }
+      ]
+    },
+    {
+      "imageId": "073",
+      "boundingBoxes": [
+        {
+          "imageId": "073",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1211,
+            "y1": 547,
+            "x2": 1316,
+            "y2": 650
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 605,
+            "y1": 474,
+            "x2": 1574,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1005,
+            "y1": 727,
+            "x2": 1180,
+            "y2": 948
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1238,
+            "y1": 447,
+            "x2": 1336,
+            "y2": 537
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1269,
+            "y1": 239,
+            "x2": 1354,
+            "y2": 347
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1223,
+            "y1": 337,
+            "x2": 1398,
+            "y2": 380
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1250,
+            "y1": 67,
+            "x2": 1920,
+            "y2": 605
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 945,
+            "x2": 67,
+            "y2": 1009
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 1028,
+            "y1": 463,
+            "x2": 1159,
+            "y2": 587
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 0,
+            "y1": 863,
+            "x2": 49,
+            "y2": 940
+          },
+          "className": "cover"
+        }
+      ]
+    },
+    {
+      "imageId": "074",
+      "boundingBoxes": [
+        {
+          "imageId": "074",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1235,
+            "y1": 600,
+            "x2": 1336,
+            "y2": 691
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 592,
+            "y1": 484,
+            "x2": 1558,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 989,
+            "y1": 747,
+            "x2": 1164,
+            "y2": 938
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1276,
+            "y1": 496,
+            "x2": 1379,
+            "y2": 603
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1311,
+            "y1": 294,
+            "x2": 1414,
+            "y2": 409
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1272,
+            "y1": 400,
+            "x2": 1447,
+            "y2": 441
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1298,
+            "y1": 189,
+            "x2": 1920,
+            "y2": 707
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 0,
+            "y1": 855,
+            "x2": 30,
+            "y2": 917
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 1097,
+            "y1": 451,
+            "x2": 1172,
+            "y2": 616
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "074",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 0,
+            "y1": 765,
+            "x2": 31,
+            "y2": 846
+          },
+          "className": "cover"
+        }
+      ]
+    },
+    {
+      "imageId": "075",
+      "boundingBoxes": [
+        {
+          "imageId": "075",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1666,
+            "y1": 744,
+            "x2": 1747,
+            "y2": 823
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1753,
+            "y1": 712,
+            "x2": 1891,
+            "y2": 791
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 1233,
+            "y1": 348,
+            "x2": 1393,
+            "y2": 575
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 259,
+            "y1": 0,
+            "x2": 535,
+            "y2": 150
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 611,
+            "y1": 411,
+            "x2": 1588,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1430,
+            "y1": 699,
+            "x2": 1636,
+            "y2": 875
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 545,
+            "y1": 139,
+            "x2": 663,
+            "y2": 229
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1787,
+            "y1": 696,
+            "x2": 1920,
+            "y2": 1047
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "075",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 633,
+            "y1": 118,
+            "x2": 733,
+            "y2": 181
+          },
+          "className": "cover"
+        }
+      ]
+    },
+    {
+      "imageId": "076",
+      "boundingBoxes": [
+        {
+          "imageId": "076",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1717,
+            "y1": 983,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 975,
+            "y1": 379,
+            "x2": 1066,
+            "y2": 581
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 853,
+            "y1": 201,
+            "x2": 995,
+            "y2": 318
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 940,
+            "y1": 172,
+            "x2": 1075,
+            "y2": 262
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 412,
+            "y1": 0,
+            "x2": 713,
+            "y2": 114
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "076",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 631,
+            "y1": 421,
+            "x2": 1591,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "077",
+      "boundingBoxes": [
+        {
+          "imageId": "077",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 914,
+            "y1": 445,
+            "x2": 1115,
+            "y2": 591
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 938,
+            "y1": 333,
+            "x2": 1155,
+            "y2": 458
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 915,
+            "y1": 471,
+            "x2": 1034,
+            "y2": 543
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 81,
+            "x2": 285,
+            "y2": 422
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "077",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 647,
+            "y1": 421,
+            "x2": 1645,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "078",
+      "boundingBoxes": [
+        {
+          "imageId": "078",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1866,
+            "y1": 167,
+            "x2": 1919,
+            "y2": 221
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1786,
+            "y1": 87,
+            "x2": 1874,
+            "y2": 147
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 715,
+            "x2": 47,
+            "y2": 954
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1880,
+            "y1": 112,
+            "x2": 1920,
+            "y2": 167
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1838,
+            "y1": 267,
+            "x2": 1920,
+            "y2": 366
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1875,
+            "y1": 219,
+            "x2": 1920,
+            "y2": 261
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 920,
+            "y1": 567,
+            "x2": 1071,
+            "y2": 676
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1797,
+            "y1": 144,
+            "x2": 1886,
+            "y2": 178
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 894,
+            "y1": 533,
+            "x2": 1084,
+            "y2": 690
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 844,
+            "y1": 443,
+            "x2": 1026,
+            "y2": 582
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "078",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 621,
+            "y1": 564,
+            "x2": 1642,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "079",
+      "boundingBoxes": [
+        {
+          "imageId": "079",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1670,
+            "y1": 129,
+            "x2": 1857,
+            "y2": 253
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 851,
+            "x2": 91,
+            "y2": 1074
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 1023,
+            "y1": 538,
+            "x2": 1177,
+            "y2": 606
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1662,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 155
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1651,
+            "y1": 84,
+            "x2": 1722,
+            "y2": 132
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1565,
+            "y1": 19,
+            "x2": 1630,
+            "y2": 76
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1575,
+            "y1": 72,
+            "x2": 1664,
+            "y2": 95
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1674,
+            "y1": 131,
+            "x2": 1727,
+            "y2": 158
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1007,
+            "y1": 492,
+            "x2": 1208,
+            "y2": 629
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 810,
+            "y1": 419,
+            "x2": 974,
+            "y2": 562
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 614,
+            "y1": 525,
+            "x2": 1538,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "080",
+      "boundingBoxes": [
+        {
+          "imageId": "080",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 1040,
+            "y1": 479,
+            "x2": 1214,
+            "y2": 571
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1029,
+            "y1": 431,
+            "x2": 1247,
+            "y2": 593
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1558,
+            "y1": 49,
+            "x2": 1728,
+            "y2": 165
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 930,
+            "x2": 128,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1546,
+            "y1": 58,
+            "x2": 1601,
+            "y2": 86
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1562,
+            "y1": 0,
+            "x2": 1774,
+            "y2": 70
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1528,
+            "y1": 12,
+            "x2": 1588,
+            "y2": 57
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1461,
+            "y1": 12,
+            "x2": 1533,
+            "y2": 25
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1442,
+            "y1": 0,
+            "x2": 1485,
+            "y2": 11
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 762,
+            "y1": 390,
+            "x2": 924,
+            "y2": 541
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "080",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 615,
+            "y1": 461,
+            "x2": 1565,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "081",
+      "boundingBoxes": [
+        {
+          "imageId": "081",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1524,
+            "y1": 47,
+            "x2": 1574,
+            "y2": 71
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 937,
+            "x2": 127,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 1023,
+            "y1": 480,
+            "x2": 1187,
+            "y2": 577
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 1004,
+            "y1": 441,
+            "x2": 1219,
+            "y2": 590
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1506,
+            "y1": 1,
+            "x2": 1565,
+            "y2": 46
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1540,
+            "y1": 34,
+            "x2": 1707,
+            "y2": 153
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1542,
+            "y1": 0,
+            "x2": 1736,
+            "y2": 60
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1434,
+            "y1": 0,
+            "x2": 1510,
+            "y2": 13
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 759,
+            "y1": 381,
+            "x2": 922,
+            "y2": 528
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "081",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 628,
+            "y1": 472,
+            "x2": 1596,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "082",
+      "boundingBoxes": [
+        {
+          "imageId": "082",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1420,
+            "y1": 0,
+            "x2": 1468,
+            "y2": 22
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 990,
+            "x2": 116,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1442,
+            "y1": 19,
+            "x2": 1488,
+            "y2": 41
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 985,
+            "y1": 403,
+            "x2": 1174,
+            "y2": 507
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 958,
+            "y1": 340,
+            "x2": 1211,
+            "y2": 516
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1455,
+            "y1": 9,
+            "x2": 1615,
+            "y2": 115
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1530,
+            "y1": 0,
+            "x2": 1614,
+            "y2": 21
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 708,
+            "y1": 387,
+            "x2": 869,
+            "y2": 532
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "082",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 609,
+            "y1": 367,
+            "x2": 1595,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "083",
+      "boundingBoxes": [
+        {
+          "imageId": "083",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 961,
+            "y1": 393,
+            "x2": 1155,
+            "y2": 499
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 1017,
+            "x2": 104,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1386,
+            "y1": 9,
+            "x2": 1433,
+            "y2": 28
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 937,
+            "y1": 333,
+            "x2": 1189,
+            "y2": 511
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1404,
+            "y1": 0,
+            "x2": 1555,
+            "y2": 104
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1518,
+            "y1": 0,
+            "x2": 1546,
+            "y2": 6
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 682,
+            "y1": 394,
+            "x2": 836,
+            "y2": 549
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "083",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 587,
+            "y1": 358,
+            "x2": 1553,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "084",
+      "boundingBoxes": [
+        {
+          "imageId": "084",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 846,
+            "y1": 465,
+            "x2": 1002,
+            "y2": 601
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1496,
+            "y1": 0,
+            "x2": 1560,
+            "y2": 34
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 962,
+            "x2": 98,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 816,
+            "y1": 422,
+            "x2": 1016,
+            "y2": 604
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1526,
+            "y1": 30,
+            "x2": 1699,
+            "y2": 145
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1558,
+            "y1": 0,
+            "x2": 1721,
+            "y2": 51
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1515,
+            "y1": 37,
+            "x2": 1571,
+            "y2": 63
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 756,
+            "y1": 360,
+            "x2": 917,
+            "y2": 505
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "084",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 698,
+            "y1": 435,
+            "x2": 1652,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "085",
+      "boundingBoxes": [
+        {
+          "imageId": "085",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 963,
+            "x2": 120,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1627,
+            "y1": 0,
+            "x2": 1821,
+            "y2": 56
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "004(容器)",
+          "rect": {
+            "x1": 929,
+            "y1": 513,
+            "x2": 1133,
+            "y2": 702
+          },
+          "className": "tray"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1519,
+            "y1": 0,
+            "x2": 1597,
+            "y2": 11
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 952,
+            "y1": 549,
+            "x2": 1114,
+            "y2": 690
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1592,
+            "y1": 1,
+            "x2": 1662,
+            "y2": 49
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1635,
+            "y1": 45,
+            "x2": 1829,
+            "y2": 164
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1613,
+            "y1": 49,
+            "x2": 1671,
+            "y2": 77
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "005(蓋)",
+          "rect": {
+            "x1": 868,
+            "y1": 386,
+            "x2": 1043,
+            "y2": 571
+          },
+          "className": "cover"
+        },
+        {
+          "imageId": "085",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 617,
+            "y1": 372,
+            "x2": 1543,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "086",
+      "boundingBoxes": [
+        {
+          "imageId": "086",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 1005,
+            "x2": 180,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 951,
+            "y1": 458,
+            "x2": 1081,
+            "y2": 588
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "009(蓋閉容器)",
+          "rect": {
+            "x1": 904,
+            "y1": 393,
+            "x2": 1110,
+            "y2": 599
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1519,
+            "y1": 0,
+            "x2": 1703,
+            "y2": 63
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "086",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 650,
+            "y1": 378,
+            "x2": 1626,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "087",
+      "boundingBoxes": [
+        {
+          "imageId": "087",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 913,
+            "y1": 619,
+            "x2": 1069,
+            "y2": 749
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "087",
+          "instanceId": "009(蓋閉容器)",
+          "rect": {
+            "x1": 883,
+            "y1": 564,
+            "x2": 1095,
+            "y2": 756
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "087",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1304,
+            "y1": 0,
+            "x2": 1443,
+            "y2": 76
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "087",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 663,
+            "y1": 543,
+            "x2": 1616,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "088",
+      "boundingBoxes": [
+        {
+          "imageId": "088",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1346,
+            "y1": 9,
+            "x2": 1404,
+            "y2": 52
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "088",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 939,
+            "y1": 645,
+            "x2": 1076,
+            "y2": 769
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "088",
+          "instanceId": "009(蓋閉容器)",
+          "rect": {
+            "x1": 923,
+            "y1": 599,
+            "x2": 1103,
+            "y2": 788
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "088",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1351,
+            "y1": 0,
+            "x2": 1507,
+            "y2": 37
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "088",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1413,
+            "y1": 38,
+            "x2": 1564,
+            "y2": 154
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "088",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1278,
+            "y1": 10,
+            "x2": 1353,
+            "y2": 25
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "088",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1262,
+            "y1": 0,
+            "x2": 1294,
+            "y2": 16
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "088",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1375,
+            "y1": 54,
+            "x2": 1428,
+            "y2": 76
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "088",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 615,
+            "y1": 607,
+            "x2": 1727,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "089",
+      "boundingBoxes": [
+        {
+          "imageId": "089",
+          "instanceId": "009(蓋閉容器)",
+          "rect": {
+            "x1": 972,
+            "y1": 496,
+            "x2": 1176,
+            "y2": 715
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "003(ポット)",
+          "rect": {
+            "x1": 1515,
+            "y1": 55,
+            "x2": 1679,
+            "y2": 168
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 990,
+            "y1": 534,
+            "x2": 1145,
+            "y2": 685
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1460,
+            "y1": 0,
+            "x2": 1670,
+            "y2": 65
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "015(コップ)",
+          "rect": {
+            "x1": 1466,
+            "y1": 19,
+            "x2": 1525,
+            "y2": 64
+          },
+          "className": "mug"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "010(ピンク菓子)",
+          "rect": {
+            "x1": 1392,
+            "y1": 15,
+            "x2": 1467,
+            "y2": 30
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "011(ポテト菓子)",
+          "rect": {
+            "x1": 1376,
+            "y1": 0,
+            "x2": 1416,
+            "y2": 19
+          },
+          "className": "can"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "008(ティーバッグ1個)",
+          "rect": {
+            "x1": 1487,
+            "y1": 60,
+            "x2": 1538,
+            "y2": 89
+          },
+          "className": "tea_bag"
+        },
+        {
+          "imageId": "089",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 587,
+            "y1": 553,
+            "x2": 1675,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "090",
+      "boundingBoxes": [
+        {
+          "imageId": "090",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 986,
+            "y1": 426,
+            "x2": 1158,
+            "y2": 657
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "090",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 414,
+            "x2": 78,
+            "y2": 713
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "090",
+          "instanceId": "009(蓋閉容器)",
+          "rect": {
+            "x1": 942,
+            "y1": 373,
+            "x2": 1202,
+            "y2": 708
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "090",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 566,
+            "y1": 478,
+            "x2": 1531,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "091",
+      "boundingBoxes": [
+        {
+          "imageId": "091",
+          "instanceId": "009(蓋閉容器)",
+          "rect": {
+            "x1": 911,
+            "y1": 326,
+            "x2": 1149,
+            "y2": 621
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "091",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 941,
+            "y1": 404,
+            "x2": 1100,
+            "y2": 591
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "091",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 747,
+            "y1": 0,
+            "x2": 1102,
+            "y2": 235
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "091",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 650,
+            "y1": 465,
+            "x2": 1723,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "092",
+      "boundingBoxes": [
+        {
+          "imageId": "092",
+          "instanceId": "009(蓋閉容器)",
+          "rect": {
+            "x1": 832,
+            "y1": 352,
+            "x2": 1088,
+            "y2": 636
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "092",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 458,
+            "y1": 0,
+            "x2": 1216,
+            "y2": 561
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "092",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 880,
+            "y1": 422,
+            "x2": 1055,
+            "y2": 608
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "092",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 613,
+            "y1": 503,
+            "x2": 1575,
+            "y2": 1078
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "093",
+      "boundingBoxes": [
+        {
+          "imageId": "093",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 765,
+            "y1": 490,
+            "x2": 953,
+            "y2": 689
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "093",
+          "instanceId": "009(蓋閉容器)",
+          "rect": {
+            "x1": 707,
+            "y1": 432,
+            "x2": 984,
+            "y2": 714
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "093",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1438,
+            "y2": 751
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "093",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 592,
+            "y1": 337,
+            "x2": 1523,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "094",
+      "boundingBoxes": [
+        {
+          "imageId": "094",
+          "instanceId": "009(蓋閉容器)",
+          "rect": {
+            "x1": 901,
+            "y1": 340,
+            "x2": 1158,
+            "y2": 644
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "094",
+          "instanceId": "012(残り)",
+          "rect": {
+            "x1": 939,
+            "y1": 420,
+            "x2": 1104,
+            "y2": 615
+          },
+          "className": "packet"
+        },
+        {
+          "imageId": "094",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 805
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "094",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 595,
+            "y1": 499,
+            "x2": 1585,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "095",
+      "boundingBoxes": [
+        {
+          "imageId": "095",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1034
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "095",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 530,
+            "y1": 0,
+            "x2": 1821,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "096",
+      "boundingBoxes": [
+        {
+          "imageId": "096",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "096",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 389,
+            "y1": 0,
+            "x2": 1777,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "097",
+      "boundingBoxes": [
+        {
+          "imageId": "097",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 954
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "097",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 338,
+            "y1": 712,
+            "x2": 1864,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "098",
+      "boundingBoxes": [
+        {
+          "imageId": "098",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1480,
+            "y2": 754
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "098",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 625,
+            "y1": 414,
+            "x2": 1658,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "099",
+      "boundingBoxes": [
+        {
+          "imageId": "099",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1530,
+            "y2": 705
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "099",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 625,
+            "y1": 321,
+            "x2": 1607,
+            "y2": 1079
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "100",
+      "boundingBoxes": [
+        {
+          "imageId": "100",
+          "instanceId": "006(戸棚)",
+          "rect": {
+            "x1": 165,
+            "y1": 0,
+            "x2": 1888,
+            "y2": 717
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "100",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 634,
+            "y1": 323,
+            "x2": 1600,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    }
+  ],
+  "utterances": [
+    {
+      "text": "は。そろそろおやつでも食べよっかな。準備手伝ってくれる？",
+      "phrases": [
+        {
+          "text": "は。",
+          "relations": []
+        },
+        {
+          "text": "そろそろ",
+          "relations": []
+        },
+        {
+          "text": "おやつでも",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "010(ピンク菓子)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "011(ポテト菓子)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "012(残り)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "014(袋菓子全部)"
+            }
+          ]
+        },
+        {
+          "text": "食べよっかな。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "準備",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "手伝ってくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "分かりました。飲み物は何を用意しますか？",
+      "phrases": [
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "飲み物は",
+          "relations": []
+        },
+        {
+          "text": "何を",
+          "relations": []
+        },
+        {
+          "text": "用意しますか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "温かいものが良いかな。あこのポットにまだお湯って残ってる？",
+      "phrases": [
+        {
+          "text": "温かい",
+          "relations": []
+        },
+        {
+          "text": "ものが",
+          "relations": []
+        },
+        {
+          "text": "良いかな。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "あ",
+          "relations": []
+        },
+        {
+          "text": "この",
+          "relations": []
+        },
+        {
+          "text": "ポットに",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(ポット)"
+            }
+          ]
+        },
+        {
+          "text": "まだ",
+          "relations": []
+        },
+        {
+          "text": "お湯って",
+          "relations": []
+        },
+        {
+          "text": "残ってる？",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "003(ポット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "そうですねー",
+      "phrases": [
+        {
+          "text": "そうですねー",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "水が足りないと思います。水を入れてきますね。",
+      "phrases": [
+        {
+          "text": "水が",
+          "relations": []
+        },
+        {
+          "text": "足りないと",
+          "relations": []
+        },
+        {
+          "text": "思います。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "水を",
+          "relations": []
+        },
+        {
+          "text": "入れてきますね。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "003(ポット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うんありがとう。ついでにティーバッグも持って来て。",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "ありがとう。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "ついでに",
+          "relations": []
+        },
+        {
+          "text": "ティー",
+          "relations": []
+        },
+        {
+          "text": "バッグも",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "008(ティーバッグ1個)"
+            }
+          ]
+        },
+        {
+          "text": "持って来て。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "分かりました。",
+      "phrases": [
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "コーヒーの入ってる戸棚に入っていますね？",
+      "phrases": [
+        {
+          "text": "コーヒーの",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "007(コーヒー)"
+            }
+          ]
+        },
+        {
+          "text": "入ってる",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "007(コーヒー)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "006(戸棚)"
+            }
+          ]
+        },
+        {
+          "text": "戸棚に",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(戸棚)"
+            }
+          ]
+        },
+        {
+          "text": "入っていますね？",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "006(戸棚)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うんそうだね。",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "そうだね。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "じゃあその間にお菓子の準備しよっかな。",
+      "phrases": [
+        {
+          "text": "じゃあ",
+          "relations": []
+        },
+        {
+          "text": "その",
+          "relations": []
+        },
+        {
+          "text": "間に",
+          "relations": []
+        },
+        {
+          "text": "お菓子の",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "010(ピンク菓子)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "011(ポテト菓子)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "012(残り)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "014(袋菓子全部)"
+            }
+          ]
+        },
+        {
+          "text": "準備しよっかな。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うーん全部は多いかな。",
+      "phrases": [
+        {
+          "text": "うーん",
+          "relations": []
+        },
+        {
+          "text": "全部は",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "010(ピンク菓子)"
+            },
+            {
+              "type": "=",
+              "instanceId": "011(ポテト菓子)"
+            },
+            {
+              "type": "=",
+              "instanceId": "014(袋菓子全部)"
+            }
+          ]
+        },
+        {
+          "text": "多いかな。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "010(ピンク菓子)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "011(ポテト菓子)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "014(袋菓子全部)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "どうぞ、持ってきました。お菓子は分けますか？",
+      "phrases": [
+        {
+          "text": "どうぞ、",
+          "relations": []
+        },
+        {
+          "text": "持ってきました。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(ティーバッグ1個)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "015(コップ)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "013(ティーバッグ集合体)"
+            }
+          ]
+        },
+        {
+          "text": "お菓子は",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "010(ピンク菓子)"
+            },
+            {
+              "type": "=",
+              "instanceId": "011(ポテト菓子)"
+            },
+            {
+              "type": "=",
+              "instanceId": "012(残り)"
+            },
+            {
+              "type": "=",
+              "instanceId": "014(袋菓子全部)"
+            }
+          ]
+        },
+        {
+          "text": "分けますか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "010(ピンク菓子)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "011(ポテト菓子)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "012(残り)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "014(袋菓子全部)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うんありがとう。",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "ありがとう。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "そうだね。じゃあ、今日はこれとこれにして、残りはえーとお菓子の容器に入れておいてくれる？",
+      "phrases": [
+        {
+          "text": "そうだね。",
+          "relations": []
+        },
+        {
+          "text": "じゃあ、",
+          "relations": []
+        },
+        {
+          "text": "今日は",
+          "relations": []
+        },
+        {
+          "text": "これと",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "010(ピンク菓子)"
+            }
+          ]
+        },
+        {
+          "text": "これに",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "011(ポテト菓子)"
+            }
+          ]
+        },
+        {
+          "text": "して、",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "011(ポテト菓子)"
+            },
+            {
+              "type": "ト",
+              "instanceId": "010(ピンク菓子)"
+            }
+          ]
+        },
+        {
+          "text": "残りは",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "010(ピンク菓子)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "011(ポテト菓子)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "012(残り)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "014(袋菓子全部)"
+            }
+          ]
+        },
+        {
+          "text": "えーと",
+          "relations": []
+        },
+        {
+          "text": "お菓子の",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "010(ピンク菓子)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "011(ポテト菓子)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "012(残り)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "014(袋菓子全部)"
+            }
+          ]
+        },
+        {
+          "text": "容器に",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "004(容器)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "009(蓋閉容器)"
+            }
+          ]
+        },
+        {
+          "text": "入れておいてくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "004(容器)"
+            },
+            {
+              "type": "ニ≒",
+              "instanceId": "009(蓋閉容器)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい分かりました。",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "入れました。",
+      "phrases": [
+        {
+          "text": "入れました。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "004(容器)"
+            },
+            {
+              "type": "ニ≒",
+              "instanceId": "009(蓋閉容器)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ありがとう。じゃあ、蓋を閉めて、戸棚にしまっておいてくれる？",
+      "phrases": [
+        {
+          "text": "ありがとう。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "じゃあ、",
+          "relations": []
+        },
+        {
+          "text": "蓋を",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "004(容器)"
+            },
+            {
+              "type": "=",
+              "instanceId": "005(蓋)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "009(蓋閉容器)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "009(蓋閉容器)"
+            }
+          ]
+        },
+        {
+          "text": "閉めて、",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(蓋)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "009(蓋閉容器)"
+            }
+          ]
+        },
+        {
+          "text": "戸棚に",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(戸棚)"
+            }
+          ]
+        },
+        {
+          "text": "しまっておいてくれる？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "006(戸棚)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "004(容器)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "009(蓋閉容器)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "戸棚の上の段ですね？",
+      "phrases": [
+        {
+          "text": "戸棚の",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(戸棚)"
+            }
+          ]
+        },
+        {
+          "text": "上の",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "006(戸棚)"
+            }
+          ]
+        },
+        {
+          "text": "段ですね？",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "そうだね。",
+      "phrases": [
+        {
+          "text": "そうだね。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "はい分かりました。",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4436 @@
+{
+  "scenarioId": "20230523-57194284-0",
+  "images": [
+    {
+      "imageId": "001",
+      "boundingBoxes": [
+        {
+          "imageId": "001",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 924,
+            "y1": 0,
+            "x2": 1123,
+            "y2": 595
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 973,
+            "y1": 254,
+            "x2": 1886,
+            "y2": 817
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1103,
+            "y1": 386,
+            "x2": 1244,
+            "y2": 518
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1118,
+            "y1": 493,
+            "x2": 1215,
+            "y2": 532
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 860,
+            "y1": 1012,
+            "x2": 1345,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 848,
+            "y1": 192,
+            "x2": 898,
+            "y2": 218
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "002",
+      "boundingBoxes": [
+        {
+          "imageId": "002",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 928,
+            "y1": 3,
+            "x2": 1129,
+            "y2": 608
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 979,
+            "y1": 269,
+            "x2": 1897,
+            "y2": 821
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1124,
+            "y1": 495,
+            "x2": 1222,
+            "y2": 534
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 869,
+            "y1": 1020,
+            "x2": 1332,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1109,
+            "y1": 397,
+            "x2": 1245,
+            "y2": 523
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 854,
+            "y1": 198,
+            "x2": 903,
+            "y2": 231
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "003",
+      "boundingBoxes": [
+        {
+          "imageId": "003",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 905,
+            "y1": 23,
+            "x2": 1131,
+            "y2": 537
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 972,
+            "y1": 250,
+            "x2": 1887,
+            "y2": 825
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1118,
+            "y1": 499,
+            "x2": 1216,
+            "y2": 548
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 868,
+            "y1": 1023,
+            "x2": 1336,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1101,
+            "y1": 397,
+            "x2": 1241,
+            "y2": 528
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 746,
+            "y1": 206,
+            "x2": 824,
+            "y2": 288
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "004",
+      "boundingBoxes": [
+        {
+          "imageId": "004",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 908,
+            "y1": 6,
+            "x2": 1134,
+            "y2": 600
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 972,
+            "y1": 253,
+            "x2": 1890,
+            "y2": 812
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 846,
+            "y1": 201,
+            "x2": 896,
+            "y2": 226
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "box",
+          "rect": {
+            "x1": 1380,
+            "y1": 317,
+            "x2": 1454,
+            "y2": 408
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 868,
+            "y1": 1017,
+            "x2": 1389,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1072,
+            "y1": 303,
+            "x2": 1212,
+            "y2": 439
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1121,
+            "y1": 460,
+            "x2": 1218,
+            "y2": 530
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "005",
+      "boundingBoxes": [
+        {
+          "imageId": "005",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 896,
+            "y1": 21,
+            "x2": 1205,
+            "y2": 597
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 971,
+            "y1": 252,
+            "x2": 1895,
+            "y2": 814
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 843,
+            "y1": 195,
+            "x2": 895,
+            "y2": 224
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 738,
+            "y1": 948,
+            "x2": 1393,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1121,
+            "y1": 457,
+            "x2": 1216,
+            "y2": 521
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1068,
+            "y1": 340,
+            "x2": 1228,
+            "y2": 470
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "006",
+      "boundingBoxes": [
+        {
+          "imageId": "006",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 895,
+            "y1": 24,
+            "x2": 1244,
+            "y2": 600
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 973,
+            "y1": 242,
+            "x2": 1894,
+            "y2": 808
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 840,
+            "y1": 190,
+            "x2": 892,
+            "y2": 218
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 752,
+            "y1": 1001,
+            "x2": 1377,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1087,
+            "y1": 324,
+            "x2": 1229,
+            "y2": 439
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1120,
+            "y1": 451,
+            "x2": 1214,
+            "y2": 516
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "007",
+      "boundingBoxes": [
+        {
+          "imageId": "007",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 883,
+            "y1": 36,
+            "x2": 1261,
+            "y2": 592
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 961,
+            "y1": 235,
+            "x2": 1886,
+            "y2": 803
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 833,
+            "y1": 186,
+            "x2": 885,
+            "y2": 213
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 834,
+            "y1": 1017,
+            "x2": 1393,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1096,
+            "y1": 339,
+            "x2": 1229,
+            "y2": 441
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1115,
+            "y1": 448,
+            "x2": 1208,
+            "y2": 510
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "008",
+      "boundingBoxes": [
+        {
+          "imageId": "008",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 862,
+            "y1": 33,
+            "x2": 1111,
+            "y2": 590
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 1182,
+            "y1": 463,
+            "x2": 1261,
+            "y2": 535
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 944,
+            "y1": 226,
+            "x2": 1866,
+            "y2": 809
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 812,
+            "y1": 183,
+            "x2": 868,
+            "y2": 216
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1109,
+            "y1": 454,
+            "x2": 1197,
+            "y2": 516
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 832,
+            "y1": 1016,
+            "x2": 1377,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1053,
+            "y1": 337,
+            "x2": 1193,
+            "y2": 480
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "009",
+      "boundingBoxes": [
+        {
+          "imageId": "009",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 850,
+            "y1": 54,
+            "x2": 1118,
+            "y2": 586
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 1159,
+            "y1": 458,
+            "x2": 1235,
+            "y2": 531
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 922,
+            "y1": 229,
+            "x2": 1818,
+            "y2": 794
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 786,
+            "y1": 188,
+            "x2": 838,
+            "y2": 217
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 826,
+            "y1": 1009,
+            "x2": 1395,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1071,
+            "y1": 466,
+            "x2": 1171,
+            "y2": 510
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1045,
+            "y1": 362,
+            "x2": 1179,
+            "y2": 491
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "010",
+      "boundingBoxes": [
+        {
+          "imageId": "010",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 743,
+            "y1": 0,
+            "x2": 1065,
+            "y2": 562
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 1122,
+            "y1": 468,
+            "x2": 1207,
+            "y2": 545
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 862,
+            "y1": 200,
+            "x2": 1787,
+            "y2": 812
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 704,
+            "y1": 175,
+            "x2": 759,
+            "y2": 205
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1022,
+            "y1": 487,
+            "x2": 1136,
+            "y2": 525
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1201,
+            "y1": 1065,
+            "x2": 1236,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1004,
+            "y1": 367,
+            "x2": 1157,
+            "y2": 511
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "011",
+      "boundingBoxes": [
+        {
+          "imageId": "011",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 503,
+            "y1": 0,
+            "x2": 885,
+            "y2": 669
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 991,
+            "y1": 561,
+            "x2": 1074,
+            "y2": 657
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 717,
+            "y1": 226,
+            "x2": 1686,
+            "y2": 902
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 886,
+            "y1": 592,
+            "x2": 1001,
+            "y2": 640
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 847,
+            "y1": 471,
+            "x2": 1006,
+            "y2": 629
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 784,
+            "y1": 883,
+            "x2": 1375,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "012",
+      "boundingBoxes": [
+        {
+          "imageId": "012",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 455,
+            "y1": 14,
+            "x2": 885,
+            "y2": 679
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 990,
+            "y1": 645,
+            "x2": 1079,
+            "y2": 751
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 693,
+            "y1": 249,
+            "x2": 1723,
+            "y2": 1015
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 877,
+            "y1": 691,
+            "x2": 998,
+            "y2": 732
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 833,
+            "y1": 558,
+            "x2": 1003,
+            "y2": 715
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 742,
+            "y1": 894,
+            "x2": 1338,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "013",
+      "boundingBoxes": [
+        {
+          "imageId": "013",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 471,
+            "y1": 72,
+            "x2": 908,
+            "y2": 728
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 705,
+            "y1": 300,
+            "x2": 1717,
+            "y2": 1039
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 829,
+            "y1": 597,
+            "x2": 995,
+            "y2": 754
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 931,
+            "y1": 1042,
+            "x2": 1073,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 875,
+            "y1": 722,
+            "x2": 987,
+            "y2": 768
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "014",
+      "boundingBoxes": [
+        {
+          "imageId": "014",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1047,
+            "y1": 0,
+            "x2": 1477,
+            "y2": 757
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 1450,
+            "y1": 770,
+            "x2": 1514,
+            "y2": 844
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 1120,
+            "y1": 378,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1326,
+            "y1": 756,
+            "x2": 1455,
+            "y2": 827
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1319,
+            "y1": 648,
+            "x2": 1565,
+            "y2": 812
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 995,
+            "y1": 1045,
+            "x2": 1103,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 949,
+            "y1": 204,
+            "x2": 1013,
+            "y2": 243
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "015",
+      "boundingBoxes": [
+        {
+          "imageId": "015",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1255,
+            "y1": 209,
+            "x2": 1920,
+            "y2": 1040
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 1532,
+            "y1": 838,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 935,
+            "y1": 454,
+            "x2": 1043,
+            "y2": 526
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 643,
+            "y1": 855,
+            "x2": 1431,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "016",
+      "boundingBoxes": [
+        {
+          "imageId": "016",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 810,
+            "y1": 938,
+            "x2": 1254,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 871,
+            "y1": 921,
+            "x2": 1026,
+            "y2": 1041
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1351,
+            "y1": 475,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 1417,
+            "y1": 348,
+            "x2": 1919,
+            "y2": 625
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "017",
+      "boundingBoxes": [
+        {
+          "imageId": "017",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 778,
+            "y1": 877,
+            "x2": 1398,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 642,
+            "y1": 0,
+            "x2": 1145,
+            "y2": 907
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1295,
+            "y1": 517,
+            "x2": 1404,
+            "y2": 584
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1295,
+            "y1": 413,
+            "x2": 1429,
+            "y2": 566
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 927,
+            "y1": 214,
+            "x2": 1641,
+            "y2": 821
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 1281,
+            "y1": 452,
+            "x2": 1312,
+            "y2": 492
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 1272,
+            "y1": 861,
+            "x2": 1431,
+            "y2": 1045
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "018",
+      "boundingBoxes": [
+        {
+          "imageId": "018",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 680,
+            "y1": 800,
+            "x2": 1374,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 881,
+            "y1": 709,
+            "x2": 991,
+            "y2": 765
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 830,
+            "y1": 547,
+            "x2": 997,
+            "y2": 756
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 546,
+            "y1": 93,
+            "x2": 1361,
+            "y2": 851
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "004(布巾)",
+          "rect": {
+            "x1": 1142,
+            "y1": 792,
+            "x2": 1338,
+            "y2": 952
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 988,
+            "y1": 612,
+            "x2": 1050,
+            "y2": 673
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 267,
+            "x2": 573,
+            "y2": 843
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "019",
+      "boundingBoxes": [
+        {
+          "imageId": "019",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 762,
+            "y1": 612,
+            "x2": 1424,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 679,
+            "y1": 497,
+            "x2": 948,
+            "y2": 718
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 513,
+            "y1": 80,
+            "x2": 1898,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 906,
+            "y1": 657,
+            "x2": 948,
+            "y2": 719
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 326,
+            "y1": 0,
+            "x2": 870,
+            "y2": 390
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "020",
+      "boundingBoxes": [
+        {
+          "imageId": "020",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 712,
+            "y1": 615,
+            "x2": 979,
+            "y2": 816
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 605,
+            "y1": 171,
+            "x2": 1916,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 939,
+            "y1": 822,
+            "x2": 1096,
+            "y2": 954
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 929,
+            "y1": 708,
+            "x2": 1059,
+            "y2": 841
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 463,
+            "y1": 0,
+            "x2": 995,
+            "y2": 458
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 854,
+            "y1": 834,
+            "x2": 1467,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "021",
+      "boundingBoxes": [
+        {
+          "imageId": "021",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 617,
+            "y1": 767,
+            "x2": 873,
+            "y2": 944
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 510,
+            "y1": 227,
+            "x2": 1918,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 893,
+            "y1": 820,
+            "x2": 1035,
+            "y2": 925
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 897,
+            "y1": 746,
+            "x2": 1016,
+            "y2": 834
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 274,
+            "y1": 0,
+            "x2": 879,
+            "y2": 624
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 827,
+            "y1": 833,
+            "x2": 1417,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "022",
+      "boundingBoxes": [
+        {
+          "imageId": "022",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 715,
+            "y1": 685,
+            "x2": 976,
+            "y2": 874
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 606,
+            "y1": 243,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 917,
+            "y1": 713,
+            "x2": 1077,
+            "y2": 964
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 279,
+            "y1": 0,
+            "x2": 939,
+            "y2": 538
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 862,
+            "y1": 623,
+            "x2": 1559,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 1044,
+            "y1": 588,
+            "x2": 1154,
+            "y2": 737
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "023",
+      "boundingBoxes": [
+        {
+          "imageId": "023",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 605,
+            "y1": 155,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 743,
+            "y1": 689,
+            "x2": 1051,
+            "y2": 896
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 985,
+            "y1": 685,
+            "x2": 1152,
+            "y2": 972
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 174,
+            "y1": 0,
+            "x2": 1089,
+            "y2": 492
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 928,
+            "y1": 368,
+            "x2": 1617,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 837,
+            "y1": 516,
+            "x2": 1007,
+            "y2": 670
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "024",
+      "boundingBoxes": [
+        {
+          "imageId": "024",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 749,
+            "y1": 425,
+            "x2": 939,
+            "y2": 607
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 636,
+            "y1": 94,
+            "x2": 1869,
+            "y2": 932
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 925,
+            "y1": 476,
+            "x2": 1068,
+            "y2": 721
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 825,
+            "y1": 547,
+            "x2": 943,
+            "y2": 613
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 558,
+            "y1": 0,
+            "x2": 920,
+            "y2": 437
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 755,
+            "y1": 876,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 801,
+            "y1": 374,
+            "x2": 921,
+            "y2": 445
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "025",
+      "boundingBoxes": [
+        {
+          "imageId": "025",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 907,
+            "y1": 404,
+            "x2": 1090,
+            "y2": 573
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 750,
+            "y1": 116,
+            "x2": 1823,
+            "y2": 887
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 1058,
+            "y1": 449,
+            "x2": 1225,
+            "y2": 673
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 958,
+            "y1": 543,
+            "x2": 1069,
+            "y2": 586
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 730,
+            "y1": 858,
+            "x2": 1430,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 917,
+            "y1": 380,
+            "x2": 1014,
+            "y2": 440
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 611,
+            "y1": 0,
+            "x2": 1037,
+            "y2": 412
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "026",
+      "boundingBoxes": [
+        {
+          "imageId": "026",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 913,
+            "y1": 487,
+            "x2": 1122,
+            "y2": 677
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 702,
+            "y1": 74,
+            "x2": 1771,
+            "y2": 932
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 1076,
+            "y1": 492,
+            "x2": 1292,
+            "y2": 756
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 611,
+            "y1": 245,
+            "x2": 846,
+            "y2": 499
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 736,
+            "y1": 840,
+            "x2": 1485,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 887,
+            "y1": 453,
+            "x2": 1022,
+            "y2": 545
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "027",
+      "boundingBoxes": [
+        {
+          "imageId": "027",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1025,
+            "y1": 590,
+            "x2": 1248,
+            "y2": 829
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 657,
+            "y1": 0,
+            "x2": 1772,
+            "y2": 1038
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 1186,
+            "y1": 532,
+            "x2": 1402,
+            "y2": 839
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 709,
+            "y1": 729,
+            "x2": 1356,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 897,
+            "y1": 516,
+            "x2": 1067,
+            "y2": 653
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 233,
+            "y1": 0,
+            "x2": 1040,
+            "y2": 634
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "028",
+      "boundingBoxes": [
+        {
+          "imageId": "028",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 602,
+            "y1": 0,
+            "x2": 1632,
+            "y2": 1003
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 944,
+            "y1": 594,
+            "x2": 1104,
+            "y2": 737
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 1089,
+            "y1": 521,
+            "x2": 1333,
+            "y2": 813
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 810,
+            "y1": 805,
+            "x2": 1276,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 280,
+            "y1": 0,
+            "x2": 1083,
+            "y2": 727
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 925,
+            "y1": 716,
+            "x2": 1176,
+            "y2": 1021
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "029",
+      "boundingBoxes": [
+        {
+          "imageId": "029",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 613,
+            "y1": 173,
+            "x2": 1502,
+            "y2": 995
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 947,
+            "y1": 726,
+            "x2": 1056,
+            "y2": 814
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 908,
+            "y1": 605,
+            "x2": 1157,
+            "y2": 811
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 832,
+            "y1": 982,
+            "x2": 1417,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 488,
+            "y1": 213,
+            "x2": 1052,
+            "y2": 815
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 833,
+            "y1": 854,
+            "x2": 1063,
+            "y2": 1045
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "030",
+      "boundingBoxes": [
+        {
+          "imageId": "030",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 624,
+            "y1": 213,
+            "x2": 1495,
+            "y2": 1018
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 936,
+            "y1": 687,
+            "x2": 1048,
+            "y2": 789
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 888,
+            "y1": 633,
+            "x2": 1161,
+            "y2": 801
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 499,
+            "y1": 220,
+            "x2": 1040,
+            "y2": 805
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 827,
+            "y1": 868,
+            "x2": 1065,
+            "y2": 1073
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 840,
+            "y1": 1013,
+            "x2": 1219,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "031",
+      "boundingBoxes": [
+        {
+          "imageId": "031",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 668,
+            "y1": 235,
+            "x2": 1492,
+            "y2": 1041
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "cup",
+          "rect": {
+            "x1": 1091,
+            "y1": 385,
+            "x2": 1162,
+            "y2": 498
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 858,
+            "y1": 652,
+            "x2": 1137,
+            "y2": 845
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 488,
+            "y1": 206,
+            "x2": 983,
+            "y2": 838
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 838,
+            "y1": 889,
+            "x2": 1075,
+            "y2": 1079
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 896,
+            "y1": 706,
+            "x2": 992,
+            "y2": 816
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 856,
+            "y1": 1035,
+            "x2": 1176,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "032",
+      "boundingBoxes": [
+        {
+          "imageId": "032",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 627,
+            "y1": 247,
+            "x2": 1496,
+            "y2": 1060
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 854,
+            "y1": 664,
+            "x2": 1137,
+            "y2": 852
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 871,
+            "y1": 758,
+            "x2": 957,
+            "y2": 821
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 463,
+            "y1": 210,
+            "x2": 948,
+            "y2": 839
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 841,
+            "y1": 900,
+            "x2": 1076,
+            "y2": 1079
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 859,
+            "y1": 1040,
+            "x2": 1167,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "033",
+      "boundingBoxes": [
+        {
+          "imageId": "033",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 621,
+            "y1": 249,
+            "x2": 1489,
+            "y2": 1064
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 817,
+            "y1": 642,
+            "x2": 1013,
+            "y2": 794
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 930,
+            "y1": 665,
+            "x2": 988,
+            "y2": 710
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 855,
+            "y1": 1043,
+            "x2": 1164,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 475,
+            "y1": 163,
+            "x2": 990,
+            "y2": 843
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 838,
+            "y1": 901,
+            "x2": 1072,
+            "y2": 1078
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "034",
+      "boundingBoxes": [
+        {
+          "imageId": "034",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 613,
+            "y1": 250,
+            "x2": 1487,
+            "y2": 1071
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "008(お湯)",
+          "rect": {
+            "x1": 803,
+            "y1": 635,
+            "x2": 965,
+            "y2": 787
+          },
+          "className": "fruit_juice"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 914,
+            "y1": 727,
+            "x2": 978,
+            "y2": 772
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 470,
+            "y1": 176,
+            "x2": 976,
+            "y2": 839
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 832,
+            "y1": 892,
+            "x2": 1065,
+            "y2": 1078
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 850,
+            "y1": 1037,
+            "x2": 1168,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "035",
+      "boundingBoxes": [
+        {
+          "imageId": "035",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 597,
+            "y1": 235,
+            "x2": 1536,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 416,
+            "y1": 142,
+            "x2": 973,
+            "y2": 867
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 834,
+            "y1": 883,
+            "x2": 1078,
+            "y2": 1079
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 829,
+            "y1": 981,
+            "x2": 1187,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 910,
+            "y1": 714,
+            "x2": 970,
+            "y2": 760
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "036",
+      "boundingBoxes": [
+        {
+          "imageId": "036",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 621,
+            "y1": 124,
+            "x2": 1627,
+            "y2": 1064
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1070,
+            "y1": 658,
+            "x2": 1191,
+            "y2": 851
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 372,
+            "y1": 0,
+            "x2": 1002,
+            "y2": 749
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1093,
+            "y1": 629,
+            "x2": 1462,
+            "y2": 950
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1231,
+            "y1": 896,
+            "x2": 1603,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 930,
+            "y1": 576,
+            "x2": 1002,
+            "y2": 630
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "037",
+      "boundingBoxes": [
+        {
+          "imageId": "037",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 618,
+            "y1": 101,
+            "x2": 1692,
+            "y2": 1072
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 331,
+            "y1": 0,
+            "x2": 934,
+            "y2": 634
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1169,
+            "y1": 664,
+            "x2": 1545,
+            "y2": 967
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 772,
+            "y1": 767,
+            "x2": 1551,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 734,
+            "y1": 489,
+            "x2": 869,
+            "y2": 626
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 931,
+            "y1": 620,
+            "x2": 1143,
+            "y2": 813
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "038",
+      "boundingBoxes": [
+        {
+          "imageId": "038",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 603,
+            "y1": 214,
+            "x2": 1536,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 252,
+            "y1": 56,
+            "x2": 982,
+            "y2": 784
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1033,
+            "y1": 727,
+            "x2": 1318,
+            "y2": 984
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 750,
+            "y1": 818,
+            "x2": 1386,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 822,
+            "y1": 639,
+            "x2": 954,
+            "y2": 790
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 845,
+            "y1": 688,
+            "x2": 1039,
+            "y2": 869
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "039",
+      "boundingBoxes": [
+        {
+          "imageId": "039",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 587,
+            "y1": 221,
+            "x2": 1523,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 828,
+            "y1": 651,
+            "x2": 991,
+            "y2": 736
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 317,
+            "y1": 82,
+            "x2": 997,
+            "y2": 794
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1006,
+            "y1": 731,
+            "x2": 1278,
+            "y2": 983
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 808,
+            "y1": 700,
+            "x2": 999,
+            "y2": 879
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 712,
+            "y1": 828,
+            "x2": 1382,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "040",
+      "boundingBoxes": [
+        {
+          "imageId": "040",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 603,
+            "y1": 226,
+            "x2": 1536,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1016,
+            "y1": 735,
+            "x2": 1294,
+            "y2": 980
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 789,
+            "y1": 666,
+            "x2": 920,
+            "y2": 756
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 385,
+            "y1": 86,
+            "x2": 906,
+            "y2": 841
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 822,
+            "y1": 713,
+            "x2": 1007,
+            "y2": 869
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 719,
+            "y1": 828,
+            "x2": 1426,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "041",
+      "boundingBoxes": [
+        {
+          "imageId": "041",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 621,
+            "y1": 227,
+            "x2": 1550,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1021,
+            "y1": 738,
+            "x2": 1300,
+            "y2": 986
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 387,
+            "y1": 66,
+            "x2": 1002,
+            "y2": 832
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 737,
+            "y1": 836,
+            "x2": 1425,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 876,
+            "y1": 640,
+            "x2": 1037,
+            "y2": 768
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 820,
+            "y1": 697,
+            "x2": 1003,
+            "y2": 871
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "042",
+      "boundingBoxes": [
+        {
+          "imageId": "042",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 627,
+            "y1": 229,
+            "x2": 1553,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 391,
+            "y1": 108,
+            "x2": 979,
+            "y2": 798
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1011,
+            "y1": 732,
+            "x2": 1289,
+            "y2": 980
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 740,
+            "y1": 851,
+            "x2": 1474,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 851,
+            "y1": 653,
+            "x2": 1038,
+            "y2": 782
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 819,
+            "y1": 721,
+            "x2": 1012,
+            "y2": 896
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "043",
+      "boundingBoxes": [
+        {
+          "imageId": "043",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 622,
+            "y1": 243,
+            "x2": 1549,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 999,
+            "y1": 747,
+            "x2": 1262,
+            "y2": 990
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 724,
+            "y1": 707,
+            "x2": 864,
+            "y2": 827
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 360,
+            "y1": 60,
+            "x2": 891,
+            "y2": 838
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 879,
+            "y1": 764,
+            "x2": 1025,
+            "y2": 922
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 781,
+            "y1": 871,
+            "x2": 1412,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "044",
+      "boundingBoxes": [
+        {
+          "imageId": "044",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 599,
+            "y1": 136,
+            "x2": 1645,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 919,
+            "y1": 713,
+            "x2": 1153,
+            "y2": 949
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 331,
+            "y1": 0,
+            "x2": 851,
+            "y2": 638
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 791,
+            "y1": 840,
+            "x2": 1401,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 715,
+            "y1": 535,
+            "x2": 853,
+            "y2": 659
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "045",
+      "boundingBoxes": [
+        {
+          "imageId": "045",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 574,
+            "y1": 263,
+            "x2": 1621,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 888,
+            "y1": 812,
+            "x2": 1066,
+            "y2": 1020
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 74,
+            "y1": 0,
+            "x2": 896,
+            "y2": 913
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "person",
+          "rect": {
+            "x1": 925,
+            "y1": 991,
+            "x2": 1063,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 736,
+            "y1": 930,
+            "x2": 1065,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 779,
+            "y1": 719,
+            "x2": 931,
+            "y2": 849
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "046",
+      "boundingBoxes": [
+        {
+          "imageId": "046",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 625,
+            "y1": 253,
+            "x2": 1611,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 44,
+            "y1": 56,
+            "x2": 887,
+            "y2": 869
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 917,
+            "y1": 769,
+            "x2": 1073,
+            "y2": 978
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 679,
+            "y1": 876,
+            "x2": 1379,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 800,
+            "y1": 733,
+            "x2": 939,
+            "y2": 835
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "047",
+      "boundingBoxes": [
+        {
+          "imageId": "047",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 592,
+            "y1": 250,
+            "x2": 1563,
+            "y2": 1079
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 901,
+            "y1": 1006,
+            "x2": 1164,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 248,
+            "y1": 72,
+            "x2": 810,
+            "y2": 777
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 799,
+            "y1": 646,
+            "x2": 953,
+            "y2": 832
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 832,
+            "y1": 803,
+            "x2": 950,
+            "y2": 848
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 717,
+            "y1": 318,
+            "x2": 816,
+            "y2": 403
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "048",
+      "boundingBoxes": [
+        {
+          "imageId": "048",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 802,
+            "y1": 285,
+            "x2": 1876,
+            "y2": 1013
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 665,
+            "y1": 0,
+            "x2": 985,
+            "y2": 667
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 963,
+            "y1": 565,
+            "x2": 1101,
+            "y2": 743
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 966,
+            "y1": 707,
+            "x2": 1094,
+            "y2": 755
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 864,
+            "y1": 990,
+            "x2": 1416,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 827,
+            "y1": 342,
+            "x2": 904,
+            "y2": 470
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "049",
+      "boundingBoxes": [
+        {
+          "imageId": "049",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 771,
+            "y1": 313,
+            "x2": 1832,
+            "y2": 1065
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 643,
+            "y1": 23,
+            "x2": 984,
+            "y2": 696
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 688,
+            "y1": 572,
+            "x2": 1407,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 810,
+            "y1": 512,
+            "x2": 906,
+            "y2": 672
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 954,
+            "y1": 602,
+            "x2": 1066,
+            "y2": 765
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "050",
+      "boundingBoxes": [
+        {
+          "imageId": "050",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 841,
+            "y1": 0,
+            "x2": 1135,
+            "y2": 662
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 793,
+            "y1": 745,
+            "x2": 1375,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 910,
+            "y1": 705,
+            "x2": 1071,
+            "y2": 942
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1107,
+            "y1": 578,
+            "x2": 1273,
+            "y2": 755
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "051",
+      "boundingBoxes": [
+        {
+          "imageId": "051",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 988,
+            "y1": 280,
+            "x2": 1845,
+            "y2": 1072
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1278,
+            "y1": 665,
+            "x2": 1482,
+            "y2": 833
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 823,
+            "y1": 0,
+            "x2": 1113,
+            "y2": 816
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1278,
+            "y1": 804,
+            "x2": 1385,
+            "y2": 895
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 646,
+            "y1": 883,
+            "x2": 1369,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 741,
+            "y1": 892,
+            "x2": 963,
+            "y2": 1077
+          },
+          "className": "dishtowel"
+        }
+      ]
+    },
+    {
+      "imageId": "052",
+      "boundingBoxes": [
+        {
+          "imageId": "052",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1160,
+            "y1": 0,
+            "x2": 1919,
+            "y2": 959
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 867,
+            "y1": 809,
+            "x2": 1076,
+            "y2": 986
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 659,
+            "y1": 843,
+            "x2": 1453,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1837,
+            "y1": 951,
+            "x2": 1920,
+            "y2": 1073
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 1364,
+            "y1": 622,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1811,
+            "y1": 967,
+            "x2": 1851,
+            "y2": 1067
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "053",
+      "boundingBoxes": [
+        {
+          "imageId": "053",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 791,
+            "y1": 853,
+            "x2": 1409,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 933,
+            "y1": 832,
+            "x2": 1059,
+            "y2": 952
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 1565,
+            "y1": 348,
+            "x2": 1920,
+            "y2": 680
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1411,
+            "y1": 472,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "054",
+      "boundingBoxes": [
+        {
+          "imageId": "054",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 583,
+            "y1": 751,
+            "x2": 692,
+            "y2": 855
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1568,
+            "y1": 502,
+            "x2": 1779,
+            "y2": 617
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 917,
+            "y1": 994,
+            "x2": 1085,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 1101,
+            "y1": 254,
+            "x2": 1919,
+            "y2": 809
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1098,
+            "y1": 123,
+            "x2": 1744,
+            "y2": 952
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1570,
+            "y1": 617,
+            "x2": 1696,
+            "y2": 644
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "055",
+      "boundingBoxes": [
+        {
+          "imageId": "055",
+          "instanceId": "007(水含布巾)",
+          "rect": {
+            "x1": 0,
+            "y1": 740,
+            "x2": 94,
+            "y2": 847
+          },
+          "className": "dishtowel"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 502,
+            "y1": 0,
+            "x2": 960,
+            "y2": 864
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "005(台)",
+          "rect": {
+            "x1": 1088,
+            "y1": 537,
+            "x2": 1178,
+            "y2": 555
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "006(ケトル)",
+          "rect": {
+            "x1": 1082,
+            "y1": 392,
+            "x2": 1212,
+            "y2": 547
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "003(テーブル)",
+          "rect": {
+            "x1": 796,
+            "y1": 166,
+            "x2": 1444,
+            "y2": 774
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 703,
+            "y1": 913,
+            "x2": 1517,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    }
+  ],
+  "utterances": [
+    {
+      "text": "あこぼしちゃった。ハハハハ",
+      "phrases": [
+        {
+          "text": "あ",
+          "relations": []
+        },
+        {
+          "text": "こぼしちゃった。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(お湯)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "003(テーブル)"
+            }
+          ]
+        },
+        {
+          "text": "ハハ",
+          "relations": []
+        },
+        {
+          "text": "ハハ",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "大丈夫ですか？",
+      "phrases": [
+        {
+          "text": "大丈夫ですか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "大丈夫。テーブルが濡れたから布巾で拭いてくれるかな？",
+      "phrases": [
+        {
+          "text": "大丈夫。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "テーブルが",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(テーブル)"
+            }
+          ]
+        },
+        {
+          "text": "濡れたから",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "003(テーブル)"
+            },
+            {
+              "type": "デ≒",
+              "instanceId": "008(お湯)"
+            }
+          ]
+        },
+        {
+          "text": "布巾で",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "004(布巾)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "007(水含布巾)"
+            }
+          ]
+        },
+        {
+          "text": "拭いてくれるかな？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(テーブル)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "004(布巾)"
+            },
+            {
+              "type": "デ≒",
+              "instanceId": "007(水含布巾)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい分かりました。",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "お湯を拭き取りました。",
+      "phrases": [
+        {
+          "text": "お湯を",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "008(お湯)"
+            }
+          ]
+        },
+        {
+          "text": "拭き取りました。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(お湯)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "004(布巾)"
+            },
+            {
+              "type": "デ≒",
+              "instanceId": "007(水含布巾)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ありがとう。",
+      "phrases": [
+        {
+          "text": "ありがとう。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "台の下も濡れてるな。ちょっと、持ち上げてもらっていい？",
+      "phrases": [
+        {
+          "text": "台の",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "006(ケトル)"
+            },
+            {
+              "type": "ノ？",
+              "instanceId": "005(台)"
+            },
+            {
+              "type": "=",
+              "instanceId": "005(台)"
+            }
+          ]
+        },
+        {
+          "text": "下も",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "005(台)"
+            }
+          ]
+        },
+        {
+          "text": "濡れてるな。",
+          "relations": [
+            {
+              "type": "デ≒",
+              "instanceId": "008(お湯)"
+            }
+          ]
+        },
+        {
+          "text": "ちょっと、",
+          "relations": []
+        },
+        {
+          "text": "持ち上げてもらっていい？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(台)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "よいしょ。",
+      "phrases": [
+        {
+          "text": "よいしょ。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "底も濡れてるので、拭いた方が良さそうですね。",
+      "phrases": [
+        {
+          "text": "底も",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "005(台)"
+            }
+          ]
+        },
+        {
+          "text": "濡れてるので、",
+          "relations": [
+            {
+              "type": "デ≒",
+              "instanceId": "008(お湯)"
+            }
+          ]
+        },
+        {
+          "text": "拭いた",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "004(布巾)"
+            },
+            {
+              "type": "デ≒",
+              "instanceId": "007(水含布巾)"
+            }
+          ]
+        },
+        {
+          "text": "方が",
+          "relations": []
+        },
+        {
+          "text": "良さそうですね。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "あオッケー。",
+      "phrases": [
+        {
+          "text": "あ",
+          "relations": []
+        },
+        {
+          "text": "オッケー。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "よいしょ。",
+      "phrases": [
+        {
+          "text": "よいしょ。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "はい。",
+      "phrases": [
+        {
+          "text": "はい。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "よいしょ。",
+      "phrases": [
+        {
+          "text": "よいしょ。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "もう、下ろしていいよ。",
+      "phrases": [
+        {
+          "text": "もう、",
+          "relations": []
+        },
+        {
+          "text": "下ろしていいよ。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(台)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "きれいになりました。",
+      "phrases": [
+        {
+          "text": "きれいになりました。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "003(テーブル)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "うん",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "これは汚れてないから、そのまま乾かしといて。",
+      "phrases": [
+        {
+          "text": "これは",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "007(水含布巾)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "004(布巾)"
+            }
+          ]
+        },
+        {
+          "text": "汚れてないから、",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "007(水含布巾)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "004(布巾)"
+            }
+          ]
+        },
+        {
+          "text": "そのまま",
+          "relations": []
+        },
+        {
+          "text": "乾かしといて。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(水含布巾)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "004(布巾)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい分かりました。お湯は足りますか？",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "お湯は",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "005(台)"
+            }
+          ]
+        },
+        {
+          "text": "足りますか？",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "うんまだ、十分残ってるから大丈夫だよ。",
+      "phrases": [
+        {
+          "text": "うん",
+          "relations": []
+        },
+        {
+          "text": "まだ、",
+          "relations": []
+        },
+        {
+          "text": "十分",
+          "relations": []
+        },
+        {
+          "text": "残ってるから",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "005(台)"
+            }
+          ]
+        },
+        {
+          "text": "大丈夫だよ。",
+          "relations": []
+        }
+      ]
+    }
+  ]
+}

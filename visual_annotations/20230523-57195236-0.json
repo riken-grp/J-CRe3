@@ -1,0 +1,5999 @@
+{
+  "scenarioId": "20230523-57195236-0",
+  "images": [
+    {
+      "imageId": "001",
+      "boundingBoxes": [
+        {
+          "imageId": "001",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 678,
+            "y1": 952,
+            "x2": 1367,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1369,
+            "y1": 429,
+            "x2": 1514,
+            "y2": 531
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 1186,
+            "y1": 381,
+            "x2": 1338,
+            "y2": 463
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1142,
+            "y1": 476,
+            "x2": 1290,
+            "y2": 659
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 944,
+            "y1": 221,
+            "x2": 1804,
+            "y2": 895
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1463,
+            "y1": 594,
+            "x2": 1555,
+            "y2": 676
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 620,
+            "y1": 0,
+            "x2": 758,
+            "y2": 174
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1286,
+            "y1": 516,
+            "x2": 1452,
+            "y2": 609
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "002",
+      "boundingBoxes": [
+        {
+          "imageId": "002",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 674,
+            "y1": 948,
+            "x2": 1357,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 1194,
+            "y1": 379,
+            "x2": 1345,
+            "y2": 461
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1146,
+            "y1": 474,
+            "x2": 1295,
+            "y2": 656
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 944,
+            "y1": 220,
+            "x2": 1820,
+            "y2": 895
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1466,
+            "y1": 594,
+            "x2": 1559,
+            "y2": 676
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 620,
+            "y1": 0,
+            "x2": 768,
+            "y2": 150
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1292,
+            "y1": 516,
+            "x2": 1456,
+            "y2": 610
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1373,
+            "y1": 427,
+            "x2": 1522,
+            "y2": 533
+          },
+          "className": "box"
+        }
+      ]
+    },
+    {
+      "imageId": "003",
+      "boundingBoxes": [
+        {
+          "imageId": "003",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1370,
+            "y1": 430,
+            "x2": 1518,
+            "y2": 531
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 666,
+            "y1": 949,
+            "x2": 1368,
+            "y2": 1078
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 1193,
+            "y1": 380,
+            "x2": 1344,
+            "y2": 462
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1147,
+            "y1": 473,
+            "x2": 1296,
+            "y2": 653
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 943,
+            "y1": 221,
+            "x2": 1807,
+            "y2": 898
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1463,
+            "y1": 595,
+            "x2": 1555,
+            "y2": 677
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 605,
+            "y1": 0,
+            "x2": 765,
+            "y2": 152
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1291,
+            "y1": 516,
+            "x2": 1454,
+            "y2": 611
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "004",
+      "boundingBoxes": [
+        {
+          "imageId": "004",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 666,
+            "y1": 948,
+            "x2": 1378,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1407,
+            "y1": 451,
+            "x2": 1500,
+            "y2": 510
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 1192,
+            "y1": 381,
+            "x2": 1343,
+            "y2": 462
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1145,
+            "y1": 474,
+            "x2": 1292,
+            "y2": 661
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 948,
+            "y1": 222,
+            "x2": 1809,
+            "y2": 900
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1463,
+            "y1": 595,
+            "x2": 1555,
+            "y2": 676
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 589,
+            "y1": 0,
+            "x2": 753,
+            "y2": 156
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1289,
+            "y1": 516,
+            "x2": 1453,
+            "y2": 612
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "005",
+      "boundingBoxes": [
+        {
+          "imageId": "005",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1375,
+            "y1": 436,
+            "x2": 1523,
+            "y2": 538
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 668,
+            "y1": 946,
+            "x2": 1361,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 1196,
+            "y1": 384,
+            "x2": 1346,
+            "y2": 466
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1149,
+            "y1": 476,
+            "x2": 1296,
+            "y2": 677
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 946,
+            "y1": 226,
+            "x2": 1815,
+            "y2": 904
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1467,
+            "y1": 602,
+            "x2": 1559,
+            "y2": 684
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 647,
+            "y1": 0,
+            "x2": 800,
+            "y2": 146
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1294,
+            "y1": 521,
+            "x2": 1455,
+            "y2": 617
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "006",
+      "boundingBoxes": [
+        {
+          "imageId": "006",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 1195,
+            "y1": 381,
+            "x2": 1346,
+            "y2": 462
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1146,
+            "y1": 473,
+            "x2": 1294,
+            "y2": 656
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 950,
+            "y1": 221,
+            "x2": 1816,
+            "y2": 895
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1466,
+            "y1": 596,
+            "x2": 1557,
+            "y2": 677
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 671,
+            "y1": 3,
+            "x2": 815,
+            "y2": 168
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1375,
+            "y1": 427,
+            "x2": 1523,
+            "y2": 533
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1294,
+            "y1": 518,
+            "x2": 1454,
+            "y2": 612
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 634,
+            "y1": 943,
+            "x2": 1370,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "007",
+      "boundingBoxes": [
+        {
+          "imageId": "007",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 608,
+            "y1": 942,
+            "x2": 1365,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 1240,
+            "y1": 374,
+            "x2": 1395,
+            "y2": 452
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1181,
+            "y1": 460,
+            "x2": 1338,
+            "y2": 650
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 984,
+            "y1": 217,
+            "x2": 1890,
+            "y2": 903
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1507,
+            "y1": 605,
+            "x2": 1607,
+            "y2": 686
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 716,
+            "y1": 0,
+            "x2": 856,
+            "y2": 128
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1422,
+            "y1": 426,
+            "x2": 1580,
+            "y2": 538
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1335,
+            "y1": 510,
+            "x2": 1499,
+            "y2": 616
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "008",
+      "boundingBoxes": [
+        {
+          "imageId": "008",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 1208,
+            "y1": 355,
+            "x2": 1371,
+            "y2": 442
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1152,
+            "y1": 463,
+            "x2": 1315,
+            "y2": 661
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 941,
+            "y1": 167,
+            "x2": 1894,
+            "y2": 910
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1497,
+            "y1": 597,
+            "x2": 1600,
+            "y2": 684
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 644,
+            "y1": 1,
+            "x2": 798,
+            "y2": 107
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1398,
+            "y1": 408,
+            "x2": 1566,
+            "y2": 525
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1310,
+            "y1": 504,
+            "x2": 1489,
+            "y2": 610
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 769,
+            "y1": 916,
+            "x2": 1386,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "009",
+      "boundingBoxes": [
+        {
+          "imageId": "009",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 728,
+            "y1": 949,
+            "x2": 1414,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1146,
+            "y1": 654,
+            "x2": 1311,
+            "y2": 860
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 891,
+            "y1": 226,
+            "x2": 1826,
+            "y2": 1071
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1524,
+            "y1": 735,
+            "x2": 1638,
+            "y2": 826
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 461,
+            "y1": 1,
+            "x2": 659,
+            "y2": 236
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1388,
+            "y1": 518,
+            "x2": 1561,
+            "y2": 639
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1301,
+            "y1": 653,
+            "x2": 1503,
+            "y2": 745
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 1166,
+            "y1": 461,
+            "x2": 1345,
+            "y2": 589
+          },
+          "className": "book"
+        }
+      ]
+    },
+    {
+      "imageId": "010",
+      "boundingBoxes": [
+        {
+          "imageId": "010",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 1214,
+            "y1": 408,
+            "x2": 1408,
+            "y2": 536
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 670,
+            "y1": 906,
+            "x2": 1438,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1166,
+            "y1": 615,
+            "x2": 1347,
+            "y2": 830
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 921,
+            "y1": 162,
+            "x2": 1920,
+            "y2": 1068
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1564,
+            "y1": 727,
+            "x2": 1689,
+            "y2": 813
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 464,
+            "y1": 0,
+            "x2": 685,
+            "y2": 166
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1443,
+            "y1": 477,
+            "x2": 1640,
+            "y2": 613
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1338,
+            "y1": 619,
+            "x2": 1555,
+            "y2": 726
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "011",
+      "boundingBoxes": [
+        {
+          "imageId": "011",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 919,
+            "y1": 320,
+            "x2": 1094,
+            "y2": 457
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 599,
+            "y1": 722,
+            "x2": 1545,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 950,
+            "y1": 546,
+            "x2": 1113,
+            "y2": 757
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 699,
+            "y1": 66,
+            "x2": 1498,
+            "y2": 892
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1312,
+            "y1": 527,
+            "x2": 1408,
+            "y2": 629
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 51,
+            "x2": 244,
+            "y2": 279
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1145,
+            "y1": 343,
+            "x2": 1299,
+            "y2": 437
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1088,
+            "y1": 501,
+            "x2": 1280,
+            "y2": 555
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "012",
+      "boundingBoxes": [
+        {
+          "imageId": "012",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 803,
+            "y1": 843,
+            "x2": 1308,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 885,
+            "y1": 436,
+            "x2": 1096,
+            "y2": 616
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 953,
+            "y1": 758,
+            "x2": 1161,
+            "y2": 954
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 637,
+            "y1": 125,
+            "x2": 1578,
+            "y2": 1062
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1387,
+            "y1": 686,
+            "x2": 1507,
+            "y2": 805
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 131,
+            "x2": 168,
+            "y2": 370
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1157,
+            "y1": 462,
+            "x2": 1345,
+            "y2": 569
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1106,
+            "y1": 670,
+            "x2": 1339,
+            "y2": 717
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "012",
+          "instanceId": "009(上)",
+          "rect": {
+            "x1": 648,
+            "y1": 127,
+            "x2": 1583,
+            "y2": 1073
+          },
+          "className": "region"
+        }
+      ]
+    },
+    {
+      "imageId": "013",
+      "boundingBoxes": [
+        {
+          "imageId": "013",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 747,
+            "y1": 807,
+            "x2": 1329,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 877,
+            "y1": 433,
+            "x2": 1080,
+            "y2": 607
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "009(上)",
+          "rect": {
+            "x1": 638,
+            "y1": 136,
+            "x2": 1546,
+            "y2": 1052
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 941,
+            "y1": 731,
+            "x2": 1141,
+            "y2": 943
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 639,
+            "y1": 135,
+            "x2": 1547,
+            "y2": 1052
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1361,
+            "y1": 671,
+            "x2": 1477,
+            "y2": 788
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 137,
+            "x2": 178,
+            "y2": 375
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1139,
+            "y1": 459,
+            "x2": 1325,
+            "y2": 562
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1094,
+            "y1": 658,
+            "x2": 1318,
+            "y2": 703
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "014",
+      "boundingBoxes": [
+        {
+          "imageId": "014",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 910,
+            "y1": 717,
+            "x2": 1101,
+            "y2": 912
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 856,
+            "y1": 426,
+            "x2": 1048,
+            "y2": 593
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 706,
+            "y1": 784,
+            "x2": 1319,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "009(上)",
+          "rect": {
+            "x1": 625,
+            "y1": 134,
+            "x2": 1491,
+            "y2": 1020
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 623,
+            "y1": 134,
+            "x2": 1489,
+            "y2": 1020
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 146,
+            "x2": 162,
+            "y2": 369
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1102,
+            "y1": 450,
+            "x2": 1274,
+            "y2": 548
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "014",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1057,
+            "y1": 641,
+            "x2": 1271,
+            "y2": 684
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "015",
+      "boundingBoxes": [
+        {
+          "imageId": "015",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 857,
+            "y1": 565,
+            "x2": 1034,
+            "y2": 759
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 580,
+            "y1": 709,
+            "x2": 1442,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 794,
+            "y1": 341,
+            "x2": 967,
+            "y2": 480
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "009(上)",
+          "rect": {
+            "x1": 613,
+            "y1": 83,
+            "x2": 1376,
+            "y2": 840
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 614,
+            "y1": 82,
+            "x2": 1378,
+            "y2": 842
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1211,
+            "y1": 497,
+            "x2": 1297,
+            "y2": 600
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1016,
+            "y1": 338,
+            "x2": 1168,
+            "y2": 430
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 985,
+            "y1": 504,
+            "x2": 1174,
+            "y2": 550
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 253,
+            "x2": 56,
+            "y2": 282
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "016",
+      "boundingBoxes": [
+        {
+          "imageId": "016",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 833,
+            "y1": 359,
+            "x2": 1006,
+            "y2": 499
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 899,
+            "y1": 585,
+            "x2": 1069,
+            "y2": 776
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 263,
+            "x2": 56,
+            "y2": 301
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 624,
+            "y1": 760,
+            "x2": 1464,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "009(上)",
+          "rect": {
+            "x1": 643,
+            "y1": 99,
+            "x2": 1404,
+            "y2": 874
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 645,
+            "y1": 101,
+            "x2": 1402,
+            "y2": 874
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1244,
+            "y1": 531,
+            "x2": 1332,
+            "y2": 630
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1054,
+            "y1": 366,
+            "x2": 1206,
+            "y2": 454
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "016",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1023,
+            "y1": 532,
+            "x2": 1209,
+            "y2": 572
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "017",
+      "boundingBoxes": [
+        {
+          "imageId": "017",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 857,
+            "y1": 560,
+            "x2": 1033,
+            "y2": 755
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 800,
+            "y1": 335,
+            "x2": 973,
+            "y2": 477
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 631,
+            "y1": 737,
+            "x2": 1449,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "009(上)",
+          "rect": {
+            "x1": 609,
+            "y1": 76,
+            "x2": 1371,
+            "y2": 852
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 608,
+            "y1": 76,
+            "x2": 1375,
+            "y2": 849
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1212,
+            "y1": 503,
+            "x2": 1297,
+            "y2": 606
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1024,
+            "y1": 340,
+            "x2": 1175,
+            "y2": 430
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 987,
+            "y1": 506,
+            "x2": 1176,
+            "y2": 549
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "018",
+      "boundingBoxes": [
+        {
+          "imageId": "018",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 198,
+            "x2": 61,
+            "y2": 239
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 785,
+            "y1": 327,
+            "x2": 962,
+            "y2": 470
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 662,
+            "y1": 874,
+            "x2": 1449,
+            "y2": 1074
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 592,
+            "y1": 62,
+            "x2": 1367,
+            "y2": 843
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1206,
+            "y1": 495,
+            "x2": 1294,
+            "y2": 600
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1013,
+            "y1": 331,
+            "x2": 1169,
+            "y2": 422
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 978,
+            "y1": 499,
+            "x2": 1170,
+            "y2": 543
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 848,
+            "y1": 558,
+            "x2": 1022,
+            "y2": 752
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "019",
+      "boundingBoxes": [
+        {
+          "imageId": "019",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 204,
+            "x2": 48,
+            "y2": 233
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 786,
+            "y1": 317,
+            "x2": 963,
+            "y2": 460
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 652,
+            "y1": 848,
+            "x2": 1520,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 853,
+            "y1": 552,
+            "x2": 1033,
+            "y2": 747
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 598,
+            "y1": 53,
+            "x2": 1368,
+            "y2": 836
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1209,
+            "y1": 484,
+            "x2": 1296,
+            "y2": 587
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1015,
+            "y1": 322,
+            "x2": 1170,
+            "y2": 410
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "019",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 982,
+            "y1": 488,
+            "x2": 1172,
+            "y2": 532
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "020",
+      "boundingBoxes": [
+        {
+          "imageId": "020",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 204,
+            "x2": 77,
+            "y2": 240
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 829,
+            "y1": 331,
+            "x2": 1006,
+            "y2": 477
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 925,
+            "y1": 569,
+            "x2": 1101,
+            "y2": 750
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 644,
+            "y1": 63,
+            "x2": 1416,
+            "y2": 841
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1259,
+            "y1": 501,
+            "x2": 1352,
+            "y2": 602
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1059,
+            "y1": 336,
+            "x2": 1216,
+            "y2": 429
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1031,
+            "y1": 504,
+            "x2": 1224,
+            "y2": 549
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "020",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 762,
+            "y1": 870,
+            "x2": 1647,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "021",
+      "boundingBoxes": [
+        {
+          "imageId": "021",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 758,
+            "y1": 822,
+            "x2": 1561,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 927,
+            "y1": 327,
+            "x2": 1078,
+            "y2": 477
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1160,
+            "y1": 551,
+            "x2": 1387,
+            "y2": 739
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 807,
+            "y1": 15,
+            "x2": 1686,
+            "y2": 842
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1409,
+            "y1": 394,
+            "x2": 1507,
+            "y2": 491
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1124,
+            "y1": 266,
+            "x2": 1297,
+            "y2": 387
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1177,
+            "y1": 424,
+            "x2": 1368,
+            "y2": 521
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "022",
+      "boundingBoxes": [
+        {
+          "imageId": "022",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 718,
+            "y1": 673,
+            "x2": 1457,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 981,
+            "y1": 569,
+            "x2": 1130,
+            "y2": 749
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1353,
+            "y1": 844,
+            "x2": 1636,
+            "y2": 1012
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 747,
+            "y1": 147,
+            "x2": 1884,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1531,
+            "y1": 597,
+            "x2": 1654,
+            "y2": 702
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1178,
+            "y1": 454,
+            "x2": 1381,
+            "y2": 614
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1284,
+            "y1": 642,
+            "x2": 1481,
+            "y2": 774
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "023",
+      "boundingBoxes": [
+        {
+          "imageId": "023",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 128,
+            "x2": 311,
+            "y2": 515
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 620,
+            "y1": 728,
+            "x2": 1374,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 960,
+            "y1": 549,
+            "x2": 1354,
+            "y2": 946
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1340,
+            "y1": 962,
+            "x2": 1581,
+            "y2": 1080
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 971,
+            "y1": 269,
+            "x2": 1844,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1407,
+            "y1": 667,
+            "x2": 1598,
+            "y2": 769
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1400,
+            "y1": 849,
+            "x2": 1616,
+            "y2": 900
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "023",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1652,
+            "y1": 860,
+            "x2": 1783,
+            "y2": 948
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "024",
+      "boundingBoxes": [
+        {
+          "imageId": "024",
+          "instanceId": "011(本棚)",
+          "rect": {
+            "x1": 8,
+            "y1": 0,
+            "x2": 905,
+            "y2": 146
+          },
+          "className": "bookcase"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 549,
+            "y1": 795,
+            "x2": 1377,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "024",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 880,
+            "y1": 626,
+            "x2": 1300,
+            "y2": 1006
+          },
+          "className": "book"
+        }
+      ]
+    },
+    {
+      "imageId": "025",
+      "boundingBoxes": [
+        {
+          "imageId": "025",
+          "instanceId": "011(本棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 890,
+            "y2": 195
+          },
+          "className": "bookcase"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 565,
+            "y1": 737,
+            "x2": 1379,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 802,
+            "y1": 561,
+            "x2": 1089,
+            "y2": 896
+          },
+          "className": "book"
+        }
+      ]
+    },
+    {
+      "imageId": "026",
+      "boundingBoxes": [
+        {
+          "imageId": "026",
+          "instanceId": "011(本棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 971,
+            "y2": 361
+          },
+          "className": "bookcase"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 487,
+            "y1": 777,
+            "x2": 1342,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 879,
+            "y1": 652,
+            "x2": 1242,
+            "y2": 995
+          },
+          "className": "book"
+        }
+      ]
+    },
+    {
+      "imageId": "027",
+      "boundingBoxes": [
+        {
+          "imageId": "027",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 572,
+            "y1": 523,
+            "x2": 1517,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "011(本棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1712,
+            "y2": 747
+          },
+          "className": "bookcase"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 854,
+            "y1": 267,
+            "x2": 1113,
+            "y2": 629
+          },
+          "className": "book"
+        }
+      ]
+    },
+    {
+      "imageId": "028",
+      "boundingBoxes": [
+        {
+          "imageId": "028",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 1042,
+            "y1": 390,
+            "x2": 1193,
+            "y2": 626
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 663,
+            "y1": 505,
+            "x2": 1388,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "011(本棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "bookcase"
+        }
+      ]
+    },
+    {
+      "imageId": "029",
+      "boundingBoxes": [
+        {
+          "imageId": "029",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 412,
+            "y1": 918,
+            "x2": 1249,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "007(本)",
+          "rect": {
+            "x1": 1859,
+            "y1": 967,
+            "x2": 1920,
+            "y2": 1030
+          },
+          "className": "book"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "011(本棚)",
+          "rect": {
+            "x1": 1242,
+            "y1": 213,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "bookcase"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 618,
+            "y1": 0,
+            "x2": 736,
+            "y2": 39
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 29,
+            "y1": 0,
+            "x2": 210,
+            "y2": 133
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "030",
+      "boundingBoxes": [
+        {
+          "imageId": "030",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 617,
+            "y1": 0,
+            "x2": 732,
+            "y2": 193
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1067,
+            "y1": 0,
+            "x2": 1283,
+            "y2": 154
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 710,
+            "y1": 934,
+            "x2": 1358,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1160,
+            "y1": 0,
+            "x2": 1208,
+            "y2": 34
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1201,
+            "y1": 2,
+            "x2": 1222,
+            "y2": 22
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1150,
+            "y1": 13,
+            "x2": 1163,
+            "y2": 23
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1121,
+            "y1": 0,
+            "x2": 1166,
+            "y2": 12
+          },
+          "className": "box"
+        }
+      ]
+    },
+    {
+      "imageId": "031",
+      "boundingBoxes": [
+        {
+          "imageId": "031",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 601,
+            "y1": 946,
+            "x2": 1325,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1199,
+            "y1": 41,
+            "x2": 1267,
+            "y2": 104
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 392,
+            "y1": 0,
+            "x2": 619,
+            "y2": 340
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 968,
+            "y1": 3,
+            "x2": 1361,
+            "y2": 258
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1142,
+            "y1": 42,
+            "x2": 1197,
+            "y2": 65
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1181,
+            "y1": 69,
+            "x2": 1206,
+            "y2": 80
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "031",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1249,
+            "y1": 49,
+            "x2": 1274,
+            "y2": 78
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "032",
+      "boundingBoxes": [
+        {
+          "imageId": "032",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1122,
+            "y1": 114,
+            "x2": 1221,
+            "y2": 208
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 511,
+            "y1": 796,
+            "x2": 1276,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1102,
+            "y1": 140,
+            "x2": 1134,
+            "y2": 162
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1052,
+            "y1": 92,
+            "x2": 1131,
+            "y2": 135
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1197,
+            "y1": 112,
+            "x2": 1240,
+            "y2": 143
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 164,
+            "x2": 185,
+            "y2": 549
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 803,
+            "y1": 24,
+            "x2": 1364,
+            "y2": 424
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "033",
+      "boundingBoxes": [
+        {
+          "imageId": "033",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1029,
+            "y1": 268,
+            "x2": 1097,
+            "y2": 300
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 928,
+            "y1": 186,
+            "x2": 1050,
+            "y2": 260
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 519,
+            "y1": 665,
+            "x2": 1309,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1126,
+            "y1": 237,
+            "x2": 1183,
+            "y2": 298
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 937,
+            "y1": 283,
+            "x2": 1093,
+            "y2": 453
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 699,
+            "y1": 52,
+            "x2": 1343,
+            "y2": 642
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "034",
+      "boundingBoxes": [
+        {
+          "imageId": "034",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 777,
+            "y1": 478,
+            "x2": 963,
+            "y2": 532
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 822,
+            "y1": 323,
+            "x2": 963,
+            "y2": 417
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 987,
+            "y1": 470,
+            "x2": 1064,
+            "y2": 568
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 613,
+            "y1": 534,
+            "x2": 817,
+            "y2": 729
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 410,
+            "y1": 89,
+            "x2": 1149,
+            "y2": 811
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 510,
+            "y1": 761,
+            "x2": 1322,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "035",
+      "boundingBoxes": [
+        {
+          "imageId": "035",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 5,
+            "x2": 69,
+            "y2": 153
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 682,
+            "y1": 859,
+            "x2": 1576,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 709,
+            "y1": 452,
+            "x2": 903,
+            "y2": 523
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 803,
+            "y1": 301,
+            "x2": 965,
+            "y2": 405
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 898,
+            "y1": 503,
+            "x2": 982,
+            "y2": 611
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 472,
+            "y1": 477,
+            "x2": 693,
+            "y2": 678
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 315,
+            "y1": 19,
+            "x2": 1301,
+            "y2": 882
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "036",
+      "boundingBoxes": [
+        {
+          "imageId": "036",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 607,
+            "y1": 835,
+            "x2": 1472,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 1,
+            "x2": 160,
+            "y2": 155
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 535,
+            "y1": 540,
+            "x2": 719,
+            "y2": 637
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 650,
+            "y1": 387,
+            "x2": 831,
+            "y2": 515
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 675,
+            "y1": 641,
+            "x2": 770,
+            "y2": 740
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 238,
+            "y1": 555,
+            "x2": 495,
+            "y2": 752
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 185,
+            "y1": 64,
+            "x2": 1306,
+            "y2": 990
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "037",
+      "boundingBoxes": [
+        {
+          "imageId": "037",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 831,
+            "y1": 626,
+            "x2": 1646,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "010(反対側)",
+          "rect": {
+            "x1": 1276,
+            "y1": 209,
+            "x2": 1725,
+            "y2": 544
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 672,
+            "y1": 673,
+            "x2": 865,
+            "y2": 855
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 845,
+            "y1": 539,
+            "x2": 1063,
+            "y2": 738
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 298,
+            "y1": 644,
+            "x2": 588,
+            "y2": 878
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 304,
+            "y1": 140,
+            "x2": 1794,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 384,
+            "y1": 0,
+            "x2": 445,
+            "y2": 27
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 786,
+            "y1": 895,
+            "x2": 884,
+            "y2": 988
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "038",
+      "boundingBoxes": [
+        {
+          "imageId": "038",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 607,
+            "y1": 643,
+            "x2": 716,
+            "y2": 739
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 615,
+            "y1": 651,
+            "x2": 1566,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "010(反対側)",
+          "rect": {
+            "x1": 1247,
+            "y1": 153,
+            "x2": 1703,
+            "y2": 510
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 778,
+            "y1": 517,
+            "x2": 1034,
+            "y2": 766
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 218,
+            "y1": 618,
+            "x2": 527,
+            "y2": 845
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "038",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 244,
+            "y1": 79,
+            "x2": 1787,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "039",
+      "boundingBoxes": [
+        {
+          "imageId": "039",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 33,
+            "x2": 76,
+            "y2": 154
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 592,
+            "y1": 548,
+            "x2": 1581,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 903,
+            "y1": 361,
+            "x2": 1246,
+            "y2": 698
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "010(反対側)",
+          "rect": {
+            "x1": 781,
+            "y1": 121,
+            "x2": 1221,
+            "y2": 521
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 2,
+            "y1": 783,
+            "x2": 258,
+            "y2": 936
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 9,
+            "y1": 105,
+            "x2": 1275,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 680,
+            "y1": 446,
+            "x2": 905,
+            "y2": 718
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "039",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 387,
+            "y1": 900,
+            "x2": 506,
+            "y2": 972
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "040",
+      "boundingBoxes": [
+        {
+          "imageId": "040",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 0,
+            "y1": 1000,
+            "x2": 117,
+            "y2": 1065
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 925,
+            "y1": 467,
+            "x2": 1112,
+            "y2": 684
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 845,
+            "y1": 505,
+            "x2": 951,
+            "y2": 714
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 607,
+            "y1": 589,
+            "x2": 1499,
+            "y2": 1079
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "010(反対側)",
+          "rect": {
+            "x1": 744,
+            "y1": 374,
+            "x2": 1221,
+            "y2": 789
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 191,
+            "x2": 1302,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 42,
+            "y1": 0,
+            "x2": 223,
+            "y2": 39
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "041",
+      "boundingBoxes": [
+        {
+          "imageId": "041",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 136,
+            "y1": 0,
+            "x2": 330,
+            "y2": 41
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 845,
+            "y1": 553,
+            "x2": 961,
+            "y2": 774
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 918,
+            "y1": 518,
+            "x2": 1090,
+            "y2": 724
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 550,
+            "y1": 633,
+            "x2": 1338,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 0,
+            "y1": 253,
+            "x2": 1277,
+            "y2": 1078
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 0,
+            "y1": 984,
+            "x2": 28,
+            "y2": 1032
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "042",
+      "boundingBoxes": [
+        {
+          "imageId": "042",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 343,
+            "y1": 478,
+            "x2": 445,
+            "y2": 555
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 207,
+            "y1": 260,
+            "x2": 416,
+            "y2": 416
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 238,
+            "y1": 837,
+            "x2": 1695,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1158,
+            "y1": 364,
+            "x2": 1215,
+            "y2": 505
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 143,
+            "y1": 201,
+            "x2": 1425,
+            "y2": 654
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "042",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1213,
+            "y1": 355,
+            "x2": 1317,
+            "y2": 490
+          },
+          "className": "box"
+        }
+      ]
+    },
+    {
+      "imageId": "043",
+      "boundingBoxes": [
+        {
+          "imageId": "043",
+          "instanceId": "011(本棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 252,
+            "y2": 134
+          },
+          "className": "bookcase"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 977,
+            "y1": 415,
+            "x2": 1073,
+            "y2": 499
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 844,
+            "y1": 176,
+            "x2": 975,
+            "y2": 325
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 837,
+            "y1": 774,
+            "x2": 1719,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1794,
+            "y1": 428,
+            "x2": 1859,
+            "y2": 566
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 733,
+            "y1": 159,
+            "x2": 1920,
+            "y2": 716
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "043",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1835,
+            "y1": 431,
+            "x2": 1920,
+            "y2": 565
+          },
+          "className": "box"
+        }
+      ]
+    },
+    {
+      "imageId": "044",
+      "boundingBoxes": [
+        {
+          "imageId": "044",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 235,
+            "y1": 0,
+            "x2": 487,
+            "y2": 167
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1373,
+            "y1": 113,
+            "x2": 1520,
+            "y2": 170
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1209,
+            "y1": 546,
+            "x2": 1304,
+            "y2": 649
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 844,
+            "y1": 841,
+            "x2": 1588,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 801,
+            "y1": 471,
+            "x2": 985,
+            "y2": 673
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 652,
+            "y1": 39,
+            "x2": 1686,
+            "y2": 866
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1396,
+            "y1": 80,
+            "x2": 1542,
+            "y2": 151
+          },
+          "className": "box"
+        }
+      ]
+    },
+    {
+      "imageId": "045",
+      "boundingBoxes": [
+        {
+          "imageId": "045",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 57,
+            "x2": 208,
+            "y2": 286
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1294,
+            "y1": 61,
+            "x2": 1407,
+            "y2": 120
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1433,
+            "y1": 519,
+            "x2": 1540,
+            "y2": 626
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 585,
+            "y1": 711,
+            "x2": 1523,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1067,
+            "y1": 554,
+            "x2": 1253,
+            "y2": 762
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 770,
+            "y1": 37,
+            "x2": 1599,
+            "y2": 886
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "045",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1292,
+            "y1": 101,
+            "x2": 1420,
+            "y2": 135
+          },
+          "className": "remote_control"
+        }
+      ]
+    },
+    {
+      "imageId": "046",
+      "boundingBoxes": [
+        {
+          "imageId": "046",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 612,
+            "y1": 572,
+            "x2": 1544,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1142,
+            "y1": 35,
+            "x2": 1275,
+            "y2": 56
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1146,
+            "y1": 0,
+            "x2": 1255,
+            "y2": 47
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1360,
+            "y1": 477,
+            "x2": 1477,
+            "y2": 601
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 972,
+            "y1": 573,
+            "x2": 1163,
+            "y2": 796
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 638,
+            "y1": 0,
+            "x2": 1553,
+            "y2": 873
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "047",
+      "boundingBoxes": [
+        {
+          "imageId": "047",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1129,
+            "y1": 0,
+            "x2": 1240,
+            "y2": 28
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 975,
+            "y1": 539,
+            "x2": 1198,
+            "y2": 741
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 1116,
+            "y1": 610,
+            "x2": 1458,
+            "y2": 1070
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1125,
+            "y1": 15,
+            "x2": 1255,
+            "y2": 46
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1350,
+            "y1": 441,
+            "x2": 1462,
+            "y2": 557
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 664,
+            "y1": 0,
+            "x2": 1542,
+            "y2": 821
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "048",
+      "boundingBoxes": [
+        {
+          "imageId": "048",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1002,
+            "y1": 442,
+            "x2": 1312,
+            "y2": 681
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 685,
+            "y1": 473,
+            "x2": 1613,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1343,
+            "y1": 352,
+            "x2": 1455,
+            "y2": 469
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 667,
+            "y1": 0,
+            "x2": 1554,
+            "y2": 740
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "049",
+      "boundingBoxes": [
+        {
+          "imageId": "049",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 563,
+            "y1": 388,
+            "x2": 1633,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 905,
+            "y1": 247,
+            "x2": 1273,
+            "y2": 620
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1305,
+            "y1": 306,
+            "x2": 1401,
+            "y2": 410
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 693,
+            "y1": 0,
+            "x2": 1519,
+            "y2": 670
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "050",
+      "boundingBoxes": [
+        {
+          "imageId": "050",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 612,
+            "y1": 453,
+            "x2": 1647,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1009,
+            "y1": 340,
+            "x2": 1321,
+            "y2": 655
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1141,
+            "y1": 0,
+            "x2": 1271,
+            "y2": 23
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1364,
+            "y1": 366,
+            "x2": 1461,
+            "y2": 471
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1206,
+            "y1": 0,
+            "x2": 1249,
+            "y2": 9
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 751,
+            "y1": 0,
+            "x2": 1552,
+            "y2": 716
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "051",
+      "boundingBoxes": [
+        {
+          "imageId": "051",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1023,
+            "y1": 329,
+            "x2": 1341,
+            "y2": 646
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 572,
+            "y1": 453,
+            "x2": 1610,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1178,
+            "y1": 0,
+            "x2": 1306,
+            "y2": 34
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1376,
+            "y1": 376,
+            "x2": 1472,
+            "y2": 480
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1186,
+            "y1": 0,
+            "x2": 1292,
+            "y2": 17
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 756,
+            "y1": 0,
+            "x2": 1546,
+            "y2": 729
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "052",
+      "boundingBoxes": [
+        {
+          "imageId": "052",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 555,
+            "y1": 462,
+            "x2": 1605,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1187,
+            "y1": 2,
+            "x2": 1315,
+            "y2": 34
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1380,
+            "y1": 377,
+            "x2": 1478,
+            "y2": 481
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1191,
+            "y1": 0,
+            "x2": 1303,
+            "y2": 14
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1005,
+            "y1": 375,
+            "x2": 1324,
+            "y2": 646
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 759,
+            "y1": 0,
+            "x2": 1548,
+            "y2": 729
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 206,
+            "x2": 28,
+            "y2": 253
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "053",
+      "boundingBoxes": [
+        {
+          "imageId": "053",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1234,
+            "y1": 1,
+            "x2": 1345,
+            "y2": 48
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 94,
+            "x2": 122,
+            "y2": 277
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 488,
+            "y1": 591,
+            "x2": 1524,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1225,
+            "y1": 35,
+            "x2": 1357,
+            "y2": 63
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1385,
+            "y1": 400,
+            "x2": 1483,
+            "y2": 499
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 952,
+            "y1": 452,
+            "x2": 1297,
+            "y2": 713
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 772,
+            "y1": 0,
+            "x2": 1544,
+            "y2": 751
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "054",
+      "boundingBoxes": [
+        {
+          "imageId": "054",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 822,
+            "y1": 427,
+            "x2": 1203,
+            "y2": 722
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 538,
+            "y1": 450,
+            "x2": 1610,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1707,
+            "y1": 204,
+            "x2": 1809,
+            "y2": 253
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1729,
+            "y1": 177,
+            "x2": 1867,
+            "y2": 259
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1057,
+            "y1": 73,
+            "x2": 1920,
+            "y2": 965
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1620,
+            "y1": 646,
+            "x2": 1747,
+            "y2": 741
+          },
+          "className": "cup"
+        }
+      ]
+    },
+    {
+      "imageId": "055",
+      "boundingBoxes": [
+        {
+          "imageId": "055",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 862,
+            "y1": 108,
+            "x2": 1208,
+            "y2": 475
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 558,
+            "y1": 232,
+            "x2": 1648,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 858,
+            "y1": 0,
+            "x2": 1056,
+            "y2": 94
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1565,
+            "y1": 689,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "dining_table"
+        }
+      ]
+    },
+    {
+      "imageId": "056",
+      "boundingBoxes": [
+        {
+          "imageId": "056",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1685,
+            "y1": 192,
+            "x2": 1920,
+            "y2": 904
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 752,
+            "y2": 764
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 547,
+            "y1": 376,
+            "x2": 898,
+            "y2": 698
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 639,
+            "y1": 437,
+            "x2": 1528,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "057",
+      "boundingBoxes": [
+        {
+          "imageId": "057",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1454,
+            "y1": 46,
+            "x2": 1553,
+            "y2": 78
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1485,
+            "y1": 75,
+            "x2": 1581,
+            "y2": 90
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1268,
+            "y1": 48,
+            "x2": 1920,
+            "y2": 619
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 353,
+            "y1": 304,
+            "x2": 595,
+            "y2": 512
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 675,
+            "y1": 901,
+            "x2": 1508,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 236,
+            "x2": 635,
+            "y2": 817
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "058",
+      "boundingBoxes": [
+        {
+          "imageId": "058",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 491,
+            "y1": 174,
+            "x2": 686,
+            "y2": 375
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 559,
+            "y1": 874,
+            "x2": 1524,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1549,
+            "y1": 61,
+            "x2": 1652,
+            "y2": 84
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1330,
+            "y1": 25,
+            "x2": 1920,
+            "y2": 601
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1522,
+            "y1": 36,
+            "x2": 1633,
+            "y2": 68
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "058",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 4,
+            "x2": 623,
+            "y2": 682
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "059",
+      "boundingBoxes": [
+        {
+          "imageId": "059",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1680,
+            "y1": 191,
+            "x2": 1920,
+            "y2": 902
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 999,
+            "y1": 119,
+            "x2": 1157,
+            "y2": 261
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 552,
+            "y1": 832,
+            "x2": 1519,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 677,
+            "y1": 0,
+            "x2": 1321,
+            "y2": 472
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "060",
+      "boundingBoxes": [
+        {
+          "imageId": "060",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1039,
+            "y1": 60,
+            "x2": 1185,
+            "y2": 260
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1664,
+            "y1": 199,
+            "x2": 1920,
+            "y2": 905
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 511,
+            "y1": 826,
+            "x2": 1519,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 688,
+            "y1": 0,
+            "x2": 1357,
+            "y2": 439
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "061",
+      "boundingBoxes": [
+        {
+          "imageId": "061",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 1037,
+            "y1": 68,
+            "x2": 1177,
+            "y2": 255
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1652,
+            "y1": 202,
+            "x2": 1920,
+            "y2": 903
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 496,
+            "y1": 828,
+            "x2": 1527,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 682,
+            "y1": 0,
+            "x2": 1351,
+            "y2": 441
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "062",
+      "boundingBoxes": [
+        {
+          "imageId": "062",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1620,
+            "y1": 189,
+            "x2": 1920,
+            "y2": 878
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 977,
+            "y1": 72,
+            "x2": 1120,
+            "y2": 254
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 485,
+            "y1": 829,
+            "x2": 1534,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "062",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 633,
+            "y1": 0,
+            "x2": 1187,
+            "y2": 441
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "063",
+      "boundingBoxes": [
+        {
+          "imageId": "063",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 865,
+            "y1": 57,
+            "x2": 992,
+            "y2": 217
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1602,
+            "y1": 172,
+            "x2": 1920,
+            "y2": 847
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 473,
+            "y1": 830,
+            "x2": 1531,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 495,
+            "y1": 1,
+            "x2": 984,
+            "y2": 476
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "064",
+      "boundingBoxes": [
+        {
+          "imageId": "064",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 456,
+            "y1": 0,
+            "x2": 846,
+            "y2": 462
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 785,
+            "y1": 0,
+            "x2": 933,
+            "y2": 173
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1603,
+            "y1": 165,
+            "x2": 1920,
+            "y2": 839
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "064",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 445,
+            "y1": 844,
+            "x2": 1452,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "065",
+      "boundingBoxes": [
+        {
+          "imageId": "065",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 661,
+            "y1": 569,
+            "x2": 1617,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 760,
+            "y1": 395,
+            "x2": 1057,
+            "y2": 767
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1669,
+            "y1": 149,
+            "x2": 1920,
+            "y2": 806
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1893,
+            "y1": 194,
+            "x2": 1920,
+            "y2": 231
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "065",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 304,
+            "y1": 0,
+            "x2": 1043,
+            "y2": 700
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "066",
+      "boundingBoxes": [
+        {
+          "imageId": "066",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1631,
+            "y1": 120,
+            "x2": 1703,
+            "y2": 166
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 1005,
+            "y1": 0,
+            "x2": 1857,
+            "y2": 479
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 0,
+            "y1": 364,
+            "x2": 385,
+            "y2": 847
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1196,
+            "y1": 0,
+            "x2": 1276,
+            "y2": 13
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 509,
+            "y1": 445,
+            "x2": 1506,
+            "y2": 1080
+          },
+          "className": "person"
+        },
+        {
+          "imageId": "066",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 567,
+            "y1": 521,
+            "x2": 977,
+            "y2": 945
+          },
+          "className": "kettle"
+        }
+      ]
+    },
+    {
+      "imageId": "067",
+      "boundingBoxes": [
+        {
+          "imageId": "067",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 896,
+            "y1": 543,
+            "x2": 1330,
+            "y2": 857
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 338,
+            "y1": 119,
+            "x2": 448,
+            "y2": 179
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 302,
+            "y1": 111,
+            "x2": 415,
+            "y2": 173
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 808,
+            "y1": 126,
+            "x2": 866,
+            "y2": 179
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 73,
+            "y1": 84,
+            "x2": 1035,
+            "y2": 623
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "067",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 428,
+            "y1": 660,
+            "x2": 1406,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "068",
+      "boundingBoxes": [
+        {
+          "imageId": "068",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1073,
+            "y1": 272,
+            "x2": 1153,
+            "y2": 365
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 500,
+            "y1": 0,
+            "x2": 1303,
+            "y2": 717
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 737,
+            "y1": 391,
+            "x2": 1075,
+            "y2": 675
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 473,
+            "y1": 521,
+            "x2": 1548,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "069",
+      "boundingBoxes": [
+        {
+          "imageId": "069",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1320,
+            "y1": 514,
+            "x2": 1442,
+            "y2": 620
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1588,
+            "y1": 40,
+            "x2": 1731,
+            "y2": 127
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 583,
+            "y1": 0,
+            "x2": 1815,
+            "y2": 821
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1563,
+            "y1": 56,
+            "x2": 1692,
+            "y2": 158
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 895,
+            "y1": 303,
+            "x2": 1152,
+            "y2": 571
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 590,
+            "y1": 483,
+            "x2": 1587,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "070",
+      "boundingBoxes": [
+        {
+          "imageId": "070",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1342,
+            "y1": 514,
+            "x2": 1470,
+            "y2": 618
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1610,
+            "y1": 17,
+            "x2": 1761,
+            "y2": 104
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 582,
+            "y1": 0,
+            "x2": 1850,
+            "y2": 853
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1586,
+            "y1": 31,
+            "x2": 1734,
+            "y2": 139
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 906,
+            "y1": 337,
+            "x2": 1142,
+            "y2": 574
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "070",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 521,
+            "y1": 513,
+            "x2": 1494,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "071",
+      "boundingBoxes": [
+        {
+          "imageId": "071",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1284,
+            "y1": 415,
+            "x2": 1397,
+            "y2": 511
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 625,
+            "y1": 0,
+            "x2": 1840,
+            "y2": 702
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1571,
+            "y1": 18,
+            "x2": 1705,
+            "y2": 118
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 884,
+            "y1": 228,
+            "x2": 1077,
+            "y2": 462
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1597,
+            "y1": 3,
+            "x2": 1747,
+            "y2": 92
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 506,
+            "y1": 375,
+            "x2": 1615,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    },
+    {
+      "imageId": "072",
+      "boundingBoxes": [
+        {
+          "imageId": "072",
+          "instanceId": "005(カップ)",
+          "rect": {
+            "x1": 1286,
+            "y1": 451,
+            "x2": 1395,
+            "y2": 547
+          },
+          "className": "cup"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "004(テーブル)",
+          "rect": {
+            "x1": 678,
+            "y1": 0,
+            "x2": 1797,
+            "y2": 773
+          },
+          "className": "dining_table"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "006(リモコン)",
+          "rect": {
+            "x1": 1525,
+            "y1": 72,
+            "x2": 1660,
+            "y2": 167
+          },
+          "className": "remote_control"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "003(ケトル)",
+          "rect": {
+            "x1": 917,
+            "y1": 285,
+            "x2": 1091,
+            "y2": 491
+          },
+          "className": "kettle"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "008(ティッシュ)",
+          "rect": {
+            "x1": 1557,
+            "y1": 60,
+            "x2": 1695,
+            "y2": 147
+          },
+          "className": "box"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "002(ロボット)",
+          "rect": {
+            "x1": 543,
+            "y1": 400,
+            "x2": 1636,
+            "y2": 1080
+          },
+          "className": "person"
+        }
+      ]
+    }
+  ],
+  "utterances": [
+    {
+      "text": "お湯沸かしてもらえるかな？",
+      "phrases": [
+        {
+          "text": "お湯",
+          "relations": []
+        },
+        {
+          "text": "沸かしてもらえるかな？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "分かりました。電気ケトルを使っていいですか？",
+      "phrases": [
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "電気",
+          "relations": []
+        },
+        {
+          "text": "ケトルを",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(ケトル)"
+            }
+          ]
+        },
+        {
+          "text": "使っていいですか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(ケトル)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "いいよ。",
+      "phrases": [
+        {
+          "text": "いいよ。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "テーブルの上にお湯が被るとまずいものはあるかな？",
+      "phrases": [
+        {
+          "text": "テーブルの",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "004(テーブル)"
+            }
+          ]
+        },
+        {
+          "text": "上に",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "004(テーブル)"
+            },
+            {
+              "type": "=",
+              "instanceId": "009(上)"
+            }
+          ]
+        },
+        {
+          "text": "お湯が",
+          "relations": []
+        },
+        {
+          "text": "被ると",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "009(上)"
+            }
+          ]
+        },
+        {
+          "text": "まずい",
+          "relations": []
+        },
+        {
+          "text": "ものは",
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "006(リモコン)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "007(本)"
+            }
+          ]
+        },
+        {
+          "text": "あるかな？",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "009(上)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "リモコンや本があります。",
+      "phrases": [
+        {
+          "text": "リモコンや",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(リモコン)"
+            }
+          ]
+        },
+        {
+          "text": "本が",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "007(本)"
+            }
+          ]
+        },
+        {
+          "text": "あります。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "006(リモコン)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "007(本)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "009(上)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "本は濡れるとまずいね。本棚に片付けてくれるかな？",
+      "phrases": [
+        {
+          "text": "本は",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "007(本)"
+            }
+          ]
+        },
+        {
+          "text": "濡れると",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "007(本)"
+            }
+          ]
+        },
+        {
+          "text": "まずいね。",
+          "relations": []
+        },
+        {
+          "text": "本棚に",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "011(本棚)"
+            }
+          ]
+        },
+        {
+          "text": "片付けてくれるかな？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(本)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "011(本棚)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい分かりました。",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "リモコンは濡れない程度に離しておいてくれたらいいよ。",
+      "phrases": [
+        {
+          "text": "リモコンは",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(リモコン)"
+            }
+          ]
+        },
+        {
+          "text": "濡れない",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "006(リモコン)"
+            }
+          ]
+        },
+        {
+          "text": "程度に",
+          "relations": []
+        },
+        {
+          "text": "離しておいてくれたらいいよ。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(リモコン)"
+            },
+            {
+              "type": "カラ",
+              "instanceId": "003(ケトル)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい分かりました。ティッシュも一応テーブルの反対側に置いておきますね。",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        },
+        {
+          "text": "分かりました。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "ティッシュも",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "008(ティッシュ)"
+            }
+          ]
+        },
+        {
+          "text": "一応",
+          "relations": []
+        },
+        {
+          "text": "テーブルの",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "004(テーブル)"
+            }
+          ]
+        },
+        {
+          "text": "反対側に",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "004(テーブル)"
+            },
+            {
+              "type": "=",
+              "instanceId": "010(反対側)"
+            }
+          ]
+        },
+        {
+          "text": "置いておきますね。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(ティッシュ)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "010(反対側)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "そうだねえーもう、水は入っているはずだから、スイッチ入れるだけでいいよ。",
+      "phrases": [
+        {
+          "text": "そうだね",
+          "relations": []
+        },
+        {
+          "text": "えー",
+          "relations": []
+        },
+        {
+          "text": "もう、",
+          "relations": []
+        },
+        {
+          "text": "水は",
+          "relations": []
+        },
+        {
+          "text": "入っているはずだから、",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "003(ケトル)"
+            }
+          ]
+        },
+        {
+          "text": "スイッチ",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(ケトル)"
+            }
+          ]
+        },
+        {
+          "text": "入れるだけで",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "いいよ。",
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい",
+      "phrases": [
+        {
+          "text": "はい",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "半分くらい入ってたら、いいですか？",
+      "phrases": [
+        {
+          "text": "半分くらい",
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(ケトル)"
+            }
+          ]
+        },
+        {
+          "text": "入ってたら、",
+          "relations": []
+        },
+        {
+          "text": "いいですか？",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "あれ結構減ってるな。水を足すからちょうだい。",
+      "phrases": [
+        {
+          "text": "あれ",
+          "relations": []
+        },
+        {
+          "text": "結構",
+          "relations": []
+        },
+        {
+          "text": "減ってるな。",
+          "relations": []
+        },
+        {
+          "text": "水を",
+          "relations": []
+        },
+        {
+          "text": "足すから",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "003(ケトル)"
+            }
+          ]
+        },
+        {
+          "text": "ちょうだい。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(ケトル)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "はい、どうぞ。",
+      "phrases": [
+        {
+          "text": "はい、",
+          "relations": []
+        },
+        {
+          "text": "どうぞ。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(ケトル)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "これで大丈夫。",
+      "phrases": [
+        {
+          "text": "これで",
+          "relations": []
+        },
+        {
+          "text": "大丈夫。",
+          "relations": []
+        }
+      ]
+    },
+    {
+      "text": "ありがとうございます。沸いたらカップに注いでおきますね。",
+      "phrases": [
+        {
+          "text": "ありがとうございます。",
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
+        },
+        {
+          "text": "沸いたら",
+          "relations": []
+        },
+        {
+          "text": "カップに",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "005(カップ)"
+            }
+          ]
+        },
+        {
+          "text": "注いでおきますね。",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "005(カップ)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
