@@ -1,6 +1,6 @@
 # J-CRe3: Japanese Conversation dataset for Real-world Reference Resolution
 
-![Dataset Overview](https://raw.githubusercontent.com/riken-grp/J-CRe3/main/docs/overview.pdf)
+![Dataset Overview](https://raw.githubusercontent.com/riken-grp/J-CRe3/main/docs/overview.png)
 
 ## Overview
 
