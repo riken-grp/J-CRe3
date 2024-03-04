@@ -6,22 +6,28 @@
 
 ## Overview
 
-J-CRe3 is a real-world Japanese conversation dataset that contains egocentric video and dialogue audio of real-world
+J-CRe3 is a real-world Japanese conversation dataset that contains egocentric video, third-person video, and dialogue
+audio of real-world
 conversations between two people.
 The conversations involve a robot that is helping its master with daily mundane tasks, including many object
 manipulations.
 It contains 93 scenario-based dialogues with 2,131 utterances and 11,024 seconds of video.
 As shown in the figure above, the dataset is annotated with the following information:
 
-- Bounding boxes
+- **Bounding boxes**: The bounding boxes of the objects and regions in the video frames. Objects and regions that were
+  referred to in the dialogue are annotated. Each bounding box has a class name and an instance ID. This dataset
+  contains 79,694 bounding boxes in total.
 
-- Textual references
+- **Textual references**: The text-to-text references in the dialogue. The annotations include predicate-argument
+  structures, bridging references, and coreferences.
 
-- Text-to-object references
+- **Text-to-object references**: The text-to-object references between phrases in dialogue texts and objects in video
+  frames. The annotations include indirect reference relations, such as predicate-argument structures and bridging
+  references as well as direct reference relations.
 
 ## Video and Audio Files
 
-The egocentric video, 3rd person video, and dialogue audio files are available on the Box cloud storage.
+The egocentric video, third-person video, and dialogue audio files are available on the Box cloud storage.
 Download `J-CRe3.zip` from <https://app.box.com/s/g40fdigmlffxp1afjr45envxe0dtshlr> and extract it to the `recording`
 directory.
 The directory structure should look like this:
@@ -58,11 +64,12 @@ recording/
 
 - `fp_video.mp4`: The egocentric video file.
 
-- `cam11.mp4`, `cam12.mp4`, `cam13.mp4`, `cam14.mp4`: The 3rd person video files.
+- `cam11.mp4`, `cam12.mp4`, `cam13.mp4`, `cam14.mp4`: The third-person video files.
 
 - `audio.wav`: The dialogue audio file (stereo).
 
-- `info.json`: The metadata file containing the scenario ID, the speaker's ID, and the temporal alignment between the utterances and the video frames.
+- `info.json`: The metadata file containing the scenario ID, the speaker's ID, and the temporal alignment between the
+  utterances and the video frames.
 
   ```json
   {
