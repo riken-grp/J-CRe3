@@ -6,8 +6,10 @@
 
 ## Overview
 
-J-CRe3 is a real-world Japanese conversation dataset that contains egocentric video and dialogue audio of real-world conversations between two people.
-The conversations involve a robot that is helping its master with daily mundane tasks, including many object manipulations.
+J-CRe3 is a real-world Japanese conversation dataset that contains egocentric video and dialogue audio of real-world
+conversations between two people.
+The conversations involve a robot that is helping its master with daily mundane tasks, including many object
+manipulations.
 It contains 93 scenario-based dialogues with 2,131 utterances and 11,024 seconds of video.
 As shown in the figure above, the dataset is annotated with the following information:
 
@@ -17,57 +19,173 @@ As shown in the figure above, the dataset is annotated with the following inform
 
 - Text-to-object references
 
-## Distributed Files
+## Video and Audio Files
 
-- `textual_annotations/`: Processed transcriptions of the dialogue audio with textual reference annotations. The files in this directory are in [the KNP format](https://rhoknp.readthedocs.io/en/latest/format/index.html#knp), which can be easily parsed by [rhoknp](https://github.com/ku-nlp/rhoknp).
+The egocentric video, 3rd person video, and dialogue audio files are available on the Box cloud storage.
+Download `J-CRe3.zip` from <https://app.box.com/s/g40fdigmlffxp1afjr45envxe0dtshlr> and extract it to the `recording`
+directory.
+The directory structure should look like this:
 
-- `visual_annotations/`: Visual annotations of the bounding boxes and text-to-object references in the video. The files in this directory are in JSON format whose schema is described below.
+```plaintext
+recording/
+├── 20220302-56130207-1/
+│   ├── images/
+│   │   ├── 001.png
+│   │   ├── 002.png
+│   │   └── ...
+│   ├── fp_video.mp4
+│   ├── cam11.mp4
+│   ├── cam12.mp4
+│   ├── cam13.mp4
+│   ├── cam14.mp4
+│   ├── audio.wav
+│   ├── info.json
+│   └── timestamp.json
+└── ...
+```
 
-    ```json
-    {
+- `images/`: The directory containing the egocentric video frames extracted from the `fp_video.mp4` at 1fps.
+  You can use the `ffmpeg` command to extract the frames from the video.
+  Note that we scaled down the resolution to half for efficient annotation.
+
+  ```shell
+  ffmpeg \
+    -i recording/20220302-56130207-1/fp_video.mp4 \
+    -vf "select='not(mod(n\,30))',scale=iw/2:ih/2" \
+    -fps_mode passthrough \
+    'recording/20220302-56130207-1/images/%03d.png'
+  ```
+
+- `fp_video.mp4`: The egocentric video file.
+
+- `cam11.mp4`, `cam12.mp4`, `cam13.mp4`, `cam14.mp4`: The 3rd person video files.
+
+- `audio.wav`: The dialogue audio file (stereo).
+
+- `info.json`: The metadata file containing the scenario ID, the speaker's ID, and the temporal alignment between the utterances and the video frames.
+
+  ```json
+  {
+    "scenario_id": "scenario ID (string)",
+    "utterances": [
+      {
+        "text": "transcribed utterance (string)",
+        "sids": [
+          "sentence ID (string)"
+        ],
+        "start": "start time in milliseconds (number)",
+        "end": "end time in milliseconds (number)",
+        "duration": "duration in milliseconds (number)",
+        "speaker": "speaker ID (主人 or ロボット)",
+        "image_ids": [
+          "temporally corresponding image ID (string)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": "image ID (string)",
+        "path": "relative path to the image file (string)",
+        "time": "timestamp in milliseconds (number)"
+      }
+    ]
+  }
+  ```
+
+- `timestamp.json`: The timestamp file containing the start time of the recording.
+
+  ```json
+  {
+    "tp_video": {
+      "start": {
+        "from": "time when the record start instruction was sent (string)",
+        "to": "time when the record start instruction was completed (string)"
+      },
+      "end": {
+        "from": "time when the record end instruction was sent (string)",
+        "to": "time when the record end instruction was completed (string)"
+      }
+    },
+    "fp_video": {
+      "start": {
+        "from": "ditto",
+        "to": "ditto"
+      },
+      "end": {
+        "from": "ditto",
+        "to": "ditto"
+      }
+    },
+    "audio": {
+      "start": {
+        "from": "ditto",
+        "to": "ditto"
+      },
+      "end": {
+        "from": "ditto",
+        "to": "ditto"
+      }
+    }
+  }
+  ```
+
+## Annotation Files
+
+- `textual_annotations/`: Processed transcriptions of the dialogue audio with textual reference annotations. The files
+  in this directory are in [the KNP format](https://rhoknp.readthedocs.io/en/latest/format/index.html#knp), which can be
+  easily parsed by [rhoknp](https://github.com/ku-nlp/rhoknp).
+
+- `visual_annotations/`: Visual annotations of the bounding boxes and text-to-object references in the video. The files
+  in this directory are in JSON format whose schema is described below.
+
+  ```json
+  {
     "scenarioId": "string",
     "images": [
-        {
+      {
         "imageId": "string",
         "boundingBoxes": [
-            {
+          {
             "imageId": "string",
             "instanceId": "string",
             "rect": {
-                "x1": "number",
-                "y1": "number",
-                "x2": "number",
-                "y2": "number"
+              "x1": "number",
+              "y1": "number",
+              "x2": "number",
+              "y2": "number"
             },
             "className": "string"
-            }
+          }
         ]
-        }
+      }
     ],
     "utterances": [
-        {
+      {
         "text": "string",
         "phrases": [
-            {
+          {
             "text": "string",
             "relations": [
-                {
+              {
                 "type": "string",
-                "instanceId": "string",
-                }
+                "instanceId": "string"
+              }
             ]
-            }
+          }
         ]
-        }
+      }
     ]
-    }
-    ```
+  }
+  ```
 
 - `id/`: Scenario ID files providing train/valid/test split.
 
-- `transcriptions/`: Transcription of the dialogue audio. This directory contains files directly generated by the transcription tool (ELAN). Refer to the files under the `textual_annotations` directory for processed transcriptions.
+- `transcriptions/`: Transcription of the dialogue audio. This directory contains files directly generated by the
+  transcription tool (ELAN). Refer to the files under the `textual_annotations` directory for processed transcriptions.
 
-- `raw_annotations/`: Bounding box and text-to-object reference annotations. The files in this directory are directly generated by the annotation tool, and most of the annotations are omitted for efficient annotation. Refer to the files under the `visual_annotations` directory for processed complete annotations.
+- `raw_annotations/`: Bounding box and text-to-object reference annotations. The files in this directory are directly
+  generated by the annotation tool, and most of the annotations are omitted for efficient annotation. Refer to the files
+  under the `visual_annotations` directory for processed complete annotations.
 
 ## Statistics
 
@@ -81,6 +199,16 @@ The license for this dataset is subject to CC BY-SA 4.0.
 ## Citation
 
 ```bibtex
+@inproceedings{植田2023a,
+  author    = {植田 暢大 and 波部 英子 and 湯口 彰重 and 河野 誠也 and 川西 康友 and 黒橋 禎夫 and 吉野 幸一郎},
+  title     = {実世界における総合的参照解析を目的としたマルチモーダル対話データセットの構築},
+  booktitle = {言語処理学会 第29回年次大会},
+  year      = {2023},
+  address   = {沖縄},
+}
+```
+
+```bibtex
 @inproceedings{ueda-2024-jcre3,
   title={J-CRe3: A Japanese Conversation Dataset for Real-world Reference Resolution},
   author={Nobuhiro Ueda and Hideko Habe and Yoko Matsui and Akishige Yuguchi and Seiya Kawano and Yasutomo Kawanishi and Sadao Kurohashi and Koichiro Yoshino},
@@ -88,15 +216,5 @@ The license for this dataset is subject to CC BY-SA 4.0.
   year={2024},
   pages={},
   address={Turin, Italy},
-}
-```
-
-```bibtex
-@inproceedings{植田2023a,
-  author    = {植田 暢大 and 波部 英子 and 湯口 彰重 and 河野 誠也 and 川西 康友 and 黒橋 禎夫 and 吉野 幸一郎},
-  title     = {実世界における総合的参照解析を目的としたマルチモーダル対話データセットの構築},
-  booktitle = {言語処理学会 第29回年次大会},
-  year      = {2023},
-  address   = {沖縄},
 }
 ```
