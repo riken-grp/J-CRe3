@@ -147,35 +147,35 @@ recording/
 
   ```json
   {
-    "scenarioId": "string",
+    "scenarioId": "scenario ID (string)",
     "images": [
       {
-        "imageId": "string",
+        "imageId": "image ID (string)",
         "boundingBoxes": [
           {
-            "imageId": "string",
-            "instanceId": "string",
+            "imageId": "image ID (string)",
+            "instanceId": "instance ID (string)",
             "rect": {
-              "x1": "number",
-              "y1": "number",
-              "x2": "number",
-              "y2": "number"
+              "x1": "x-coordinate of the top-left corner (number)",
+              "y1": "y-coordinate of the top-left corner (number)",
+              "x2": "x-coordinate of the bottom-right corner (number)",
+              "y2": "y-coordinate of the bottom-right corner (number)"
             },
-            "className": "string"
+            "className": "class name (string)"
           }
         ]
       }
     ],
     "utterances": [
       {
-        "text": "string",
+        "text": "raw utterance text (string)",
         "phrases": [
           {
-            "text": "string",
+            "text": "raw phrase text (string)",
             "relations": [
               {
-                "type": "string",
-                "instanceId": "string"
+                "type": "relation type (string)",
+                "instanceId": "instance ID (string)"
               }
             ]
           }
