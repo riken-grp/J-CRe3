@@ -203,6 +203,7 @@ See [statistics.md](./docs/statistics.md).
 
 The license for this dataset is subject to CC BY-SA 4.0.
 <https://creativecommons.org/licenses/by-sa/4.0/>
+Please cite the following paper when using this dataset.
 
 ## Citation
 
