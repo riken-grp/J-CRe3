@@ -1,6 +1,7 @@
 # J-CRe3: Japanese Conversation dataset for Real-world Reference Resolution
 
-<!-- [[Paper]](TBW) -->
+[[Paper (ja)]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H12-1.pdf)
+[Paper (en)]
 
 ![Dataset Overview](https://raw.githubusercontent.com/riken-grp/J-CRe3/main/docs/overview.png)
 
