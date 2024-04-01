@@ -29,7 +29,7 @@ As shown in the figure above, the dataset is annotated with the following inform
 ## Video and Audio Files
 
 The egocentric video, third-person video, and dialogue audio files are available on the Box cloud storage.
-Download `J-CRe3.zip` from <https://app.box.com/s/g40fdigmlffxp1afjr45envxe0dtshlr> and extract it to the `recording`
+Download `J-CRe3.zip` from <https://riken-share.box.com/s/25vjhsccliimse0q74z35nv8j5bz31is> (Password: `J-CRe3-data`) and extract it to the `recording`
 directory.
 The directory structure should look like this:
 
