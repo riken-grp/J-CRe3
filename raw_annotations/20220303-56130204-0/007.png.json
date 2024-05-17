@@ -34,7 +34,7 @@
         198,
         170
       ],
-      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "class_name": "television_set",
       "auto_flg": true
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "image_id": "007",
-      "id": "384",
+      "id": "022(スマホ)",
       "bb": [
         1320,
         467,
@@ -83,7 +83,7 @@
         36
       ],
       "class_name": "cellular_telephone",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "007",
@@ -111,15 +111,15 @@
     },
     {
       "image_id": "007",
-      "id": "370",
+      "id": "020(ティッシュ箱)",
       "bb": [
-        1489,
-        764,
-        160,
-        142
+        1487,
+        763,
+        165,
+        148
       ],
       "class_name": "box",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "007",
@@ -183,15 +183,15 @@
     },
     {
       "image_id": "007",
-      "id": "227",
+      "id": "018(ウェットティッシュ)",
       "bb": [
         1755,
         769,
         163,
         312
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "bottle",
+      "auto_flg": false
     },
     {
       "image_id": "007",
@@ -255,19 +255,19 @@
     },
     {
       "image_id": "007",
-      "id": "35",
+      "id": "019(ポテトチップ)",
       "bb": [
         1401,
         605,
         64,
         94
       ],
-      "class_name": "bottle",
-      "auto_flg": true
+      "class_name": "cup",
+      "auto_flg": false
     },
     {
       "image_id": "007",
-      "id": "28",
+      "id": "021(タンブラー)",
       "bb": [
         1505,
         800,
@@ -275,7 +275,7 @@
         120
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "007",
@@ -399,14 +399,14 @@
     },
     {
       "image_id": "007",
-      "id": "1",
+      "id": "pc",
       "bb": [
         1234,
         231,
         168,
         147
       ],
-      "class_name": "laptop_computer",
+      "class_name": "box",
       "auto_flg": true
     }
   ],

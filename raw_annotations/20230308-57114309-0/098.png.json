@@ -339,7 +339,7 @@
     },
     {
       "image_id": "098",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         280,
         214,
@@ -383,6 +383,30 @@
         188
       ],
       "class_name": "spatula",
+      "auto_flg": false
+    },
+    {
+      "image_id": "098",
+      "id": "014(不特定：物３)",
+      "bb": [
+        997,
+        430,
+        317,
+        324
+      ],
+      "class_name": "region",
+      "auto_flg": false
+    },
+    {
+      "image_id": "098",
+      "id": "025(ゴミ箱)",
+      "bb": [
+        569,
+        821,
+        130,
+        101
+      ],
+      "class_name": "trash_can",
       "auto_flg": false
     }
   ],

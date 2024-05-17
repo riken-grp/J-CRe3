@@ -53,8 +53,8 @@
       "image_id": "015",
       "id": "1274",
       "bb": [
-        1281,
-        330,
+        1251,
+        225,
         267,
         192
       ],
@@ -144,6 +144,18 @@
       ],
       "class_name": "remote_control",
       "auto_flg": false
+    },
+    {
+      "image_id": "015",
+      "id": "007(こっち)",
+      "bb": [
+        1182,
+        812,
+        314,
+        276
+      ],
+      "class_name": "region",
+      "auto_flg": false
     }
   ],
   "caption": {
@@ -162,7 +174,7 @@
         25,
         3
       ],
-      "relation_name": "ヲ格"
+      "relation_name": "ヲ≒格"
     }
   ]
 }

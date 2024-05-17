@@ -279,14 +279,14 @@
     },
     {
       "image_id": "073",
-      "id": "7588",
+      "id": "025(ゴミ箱)",
       "bb": [
-        17,
-        812,
-        263,
-        260
+        582,
+        827,
+        56,
+        96
       ],
-      "class_name": "napkin",
+      "class_name": "trash_can",
       "auto_flg": true
     },
     {
@@ -351,7 +351,7 @@
     },
     {
       "image_id": "073",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         456,
         177,
@@ -525,28 +525,6 @@
   },
   "relations": [],
   "i2t_relations": [
-    {
-      "image_id": "073",
-      "id": "37",
-      "visual_id": "018(卵の殻a)",
-      "caption_id": "073",
-      "caption_region": [
-        210,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "073",
-      "id": "38",
-      "visual_id": "018(卵の殻a)",
-      "caption_id": "073",
-      "caption_region": [
-        443,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
     {
       "image_id": "073",
       "id": "39",

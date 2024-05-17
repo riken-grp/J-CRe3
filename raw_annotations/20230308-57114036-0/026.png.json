@@ -135,15 +135,15 @@
     },
     {
       "image_id": "026",
-      "id": "3974",
+      "id": "024(テーブル)",
       "bb": [
-        1351,
-        26,
-        225,
+        1663,
+        173,
+        274,
         134
       ],
-      "class_name": "television_set",
-      "auto_flg": true
+      "class_name": "dining_table",
+      "auto_flg": false
     },
     {
       "image_id": "026",
@@ -171,15 +171,15 @@
     },
     {
       "image_id": "026",
-      "id": "3918",
+      "id": "025(フライパン)",
       "bb": [
-        1301,
+        1281,
         245,
-        165,
-        74
+        185,
+        82
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "026",
@@ -195,14 +195,14 @@
     },
     {
       "image_id": "026",
-      "id": "3458",
+      "id": "026(棚)",
       "bb": [
         549,
         908,
         229,
         114
       ],
-      "class_name": "bottle",
+      "class_name": "cabinet",
       "auto_flg": true
     },
     {
@@ -273,28 +273,6 @@
   },
   "relations": [],
   "i2t_relations": [
-    {
-      "image_id": "026",
-      "id": "21",
-      "visual_id": "013(弁当箱・本体)",
-      "caption_id": "026",
-      "caption_region": [
-        54,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "026",
-      "id": "22",
-      "visual_id": "013(弁当箱・本体)",
-      "caption_id": "026",
-      "caption_region": [
-        234,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
     {
       "image_id": "026",
       "id": "23",

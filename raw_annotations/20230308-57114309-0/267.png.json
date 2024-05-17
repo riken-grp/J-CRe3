@@ -3,7 +3,7 @@
   "bounding_boxes": [
     {
       "image_id": "267",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         284,
         20,
@@ -171,15 +171,15 @@
     },
     {
       "image_id": "267",
-      "id": "23380",
+      "id": "025(ゴミ箱)",
       "bb": [
-        61,
-        738,
-        302,
-        159
+        618,
+        689,
+        140,
+        120
       ],
-      "class_name": "box",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "267",

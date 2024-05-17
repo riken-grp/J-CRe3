@@ -15,12 +15,12 @@
     },
     {
       "image_id": "010",
-      "id": "6",
+      "id": "6(7, 2, 3, =)",
       "bb": [
         1163,
         404,
-        108,
-        50
+        104,
+        43
       ],
       "class_name": "toy",
       "auto_flg": false
@@ -51,7 +51,7 @@
     },
     {
       "image_id": "010",
-      "id": "7",
+      "id": "7(土台01)",
       "bb": [
         967,
         163,
@@ -107,6 +107,18 @@
         1080
       ],
       "class_name": "runner_(carpet)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "010",
+      "id": "19",
+      "bb": [
+        941,
+        202,
+        197,
+        128
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

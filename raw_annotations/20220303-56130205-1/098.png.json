@@ -3,7 +3,7 @@
   "bounding_boxes": [
     {
       "image_id": "098",
-      "id": "005(コップ黄)",
+      "id": "028(コーヒーコップ黄)",
       "bb": [
         1866,
         826,
@@ -15,7 +15,7 @@
     },
     {
       "image_id": "098",
-      "id": "002(ロボット)",
+      "id": "table",
       "bb": [
         1063,
         1033,
@@ -195,7 +195,7 @@
     },
     {
       "image_id": "098",
-      "id": "004(コップ白)",
+      "id": "027(コーヒーカップ白)",
       "bb": [
         1528,
         538,
@@ -219,15 +219,15 @@
     },
     {
       "image_id": "098",
-      "id": "8809",
+      "id": "034(ポテトチップス)",
       "bb": [
-        339,
-        6,
-        264,
-        255
+        1680,
+        835,
+        85,
+        123
       ],
-      "class_name": "monitor_(computer_equipment) computer_monitor",
-      "auto_flg": true
+      "class_name": "crisp_(potato_chip)",
+      "auto_flg": false
     },
     {
       "image_id": "098",

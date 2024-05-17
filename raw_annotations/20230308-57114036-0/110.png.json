@@ -159,15 +159,15 @@
     },
     {
       "image_id": "110",
-      "id": "13393",
+      "id": "024(テーブル)",
       "bb": [
-        539,
-        4,
-        402,
-        171
+        1076,
+        -10,
+        792,
+        345
       ],
-      "class_name": "monitor_(computer_equipment) computer_monitor",
-      "auto_flg": true
+      "class_name": "dining_table",
+      "auto_flg": false
     },
     {
       "image_id": "110",
@@ -483,7 +483,7 @@
     },
     {
       "image_id": "110",
-      "id": "11483",
+      "id": "025(フライパン)",
       "bb": [
         477,
         307,
@@ -491,7 +491,7 @@
         272
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "110",
@@ -539,6 +539,18 @@
         177
       ],
       "class_name": "microwave_oven",
+      "auto_flg": false
+    },
+    {
+      "image_id": "110",
+      "id": "028(生卵a)",
+      "bb": [
+        1159,
+        620,
+        105,
+        94
+      ],
+      "class_name": "egg_yolk",
       "auto_flg": false
     }
   ],

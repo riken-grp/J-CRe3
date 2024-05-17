@@ -299,7 +299,7 @@
         573
       ],
       "class_name": "region",
-      "auto_flg": false
+      "auto_flg": true
     },
     {
       "image_id": "001",
@@ -465,17 +465,6 @@
     },
     {
       "image_id": "001",
-      "id": "3",
-      "visual_id": "004(上)",
-      "caption_id": "001",
-      "caption_region": [
-        12,
-        2
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "001",
       "id": "4",
       "visual_id": "014(透明コップa)",
       "caption_id": "001",
@@ -586,17 +575,6 @@
     },
     {
       "image_id": "001",
-      "id": "14",
-      "visual_id": "009(ケトル)",
-      "caption_id": "001",
-      "caption_region": [
-        309,
-        1
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "001",
       "id": "15",
       "visual_id": "008(タンブラー)",
       "caption_id": "001",
@@ -682,6 +660,61 @@
         4
       ],
       "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "32",
+      "visual_id": "004(上)",
+      "caption_id": "001",
+      "caption_region": [
+        21,
+        7
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "33",
+      "visual_id": "008(タンブラー)",
+      "caption_id": "001",
+      "caption_region": [
+        21,
+        7
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "34",
+      "visual_id": "006(白カップ)",
+      "caption_id": "001",
+      "caption_region": [
+        21,
+        7
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "35",
+      "visual_id": "014(透明コップa)",
+      "caption_id": "001",
+      "caption_region": [
+        21,
+        7
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "001",
+      "id": "36",
+      "visual_id": "015(透明コップb)",
+      "caption_id": "001",
+      "caption_region": [
+        21,
+        7
+      ],
+      "relation_name": "ヲ格"
     }
   ]
 }

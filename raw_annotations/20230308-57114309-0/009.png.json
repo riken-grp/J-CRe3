@@ -87,15 +87,15 @@
     },
     {
       "image_id": "009",
-      "id": "501",
+      "id": "025(ゴミ箱)",
       "bb": [
         1403,
         399,
         117,
         110
       ],
-      "class_name": "cup",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "009",
@@ -113,8 +113,8 @@
       "image_id": "009",
       "id": "449",
       "bb": [
-        294,
-        6,
+        -24,
+        -13,
         752,
         656
       ],
@@ -135,15 +135,15 @@
     },
     {
       "image_id": "009",
-      "id": "387",
+      "id": "024(棚)",
       "bb": [
-        1157,
-        9,
-        274,
-        161
+        -12,
+        -16,
+        709,
+        905
       ],
-      "class_name": "microwave_oven",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "009",

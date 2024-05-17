@@ -106,19 +106,19 @@
         51,
         119
       ],
-      "class_name": "stool",
+      "class_name": "ottoman",
       "auto_flg": true
     },
     {
       "image_id": "043",
-      "id": "016(上の物)",
+      "id": "020(ティッシュ箱)",
       "bb": [
-        726,
-        414,
-        328,
-        256
+        723,
+        473,
+        97,
+        130
       ],
-      "class_name": "bottle",
+      "class_name": "box",
       "auto_flg": false
     },
     {
@@ -255,15 +255,15 @@
     },
     {
       "image_id": "043",
-      "id": "2781",
+      "id": "022(スマホ)",
       "bb": [
-        1652,
-        356,
-        131,
-        95
+        1498,
+        473,
+        77,
+        31
       ],
-      "class_name": "computer_keyboard",
-      "auto_flg": true
+      "class_name": "cellular_telephone",
+      "auto_flg": false
     },
     {
       "image_id": "043",
@@ -363,7 +363,7 @@
     },
     {
       "image_id": "043",
-      "id": "2217",
+      "id": "018(ウェットティッシュ)",
       "bb": [
         756,
         517,
@@ -371,23 +371,23 @@
         153
       ],
       "class_name": "bottle",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "043",
-      "id": "1920",
+      "id": "chair",
       "bb": [
         1270,
         353,
         210,
         102
       ],
-      "class_name": "chair",
+      "class_name": "bottle",
       "auto_flg": true
     },
     {
       "image_id": "043",
-      "id": "1847",
+      "id": "021(タンブラー)",
       "bb": [
         928,
         420,
@@ -395,11 +395,11 @@
         117
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "043",
-      "id": "1805",
+      "id": "019(ポテトチップ)",
       "bb": [
         998,
         414,
@@ -407,7 +407,7 @@
         104
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     }
   ],
   "caption": {

@@ -63,7 +63,7 @@
     },
     {
       "image_id": "040",
-      "id": "2",
+      "id": "02(全体床)",
       "bb": [
         2,
         0,
@@ -95,6 +95,18 @@
         115
       ],
       "class_name": "toy",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "053(ここ)",
+      "bb": [
+        841,
+        237,
+        142,
+        167
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

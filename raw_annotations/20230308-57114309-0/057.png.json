@@ -267,15 +267,15 @@
     },
     {
       "image_id": "057",
-      "id": "6164",
+      "id": "025(ゴミ箱)",
       "bb": [
         595,
         850,
         140,
         101
       ],
-      "class_name": "cup",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "057",
@@ -339,14 +339,14 @@
     },
     {
       "image_id": "057",
-      "id": "6044",
+      "id": "bottle",
       "bb": [
         480,
         354,
         109,
         91
       ],
-      "class_name": "bottle",
+      "class_name": "trash_can",
       "auto_flg": true
     },
     {
@@ -459,7 +459,7 @@
     },
     {
       "image_id": "057",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         542,
         204,
@@ -519,15 +519,15 @@
     },
     {
       "image_id": "057",
-      "id": "3713",
+      "id": "022(フライパン油)",
       "bb": [
-        885,
-        160,
-        66,
-        77
+        895,
+        430,
+        133,
+        120
       ],
-      "class_name": "wineglass",
-      "auto_flg": true
+      "class_name": "olive_oil",
+      "auto_flg": false
     },
     {
       "image_id": "057",

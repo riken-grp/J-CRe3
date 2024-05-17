@@ -3,7 +3,7 @@
   "bounding_boxes": [
     {
       "image_id": "028",
-      "id": "2",
+      "id": "02(全体床)",
       "bb": [
         0,
         0,
@@ -107,6 +107,18 @@
         81
       ],
       "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "028",
+      "id": "012(一部床)",
+      "bb": [
+        890,
+        653,
+        1031,
+        457
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

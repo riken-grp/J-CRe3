@@ -39,15 +39,15 @@
     },
     {
       "image_id": "009",
-      "id": "964",
+      "id": "026(棚)",
       "bb": [
-        448,
-        76,
-        246,
-        137
+        0,
+        0,
+        1920,
+        1041
       ],
-      "class_name": "bowl",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "009",
@@ -138,17 +138,6 @@
         2
       ],
       "relation_name": "=格"
-    },
-    {
-      "image_id": "009",
-      "id": "10",
-      "visual_id": "004(弁当箱)",
-      "caption_id": "009",
-      "caption_region": [
-        773,
-        2
-      ],
-      "relation_name": "=≒格"
     }
   ]
 }

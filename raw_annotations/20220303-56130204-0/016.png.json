@@ -27,7 +27,7 @@
     },
     {
       "image_id": "016",
-      "id": "1386",
+      "id": "020(ティッシュ箱)",
       "bb": [
         881,
         508,
@@ -35,19 +35,19 @@
         225
       ],
       "class_name": "box",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "016",
-      "id": "1260",
+      "id": "022(スマホ)",
       "bb": [
         648,
         81,
         52,
         48
       ],
-      "class_name": "cigarette_case",
-      "auto_flg": true
+      "class_name": "cellular_telephone",
+      "auto_flg": false
     },
     {
       "image_id": "016",
@@ -58,7 +58,7 @@
         114,
         166
       ],
-      "class_name": "laptop_computer",
+      "class_name": "monitor_(computer_equipment) computer_monitor",
       "auto_flg": true
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "image_id": "016",
-      "id": "787",
+      "id": "019(ポテトチップ)",
       "bb": [
         739,
         290,
@@ -143,7 +143,7 @@
         138
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "016",
@@ -171,7 +171,7 @@
     },
     {
       "image_id": "016",
-      "id": "28",
+      "id": "021(タンブラー)",
       "bb": [
         920,
         631,
@@ -179,18 +179,18 @@
         162
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "016",
-      "id": "6",
+      "id": "chair",
       "bb": [
         427,
         55,
         147,
         303
       ],
-      "class_name": "chair",
+      "class_name": "bottle",
       "auto_flg": true
     },
     {
@@ -207,15 +207,15 @@
     },
     {
       "image_id": "016",
-      "id": "3",
+      "id": "018(ウェットティッシュ)",
       "bb": [
-        1173,
-        138,
-        230,
-        348
+        897,
+        175,
+        99,
+        157
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "bottle",
+      "auto_flg": false
     }
   ],
   "caption": {
@@ -234,7 +234,7 @@
         85,
         7
       ],
-      "relation_name": "ガ格"
+      "relation_name": "ガ２格"
     }
   ]
 }

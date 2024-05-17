@@ -3,15 +3,15 @@
   "bounding_boxes": [
     {
       "image_id": "097",
-      "id": "9925",
+      "id": "025(ゴミ箱)",
       "bb": [
         546,
         816,
         143,
         101
       ],
-      "class_name": "cup",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "097",
@@ -351,7 +351,7 @@
     },
     {
       "image_id": "097",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         284,
         197,
@@ -419,6 +419,18 @@
         651
       ],
       "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "097",
+      "id": "014(不特定：物３)",
+      "bb": [
+        977,
+        422,
+        345,
+        306
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

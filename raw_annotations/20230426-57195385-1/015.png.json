@@ -3,27 +3,27 @@
   "bounding_boxes": [
     {
       "image_id": "015",
-      "id": "2",
+      "id": "pc",
       "bb": [
         760,
         309,
         150,
         115
       ],
-      "class_name": "laptop_computer",
+      "class_name": "flower_arrangement",
       "auto_flg": true
     },
     {
       "image_id": "015",
-      "id": "chair",
+      "id": "015(青マット)",
       "bb": [
-        1157,
-        491,
-        135,
-        170
+        893,
+        505,
+        210,
+        62
       ],
-      "class_name": "dishtowel",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "015",
@@ -54,7 +54,7 @@
       "id": "013(ここ)",
       "bb": [
         484,
-        274,
+        273,
         245,
         161
       ],
@@ -63,7 +63,7 @@
     },
     {
       "image_id": "015",
-      "id": "11",
+      "id": "flower",
       "bb": [
         985,
         493,
@@ -94,20 +94,20 @@
         53,
         29
       ],
-      "class_name": "box",
+      "class_name": "bowl",
       "auto_flg": true
     },
     {
       "image_id": "015",
-      "id": "29",
+      "id": "014(花柄マット)",
       "bb": [
-        801,
-        536,
-        376,
-        128
+        799,
+        543,
+        195,
+        125
       ],
       "class_name": "place_mat",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "015",
@@ -123,14 +123,14 @@
     },
     {
       "image_id": "015",
-      "id": "92",
+      "id": "019(花瓶)",
       "bb": [
         985,
         494,
         110,
         142
       ],
-      "class_name": "flowerpot",
+      "class_name": "flower_arrangement",
       "auto_flg": true
     },
     {
@@ -147,27 +147,27 @@
     },
     {
       "image_id": "015",
-      "id": "258",
+      "id": "018(ティッシュ箱)",
       "bb": [
-        675,
-        389,
-        63,
-        25
+        907,
+        616,
+        122,
+        69
       ],
-      "class_name": "envelope",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "015",
-      "id": "275",
+      "id": "017(オレンジマット)",
       "bb": [
-        760,
-        309,
-        128,
-        80
+        1037,
+        551,
+        137,
+        99
       ],
-      "class_name": "monitor_(computer_equipment) computer_monitor",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "015",
@@ -327,15 +327,15 @@
     },
     {
       "image_id": "015",
-      "id": "815",
+      "id": "016(黄マット)",
       "bb": [
-        881,
-        536,
-        241,
-        88
+        884,
+        539,
+        234,
+        84
       ],
-      "class_name": "napkin",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "015",
@@ -389,8 +389,8 @@
       "image_id": "015",
       "id": "929",
       "bb": [
-        417,
-        393,
+        406,
+        289,
         496,
         265
       ],
@@ -454,7 +454,7 @@
         97,
         57
       ],
-      "class_name": "dishtowel",
+      "class_name": "sponge",
       "auto_flg": true
     },
     {

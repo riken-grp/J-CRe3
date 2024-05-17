@@ -27,7 +27,7 @@
     },
     {
       "image_id": "054",
-      "id": "005(コップ黄)",
+      "id": "022(粉入りコップ黄)",
       "bb": [
         972,
         728,
@@ -39,7 +39,7 @@
     },
     {
       "image_id": "054",
-      "id": "007(コーヒー箱)",
+      "id": "035(スティック減コーヒー箱)",
       "bb": [
         1181,
         491,
@@ -99,7 +99,7 @@
     },
     {
       "image_id": "054",
-      "id": "003(コップ青縁)",
+      "id": "020(粉入りカップ青縁)",
       "bb": [
         818,
         724,
@@ -123,7 +123,7 @@
     },
     {
       "image_id": "054",
-      "id": "017(コーヒースティックa, b, c)",
+      "id": "029(空コーヒースティックa, b, c)",
       "bb": [
         781,
         942,
@@ -135,7 +135,7 @@
     },
     {
       "image_id": "054",
-      "id": "002(ロボット)",
+      "id": "table",
       "bb": [
         1061,
         858,
@@ -147,7 +147,7 @@
     },
     {
       "image_id": "054",
-      "id": "004(コップ白)",
+      "id": "021(粉入りカップ白)",
       "bb": [
         675,
         712,
@@ -207,15 +207,15 @@
     },
     {
       "image_id": "054",
-      "id": "4494",
+      "id": "039(コーヒー粉c)",
       "bb": [
-        1643,
-        6,
-        123,
-        144
+        1004,
+        770,
+        40,
+        39
       ],
-      "class_name": "mask",
-      "auto_flg": true
+      "class_name": "cocoa_(beverage)",
+      "auto_flg": false
     },
     {
       "image_id": "054",
@@ -279,27 +279,27 @@
     },
     {
       "image_id": "054",
-      "id": "4272",
+      "id": "038(コーヒー粉b)",
       "bb": [
-        758,
-        142,
-        320,
-        204
+        836,
+        768,
+        56,
+        50
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "cocoa_(beverage)",
+      "auto_flg": false
     },
     {
       "image_id": "054",
-      "id": "4040",
+      "id": "037(コーヒー粉a)",
       "bb": [
-        249,
+        693,
+        753,
         63,
-        345,
-        224
+        44
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "cocoa_(beverage)",
+      "auto_flg": false
     }
   ],
   "caption": {
@@ -352,61 +352,6 @@
         7
       ],
       "relation_name": "ガ格"
-    },
-    {
-      "image_id": "054",
-      "id": "15",
-      "visual_id": "007(コーヒー箱)",
-      "caption_id": "054",
-      "caption_region": [
-        146,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "054",
-      "id": "16",
-      "visual_id": "017(コーヒースティックa, b, c)",
-      "caption_id": "054",
-      "caption_region": [
-        146,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "054",
-      "id": "17",
-      "visual_id": "004(コップ白)",
-      "caption_id": "054",
-      "caption_region": [
-        146,
-        4
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "054",
-      "id": "18",
-      "visual_id": "005(コップ黄)",
-      "caption_id": "054",
-      "caption_region": [
-        146,
-        4
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "054",
-      "id": "19",
-      "visual_id": "003(コップ青縁)",
-      "caption_id": "054",
-      "caption_region": [
-        146,
-        4
-      ],
-      "relation_name": "=格"
     }
   ]
 }

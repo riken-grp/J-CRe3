@@ -27,7 +27,7 @@
     },
     {
       "image_id": "125",
-      "id": "006(コーヒー箱)",
+      "id": "029(減コーヒー箱)",
       "bb": [
         450,
         64,
@@ -130,20 +130,20 @@
         68,
         16
       ],
-      "class_name": "cellular_telephone",
+      "class_name": "remote_control",
       "auto_flg": true
     },
     {
       "image_id": "125",
-      "id": "10127",
+      "id": "020(ティッシュ箱)",
       "bb": [
-        524,
-        928,
-        151,
-        112
+        471,
+        878,
+        257,
+        204
       ],
-      "class_name": "mouse_(computer_equipment)",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "125",
@@ -279,15 +279,15 @@
     },
     {
       "image_id": "125",
-      "id": "9982",
+      "id": "018(ウェットティッシュ)",
       "bb": [
-        1441,
-        855,
-        305,
-        216
+        690,
+        983,
+        160,
+        103
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "bottle",
+      "auto_flg": false
     },
     {
       "image_id": "125",
@@ -315,7 +315,7 @@
     },
     {
       "image_id": "125",
-      "id": "9970",
+      "id": "021(タンブラー)",
       "bb": [
         681,
         670,
@@ -323,7 +323,7 @@
         142
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "125",
@@ -339,7 +339,7 @@
     },
     {
       "image_id": "125",
-      "id": "011(グラス)",
+      "id": "023(ジュース入りグラス)",
       "bb": [
         1074,
         790,
@@ -351,7 +351,7 @@
     },
     {
       "image_id": "125",
-      "id": "010(白)",
+      "id": "031(コーヒー入り白)",
       "bb": [
         1020,
         878,
@@ -387,7 +387,7 @@
     },
     {
       "image_id": "125",
-      "id": "009(青縁)",
+      "id": "030(コーヒー入り青縁)",
       "bb": [
         901,
         839,
@@ -399,14 +399,14 @@
     },
     {
       "image_id": "125",
-      "id": "9252",
+      "id": "022(スマホ)",
       "bb": [
         897,
         201,
         169,
         228
       ],
-      "class_name": "chair",
+      "class_name": "cellular_telephone",
       "auto_flg": true
     },
     {
@@ -423,22 +423,22 @@
     },
     {
       "image_id": "125",
-      "id": "016(上の物)",
+      "id": "019(ポテトチップ)",
       "bb": [
-        479,
-        585,
-        367,
-        494
+        736,
+        581,
+        82,
+        134
       ],
-      "class_name": "bottle",
+      "class_name": "cup",
       "auto_flg": false
     },
     {
       "image_id": "125",
       "id": "003(テーブル)",
       "bb": [
-        443,
-        239,
+        445,
+        238,
         1118,
         840
       ],

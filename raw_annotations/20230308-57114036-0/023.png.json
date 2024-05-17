@@ -291,15 +291,15 @@
     },
     {
       "image_id": "023",
-      "id": "3458",
+      "id": "026(棚)",
       "bb": [
-        981,
-        702,
-        150,
-        162
+        -13,
+        738,
+        483,
+        343
       ],
-      "class_name": "bottle",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "023",
@@ -375,7 +375,7 @@
         874,
         4
       ],
-      "relation_name": "=≒格"
+      "relation_name": "=格"
     },
     {
       "image_id": "023",
@@ -407,39 +407,6 @@
       "caption_region": [
         158,
         2
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "023",
-      "id": "39",
-      "visual_id": "012(卵a, b)",
-      "caption_id": "023",
-      "caption_region": [
-        108,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "023",
-      "id": "40",
-      "visual_id": "012(卵a, b)",
-      "caption_id": "023",
-      "caption_region": [
-        631,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "023",
-      "id": "41",
-      "visual_id": "012(卵a, b)",
-      "caption_id": "023",
-      "caption_region": [
-        931,
-        4
       ],
       "relation_name": "=≒格"
     }

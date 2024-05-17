@@ -75,15 +75,15 @@
     },
     {
       "image_id": "003",
-      "id": "105",
+      "id": "025(ゴミ箱)",
       "bb": [
-        1042,
-        2,
-        105,
-        226
+        996,
+        194,
+        32,
+        75
       ],
-      "class_name": "cabinet",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "003",
@@ -195,15 +195,15 @@
     },
     {
       "image_id": "003",
-      "id": "7",
+      "id": "024(棚)",
       "bb": [
-        530,
-        28,
-        90,
-        86
+        -3,
+        181,
+        441,
+        568
       ],
-      "class_name": "speaker_(stero_equipment)",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "003",

@@ -29,10 +29,10 @@
       "image_id": "133",
       "id": "15538",
       "bb": [
-        1619,
-        18,
-        221,
-        93
+        1143,
+        -9,
+        781,
+        296
       ],
       "class_name": "place_mat",
       "auto_flg": true
@@ -195,15 +195,15 @@
     },
     {
       "image_id": "133",
-      "id": "15421",
+      "id": "024(テーブル)",
       "bb": [
-        1575,
-        29,
-        64,
-        48
+        1142,
+        -9,
+        783,
+        298
       ],
-      "class_name": "cup",
-      "auto_flg": true
+      "class_name": "dining_table",
+      "auto_flg": false
     },
     {
       "image_id": "133",
@@ -267,15 +267,15 @@
     },
     {
       "image_id": "133",
-      "id": "14875",
+      "id": "031(溶き卵a, 溶き卵b)",
       "bb": [
-        910,
-        122,
-        61,
+        1017,
+        559,
+        111,
         106
       ],
-      "class_name": "wineglass",
-      "auto_flg": true
+      "class_name": "egg_yolk",
+      "auto_flg": false
     },
     {
       "image_id": "133",
@@ -351,15 +351,15 @@
     },
     {
       "image_id": "133",
-      "id": "14285",
+      "id": "025(フライパン)",
       "bb": [
-        427,
-        225,
+        430,
+        228,
         304,
         204
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "133",

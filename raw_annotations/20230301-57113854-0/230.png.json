@@ -3,7 +3,7 @@
   "bounding_boxes": [
     {
       "image_id": "230",
-      "id": "019(卵の殻)",
+      "id": "019(卵bの殻)",
       "bb": [
         832,
         821,
@@ -111,15 +111,15 @@
     },
     {
       "image_id": "230",
-      "id": "16975",
+      "id": "017(お皿)",
       "bb": [
-        1769,
-        68,
-        162,
-        165
+        1676,
+        306,
+        249,
+        267
       ],
-      "class_name": "dishtowel",
-      "auto_flg": true
+      "class_name": "plate",
+      "auto_flg": false
     },
     {
       "image_id": "230",

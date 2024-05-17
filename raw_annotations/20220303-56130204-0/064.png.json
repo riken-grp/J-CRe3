@@ -159,14 +159,14 @@
     },
     {
       "image_id": "064",
-      "id": "016(上の物)",
+      "id": "021(タンブラー)",
       "bb": [
-        1180,
+        1227,
+        69,
         51,
-        203,
-        146
+        56
       ],
-      "class_name": "bottle",
+      "class_name": "cup",
       "auto_flg": false
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "image_id": "064",
-      "id": "5516",
+      "id": "020(ティッシュ箱)",
       "bb": [
         1311,
         116,
@@ -227,19 +227,19 @@
         81
       ],
       "class_name": "box",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "064",
-      "id": "5485",
+      "id": "019(ポテトチップ)",
       "bb": [
         1178,
         61,
         44,
         49
       ],
-      "class_name": "candle",
-      "auto_flg": true
+      "class_name": "cup",
+      "auto_flg": false
     },
     {
       "image_id": "064",
@@ -387,15 +387,15 @@
     },
     {
       "image_id": "064",
-      "id": "5323",
+      "id": "018(ウェットティッシュ)",
       "bb": [
-        1317,
-        49,
-        91,
-        98
+        1293,
+        52,
+        68,
+        74
       ],
-      "class_name": "box",
-      "auto_flg": true
+      "class_name": "bottle",
+      "auto_flg": false
     },
     {
       "image_id": "064",

@@ -447,7 +447,7 @@
     },
     {
       "image_id": "093",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         483,
         182,
@@ -503,6 +503,18 @@
         635
       ],
       "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "093",
+      "id": "025(ゴミ箱)",
+      "bb": [
+        532,
+        807,
+        108,
+        107
+      ],
+      "class_name": "trash_can",
       "auto_flg": false
     }
   ],

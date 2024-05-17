@@ -3,14 +3,14 @@
   "bounding_boxes": [
     {
       "image_id": "049",
-      "id": "3413",
+      "id": "oven",
       "bb": [
         400,
         234,
         158,
         69
       ],
-      "class_name": "microwave_oven",
+      "class_name": "place_mat",
       "auto_flg": true
     },
     {
@@ -63,14 +63,14 @@
     },
     {
       "image_id": "049",
-      "id": "3499",
+      "id": "pc",
       "bb": [
         1127,
         233,
         143,
         111
       ],
-      "class_name": "laptop_computer",
+      "class_name": "flower_arrangement",
       "auto_flg": true
     },
     {
@@ -87,19 +87,19 @@
     },
     {
       "image_id": "049",
-      "id": "3506",
+      "id": "019(花瓶)",
       "bb": [
         1271,
         438,
         138,
-        96
+        137
       ],
       "class_name": "flower_arrangement",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "049",
-      "id": "3510",
+      "id": "015(青マット)",
       "bb": [
         1339,
         486,
@@ -107,7 +107,7 @@
         130
       ],
       "class_name": "place_mat",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "049",
@@ -147,7 +147,7 @@
     },
     {
       "image_id": "049",
-      "id": "3530",
+      "id": "017(オレンジマット)",
       "bb": [
         1323,
         663,
@@ -155,7 +155,7 @@
         239
       ],
       "class_name": "place_mat",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "049",
@@ -195,7 +195,7 @@
     },
     {
       "image_id": "049",
-      "id": "3623",
+      "id": "014(花柄マット)",
       "bb": [
         1092,
         456,
@@ -203,11 +203,11 @@
         120
       ],
       "class_name": "place_mat",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "049",
-      "id": "3634",
+      "id": "016(黄マット)",
       "bb": [
         954,
         628,
@@ -215,7 +215,7 @@
         267
       ],
       "class_name": "place_mat",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "049",
@@ -243,15 +243,15 @@
     },
     {
       "image_id": "049",
-      "id": "3688",
+      "id": "018(ティッシュ箱)",
       "bb": [
-        812,
-        574,
-        168,
-        329
+        1301,
+        570,
+        84,
+        75
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "049",

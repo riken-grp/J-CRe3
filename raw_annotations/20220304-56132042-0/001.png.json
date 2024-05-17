@@ -375,15 +375,15 @@
     },
     {
       "image_id": "001",
-      "id": "10",
+      "id": "028(キッチン)",
       "bb": [
         315,
         545,
-        344,
+        348,
         170
       ],
       "class_name": "sink",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -507,7 +507,7 @@
       "visual_id": "016(カップ麺)",
       "caption_id": "001",
       "caption_region": [
-        250,
+        252,
         3
       ],
       "relation_name": "=格"
@@ -518,7 +518,7 @@
       "visual_id": "016(カップ麺)",
       "caption_id": "001",
       "caption_region": [
-        286,
+        288,
         3
       ],
       "relation_name": "=格"
@@ -529,7 +529,7 @@
       "visual_id": "008(本)",
       "caption_id": "001",
       "caption_region": [
-        347,
+        349,
         3
       ],
       "relation_name": "=格"
@@ -540,7 +540,7 @@
       "visual_id": "011(青縁カップ)",
       "caption_id": "001",
       "caption_region": [
-        560,
+        562,
         3
       ],
       "relation_name": "=格"
@@ -551,7 +551,7 @@
       "visual_id": "012(タンブラー)",
       "caption_id": "001",
       "caption_region": [
-        560,
+        562,
         3
       ],
       "relation_name": "=格"
@@ -562,7 +562,7 @@
       "visual_id": "001(主人)",
       "caption_id": "001",
       "caption_region": [
-        87,
+        89,
         2
       ],
       "relation_name": "=格"
@@ -573,7 +573,7 @@
       "visual_id": "001(主人)",
       "caption_id": "001",
       "caption_region": [
-        194,
+        196,
         2
       ],
       "relation_name": "=格"
@@ -584,7 +584,7 @@
       "visual_id": "012(タンブラー)",
       "caption_id": "001",
       "caption_region": [
-        507,
+        509,
         5
       ],
       "relation_name": "=格"
@@ -595,7 +595,7 @@
       "visual_id": "011(青縁カップ)",
       "caption_id": "001",
       "caption_region": [
-        497,
+        499,
         3
       ],
       "relation_name": "=格"
@@ -606,7 +606,7 @@
       "visual_id": "003(テーブル)",
       "caption_id": "001",
       "caption_region": [
-        129,
+        131,
         5
       ],
       "relation_name": "=格"
@@ -617,7 +617,7 @@
       "visual_id": "003(テーブル)",
       "caption_id": "001",
       "caption_region": [
-        686,
+        688,
         5
       ],
       "relation_name": "=格"
@@ -628,7 +628,7 @@
       "visual_id": "005(冷蔵庫)",
       "caption_id": "001",
       "caption_region": [
-        211,
+        213,
         1
       ],
       "relation_name": "=格"
@@ -639,7 +639,7 @@
       "visual_id": "009(棚)",
       "caption_id": "001",
       "caption_region": [
-        296,
+        298,
         1
       ],
       "relation_name": "=格"
@@ -650,7 +650,7 @@
       "visual_id": "008(本)",
       "caption_id": "001",
       "caption_region": [
-        149,
+        151,
         10
       ],
       "relation_name": "ヲ格"
@@ -661,7 +661,7 @@
       "visual_id": "011(青縁カップ)",
       "caption_id": "001",
       "caption_region": [
-        149,
+        151,
         10
       ],
       "relation_name": "ヲ格"
@@ -672,7 +672,7 @@
       "visual_id": "012(タンブラー)",
       "caption_id": "001",
       "caption_region": [
-        149,
+        151,
         10
       ],
       "relation_name": "ヲ格"
@@ -683,7 +683,7 @@
       "visual_id": "015(布巾)",
       "caption_id": "001",
       "caption_region": [
-        149,
+        151,
         10
       ],
       "relation_name": "ヲ格"
@@ -694,7 +694,7 @@
       "visual_id": "016(カップ麺)",
       "caption_id": "001",
       "caption_region": [
-        149,
+        151,
         10
       ],
       "relation_name": "ヲ格"
@@ -705,7 +705,7 @@
       "visual_id": "017(ワイングラス６個)",
       "caption_id": "001",
       "caption_region": [
-        149,
+        151,
         10
       ],
       "relation_name": "ヲ格"
@@ -716,7 +716,7 @@
       "visual_id": "018(透明容器)",
       "caption_id": "001",
       "caption_region": [
-        149,
+        151,
         10
       ],
       "relation_name": "ヲ格"
@@ -727,7 +727,7 @@
       "visual_id": "019(グラス6個)",
       "caption_id": "001",
       "caption_region": [
-        149,
+        151,
         10
       ],
       "relation_name": "ヲ格"
@@ -738,7 +738,7 @@
       "visual_id": "020(ポット)",
       "caption_id": "001",
       "caption_region": [
-        149,
+        151,
         10
       ],
       "relation_name": "ヲ格"
@@ -749,7 +749,7 @@
       "visual_id": "015(布巾)",
       "caption_id": "001",
       "caption_region": [
-        707,
+        709,
         6
       ],
       "relation_name": "デ格"

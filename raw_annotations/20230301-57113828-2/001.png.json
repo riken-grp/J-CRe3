@@ -3,7 +3,7 @@
   "bounding_boxes": [
     {
       "image_id": "001",
-      "id": "5(トマト皿３枚)",
+      "id": "005(トマト皿３枚)",
       "bb": [
         994,
         61,
@@ -15,7 +15,7 @@
     },
     {
       "image_id": "001",
-      "id": "3(冷蔵庫)",
+      "id": "003(冷蔵庫)",
       "bb": [
         303,
         0,
@@ -27,7 +27,7 @@
     },
     {
       "image_id": "001",
-      "id": "4(食パン01)",
+      "id": "004(食パン01)",
       "bb": [
         39,
         431,
@@ -39,7 +39,7 @@
     },
     {
       "image_id": "001",
-      "id": "2(ロボット)",
+      "id": "002(ロボット)",
       "bb": [
         822,
         927,
@@ -51,7 +51,7 @@
     },
     {
       "image_id": "001",
-      "id": "1(主人)",
+      "id": "001(主人)",
       "bb": [
         666,
         0,
@@ -72,7 +72,7 @@
     {
       "image_id": "001",
       "id": "1",
-      "visual_id": "1(主人)",
+      "visual_id": "001(主人)",
       "caption_id": "001",
       "caption_region": [
         53,
@@ -83,7 +83,7 @@
     {
       "image_id": "001",
       "id": "2",
-      "visual_id": "2(ロボット)",
+      "visual_id": "002(ロボット)",
       "caption_id": "001",
       "caption_region": [
         84,
@@ -94,7 +94,7 @@
     {
       "image_id": "001",
       "id": "3",
-      "visual_id": "3(冷蔵庫)",
+      "visual_id": "003(冷蔵庫)",
       "caption_id": "001",
       "caption_region": [
         145,
@@ -105,7 +105,7 @@
     {
       "image_id": "001",
       "id": "4",
-      "visual_id": "4(食パン01)",
+      "visual_id": "004(食パン01)",
       "caption_id": "001",
       "caption_region": [
         671,
@@ -116,7 +116,7 @@
     {
       "image_id": "001",
       "id": "5",
-      "visual_id": "4(食パン01)",
+      "visual_id": "004(食パン01)",
       "caption_id": "001",
       "caption_region": [
         772,
@@ -127,7 +127,7 @@
     {
       "image_id": "001",
       "id": "6",
-      "visual_id": "4(食パン01)",
+      "visual_id": "004(食パン01)",
       "caption_id": "001",
       "caption_region": [
         704,
@@ -138,24 +138,13 @@
     {
       "image_id": "001",
       "id": "7",
-      "visual_id": "4(食パン01)",
+      "visual_id": "004(食パン01)",
       "caption_id": "001",
       "caption_region": [
         730,
         4
       ],
       "relation_name": "=格"
-    },
-    {
-      "image_id": "001",
-      "id": "136",
-      "visual_id": "4(食パン01)",
-      "caption_id": "001",
-      "caption_region": [
-        899,
-        4
-      ],
-      "relation_name": "=≒格"
     }
   ]
 }

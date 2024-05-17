@@ -3,15 +3,15 @@
   "bounding_boxes": [
     {
       "image_id": "051",
-      "id": "4157",
+      "id": "021(タンブラー)",
       "bb": [
-        1880,
-        276,
-        44,
-        106
+        1847,
+        829,
+        83,
+        117
       ],
-      "class_name": "speaker_(stero_equipment)",
-      "auto_flg": true
+      "class_name": "cup",
+      "auto_flg": false
     },
     {
       "image_id": "051",
@@ -183,26 +183,26 @@
     },
     {
       "image_id": "051",
-      "id": "3065",
+      "id": "019(ポテトチップ)",
       "bb": [
-        510,
-        240,
-        177,
-        191
+        1848,
+        759,
+        80,
+        104
       ],
-      "class_name": "ottoman",
-      "auto_flg": true
+      "class_name": "cup",
+      "auto_flg": false
     },
     {
       "image_id": "051",
-      "id": "016(上の物)",
+      "id": "020(ティッシュ箱)",
       "bb": [
-        1747,
-        756,
-        178,
-        323
+        1755,
+        973,
+        170,
+        106
       ],
-      "class_name": "bottle",
+      "class_name": "box",
       "auto_flg": false
     },
     {

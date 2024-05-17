@@ -3,26 +3,26 @@
   "bounding_boxes": [
     {
       "image_id": "019",
-      "id": "2",
+      "id": "pc",
       "bb": [
         823,
         245,
         140,
         98
       ],
-      "class_name": "laptop_computer",
+      "class_name": "flower_arrangement",
       "auto_flg": true
     },
     {
       "image_id": "019",
-      "id": "chair",
+      "id": "socket",
       "bb": [
         1192,
         393,
         120,
         142
       ],
-      "class_name": "dishtowel",
+      "class_name": "place_mat",
       "auto_flg": true
     },
     {
@@ -53,8 +53,8 @@
       "image_id": "019",
       "id": "013(ここ)",
       "bb": [
-        582,
-        212,
+        492,
+        94,
         217,
         145
       ],
@@ -63,7 +63,7 @@
     },
     {
       "image_id": "019",
-      "id": "11",
+      "id": "flower",
       "bb": [
         1030,
         385,
@@ -94,44 +94,44 @@
         51,
         28
       ],
-      "class_name": "box",
+      "class_name": "bowl",
       "auto_flg": true
     },
     {
       "image_id": "019",
-      "id": "mat",
+      "id": "014(花柄マット)",
       "bb": [
         877,
         432,
-        334,
+        172,
         101
       ],
-      "class_name": "can",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "019",
-      "id": "33",
+      "id": "018(ティッシュ箱)",
       "bb": [
         972,
         500,
         106,
         52
       ],
-      "class_name": "bottle_cap",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "019",
-      "id": "92",
+      "id": "019(花瓶)",
       "bb": [
         1030,
         384,
         98,
         124
       ],
-      "class_name": "flowerpot",
-      "auto_flg": true
+      "class_name": "flower_arrangement",
+      "auto_flg": false
     },
     {
       "image_id": "019",
@@ -159,19 +159,19 @@
     },
     {
       "image_id": "019",
-      "id": "258",
+      "id": "box",
       "bb": [
         749,
         316,
         55,
         22
       ],
-      "class_name": "notepad",
+      "class_name": "box",
       "auto_flg": true
     },
     {
       "image_id": "019",
-      "id": "260",
+      "id": "017(オレンジマット)",
       "bb": [
         1080,
         441,
@@ -179,7 +179,7 @@
         83
       ],
       "class_name": "place_mat",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "019",
@@ -195,15 +195,15 @@
     },
     {
       "image_id": "019",
-      "id": "chair1",
+      "id": "015(青マット)",
       "bb": [
-        1310,
-        500,
+        951,
+        403,
         195,
-        199
+        64
       ],
-      "class_name": "person",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "019",
@@ -231,14 +231,14 @@
     },
     {
       "image_id": "019",
-      "id": "731",
+      "id": "pc1",
       "bb": [
         725,
         564,
         184,
         401
       ],
-      "class_name": "chair",
+      "class_name": "box",
       "auto_flg": true
     },
     {
@@ -262,7 +262,7 @@
         102,
         51
       ],
-      "class_name": "dishtowel",
+      "class_name": "sponge",
       "auto_flg": true
     },
     {
@@ -279,15 +279,15 @@
     },
     {
       "image_id": "019",
-      "id": "1037",
+      "id": "016(黄マット)",
       "bb": [
-        582,
-        212,
-        217,
-        133
+        951,
+        434,
+        199,
+        63
       ],
-      "class_name": "television_set",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "019",

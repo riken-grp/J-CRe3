@@ -267,15 +267,15 @@
     },
     {
       "image_id": "014",
-      "id": "544",
+      "id": "028(キッチン)",
       "bb": [
-        -7,
-        845,
+        -12,
+        846,
         424,
         237
       ],
       "class_name": "sink",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "014",
@@ -403,6 +403,17 @@
         1
       ],
       "relation_name": "=格"
+    },
+    {
+      "image_id": "014",
+      "id": "39",
+      "visual_id": "004(上)",
+      "caption_id": "014",
+      "caption_region": [
+        149,
+        10
+      ],
+      "relation_name": "ヲ格"
     }
   ]
 }

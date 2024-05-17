@@ -3,15 +3,15 @@
   "bounding_boxes": [
     {
       "image_id": "158",
-      "id": "18392",
+      "id": "024(テーブル)",
       "bb": [
-        1536,
-        10,
-        200,
-        89
+        1090,
+        -8,
+        807,
+        272
       ],
-      "class_name": "place_mat",
-      "auto_flg": true
+      "class_name": "dining_table",
+      "auto_flg": false
     },
     {
       "image_id": "158",
@@ -423,15 +423,15 @@
     },
     {
       "image_id": "158",
-      "id": "18084",
+      "id": "031(溶き卵a, 溶き卵b)",
       "bb": [
-        522,
-        62,
-        118,
-        142
+        1106,
+        559,
+        112,
+        102
       ],
-      "class_name": "bottle",
-      "auto_flg": true
+      "class_name": "egg_yolk",
+      "auto_flg": false
     },
     {
       "image_id": "158",
@@ -483,15 +483,15 @@
     },
     {
       "image_id": "158",
-      "id": "17488",
+      "id": "025(フライパン)",
       "bb": [
-        453,
+        408,
         246,
-        277,
-        193
+        296,
+        253
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "158",

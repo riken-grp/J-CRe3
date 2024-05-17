@@ -99,15 +99,15 @@
     },
     {
       "image_id": "037",
-      "id": "016(上の物)",
+      "id": "bottle",
       "bb": [
-        408,
-        332,
+        1066,
+        468,
         344,
         223
       ],
       "class_name": "bottle",
-      "auto_flg": false
+      "auto_flg": true
     },
     {
       "image_id": "037",
@@ -279,15 +279,15 @@
     },
     {
       "image_id": "037",
-      "id": "2370",
+      "id": "022(スマホ)",
       "bb": [
-        1524,
-        324,
-        137,
-        101
+        1300,
+        430,
+        80,
+        34
       ],
-      "class_name": "computer_keyboard",
-      "auto_flg": true
+      "class_name": "cellular_telephone",
+      "auto_flg": false
     },
     {
       "image_id": "037",
@@ -327,7 +327,7 @@
     },
     {
       "image_id": "037",
-      "id": "2276",
+      "id": "020(ティッシュ箱)",
       "bb": [
         455,
         384,
@@ -335,7 +335,7 @@
         107
       ],
       "class_name": "box",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "037",
@@ -351,7 +351,7 @@
     },
     {
       "image_id": "037",
-      "id": "2217",
+      "id": "018(ウェットティッシュ)",
       "bb": [
         407,
         414,
@@ -359,7 +359,7 @@
         138
       ],
       "class_name": "bottle",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "037",
@@ -375,7 +375,7 @@
     },
     {
       "image_id": "037",
-      "id": "1847",
+      "id": "021(タンブラー)",
       "bb": [
         619,
         337,
@@ -383,11 +383,11 @@
         109
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "037",
-      "id": "1805",
+      "id": "019(ポテトチップ)",
       "bb": [
         704,
         336,
@@ -395,7 +395,7 @@
         99
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     }
   ],
   "caption": {

@@ -135,15 +135,15 @@
     },
     {
       "image_id": "014",
-      "id": "2095",
+      "id": "024(テーブル)",
       "bb": [
-        782,
+        785,
         114,
-        488,
-        123
+        485,
+        165
       ],
       "class_name": "dining_table",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "014",
@@ -383,6 +383,18 @@
         35
       ],
       "class_name": "bottle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "014",
+      "id": "025(フライパン)",
+      "bb": [
+        286,
+        320,
+        50,
+        33
+      ],
+      "class_name": "frying_pan",
       "auto_flg": false
     }
   ],

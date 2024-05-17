@@ -63,15 +63,15 @@
     },
     {
       "image_id": "001",
-      "id": "37",
+      "id": "018(ウェットティッシュ)",
       "bb": [
-        1553,
+        1518,
         648,
-        72,
-        64
+        107,
+        129
       ],
-      "class_name": "bottle_cap",
-      "auto_flg": true
+      "class_name": "bottle",
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -87,15 +87,15 @@
     },
     {
       "image_id": "001",
-      "id": "35",
+      "id": "019(ポテトチップ)",
       "bb": [
-        1404,
-        722,
+        1406,
+        720,
         78,
         114
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -111,15 +111,15 @@
     },
     {
       "image_id": "001",
-      "id": "33",
+      "id": "022(スマホ)",
       "bb": [
         1311,
         520,
         38,
         44
       ],
-      "class_name": "cigarette_case",
-      "auto_flg": true
+      "class_name": "cellular_telephone",
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -171,7 +171,7 @@
     },
     {
       "image_id": "001",
-      "id": "28",
+      "id": "021(タンブラー)",
       "bb": [
         1573,
         1011,
@@ -179,7 +179,7 @@
         68
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -219,15 +219,15 @@
     },
     {
       "image_id": "001",
-      "id": "24",
+      "id": "020(ティッシュ箱)",
       "bb": [
         1510,
         924,
         202,
         155
       ],
-      "class_name": "napkin",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -443,7 +443,7 @@
         572
       ],
       "class_name": "region",
-      "auto_flg": false
+      "auto_flg": true
     },
     {
       "image_id": "001",
@@ -473,8 +473,8 @@
       "image_id": "001",
       "id": "016(上の物)",
       "bb": [
-        1403,
-        650,
+        225,
+        192,
         310,
         429
       ],
@@ -515,17 +515,6 @@
   "i2t_relations": [
     {
       "image_id": "001",
-      "id": "1",
-      "visual_id": "012(上)",
-      "caption_id": "001",
-      "caption_region": [
-        53,
-        1
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "001",
       "id": "2",
       "visual_id": "003(テーブル)",
       "caption_id": "001",
@@ -544,7 +533,7 @@
         602,
         4
       ],
-      "relation_name": "=格"
+      "relation_name": "=≒格"
     },
     {
       "image_id": "001",
@@ -566,34 +555,12 @@
         613,
         2
       ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "001",
-      "id": "36",
-      "visual_id": "012(上)",
-      "caption_id": "001",
-      "caption_region": [
-        61,
-        4
-      ],
-      "relation_name": "ヲ格"
+      "relation_name": "=≒格"
     },
     {
       "image_id": "001",
       "id": "37",
       "visual_id": "015(花瓶)",
-      "caption_id": "001",
-      "caption_region": [
-        61,
-        4
-      ],
-      "relation_name": "ヲ格"
-    },
-    {
-      "image_id": "001",
-      "id": "38",
-      "visual_id": "016(上の物)",
       "caption_id": "001",
       "caption_region": [
         61,

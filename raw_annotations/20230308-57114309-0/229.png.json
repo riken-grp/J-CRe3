@@ -63,15 +63,15 @@
     },
     {
       "image_id": "229",
-      "id": "20623",
+      "id": "025(ゴミ箱)",
       "bb": [
         560,
         649,
         144,
         109
       ],
-      "class_name": "cup",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "229",
@@ -111,14 +111,14 @@
     },
     {
       "image_id": "229",
-      "id": "20499",
+      "id": "box",
       "bb": [
         10,
         556,
         145,
         120
       ],
-      "class_name": "box",
+      "class_name": "trash_can",
       "auto_flg": true
     },
     {
@@ -171,7 +171,7 @@
     },
     {
       "image_id": "229",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         437,
         -6,

@@ -54,9 +54,9 @@
       "id": "010(キッチン)",
       "bb": [
         1141,
-        205,
+        -1,
         779,
-        874
+        1080
       ],
       "class_name": "region",
       "auto_flg": false
@@ -283,7 +283,7 @@
       "bb": [
         1391,
         316,
-        257,
+        529,
         337
       ],
       "class_name": "runner_(carpet)",
@@ -318,17 +318,6 @@
         1
       ],
       "relation_name": "=格"
-    },
-    {
-      "image_id": "027",
-      "id": "24",
-      "visual_id": "009(洗い場)",
-      "caption_id": "027",
-      "caption_region": [
-        32,
-        8
-      ],
-      "relation_name": "ニ格"
     }
   ]
 }

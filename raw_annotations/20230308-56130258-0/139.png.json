@@ -135,7 +135,7 @@
     },
     {
       "image_id": "139",
-      "id": "012(紅茶の入ったコップ)",
+      "id": "012(コップ入り紅茶)",
       "bb": [
         937,
         453,
@@ -255,30 +255,6 @@
     },
     {
       "image_id": "139",
-      "id": "008(紅茶)",
-      "bb": [
-        573,
-        735,
-        492,
-        218
-      ],
-      "class_name": "bottle",
-      "auto_flg": true
-    },
-    {
-      "image_id": "139",
-      "id": "017(お湯入りラーメン)",
-      "bb": [
-        1245,
-        102,
-        105,
-        130
-      ],
-      "class_name": "cup",
-      "auto_flg": true
-    },
-    {
-      "image_id": "139",
       "id": "10784",
       "bb": [
         350,
@@ -303,7 +279,7 @@
     },
     {
       "image_id": "139",
-      "id": "015(蓋なし減ボトル)",
+      "id": "015(蓋なし減ペットボトル紅茶)",
       "bb": [
         481,
         471,
@@ -383,47 +359,14 @@
   "i2t_relations": [
     {
       "image_id": "139",
-      "id": "23",
-      "visual_id": "015(蓋なし減ボトル)",
-      "caption_id": "139",
-      "caption_region": [
-        839,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "139",
       "id": "24",
-      "visual_id": "012(紅茶の入ったコップ)",
+      "visual_id": "012(コップ入り紅茶)",
       "caption_id": "139",
       "caption_region": [
         930,
         4
       ],
       "relation_name": "=格"
-    },
-    {
-      "image_id": "139",
-      "id": "29",
-      "visual_id": "012(紅茶の入ったコップ)",
-      "caption_id": "139",
-      "caption_region": [
-        752,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "139",
-      "id": "30",
-      "visual_id": "012(紅茶の入ったコップ)",
-      "caption_id": "139",
-      "caption_region": [
-        780,
-        4
-      ],
-      "relation_name": "=≒格"
     }
   ]
 }

@@ -111,7 +111,7 @@
     },
     {
       "image_id": "045",
-      "id": "3130",
+      "id": "020(ティッシュ箱)",
       "bb": [
         968,
         590,
@@ -119,7 +119,7 @@
         182
       ],
       "class_name": "box",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "045",
@@ -154,19 +154,19 @@
         123,
         151
       ],
-      "class_name": "footstool",
+      "class_name": "ottoman",
       "auto_flg": true
     },
     {
       "image_id": "045",
-      "id": "016(上の物)",
+      "id": "022(スマホ)",
       "bb": [
-        969,
-        441,
-        324,
-        381
+        1460,
+        340,
+        50,
+        34
       ],
-      "class_name": "bottle",
+      "class_name": "cellular_telephone",
       "auto_flg": false
     },
     {
@@ -267,15 +267,15 @@
     },
     {
       "image_id": "045",
-      "id": "2217",
+      "id": "018(ウェットティッシュ)",
       "bb": [
         1155,
         652,
         137,
         170
       ],
-      "class_name": "canister",
-      "auto_flg": true
+      "class_name": "bottle",
+      "auto_flg": false
     },
     {
       "image_id": "045",
@@ -291,7 +291,7 @@
     },
     {
       "image_id": "045",
-      "id": "1847",
+      "id": "021(タンブラー)",
       "bb": [
         1154,
         477,
@@ -299,11 +299,11 @@
         124
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "045",
-      "id": "1805",
+      "id": "019(ポテトチップ)",
       "bb": [
         1201,
         441,
@@ -311,7 +311,7 @@
         107
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     }
   ],
   "caption": {

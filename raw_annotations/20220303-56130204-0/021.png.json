@@ -3,15 +3,15 @@
   "bounding_boxes": [
     {
       "image_id": "021",
-      "id": "1741",
+      "id": "020(ティッシュ箱)",
       "bb": [
-        605,
+        602,
         1003,
-        170,
-        76
+        220,
+        78
       ],
-      "class_name": "person",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "021",
@@ -27,15 +27,15 @@
     },
     {
       "image_id": "021",
-      "id": "1734",
+      "id": "018(ウェットティッシュ)",
       "bb": [
-        1672,
-        2,
-        147,
-        91
+        1594,
+        -2,
+        219,
+        204
       ],
-      "class_name": "bottle_cap",
-      "auto_flg": true
+      "class_name": "bottle",
+      "auto_flg": false
     },
     {
       "image_id": "021",
@@ -51,27 +51,27 @@
     },
     {
       "image_id": "021",
-      "id": "1706",
+      "id": "021(タンブラー)",
       "bb": [
-        721,
-        679,
-        218,
+        716,
+        684,
+        213,
         151
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "021",
-      "id": "787",
+      "id": "019(ポテトチップ)",
       "bb": [
-        1324,
-        76,
-        147,
-        210
+        1313,
+        82,
+        151,
+        208
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "021",

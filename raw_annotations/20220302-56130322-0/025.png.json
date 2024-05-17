@@ -75,7 +75,7 @@
     },
     {
       "image_id": "025",
-      "id": "2",
+      "id": "02(全体床)",
       "bb": [
         0,
         0,
@@ -95,6 +95,18 @@
         1070
       ],
       "class_name": "coffee_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "025",
+      "id": "012(一部床)",
+      "bb": [
+        885,
+        197,
+        1036,
+        903
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

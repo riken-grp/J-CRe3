@@ -3,27 +3,27 @@
   "bounding_boxes": [
     {
       "image_id": "014",
-      "id": "2",
+      "id": "pc",
       "bb": [
         551,
         291,
         174,
         126
       ],
-      "class_name": "laptop_computer",
+      "class_name": "flower_arrangement",
       "auto_flg": true
     },
     {
       "image_id": "014",
-      "id": "chair",
+      "id": "015(青マット)",
       "bb": [
-        986,
-        448,
-        125,
-        161
+        718,
+        476,
+        213,
+        63
       ],
-      "class_name": "dishtowel",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "014",
@@ -63,7 +63,7 @@
     },
     {
       "image_id": "014",
-      "id": "11",
+      "id": "flower",
       "bb": [
         801,
         464,
@@ -94,32 +94,32 @@
         49,
         28
       ],
-      "class_name": "box",
+      "class_name": "bowl",
       "auto_flg": true
     },
     {
       "image_id": "014",
-      "id": "29",
+      "id": "014(花柄マット)",
       "bb": [
-        620,
-        521,
+        617,
+        526,
         211,
-        138
+        134
       ],
       "class_name": "place_mat",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "014",
-      "id": "92",
+      "id": "019(花瓶)",
       "bb": [
         801,
         462,
         113,
         148
       ],
-      "class_name": "flowerpot",
-      "auto_flg": true
+      "class_name": "flower_arrangement",
+      "auto_flg": false
     },
     {
       "image_id": "014",
@@ -135,27 +135,27 @@
     },
     {
       "image_id": "014",
-      "id": "258",
+      "id": "018(ティッシュ箱)",
       "bb": [
-        462,
-        384,
-        73,
-        31
+        738,
+        601,
+        128,
+        69
       ],
-      "class_name": "matchbox",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "014",
-      "id": "275",
+      "id": "017(オレンジマット)",
       "bb": [
-        551,
-        292,
-        147,
-        90
+        858,
+        515,
+        148,
+        95
       ],
-      "class_name": "monitor_(computer_equipment) computer_monitor",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "014",

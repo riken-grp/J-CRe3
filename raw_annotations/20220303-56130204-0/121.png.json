@@ -3,27 +3,27 @@
   "bounding_boxes": [
     {
       "image_id": "121",
-      "id": "10109",
+      "id": "018(ウェットティッシュ)",
       "bb": [
         709,
         976,
-        136,
+        148,
         104
       ],
-      "class_name": "sugar_bowl",
-      "auto_flg": true
+      "class_name": "bottle",
+      "auto_flg": false
     },
     {
       "image_id": "121",
-      "id": "10106",
+      "id": "020(ティッシュ箱)",
       "bb": [
         502,
         876,
         236,
         202
       ],
-      "class_name": "napkin",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "121",
@@ -99,7 +99,7 @@
     },
     {
       "image_id": "121",
-      "id": "006(コーヒー箱)",
+      "id": "029(減コーヒー箱)",
       "bb": [
         484,
         93,
@@ -243,14 +243,14 @@
     },
     {
       "image_id": "121",
-      "id": "9982",
+      "id": "chair",
       "bb": [
         1425,
         862,
         301,
         220
       ],
-      "class_name": "chair",
+      "class_name": "bottle",
       "auto_flg": true
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "image_id": "121",
-      "id": "9970",
+      "id": "021(タンブラー)",
       "bb": [
         703,
         683,
@@ -287,7 +287,7 @@
         135
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "121",
@@ -315,7 +315,7 @@
     },
     {
       "image_id": "121",
-      "id": "011(グラス)",
+      "id": "023(ジュース入りグラス)",
       "bb": [
         1076,
         804,
@@ -327,7 +327,7 @@
     },
     {
       "image_id": "121",
-      "id": "010(白)",
+      "id": "031(コーヒー入り白)",
       "bb": [
         1023,
         885,
@@ -363,7 +363,7 @@
     },
     {
       "image_id": "121",
-      "id": "009(青縁)",
+      "id": "030(コーヒー入り青縁)",
       "bb": [
         911,
         847,
@@ -375,15 +375,15 @@
     },
     {
       "image_id": "121",
-      "id": "9252",
+      "id": "022(スマホ)",
       "bb": [
-        914,
-        241,
-        163,
-        219
+        764,
+        127,
+        69,
+        21
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "cellular_telephone",
+      "auto_flg": false
     },
     {
       "image_id": "121",
@@ -399,14 +399,14 @@
     },
     {
       "image_id": "121",
-      "id": "016(上の物)",
+      "id": "019(ポテトチップ)",
       "bb": [
-        502,
-        602,
-        353,
-        476
+        755,
+        603,
+        75,
+        126
       ],
-      "class_name": "bottle",
+      "class_name": "cup",
       "auto_flg": false
     },
     {

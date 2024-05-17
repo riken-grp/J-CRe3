@@ -882,9 +882,9 @@
       "id": "4204",
       "bb": [
         972,
-        259,
+        290,
         248,
-        125
+        94
       ],
       "class_name": "sink",
       "auto_flg": true
@@ -1007,6 +1007,18 @@
         18
       ],
       "class_name": "apple",
+      "auto_flg": false
+    },
+    {
+      "image_id": "046",
+      "id": "016(テーブルの上)",
+      "bb": [
+        612,
+        109,
+        487,
+        82
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

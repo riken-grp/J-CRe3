@@ -39,7 +39,7 @@
     },
     {
       "image_id": "056",
-      "id": "2",
+      "id": "02(全体床)",
       "bb": [
         118,
         66,
@@ -99,7 +99,7 @@
     },
     {
       "image_id": "056",
-      "id": "6",
+      "id": "054(減ウェットティッシュ箱)",
       "bb": [
         726,
         901,
@@ -131,17 +131,6 @@
   "i2t_relations": [
     {
       "image_id": "056",
-      "id": "000017",
-      "visual_id": "11",
-      "caption_id": "056",
-      "caption_region": [
-        440,
-        3
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "056",
       "id": "000018",
       "visual_id": "11",
       "caption_id": "056",
@@ -149,7 +138,7 @@
         484,
         3
       ],
-      "relation_name": "=≒格"
+      "relation_name": "=格"
     }
   ]
 }

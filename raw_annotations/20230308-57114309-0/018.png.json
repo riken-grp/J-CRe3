@@ -51,15 +51,15 @@
     },
     {
       "image_id": "018",
-      "id": "1621",
+      "id": "024(棚)",
       "bb": [
-        -2,
+        -26,
+        563,
         556,
-        543,
-        444
+        520
       ],
-      "class_name": "drawer",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "018",
@@ -137,8 +137,8 @@
       "image_id": "018",
       "id": "1502",
       "bb": [
-        1507,
-        268,
+        1602,
+        329,
         129,
         103
       ],
@@ -203,6 +203,18 @@
         88
       ],
       "class_name": "egg",
+      "auto_flg": false
+    },
+    {
+      "image_id": "018",
+      "id": "025(ゴミ箱)",
+      "bb": [
+        1363,
+        679,
+        127,
+        110
+      ],
+      "class_name": "trash_can",
       "auto_flg": false
     }
   ],

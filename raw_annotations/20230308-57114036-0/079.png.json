@@ -99,15 +99,15 @@
     },
     {
       "image_id": "079",
-      "id": "10218",
+      "id": "026(棚)",
       "bb": [
-        1867,
-        491,
-        49,
-        66
+        -7,
+        -9,
+        513,
+        452
       ],
-      "class_name": "vent",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "079",
@@ -137,9 +137,9 @@
       "image_id": "079",
       "id": "003(冷蔵庫)",
       "bb": [
-        60,
-        -3,
-        1860,
+        56,
+        -7,
+        1872,
         839
       ],
       "class_name": "refrigerator",

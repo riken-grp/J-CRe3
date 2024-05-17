@@ -171,7 +171,7 @@
     },
     {
       "image_id": "025",
-      "id": "3726",
+      "id": "025(フライパン)",
       "bb": [
         1752,
         519,
@@ -179,7 +179,7 @@
         115
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "025",
@@ -303,15 +303,15 @@
     },
     {
       "image_id": "025",
-      "id": "3458",
+      "id": "026(棚)",
       "bb": [
-        857,
-        725,
-        166,
-        125
+        -3,
+        985,
+        348,
+        102
       ],
-      "class_name": "bottle",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "025",
@@ -359,28 +359,6 @@
   "i2t_relations": [
     {
       "image_id": "025",
-      "id": "17",
-      "visual_id": "015(卵a)",
-      "caption_id": "025",
-      "caption_region": [
-        150,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "025",
-      "id": "18",
-      "visual_id": "016(卵b)",
-      "caption_id": "025",
-      "caption_region": [
-        150,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "025",
       "id": "19",
       "visual_id": "015(卵a)",
       "caption_id": "025",
@@ -400,94 +378,6 @@
         2
       ],
       "relation_name": "=格"
-    },
-    {
-      "image_id": "025",
-      "id": "37",
-      "visual_id": "015(卵a)",
-      "caption_id": "025",
-      "caption_region": [
-        158,
-        2
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "025",
-      "id": "38",
-      "visual_id": "016(卵b)",
-      "caption_id": "025",
-      "caption_region": [
-        158,
-        2
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "025",
-      "id": "42",
-      "visual_id": "015(卵a)",
-      "caption_id": "025",
-      "caption_region": [
-        108,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "025",
-      "id": "43",
-      "visual_id": "016(卵b)",
-      "caption_id": "025",
-      "caption_region": [
-        108,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "025",
-      "id": "44",
-      "visual_id": "015(卵a)",
-      "caption_id": "025",
-      "caption_region": [
-        631,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "025",
-      "id": "45",
-      "visual_id": "016(卵b)",
-      "caption_id": "025",
-      "caption_region": [
-        631,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "025",
-      "id": "46",
-      "visual_id": "015(卵a)",
-      "caption_id": "025",
-      "caption_region": [
-        931,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "025",
-      "id": "47",
-      "visual_id": "016(卵b)",
-      "caption_id": "025",
-      "caption_region": [
-        931,
-        4
-      ],
-      "relation_name": "=≒格"
     }
   ]
 }

@@ -423,7 +423,7 @@
     },
     {
       "image_id": "001",
-      "id": "10",
+      "id": "025(フライパン)",
       "bb": [
         722,
         145,
@@ -431,7 +431,7 @@
         29
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -495,15 +495,15 @@
     },
     {
       "image_id": "001",
-      "id": "4",
+      "id": "026(棚)",
       "bb": [
-        800,
-        348,
-        447,
-        368
+        -18,
+        635,
+        118,
+        303
       ],
-      "class_name": "sink",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -519,15 +519,15 @@
     },
     {
       "image_id": "001",
-      "id": "2",
+      "id": "024(テーブル)",
       "bb": [
-        1437,
-        309,
-        365,
-        359
+        1339,
+        182,
+        596,
+        508
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "dining_table",
+      "auto_flg": false
     },
     {
       "image_id": "001",

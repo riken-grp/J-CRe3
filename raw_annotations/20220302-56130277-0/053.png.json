@@ -3,7 +3,7 @@
   "bounding_boxes": [
     {
       "image_id": "053",
-      "id": "6",
+      "id": "6(7, 2, 3, =)",
       "bb": [
         1452,
         332,
@@ -75,7 +75,7 @@
     },
     {
       "image_id": "053",
-      "id": "7",
+      "id": "7(土台01)",
       "bb": [
         1278,
         215,
@@ -107,6 +107,18 @@
         1009
       ],
       "class_name": "runner_(carpet)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "053",
+      "id": "25(スマホ・リモコン置き場)",
+      "bb": [
+        610,
+        500,
+        377,
+        377
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

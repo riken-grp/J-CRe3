@@ -207,15 +207,15 @@
     },
     {
       "image_id": "016",
-      "id": "2343",
+      "id": "024(テーブル)",
       "bb": [
-        1387,
-        217,
-        281,
-        296
+        1103,
+        74,
+        733,
+        435
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "dining_table",
+      "auto_flg": false
     },
     {
       "image_id": "016",
@@ -310,7 +310,7 @@
         154,
         51
       ],
-      "class_name": "sink",
+      "class_name": "bowl",
       "auto_flg": true
     },
     {
@@ -491,6 +491,18 @@
         116
       ],
       "class_name": "microwave_oven",
+      "auto_flg": false
+    },
+    {
+      "image_id": "016",
+      "id": "025(フライパン)",
+      "bb": [
+        572,
+        208,
+        83,
+        67
+      ],
+      "class_name": "frying_pan",
       "auto_flg": false
     }
   ],

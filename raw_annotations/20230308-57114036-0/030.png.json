@@ -3,15 +3,15 @@
   "bounding_boxes": [
     {
       "image_id": "030",
-      "id": "4808",
+      "id": "023(キッチン)",
       "bb": [
-        1096,
+        1009,
         124,
-        544,
-        173
+        685,
+        276
       ],
-      "class_name": "dining_table",
-      "auto_flg": true
+      "class_name": "region",
+      "auto_flg": false
     },
     {
       "image_id": "030",
@@ -471,26 +471,26 @@
     },
     {
       "image_id": "030",
-      "id": "4351",
+      "id": "025(フライパン)",
       "bb": [
         587,
         540,
-        245,
-        315
+        248,
+        319
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "030",
-      "id": "4178",
+      "id": "tv",
       "bb": [
         543,
         56,
         324,
         228
       ],
-      "class_name": "television_set",
+      "class_name": "dining_table",
       "auto_flg": true
     },
     {

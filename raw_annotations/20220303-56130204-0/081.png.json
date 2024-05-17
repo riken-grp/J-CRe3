@@ -46,7 +46,7 @@
         119,
         91
       ],
-      "class_name": "fan",
+      "class_name": "vent",
       "auto_flg": true
     },
     {
@@ -70,12 +70,12 @@
         85,
         78
       ],
-      "class_name": "measuring_cup",
+      "class_name": "reamer_(juicer)",
       "auto_flg": true
     },
     {
       "image_id": "081",
-      "id": "006(コーヒー箱)",
+      "id": "029(減コーヒー箱)",
       "bb": [
         947,
         578,
@@ -183,7 +183,7 @@
     },
     {
       "image_id": "081",
-      "id": "6879",
+      "id": "019(ポテトチップ)",
       "bb": [
         1476,
         14,
@@ -191,18 +191,18 @@
         56
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "081",
-      "id": "016(上の物)",
+      "id": "020(ティッシュ箱)",
       "bb": [
-        1470,
-        1,
-        217,
-        172
+        1603,
+        70,
+        90,
+        99
       ],
-      "class_name": "bottle",
+      "class_name": "box",
       "auto_flg": false
     },
     {
@@ -243,7 +243,7 @@
     },
     {
       "image_id": "081",
-      "id": "6795",
+      "id": "021(タンブラー)",
       "bb": [
         1521,
         19,
@@ -251,7 +251,7 @@
         69
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "081",

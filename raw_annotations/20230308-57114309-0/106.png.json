@@ -315,7 +315,7 @@
     },
     {
       "image_id": "106",
-      "id": "10461",
+      "id": "025(ゴミ箱)",
       "bb": [
         545,
         721,
@@ -323,7 +323,7 @@
         102
       ],
       "class_name": "trash_can",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "106",
@@ -423,7 +423,7 @@
     },
     {
       "image_id": "106",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         585,
         95,
@@ -591,6 +591,17 @@
       "caption_id": "106",
       "caption_region": [
         1156,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "106",
+      "id": "74",
+      "visual_id": "015(水)",
+      "caption_id": "106",
+      "caption_region": [
+        1094,
         2
       ],
       "relation_name": "=格"

@@ -3,15 +3,15 @@
   "bounding_boxes": [
     {
       "image_id": "077",
-      "id": "8071",
+      "id": "025(ゴミ箱)",
       "bb": [
         561,
         799,
         141,
         99
       ],
-      "class_name": "cup",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "077",
@@ -291,7 +291,7 @@
     },
     {
       "image_id": "077",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         432,
         169,
@@ -461,28 +461,6 @@
       "caption_region": [
         13,
         4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "077",
-      "id": "48",
-      "visual_id": "020(目玉焼きa, b)",
-      "caption_id": "077",
-      "caption_region": [
-        210,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "077",
-      "id": "49",
-      "visual_id": "020(目玉焼きa, b)",
-      "caption_id": "077",
-      "caption_region": [
-        443,
-        2
       ],
       "relation_name": "=≒格"
     },

@@ -15,27 +15,27 @@
     },
     {
       "image_id": "001",
-      "id": "2",
+      "id": "017(オレンジマット)",
       "bb": [
-        707,
-        283,
-        138,
-        101
+        954,
+        441,
+        115,
+        63
       ],
-      "class_name": "laptop_computer",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "001",
-      "id": "3",
+      "id": "015(青マット)",
       "bb": [
-        1058,
-        394,
-        95,
-        112
+        842,
+        423,
+        170,
+        38
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -87,15 +87,15 @@
     },
     {
       "image_id": "001",
-      "id": "9",
+      "id": "016(黄マット)",
       "bb": [
-        660,
-        556,
-        189,
-        376
+        846,
+        451,
+        175,
+        48
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -111,15 +111,15 @@
     },
     {
       "image_id": "001",
-      "id": "11",
+      "id": "019(花瓶)",
       "bb": [
         912,
         390,
         82,
-        73
+        118
       ],
       "class_name": "flower_arrangement",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -219,15 +219,15 @@
     },
     {
       "image_id": "001",
-      "id": "20",
+      "id": "018(ティッシュ箱)",
       "bb": [
-        474,
-        261,
-        215,
-        138
+        866,
+        493,
+        94,
+        47
       ],
-      "class_name": "television_set",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -238,7 +238,7 @@
         43,
         27
       ],
-      "class_name": "box",
+      "class_name": "bowl",
       "auto_flg": true
     },
     {
@@ -327,15 +327,15 @@
     },
     {
       "image_id": "001",
-      "id": "29",
+      "id": "014(花柄マット)",
       "bb": [
-        774,
-        449,
-        242,
+        771,
+        451,
+        114,
         86
       ],
       "class_name": "place_mat",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "001",
@@ -561,17 +561,6 @@
         6
       ],
       "relation_name": "=格"
-    },
-    {
-      "image_id": "001",
-      "id": "13",
-      "visual_id": "008(布巾)",
-      "caption_id": "001",
-      "caption_region": [
-        437,
-        9
-      ],
-      "relation_name": "デ≒格"
     },
     {
       "image_id": "001",

@@ -190,7 +190,7 @@
         253,
         142
       ],
-      "class_name": "television_set",
+      "class_name": "monitor_(computer_equipment) computer_monitor",
       "auto_flg": true
     },
     {
@@ -327,7 +327,7 @@
     },
     {
       "image_id": "003",
-      "id": "10",
+      "id": "025(フライパン)",
       "bb": [
         929,
         141,
@@ -335,7 +335,7 @@
         29
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "003",
@@ -375,27 +375,27 @@
     },
     {
       "image_id": "003",
-      "id": "4",
+      "id": "026(棚)",
       "bb": [
-        959,
-        350,
-        445,
-        375
+        -23,
+        312,
+        319,
+        489
       ],
-      "class_name": "sink",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "003",
-      "id": "2",
+      "id": "024(テーブル)",
       "bb": [
-        1608,
-        407,
-        312,
-        386
+        1512,
+        241,
+        408,
+        573
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "dining_table",
+      "auto_flg": false
     },
     {
       "image_id": "003",

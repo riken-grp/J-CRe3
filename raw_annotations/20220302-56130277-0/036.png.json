@@ -3,7 +3,7 @@
   "bounding_boxes": [
     {
       "image_id": "036",
-      "id": "13",
+      "id": "13(3)",
       "bb": [
         1112,
         818,
@@ -27,7 +27,7 @@
     },
     {
       "image_id": "036",
-      "id": "7",
+      "id": "7(土台01)",
       "bb": [
         0,
         1,
@@ -39,7 +39,7 @@
     },
     {
       "image_id": "036",
-      "id": "11",
+      "id": "11(=)",
       "bb": [
         792,
         728,
@@ -51,11 +51,11 @@
     },
     {
       "image_id": "036",
-      "id": "12",
+      "id": "12(2)",
       "bb": [
-        953,
-        770,
-        115,
+        969,
+        774,
+        90,
         77
       ],
       "class_name": "toy",
@@ -63,11 +63,11 @@
     },
     {
       "image_id": "036",
-      "id": "10",
+      "id": "10(7)",
       "bb": [
         757,
         941,
-        87,
+        74,
         35
       ],
       "class_name": "toy",
@@ -95,41 +95,8 @@
   "i2t_relations": [
     {
       "image_id": "036",
-      "id": "000018",
-      "visual_id": "13",
-      "caption_id": "036",
-      "caption_region": [
-        278,
-        3
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "036",
-      "id": "000019",
-      "visual_id": "13",
-      "caption_id": "036",
-      "caption_region": [
-        302,
-        3
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "036",
-      "id": "000020",
-      "visual_id": "13",
-      "caption_id": "036",
-      "caption_region": [
-        352,
-        4
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "036",
       "id": "000021",
-      "visual_id": "11",
+      "visual_id": "11(=)",
       "caption_id": "036",
       "caption_region": [
         278,
@@ -140,7 +107,7 @@
     {
       "image_id": "036",
       "id": "000022",
-      "visual_id": "11",
+      "visual_id": "11(=)",
       "caption_id": "036",
       "caption_region": [
         302,
@@ -151,40 +118,7 @@
     {
       "image_id": "036",
       "id": "000023",
-      "visual_id": "11",
-      "caption_id": "036",
-      "caption_region": [
-        352,
-        4
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "036",
-      "id": "000024",
-      "visual_id": "12",
-      "caption_id": "036",
-      "caption_region": [
-        278,
-        3
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "036",
-      "id": "000025",
-      "visual_id": "12",
-      "caption_id": "036",
-      "caption_region": [
-        302,
-        3
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "036",
-      "id": "000026",
-      "visual_id": "12",
+      "visual_id": "11(=)",
       "caption_id": "036",
       "caption_region": [
         352,
@@ -195,7 +129,7 @@
     {
       "image_id": "036",
       "id": "000027",
-      "visual_id": "10",
+      "visual_id": "10(7)",
       "caption_id": "036",
       "caption_region": [
         278,
@@ -206,7 +140,7 @@
     {
       "image_id": "036",
       "id": "000028",
-      "visual_id": "10",
+      "visual_id": "10(7)",
       "caption_id": "036",
       "caption_region": [
         302,
@@ -217,7 +151,7 @@
     {
       "image_id": "036",
       "id": "000029",
-      "visual_id": "10",
+      "visual_id": "10(7)",
       "caption_id": "036",
       "caption_region": [
         352,

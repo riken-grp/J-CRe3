@@ -3,7 +3,7 @@
   "bounding_boxes": [
     {
       "image_id": "018",
-      "id": "35(卵10個)",
+      "id": "035(卵10個)",
       "bb": [
         932,
         16,
@@ -15,7 +15,7 @@
     },
     {
       "image_id": "018",
-      "id": "14(卵b)",
+      "id": "014(卵b)",
       "bb": [
         1429,
         72,
@@ -27,7 +27,7 @@
     },
     {
       "image_id": "018",
-      "id": "17(食パン皿3枚)",
+      "id": "017(食パン皿3枚)",
       "bb": [
         1658,
         184,
@@ -39,7 +39,7 @@
     },
     {
       "image_id": "018",
-      "id": "13(卵a)",
+      "id": "013(卵a)",
       "bb": [
         1417,
         28,
@@ -51,7 +51,7 @@
     },
     {
       "image_id": "018",
-      "id": "15(卵c)",
+      "id": "015(卵c)",
       "bb": [
         1286,
         60,
@@ -63,7 +63,7 @@
     },
     {
       "image_id": "018",
-      "id": "3(冷蔵庫)",
+      "id": "003(冷蔵庫)",
       "bb": [
         0,
         0,
@@ -75,7 +75,7 @@
     },
     {
       "image_id": "018",
-      "id": "11(ソーセージ)",
+      "id": "011(ソーセージ)",
       "bb": [
         935,
         294,
@@ -87,7 +87,7 @@
     },
     {
       "image_id": "018",
-      "id": "9(コーラ)",
+      "id": "009(コーラ)",
       "bb": [
         1112,
         299,
@@ -99,7 +99,7 @@
     },
     {
       "image_id": "018",
-      "id": "10(お茶)",
+      "id": "010(お茶)",
       "bb": [
         1266,
         345,
@@ -111,7 +111,7 @@
     },
     {
       "image_id": "018",
-      "id": "2(ロボット)",
+      "id": "002(ロボット)",
       "bb": [
         608,
         286,
@@ -123,7 +123,7 @@
     },
     {
       "image_id": "018",
-      "id": "1(主人)",
+      "id": "001(主人)",
       "bb": [
         1785,
         915,
@@ -143,19 +143,8 @@
   "i2t_relations": [
     {
       "image_id": "018",
-      "id": "22",
-      "visual_id": "13(卵a)",
-      "caption_id": "018",
-      "caption_region": [
-        36,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "018",
       "id": "23",
-      "visual_id": "14(卵b)",
+      "visual_id": "014(卵b)",
       "caption_id": "018",
       "caption_region": [
         136,
@@ -166,7 +155,7 @@
     {
       "image_id": "018",
       "id": "24",
-      "visual_id": "15(卵c)",
+      "visual_id": "015(卵c)",
       "caption_id": "018",
       "caption_region": [
         170,
@@ -177,7 +166,7 @@
     {
       "image_id": "018",
       "id": "25",
-      "visual_id": "13(卵a)",
+      "visual_id": "013(卵a)",
       "caption_id": "018",
       "caption_region": [
         510,
@@ -188,7 +177,7 @@
     {
       "image_id": "018",
       "id": "26",
-      "visual_id": "14(卵b)",
+      "visual_id": "014(卵b)",
       "caption_id": "018",
       "caption_region": [
         510,
@@ -199,7 +188,7 @@
     {
       "image_id": "018",
       "id": "27",
-      "visual_id": "15(卵c)",
+      "visual_id": "015(卵c)",
       "caption_id": "018",
       "caption_region": [
         510,
@@ -209,80 +198,47 @@
     },
     {
       "image_id": "018",
-      "id": "28",
-      "visual_id": "17(食パン皿3枚)",
+      "id": "156",
+      "visual_id": "013(卵a)",
       "caption_id": "018",
       "caption_region": [
-        857,
+        136,
         2
       ],
-      "relation_name": "ノ格"
+      "relation_name": "=≒格"
     },
     {
       "image_id": "018",
-      "id": "128",
-      "visual_id": "13(卵a)",
+      "id": "157",
+      "visual_id": "015(卵c)",
       "caption_id": "018",
       "caption_region": [
-        179,
-        4
+        136,
+        2
       ],
-      "relation_name": "=格"
+      "relation_name": "=≒格"
     },
     {
       "image_id": "018",
-      "id": "129",
-      "visual_id": "14(卵b)",
+      "id": "158",
+      "visual_id": "013(卵a)",
       "caption_id": "018",
       "caption_region": [
-        179,
-        4
+        170,
+        2
       ],
-      "relation_name": "=格"
+      "relation_name": "=≒格"
     },
     {
       "image_id": "018",
-      "id": "130",
-      "visual_id": "15(卵c)",
+      "id": "159",
+      "visual_id": "014(卵b)",
       "caption_id": "018",
       "caption_region": [
-        179,
-        4
+        170,
+        2
       ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "018",
-      "id": "131",
-      "visual_id": "13(卵a)",
-      "caption_id": "018",
-      "caption_region": [
-        213,
-        4
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "018",
-      "id": "132",
-      "visual_id": "14(卵b)",
-      "caption_id": "018",
-      "caption_region": [
-        213,
-        4
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "018",
-      "id": "133",
-      "visual_id": "15(卵c)",
-      "caption_id": "018",
-      "caption_region": [
-        213,
-        4
-      ],
-      "relation_name": "=格"
+      "relation_name": "=≒格"
     }
   ]
 }

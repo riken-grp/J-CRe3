@@ -99,7 +99,7 @@
     },
     {
       "image_id": "039",
-      "id": "6566",
+      "id": "025(フライパン)",
       "bb": [
         1212,
         136,
@@ -107,7 +107,7 @@
         69
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "039",
@@ -207,15 +207,15 @@
     },
     {
       "image_id": "039",
-      "id": "6339",
+      "id": "026(棚)",
       "bb": [
-        384,
-        245,
-        592,
-        435
+        11,
+        -2,
+        615,
+        481
       ],
-      "class_name": "sink",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "039",
@@ -299,6 +299,18 @@
         84
       ],
       "class_name": "microwave_oven",
+      "auto_flg": false
+    },
+    {
+      "image_id": "039",
+      "id": "023(コンロ左横)",
+      "bb": [
+        1152,
+        149,
+        364,
+        195
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

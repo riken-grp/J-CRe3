@@ -123,15 +123,15 @@
     },
     {
       "image_id": "049",
-      "id": "3752",
+      "id": "020(ティッシュ箱)",
       "bb": [
         1042,
         833,
         218,
         164
       ],
-      "class_name": "envelope",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "049",
@@ -183,7 +183,7 @@
     },
     {
       "image_id": "049",
-      "id": "3696",
+      "id": "022(スマホ)",
       "bb": [
         1255,
         369,
@@ -191,7 +191,7 @@
         37
       ],
       "class_name": "cellular_telephone",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "049",
@@ -291,7 +291,7 @@
     },
     {
       "image_id": "049",
-      "id": "3588",
+      "id": "019(ポテトチップ)",
       "bb": [
         1140,
         591,
@@ -299,7 +299,7 @@
         114
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "049",
@@ -382,20 +382,20 @@
         81,
         136
       ],
-      "class_name": "cube",
+      "class_name": "ottoman",
       "auto_flg": true
     },
     {
       "image_id": "049",
-      "id": "016(上の物)",
+      "id": "box",
       "bb": [
-        1045,
-        592,
+        1201,
+        558,
         375,
         408
       ],
-      "class_name": "bottle",
-      "auto_flg": false
+      "class_name": "box",
+      "auto_flg": true
     },
     {
       "image_id": "049",
@@ -447,31 +447,31 @@
     },
     {
       "image_id": "049",
-      "id": "2217",
+      "id": "018(ウェットティッシュ)",
       "bb": [
         1272,
         837,
         149,
         167
       ],
-      "class_name": "cup",
-      "auto_flg": true
+      "class_name": "bottle",
+      "auto_flg": false
     },
     {
       "image_id": "049",
-      "id": "1920",
+      "id": "chair",
       "bb": [
         1118,
         323,
         87,
         279
       ],
-      "class_name": "chair",
+      "class_name": "bottle",
       "auto_flg": true
     },
     {
       "image_id": "049",
-      "id": "1847",
+      "id": "021(タンブラー)",
       "bb": [
         1150,
         647,
@@ -479,7 +479,7 @@
         127
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     }
   ],
   "caption": {

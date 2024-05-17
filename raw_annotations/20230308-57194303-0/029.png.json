@@ -15,7 +15,7 @@
     },
     {
       "image_id": "029",
-      "id": "007(ミルクc)",
+      "id": "007(袋入りミルク減)",
       "bb": [
         810,
         807,
@@ -166,7 +166,7 @@
         1920,
         1080
       ],
-      "class_name": "refrigerator",
+      "class_name": "cabinet",
       "auto_flg": false
     },
     {
@@ -243,7 +243,7 @@
     },
     {
       "image_id": "029",
-      "id": "006(ミルクb)",
+      "id": "006(ミルクポーション1個)",
       "bb": [
         1208,
         1009,
@@ -263,30 +263,8 @@
   "i2t_relations": [
     {
       "image_id": "029",
-      "id": "13",
-      "visual_id": "006(ミルクb)",
-      "caption_id": "029",
-      "caption_region": [
-        252,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "029",
-      "id": "14",
-      "visual_id": "006(ミルクb)",
-      "caption_id": "029",
-      "caption_region": [
-        319,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "029",
       "id": "15",
-      "visual_id": "006(ミルクb)",
+      "visual_id": "006(ミルクポーション1個)",
       "caption_id": "029",
       "caption_region": [
         362,
@@ -297,7 +275,7 @@
     {
       "image_id": "029",
       "id": "16",
-      "visual_id": "007(ミルクc)",
+      "visual_id": "007(袋入りミルク減)",
       "caption_id": "029",
       "caption_region": [
         477,
@@ -308,7 +286,7 @@
     {
       "image_id": "029",
       "id": "17",
-      "visual_id": "007(ミルクc)",
+      "visual_id": "007(袋入りミルク減)",
       "caption_id": "029",
       "caption_region": [
         563,

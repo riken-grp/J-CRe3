@@ -135,7 +135,7 @@
     },
     {
       "image_id": "053",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         879,
         303,
@@ -183,15 +183,15 @@
     },
     {
       "image_id": "053",
-      "id": "5511",
+      "id": "025(ゴミ箱)",
       "bb": [
-        300,
-        977,
-        240,
-        114
+        771,
+        952,
+        129,
+        84
       ],
-      "class_name": "tissue_paper",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "053",
@@ -303,14 +303,14 @@
     },
     {
       "image_id": "053",
-      "id": "25268",
+      "id": "022(フライパン油)",
       "bb": [
         1347,
         645,
         133,
         100
       ],
-      "class_name": "",
+      "class_name": "olive_oil",
       "auto_flg": true
     },
     {

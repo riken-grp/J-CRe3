@@ -3,7 +3,7 @@
   "bounding_boxes": [
     {
       "image_id": "001",
-      "id": "7",
+      "id": "7(土台01)",
       "bb": [
         916,
         391,
@@ -63,7 +63,7 @@
     },
     {
       "image_id": "001",
-      "id": "6",
+      "id": "6(7, 2, 3, =)",
       "bb": [
         1120,
         592,
@@ -120,7 +120,7 @@
     {
       "image_id": "001",
       "id": "000000",
-      "visual_id": "7",
+      "visual_id": "7(土台01)",
       "caption_id": "001",
       "caption_region": [
         395,
@@ -186,7 +186,7 @@
     {
       "image_id": "001",
       "id": "000009",
-      "visual_id": "6",
+      "visual_id": "6(7, 2, 3, =)",
       "caption_id": "001",
       "caption_region": [
         278,
@@ -197,7 +197,7 @@
     {
       "image_id": "001",
       "id": "000010",
-      "visual_id": "6",
+      "visual_id": "6(7, 2, 3, =)",
       "caption_id": "001",
       "caption_region": [
         302,
@@ -208,7 +208,7 @@
     {
       "image_id": "001",
       "id": "000011",
-      "visual_id": "6",
+      "visual_id": "6(7, 2, 3, =)",
       "caption_id": "001",
       "caption_region": [
         352,
@@ -226,17 +226,6 @@
         6
       ],
       "relation_name": "ガ格"
-    },
-    {
-      "image_id": "001",
-      "id": "62",
-      "visual_id": "24(全体床)",
-      "caption_id": "001",
-      "caption_region": [
-        288,
-        5
-      ],
-      "relation_name": "ニ格"
     }
   ]
 }

@@ -15,15 +15,15 @@
     },
     {
       "image_id": "075",
-      "id": "9987",
+      "id": "025(フライパン)",
       "bb": [
-        1411,
-        287,
-        124,
-        121
+        1871,
+        825,
+        50,
+        80
       ],
-      "class_name": "box",
-      "auto_flg": true
+      "class_name": "frying_pan",
+      "auto_flg": false
     },
     {
       "image_id": "075",
@@ -184,17 +184,6 @@
       "caption_id": "075",
       "caption_region": [
         465,
-        4
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "075",
-      "id": "30",
-      "visual_id": "011(冷凍唐揚げ・３個)",
-      "caption_id": "075",
-      "caption_region": [
-        742,
         4
       ],
       "relation_name": "=≒格"

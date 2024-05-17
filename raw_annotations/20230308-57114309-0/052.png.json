@@ -87,7 +87,7 @@
     },
     {
       "image_id": "052",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         1085,
         369,
@@ -99,15 +99,15 @@
     },
     {
       "image_id": "052",
-      "id": "5644",
+      "id": "025(ゴミ箱)",
       "bb": [
-        104,
-        688,
-        182,
-        134
+        630,
+        815,
+        141,
+        104
       ],
-      "class_name": "carton",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "052",
@@ -226,7 +226,7 @@
         288,
         277
       ],
-      "class_name": "napkin",
+      "class_name": "tissue_paper",
       "auto_flg": true
     },
     {

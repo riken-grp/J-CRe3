@@ -3,27 +3,27 @@
   "bounding_boxes": [
     {
       "image_id": "030",
-      "id": "2175",
+      "id": "020(ティッシュ箱)",
       "bb": [
-        1205,
-        41,
-        16,
-        13
+        -18,
+        324,
+        124,
+        306
       ],
-      "class_name": "button",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "030",
-      "id": "2173",
+      "id": "022(スマホ)",
       "bb": [
-        1184,
-        111,
-        14,
-        12
+        1840,
+        406,
+        84,
+        89
       ],
-      "class_name": "button",
-      "auto_flg": true
+      "class_name": "cellular_telephone",
+      "auto_flg": false
     },
     {
       "image_id": "030",
@@ -63,7 +63,7 @@
     },
     {
       "image_id": "030",
-      "id": "016(上の物)",
+      "id": "bottle",
       "bb": [
         0,
         172,
@@ -75,7 +75,7 @@
     },
     {
       "image_id": "030",
-      "id": "1805",
+      "id": "019(ポテトチップ)",
       "bb": [
         290,
         176,
@@ -83,7 +83,7 @@
         245
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "030",

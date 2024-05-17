@@ -63,7 +63,7 @@
     },
     {
       "image_id": "136",
-      "id": "009(青縁)",
+      "id": "030(コーヒー入り青縁)",
       "bb": [
         739,
         305,
@@ -87,7 +87,7 @@
     },
     {
       "image_id": "136",
-      "id": "010(白)",
+      "id": "031(コーヒー入り白)",
       "bb": [
         762,
         278,
@@ -147,15 +147,15 @@
     },
     {
       "image_id": "136",
-      "id": "11617",
+      "id": "020(ティッシュ箱)",
       "bb": [
         767,
         410,
-        142,
-        141
+        149,
+        147
       ],
       "class_name": "box",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "136",
@@ -183,15 +183,15 @@
     },
     {
       "image_id": "136",
-      "id": "11590",
+      "id": "018(ウェットティッシュ)",
       "bb": [
         847,
         293,
         76,
         128
       ],
-      "class_name": "cup",
-      "auto_flg": true
+      "class_name": "bottle",
+      "auto_flg": false
     },
     {
       "image_id": "136",
@@ -207,7 +207,7 @@
     },
     {
       "image_id": "136",
-      "id": "11574",
+      "id": "021(タンブラー)",
       "bb": [
         625,
         357,
@@ -215,43 +215,43 @@
         117
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "136",
-      "id": "11573",
+      "id": "019(ポテトチップ)",
       "bb": [
         542,
         365,
         71,
         110
       ],
-      "class_name": "bottle",
-      "auto_flg": true
+      "class_name": "cup",
+      "auto_flg": false
     },
     {
       "image_id": "136",
-      "id": "11563",
+      "id": "022(スマホ)",
       "bb": [
-        1242,
-        210,
+        317,
+        502,
         132,
         118
       ],
-      "class_name": "box",
+      "class_name": "cellular_telephone",
       "auto_flg": true
     },
     {
       "image_id": "136",
-      "id": "016(上の物)",
+      "id": "box2",
       "bb": [
-        544,
-        293,
+        1141,
+        348,
         381,
         267
       ],
-      "class_name": "bottle",
-      "auto_flg": false
+      "class_name": "box",
+      "auto_flg": true
     },
     {
       "image_id": "136",
@@ -279,19 +279,19 @@
     },
     {
       "image_id": "136",
-      "id": "11352",
+      "id": "bottle",
       "bb": [
         1181,
         184,
         85,
         107
       ],
-      "class_name": "box",
+      "class_name": "bottle",
       "auto_flg": true
     },
     {
       "image_id": "136",
-      "id": "11310",
+      "id": "box",
       "bb": [
         1353,
         200,

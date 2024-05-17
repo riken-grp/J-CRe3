@@ -11,7 +11,7 @@
         272
       ],
       "class_name": "region",
-      "auto_flg": false
+      "auto_flg": true
     },
     {
       "image_id": "001",
@@ -335,7 +335,7 @@
         180
       ],
       "class_name": "table",
-      "auto_flg": false
+      "auto_flg": true
     },
     {
       "image_id": "001",
@@ -462,17 +462,6 @@
         8
       ],
       "relation_name": "ガ格"
-    },
-    {
-      "image_id": "001",
-      "id": "3",
-      "visual_id": "004(テーブルの上)",
-      "caption_id": "001",
-      "caption_region": [
-        14,
-        2
-      ],
-      "relation_name": "=格"
     },
     {
       "image_id": "001",
@@ -616,17 +605,6 @@
         3
       ],
       "relation_name": "=格"
-    },
-    {
-      "image_id": "001",
-      "id": "22",
-      "visual_id": "014(テーブル上の物01)",
-      "caption_id": "001",
-      "caption_region": [
-        23,
-        7
-      ],
-      "relation_name": "ヲ格"
     },
     {
       "image_id": "001",

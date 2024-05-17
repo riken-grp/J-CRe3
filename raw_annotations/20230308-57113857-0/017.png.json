@@ -187,7 +187,7 @@
       "bb": [
         550,
         348,
-        98,
+        97,
         99
       ],
       "class_name": "cup",
@@ -224,7 +224,7 @@
         662,
         174,
         431,
-        234
+        242
       ],
       "class_name": "place_mat",
       "auto_flg": true
@@ -234,9 +234,9 @@
       "id": "002(ロボット)",
       "bb": [
         459,
-        571,
+        570,
         1047,
-        509
+        510
       ],
       "class_name": "person",
       "auto_flg": false
@@ -281,10 +281,10 @@
       "image_id": "017",
       "id": "006(ニンニク2個ネット入り)",
       "bb": [
-        684,
-        406,
-        89,
-        165
+        701,
+        443,
+        72,
+        89
       ],
       "class_name": "garlic",
       "auto_flg": false
@@ -318,17 +318,6 @@
         3
       ],
       "relation_name": "=格"
-    },
-    {
-      "image_id": "017",
-      "id": "11",
-      "visual_id": "006(ニンニク2個ネット入り)",
-      "caption_id": "017",
-      "caption_region": [
-        207,
-        5
-      ],
-      "relation_name": "=≒格"
     },
     {
       "image_id": "017",

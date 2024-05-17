@@ -335,17 +335,6 @@
   "i2t_relations": [
     {
       "image_id": "001",
-      "id": "1",
-      "visual_id": "001(主人)",
-      "caption_id": "001",
-      "caption_region": [
-        11,
-        2
-      ],
-      "relation_name": "ノ格"
-    },
-    {
-      "image_id": "001",
       "id": "2",
       "visual_id": "001(主人)",
       "caption_id": "001",
@@ -434,17 +423,6 @@
     },
     {
       "image_id": "001",
-      "id": "10",
-      "visual_id": "008(コーヒー箱01)",
-      "caption_id": "001",
-      "caption_region": [
-        218,
-        5
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "001",
       "id": "11",
       "visual_id": "006(コップ01)",
       "caption_id": "001",
@@ -475,28 +453,6 @@
         6
       ],
       "relation_name": "ガ格"
-    },
-    {
-      "image_id": "001",
-      "id": "14",
-      "visual_id": "007(ミルク袋01)",
-      "caption_id": "001",
-      "caption_region": [
-        284,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "001",
-      "id": "15",
-      "visual_id": "007(ミルク袋01)",
-      "caption_id": "001",
-      "caption_region": [
-        336,
-        4
-      ],
-      "relation_name": "=≒格"
     }
   ]
 }

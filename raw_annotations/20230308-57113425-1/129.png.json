@@ -455,28 +455,6 @@
   "i2t_relations": [
     {
       "image_id": "129",
-      "id": "12",
-      "visual_id": "016(パスタ茹で麺)",
-      "caption_id": "129",
-      "caption_region": [
-        503,
-        3
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "129",
-      "id": "22",
-      "visual_id": "016(パスタ茹で麺)",
-      "caption_id": "129",
-      "caption_region": [
-        563,
-        6
-      ],
-      "relation_name": "ヲ格"
-    },
-    {
-      "image_id": "129",
       "id": "23",
       "visual_id": "016(パスタ茹で麺)",
       "caption_id": "129",
@@ -485,6 +463,28 @@
         7
       ],
       "relation_name": "ガ格"
+    },
+    {
+      "image_id": "129",
+      "id": "24",
+      "visual_id": "016(パスタ茹で麺)",
+      "caption_id": "129",
+      "caption_region": [
+        742,
+        4
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "129",
+      "id": "25",
+      "visual_id": "016(パスタ茹で麺)",
+      "caption_id": "129",
+      "caption_region": [
+        563,
+        6
+      ],
+      "relation_name": "ヲ格"
     }
   ]
 }

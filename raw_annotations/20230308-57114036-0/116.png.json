@@ -267,15 +267,15 @@
     },
     {
       "image_id": "116",
-      "id": "13714",
+      "id": "029(溶き卵a)",
       "bb": [
-        950,
-        184,
-        67,
+        1110,
+        596,
+        91,
         95
       ],
-      "class_name": "wineglass",
-      "auto_flg": true
+      "class_name": "egg_yolk",
+      "auto_flg": false
     },
     {
       "image_id": "116",
@@ -495,7 +495,7 @@
     },
     {
       "image_id": "116",
-      "id": "11483",
+      "id": "025(フライパン)",
       "bb": [
         426,
         336,
@@ -503,7 +503,7 @@
         298
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "116",
@@ -528,6 +528,18 @@
       ],
       "class_name": "bottle",
       "auto_flg": true
+    },
+    {
+      "image_id": "116",
+      "id": "024(テーブル)",
+      "bb": [
+        982,
+        -7,
+        786,
+        226
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
     }
   ],
   "caption": {

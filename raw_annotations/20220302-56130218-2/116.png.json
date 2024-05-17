@@ -15,7 +15,7 @@
     },
     {
       "image_id": "116",
-      "id": "6(テープ)",
+      "id": "020(残ったテープ本体)",
       "bb": [
         1066,
         852,
@@ -71,51 +71,7 @@
   "i2t_relations": [
     {
       "image_id": "116",
-      "id": "28",
-      "visual_id": "17(箱に張られたテープ)",
-      "caption_id": "116",
-      "caption_region": [
-        755,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "116",
-      "id": "29",
-      "visual_id": "17(箱に張られたテープ)",
-      "caption_id": "116",
-      "caption_region": [
-        592,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "116",
-      "id": "30",
-      "visual_id": "17(箱に張られたテープ)",
-      "caption_id": "116",
-      "caption_region": [
-        644,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "116",
-      "id": "31",
-      "visual_id": "17(箱に張られたテープ)",
-      "caption_id": "116",
-      "caption_region": [
-        837,
-        4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "116",
-      "id": "32",
+      "id": "36",
       "visual_id": "18(テープ付き梱包後段ボール)",
       "caption_id": "116",
       "caption_region": [
@@ -130,21 +86,10 @@
       "visual_id": "18(テープ付き梱包後段ボール)",
       "caption_id": "116",
       "caption_region": [
-        253,
-        4
+        884,
+        10
       ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "116",
-      "id": "38",
-      "visual_id": "18(テープ付き梱包後段ボール)",
-      "caption_id": "116",
-      "caption_region": [
-        806,
-        1
-      ],
-      "relation_name": "=≒格"
+      "relation_name": "ヲ格"
     }
   ]
 }

@@ -53,10 +53,10 @@
       "image_id": "042",
       "id": "004(コップ)",
       "bb": [
-        1665,
-        1,
+        1663,
+        -1,
         65,
-        84
+        62
       ],
       "class_name": "wineglass",
       "auto_flg": false
@@ -213,17 +213,6 @@
   },
   "relations": [],
   "i2t_relations": [
-    {
-      "image_id": "042",
-      "id": "23",
-      "visual_id": "011(卵b)",
-      "caption_id": "042",
-      "caption_region": [
-        323,
-        2
-      ],
-      "relation_name": "=格"
-    },
     {
       "image_id": "042",
       "id": "25",

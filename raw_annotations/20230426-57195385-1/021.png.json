@@ -3,15 +3,15 @@
   "bounding_boxes": [
     {
       "image_id": "021",
-      "id": "2",
+      "id": "017(オレンジマット)",
       "bb": [
-        1532,
-        336,
-        169,
-        124
+        1864,
+        648,
+        45,
+        31
       ],
-      "class_name": "laptop_computer",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "021",
@@ -63,15 +63,15 @@
     },
     {
       "image_id": "021",
-      "id": "731",
+      "id": "015(青マット)",
       "bb": [
-        1358,
-        536,
-        305,
-        539
+        1705,
+        573,
+        207,
+        86
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "021",
@@ -83,19 +83,19 @@
         76
       ],
       "class_name": "can",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "021",
-      "id": "1005",
+      "id": "014(花柄マット)",
       "bb": [
-        990,
-        522,
-        83,
-        42
+        1604,
+        584,
+        206,
+        122
       ],
-      "class_name": "sponge",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "021",
@@ -111,15 +111,15 @@
     },
     {
       "image_id": "021",
-      "id": "1037",
+      "id": "016(黄マット)",
       "bb": [
-        1291,
-        259,
-        248,
-        158
+        1721,
+        601,
+        205,
+        118
       ],
-      "class_name": "monitor_(computer_equipment) computer_monitor",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "021",
@@ -195,15 +195,15 @@
     },
     {
       "image_id": "021",
-      "id": "1474",
+      "id": "018(ティッシュ箱)",
       "bb": [
-        1002,
-        337,
-        88,
-        55
+        1760,
+        690,
+        152,
+        91
       ],
-      "class_name": "bowl",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "021",
@@ -243,15 +243,15 @@
     },
     {
       "image_id": "021",
-      "id": "1515",
+      "id": "019(花瓶)",
       "bb": [
-        908,
-        369,
+        1863,
+        614,
         75,
-        35
+        112
       ],
-      "class_name": "bowl",
-      "auto_flg": true
+      "class_name": "flower_arrangement",
+      "auto_flg": false
     },
     {
       "image_id": "021",

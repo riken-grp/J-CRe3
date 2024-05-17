@@ -3,12 +3,12 @@
   "bounding_boxes": [
     {
       "image_id": "014",
-      "id": "2",
+      "id": "02(全体床)",
       "bb": [
-        350,
-        67,
-        1569,
-        1012
+        351,
+        60,
+        1573,
+        1025
       ],
       "class_name": "runner_(carpet)",
       "auto_flg": false
@@ -95,6 +95,18 @@
         232
       ],
       "class_name": "gameboard",
+      "auto_flg": false
+    },
+    {
+      "image_id": "014",
+      "id": "012(一部床)",
+      "bb": [
+        728,
+        297,
+        762,
+        633
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

@@ -171,15 +171,15 @@
     },
     {
       "image_id": "041",
-      "id": "6872",
+      "id": "025(フライパン)",
       "bb": [
-        910,
+        909,
         173,
-        211,
+        202,
         70
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "041",
@@ -233,9 +233,9 @@
       "image_id": "041",
       "id": "6792",
       "bb": [
-        572,
+        654,
         189,
-        82,
+        170,
         76
       ],
       "class_name": "box",
@@ -339,14 +339,14 @@
     },
     {
       "image_id": "041",
-      "id": "6339",
+      "id": "026(棚)",
       "bb": [
         1589,
         474,
         339,
         368
       ],
-      "class_name": "sink",
+      "class_name": "cabinet",
       "auto_flg": true
     },
     {
@@ -399,12 +399,24 @@
     },
     {
       "image_id": "041",
-      "id": "023(キッチン)",
+      "id": "024(テーブル)",
       "bb": [
-        839,
-        117,
-        296,
-        156
+        1784,
+        138,
+        134,
+        146
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "023(コンロ左横)",
+      "bb": [
+        861,
+        138,
+        431,
+        224
       ],
       "class_name": "region",
       "auto_flg": false

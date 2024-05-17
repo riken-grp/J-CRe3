@@ -3,15 +3,15 @@
   "bounding_boxes": [
     {
       "image_id": "232",
-      "id": "20955",
+      "id": "025(ゴミ箱)",
       "bb": [
         652,
         749,
-        114,
+        137,
         96
       ],
       "class_name": "trash_can",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "232",
@@ -39,7 +39,7 @@
     },
     {
       "image_id": "232",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         393,
         96,
@@ -183,14 +183,14 @@
     },
     {
       "image_id": "232",
-      "id": "20804",
+      "id": "glass",
       "bb": [
         661,
         0,
         90,
         71
       ],
-      "class_name": "wineglass",
+      "class_name": "trash_can",
       "auto_flg": true
     },
     {

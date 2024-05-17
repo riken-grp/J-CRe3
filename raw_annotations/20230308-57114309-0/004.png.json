@@ -63,15 +63,15 @@
     },
     {
       "image_id": "004",
-      "id": "159",
+      "id": "025(ゴミ箱)",
       "bb": [
         985,
         199,
         31,
-        70
+        80
       ],
-      "class_name": "bucket",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "004",
@@ -214,7 +214,7 @@
         119,
         185
       ],
-      "class_name": "dishwasher",
+      "class_name": "cabinet",
       "auto_flg": true
     },
     {
@@ -267,15 +267,15 @@
     },
     {
       "image_id": "004",
-      "id": "7",
+      "id": "024(棚)",
       "bb": [
-        526,
-        39,
-        88,
-        84
+        -7,
+        198,
+        444,
+        560
       ],
-      "class_name": "speaker_(stero_equipment)",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "004",

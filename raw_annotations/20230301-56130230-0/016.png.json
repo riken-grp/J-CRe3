@@ -203,7 +203,7 @@
         254
       ],
       "class_name": "region",
-      "auto_flg": false
+      "auto_flg": true
     },
     {
       "image_id": "016",
@@ -1371,15 +1371,15 @@
     },
     {
       "image_id": "016",
-      "id": "2511",
+      "id": "012(本棚)",
       "bb": [
-        1452,
-        201,
-        421,
-        427
+        795,
+        179,
+        721,
+        443
       ],
-      "class_name": "curtain",
-      "auto_flg": true
+      "class_name": "bookcase",
+      "auto_flg": false
     },
     {
       "image_id": "016",
@@ -1479,14 +1479,14 @@
     },
     {
       "image_id": "016",
-      "id": "27",
+      "id": "bookcase",
       "bb": [
         1062,
         474,
         207,
         107
       ],
-      "class_name": "cushion",
+      "class_name": "bookcase",
       "auto_flg": true
     },
     {

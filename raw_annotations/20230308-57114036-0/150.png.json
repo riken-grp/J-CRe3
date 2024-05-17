@@ -3,7 +3,7 @@
   "bounding_boxes": [
     {
       "image_id": "150",
-      "id": "17393",
+      "id": "025(フライパン)",
       "bb": [
         959,
         156,
@@ -11,7 +11,7 @@
         78
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "150",
@@ -507,15 +507,15 @@
     },
     {
       "image_id": "150",
-      "id": "17094",
+      "id": "024(テーブル)",
       "bb": [
-        1004,
-        5,
-        200,
-        58
+        1320,
+        46,
+        618,
+        280
       ],
-      "class_name": "television_set",
-      "auto_flg": true
+      "class_name": "dining_table",
+      "auto_flg": false
     },
     {
       "image_id": "150",
@@ -591,15 +591,15 @@
     },
     {
       "image_id": "150",
-      "id": "17002",
+      "id": "031(溶き卵a, 溶き卵b)",
       "bb": [
-        360,
-        267,
-        126,
-        96
+        1364,
+        342,
+        87,
+        57
       ],
-      "class_name": "box",
-      "auto_flg": true
+      "class_name": "egg_yolk",
+      "auto_flg": false
     },
     {
       "image_id": "150",

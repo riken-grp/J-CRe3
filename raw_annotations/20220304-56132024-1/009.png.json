@@ -77,12 +77,24 @@
       "image_id": "009",
       "id": "13",
       "bb": [
-        894,
-        318,
+        893,
+        314,
         773,
-        760
+        764
       ],
       "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "014(テーブル端)",
+      "bb": [
+        1214,
+        636,
+        422,
+        289
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

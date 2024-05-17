@@ -3,11 +3,11 @@
   "bounding_boxes": [
     {
       "image_id": "009",
-      "id": "6",
+      "id": "6(7, 2, 3, =)",
       "bb": [
         1202,
         399,
-        103,
+        95,
         47
       ],
       "class_name": "toy",
@@ -51,7 +51,7 @@
     },
     {
       "image_id": "009",
-      "id": "7",
+      "id": "7(土台01)",
       "bb": [
         1003,
         175,
@@ -107,6 +107,18 @@
         1080
       ],
       "class_name": "runner_(carpet)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "009",
+      "id": "19",
+      "bb": [
+        968,
+        205,
+        199,
+        127
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

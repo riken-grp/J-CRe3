@@ -111,15 +111,15 @@
     },
     {
       "image_id": "201",
-      "id": "18778",
+      "id": "024(棚)",
       "bb": [
-        1534,
-        730,
-        64,
-        103
+        1466,
+        812,
+        469,
+        272
       ],
-      "class_name": "wall_socket",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "201",
@@ -135,15 +135,15 @@
     },
     {
       "image_id": "201",
-      "id": "18732",
+      "id": "025(ゴミ箱)",
       "bb": [
         347,
         387,
         144,
         98
       ],
-      "class_name": "cup",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "201",
@@ -231,7 +231,7 @@
     },
     {
       "image_id": "201",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         52,
         4,

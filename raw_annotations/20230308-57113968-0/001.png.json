@@ -576,6 +576,18 @@
       ],
       "class_name": "person",
       "auto_flg": false
+    },
+    {
+      "image_id": "001",
+      "id": "008(冷蔵庫)",
+      "bb": [
+        1555,
+        1030,
+        366,
+        49
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
     }
   ],
   "caption": {
@@ -617,6 +629,28 @@
         5
       ],
       "relation_name": "ガ格"
+    },
+    {
+      "image_id": "001",
+      "id": "21",
+      "visual_id": "001(主人)",
+      "caption_id": "001",
+      "caption_region": [
+        289,
+        1
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "001",
+      "id": "22",
+      "visual_id": "002(ロボット)",
+      "caption_id": "001",
+      "caption_region": [
+        318,
+        3
+      ],
+      "relation_name": "=格"
     }
   ]
 }

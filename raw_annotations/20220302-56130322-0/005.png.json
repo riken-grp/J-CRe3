@@ -6,7 +6,7 @@
       "id": "1",
       "bb": [
         598,
-        0,
+        1,
         198,
         246
       ],
@@ -15,12 +15,12 @@
     },
     {
       "image_id": "005",
-      "id": "2",
+      "id": "02(全体床)",
       "bb": [
         0,
         97,
         1920,
-        983
+        981
       ],
       "class_name": "runner_(carpet)",
       "auto_flg": false
@@ -31,7 +31,7 @@
       "bb": [
         639,
         221,
-        327,
+        331,
         437
       ],
       "class_name": "coffee_table",
@@ -65,10 +65,10 @@
       "image_id": "005",
       "id": "8",
       "bb": [
-        745,
+        742,
         347,
-        172,
-        120
+        178,
+        123
       ],
       "class_name": "gameboard",
       "auto_flg": false
@@ -99,7 +99,7 @@
     },
     {
       "image_id": "005",
-      "id": "12",
+      "id": "012(一部床)",
       "bb": [
         937,
         207,
@@ -132,7 +132,7 @@
     {
       "image_id": "005",
       "id": "000012",
-      "visual_id": "12",
+      "visual_id": "012(一部床)",
       "caption_id": "005",
       "caption_region": [
         44,
@@ -143,7 +143,7 @@
     {
       "image_id": "005",
       "id": "000013",
-      "visual_id": "12",
+      "visual_id": "012(一部床)",
       "caption_id": "005",
       "caption_region": [
         112,
@@ -154,7 +154,7 @@
     {
       "image_id": "005",
       "id": "000014",
-      "visual_id": "12",
+      "visual_id": "012(一部床)",
       "caption_id": "005",
       "caption_region": [
         282,

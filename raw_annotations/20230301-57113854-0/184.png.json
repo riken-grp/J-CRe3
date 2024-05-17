@@ -183,7 +183,7 @@
     },
     {
       "image_id": "184",
-      "id": "020(目玉焼き)",
+      "id": "020(目玉焼きb)",
       "bb": [
         1082,
         179,
@@ -219,15 +219,15 @@
     },
     {
       "image_id": "184",
-      "id": "12183",
+      "id": "017(お皿)",
       "bb": [
-        284,
-        9,
-        297,
-        169
+        1795,
+        196,
+        127,
+        204
       ],
-      "class_name": "bottle",
-      "auto_flg": true
+      "class_name": "plate",
+      "auto_flg": false
     },
     {
       "image_id": "184",
@@ -279,17 +279,6 @@
       "caption_id": "184",
       "caption_region": [
         1254,
-        3
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "184",
-      "id": "35",
-      "visual_id": "016(皿3枚)",
-      "caption_id": "184",
-      "caption_region": [
-        561,
         3
       ],
       "relation_name": "=≒格"

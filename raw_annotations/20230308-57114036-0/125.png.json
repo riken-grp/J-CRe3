@@ -17,8 +17,8 @@
       "image_id": "125",
       "id": "14749",
       "bb": [
-        1538,
-        244,
+        1337,
+        368,
         148,
         111
       ],
@@ -219,15 +219,15 @@
     },
     {
       "image_id": "125",
-      "id": "14285",
+      "id": "025(フライパン)",
       "bb": [
-        903,
-        277,
-        296,
-        318
+        177,
+        338,
+        307,
+        308
       ],
       "class_name": "frying_pan",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "125",
@@ -243,15 +243,15 @@
     },
     {
       "image_id": "125",
-      "id": "14011",
+      "id": "024(テーブル)",
       "bb": [
-        920,
-        -2,
-        214,
-        127
+        826,
+        0,
+        758,
+        197
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "dining_table",
+      "auto_flg": false
     },
     {
       "image_id": "125",
@@ -335,6 +335,18 @@
         56
       ],
       "class_name": "egg",
+      "auto_flg": false
+    },
+    {
+      "image_id": "125",
+      "id": "029(溶き卵a)",
+      "bb": [
+        897,
+        587,
+        108,
+        100
+      ],
+      "class_name": "egg_yolk",
       "auto_flg": false
     }
   ],

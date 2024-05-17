@@ -39,7 +39,7 @@
     },
     {
       "image_id": "066",
-      "id": "5837",
+      "id": "021(タンブラー)",
       "bb": [
         1182,
         0,
@@ -47,7 +47,7 @@
         52
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "066",
@@ -87,7 +87,7 @@
     },
     {
       "image_id": "066",
-      "id": "007(ジュース)",
+      "id": "024(減ジュース)",
       "bb": [
         960,
         760,
@@ -231,27 +231,27 @@
     },
     {
       "image_id": "066",
-      "id": "016(上の物)",
+      "id": "018(ウェットティッシュ)",
       "bb": [
-        1124,
-        1,
-        226,
-        115
+        1250,
+        -3,
+        63,
+        56
       ],
       "class_name": "bottle",
       "auto_flg": false
     },
     {
       "image_id": "066",
-      "id": "5485",
+      "id": "019(ポテトチップ)",
       "bb": [
-        1132,
+        1126,
         0,
-        45,
-        43
+        51,
+        71
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "066",
@@ -315,7 +315,7 @@
     },
     {
       "image_id": "066",
-      "id": "011(グラス)",
+      "id": "023(ジュース入りグラス)",
       "bb": [
         899,
         748,
@@ -351,15 +351,15 @@
     },
     {
       "image_id": "066",
-      "id": "5323",
+      "id": "020(ティッシュ箱)",
       "bb": [
-        1297,
-        0,
-        64,
-        58
+        1268,
+        39,
+        81,
+        78
       ],
       "class_name": "box",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "066",
@@ -395,8 +395,8 @@
   "i2t_relations": [
     {
       "image_id": "066",
-      "id": "17",
-      "visual_id": "007(ジュース)",
+      "id": "46",
+      "visual_id": "023(ジュース入りグラス)",
       "caption_id": "066",
       "caption_region": [
         243,
@@ -406,30 +406,8 @@
     },
     {
       "image_id": "066",
-      "id": "18",
-      "visual_id": "007(ジュース)",
-      "caption_id": "066",
-      "caption_region": [
-        462,
-        5
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "066",
-      "id": "19",
-      "visual_id": "007(ジュース)",
-      "caption_id": "066",
-      "caption_region": [
-        514,
-        5
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "066",
-      "id": "20",
-      "visual_id": "011(グラス)",
+      "id": "47",
+      "visual_id": "023(ジュース入りグラス)",
       "caption_id": "066",
       "caption_region": [
         462,
@@ -439,8 +417,8 @@
     },
     {
       "image_id": "066",
-      "id": "21",
-      "visual_id": "011(グラス)",
+      "id": "48",
+      "visual_id": "023(ジュース入りグラス)",
       "caption_id": "066",
       "caption_region": [
         514,
@@ -450,14 +428,25 @@
     },
     {
       "image_id": "066",
-      "id": "32",
-      "visual_id": "011(グラス)",
+      "id": "49",
+      "visual_id": "023(ジュース入りグラス)",
       "caption_id": "066",
       "caption_region": [
-        243,
-        5
+        343,
+        6
       ],
-      "relation_name": "=格"
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "066",
+      "id": "58",
+      "visual_id": "023(ジュース入りグラス)",
+      "caption_id": "066",
+      "caption_region": [
+        192,
+        3
+      ],
+      "relation_name": "=≒格"
     }
   ]
 }

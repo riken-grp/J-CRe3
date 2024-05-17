@@ -75,15 +75,15 @@
     },
     {
       "image_id": "005",
-      "id": "159",
+      "id": "025(ゴミ箱)",
       "bb": [
         973,
         195,
         38,
         80
       ],
-      "class_name": "bucket",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "005",
@@ -207,15 +207,15 @@
     },
     {
       "image_id": "005",
-      "id": "7",
+      "id": "024(棚)",
       "bb": [
-        513,
-        39,
-        90,
-        84
+        -10,
+        211,
+        445,
+        554
       ],
-      "class_name": "fan",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "005",

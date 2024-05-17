@@ -3,7 +3,7 @@
   "bounding_boxes": [
     {
       "image_id": "235",
-      "id": "020(目玉焼き)",
+      "id": "020(目玉焼きb)",
       "bb": [
         1010,
         215,
@@ -207,15 +207,15 @@
     },
     {
       "image_id": "235",
-      "id": "16343",
+      "id": "017(お皿)",
       "bb": [
-        235,
-        192,
+        1651,
+        134,
         286,
-        152
+        222
       ],
-      "class_name": "bottle",
-      "auto_flg": true
+      "class_name": "plate",
+      "auto_flg": false
     }
   ],
   "caption": {

@@ -39,15 +39,15 @@
     },
     {
       "image_id": "028",
-      "id": "3219",
+      "id": "025(ゴミ箱)",
       "bb": [
-        1340,
-        231,
-        100,
+        1331,
+        228,
+        95,
         95
       ],
-      "class_name": "bucket",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "028",
@@ -155,6 +155,18 @@
         79
       ],
       "class_name": "plate",
+      "auto_flg": false
+    },
+    {
+      "image_id": "028",
+      "id": "024(棚)",
+      "bb": [
+        -35,
+        253,
+        998,
+        844
+      ],
+      "class_name": "cabinet",
       "auto_flg": false
     }
   ],

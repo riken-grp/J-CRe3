@@ -3,15 +3,15 @@
   "bounding_boxes": [
     {
       "image_id": "016",
-      "id": "1321",
+      "id": "025(ゴミ箱)",
       "bb": [
-        1006,
+        1011,
         569,
-        95,
+        90,
         69
       ],
-      "class_name": "bowl",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "016",
@@ -207,14 +207,14 @@
     },
     {
       "image_id": "016",
-      "id": "1181",
+      "id": "drawer",
       "bb": [
         1186,
         258,
         60,
         83
       ],
-      "class_name": "drawer",
+      "class_name": "trash_can",
       "auto_flg": true
     },
     {

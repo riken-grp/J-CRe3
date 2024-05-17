@@ -159,14 +159,14 @@
     },
     {
       "image_id": "069",
-      "id": "7216",
+      "id": "025(ゴミ箱)",
       "bb": [
         358,
         421,
         147,
         86
       ],
-      "class_name": "bottle",
+      "class_name": "trash_can",
       "auto_flg": true
     },
     {
@@ -267,7 +267,7 @@
     },
     {
       "image_id": "069",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         390,
         239,
@@ -291,14 +291,14 @@
     },
     {
       "image_id": "069",
-      "id": "7042",
+      "id": "022(フライパン油)",
       "bb": [
         881,
         123,
         79,
         107
       ],
-      "class_name": "wineglass",
+      "class_name": "olive_oil",
       "auto_flg": true
     },
     {
@@ -473,28 +473,6 @@
       "caption_region": [
         13,
         4
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "069",
-      "id": "34",
-      "visual_id": "016(卵の殻b)",
-      "caption_id": "069",
-      "caption_region": [
-        210,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "069",
-      "id": "35",
-      "visual_id": "016(卵の殻b)",
-      "caption_id": "069",
-      "caption_region": [
-        443,
-        2
       ],
       "relation_name": "=≒格"
     },

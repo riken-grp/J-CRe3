@@ -3,7 +3,7 @@
   "bounding_boxes": [
     {
       "image_id": "095",
-      "id": "008(コーヒースティックa)",
+      "id": "026(空スティックa)",
       "bb": [
         620,
         732,
@@ -39,7 +39,7 @@
     },
     {
       "image_id": "095",
-      "id": "009(青縁)",
+      "id": "030(コーヒー入り青縁)",
       "bb": [
         969,
         758,
@@ -51,7 +51,7 @@
     },
     {
       "image_id": "095",
-      "id": "013(コーヒースティックb)",
+      "id": "028(空スティックb)",
       "bb": [
         666,
         739,
@@ -135,7 +135,7 @@
     },
     {
       "image_id": "095",
-      "id": "011(グラス)",
+      "id": "023(ジュース入りグラス)",
       "bb": [
         1248,
         653,
@@ -147,7 +147,7 @@
     },
     {
       "image_id": "095",
-      "id": "010(白)",
+      "id": "031(コーヒー入り白)",
       "bb": [
         1145,
         774,
@@ -243,7 +243,7 @@
     },
     {
       "image_id": "095",
-      "id": "006(コーヒー箱)",
+      "id": "029(減コーヒー箱)",
       "bb": [
         689,
         223,
@@ -303,14 +303,14 @@
     },
     {
       "image_id": "095",
-      "id": "6794",
+      "id": "021(タンブラー)",
       "bb": [
         727,
         -1,
         88,
         161
       ],
-      "class_name": "bottle",
+      "class_name": "cup",
       "auto_flg": true
     },
     {
@@ -383,52 +383,8 @@
   "i2t_relations": [
     {
       "image_id": "095",
-      "id": "22",
-      "visual_id": "009(青縁)",
-      "caption_id": "095",
-      "caption_region": [
-        275,
-        5
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "095",
-      "id": "23",
-      "visual_id": "010(白)",
-      "caption_id": "095",
-      "caption_region": [
-        275,
-        5
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "095",
-      "id": "24",
-      "visual_id": "009(青縁)",
-      "caption_id": "095",
-      "caption_region": [
-        305,
-        5
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "095",
-      "id": "25",
-      "visual_id": "010(白)",
-      "caption_id": "095",
-      "caption_region": [
-        305,
-        5
-      ],
-      "relation_name": "=格"
-    },
-    {
-      "image_id": "095",
-      "id": "26",
-      "visual_id": "008(コーヒースティックa)",
+      "id": "50",
+      "visual_id": "030(コーヒー入り青縁)",
       "caption_id": "095",
       "caption_region": [
         275,
@@ -438,8 +394,8 @@
     },
     {
       "image_id": "095",
-      "id": "27",
-      "visual_id": "013(コーヒースティックb)",
+      "id": "51",
+      "visual_id": "031(コーヒー入り白)",
       "caption_id": "095",
       "caption_region": [
         275,
@@ -449,8 +405,8 @@
     },
     {
       "image_id": "095",
-      "id": "28",
-      "visual_id": "008(コーヒースティックa)",
+      "id": "52",
+      "visual_id": "030(コーヒー入り青縁)",
       "caption_id": "095",
       "caption_region": [
         305,
@@ -460,8 +416,8 @@
     },
     {
       "image_id": "095",
-      "id": "29",
-      "visual_id": "013(コーヒースティックb)",
+      "id": "53",
+      "visual_id": "031(コーヒー入り白)",
       "caption_id": "095",
       "caption_region": [
         305,
@@ -471,25 +427,47 @@
     },
     {
       "image_id": "095",
-      "id": "30",
-      "visual_id": "006(コーヒー箱)",
+      "id": "54",
+      "visual_id": "030(コーヒー入り青縁)",
       "caption_id": "095",
       "caption_region": [
-        275,
-        5
+        192,
+        3
       ],
       "relation_name": "=≒格"
     },
     {
       "image_id": "095",
-      "id": "31",
-      "visual_id": "006(コーヒー箱)",
+      "id": "55",
+      "visual_id": "031(コーヒー入り白)",
       "caption_id": "095",
       "caption_region": [
-        305,
-        5
+        192,
+        3
       ],
       "relation_name": "=≒格"
+    },
+    {
+      "image_id": "095",
+      "id": "56",
+      "visual_id": "030(コーヒー入り青縁)",
+      "caption_id": "095",
+      "caption_region": [
+        343,
+        6
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "095",
+      "id": "57",
+      "visual_id": "031(コーヒー入り白)",
+      "caption_id": "095",
+      "caption_region": [
+        343,
+        6
+      ],
+      "relation_name": "ヲ格"
     }
   ]
 }

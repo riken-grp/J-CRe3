@@ -87,7 +87,7 @@
     },
     {
       "image_id": "026",
-      "id": "2",
+      "id": "02(全体床)",
       "bb": [
         0,
         0,
@@ -95,6 +95,18 @@
         1080
       ],
       "class_name": "runner_(carpet)",
+      "auto_flg": false
+    },
+    {
+      "image_id": "026",
+      "id": "012(一部床)",
+      "bb": [
+        864,
+        268,
+        1065,
+        822
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

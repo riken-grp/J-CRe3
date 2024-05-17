@@ -3,15 +3,15 @@
   "bounding_boxes": [
     {
       "image_id": "025",
-      "id": "1863",
+      "id": "020(ティッシュ箱)",
       "bb": [
-        540,
-        843,
-        369,
-        228
+        546,
+        840,
+        318,
+        244
       ],
-      "class_name": "napkin",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "025",
@@ -27,15 +27,15 @@
     },
     {
       "image_id": "025",
-      "id": "1847",
+      "id": "021(タンブラー)",
       "bb": [
-        759,
-        450,
-        211,
+        764,
+        455,
+        190,
         164
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "025",
@@ -51,27 +51,27 @@
     },
     {
       "image_id": "025",
-      "id": "016(上の物)",
+      "id": "018(ウェットティッシュ)",
       "bb": [
-        546,
-        242,
-        814,
-        837
+        1081,
+        995,
+        276,
+        91
       ],
       "class_name": "bottle",
       "auto_flg": false
     },
     {
       "image_id": "025",
-      "id": "49",
+      "id": "019(ポテトチップ)",
       "bb": [
-        1067,
-        1002,
-        344,
-        98
+        845,
+        247,
+        152,
+        189
       ],
-      "class_name": "beer_can",
-      "auto_flg": true
+      "class_name": "cup",
+      "auto_flg": false
     },
     {
       "image_id": "025",

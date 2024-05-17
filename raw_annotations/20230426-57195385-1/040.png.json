@@ -3,14 +3,14 @@
   "bounding_boxes": [
     {
       "image_id": "040",
-      "id": "3413",
+      "id": "oven",
       "bb": [
         624,
         274,
         118,
         60
       ],
-      "class_name": "microwave_oven",
+      "class_name": "place_mat",
       "auto_flg": true
     },
     {
@@ -63,26 +63,26 @@
     },
     {
       "image_id": "040",
-      "id": "3493",
+      "id": "pc2",
       "bb": [
         1056,
         253,
         163,
         129
       ],
-      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "class_name": "box",
       "auto_flg": true
     },
     {
       "image_id": "040",
-      "id": "3499",
+      "id": "pc",
       "bb": [
         1238,
         305,
         140,
         104
       ],
-      "class_name": "laptop_computer",
+      "class_name": "flower_arrangement",
       "auto_flg": true
     },
     {
@@ -113,21 +113,9 @@
       "image_id": "040",
       "id": "3506",
       "bb": [
-        1335,
+        1333,
         481,
-        127,
-        87
-      ],
-      "class_name": "flowerpot",
-      "auto_flg": true
-    },
-    {
-      "image_id": "040",
-      "id": "3508",
-      "bb": [
-        1335,
-        480,
-        128,
+        129,
         87
       ],
       "class_name": "flower_arrangement",
@@ -135,7 +123,19 @@
     },
     {
       "image_id": "040",
-      "id": "3510",
+      "id": "019(花瓶)",
+      "bb": [
+        1335,
+        480,
+        128,
+        132
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": false
+    },
+    {
+      "image_id": "040",
+      "id": "015(青マット)",
       "bb": [
         1408,
         540,
@@ -143,7 +143,7 @@
         118
       ],
       "class_name": "place_mat",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "040",
@@ -195,7 +195,7 @@
     },
     {
       "image_id": "040",
-      "id": "3530",
+      "id": "017(オレンジマット)",
       "bb": [
         1354,
         674,
@@ -203,7 +203,7 @@
         216
       ],
       "class_name": "place_mat",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "040",
@@ -267,15 +267,15 @@
     },
     {
       "image_id": "040",
-      "id": "3557",
+      "id": "018(ティッシュ箱)",
       "bb": [
-        1095,
-        450,
-        67,
-        143
+        1244,
+        571,
+        106,
+        76
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "040",
@@ -315,7 +315,7 @@
     },
     {
       "image_id": "040",
-      "id": "3623",
+      "id": "014(花柄マット)",
       "bb": [
         1198,
         503,
@@ -323,7 +323,7 @@
         101
       ],
       "class_name": "place_mat",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "040",
@@ -339,15 +339,15 @@
     },
     {
       "image_id": "040",
-      "id": "3634",
+      "id": "016(黄マット)",
       "bb": [
-        969,
-        631,
-        259,
-        177
+        965,
+        627,
+        263,
+        180
       ],
-      "class_name": "napkin",
-      "auto_flg": true
+      "class_name": "place_mat",
+      "auto_flg": false
     },
     {
       "image_id": "040",

@@ -135,7 +135,7 @@
     },
     {
       "image_id": "258",
-      "id": "004(油)",
+      "id": "023(減油)",
       "bb": [
         288,
         33,
@@ -275,6 +275,18 @@
         21
       ],
       "class_name": "egg",
+      "auto_flg": false
+    },
+    {
+      "image_id": "258",
+      "id": "025(ゴミ箱)",
+      "bb": [
+        637,
+        683,
+        137,
+        111
+      ],
+      "class_name": "trash_can",
       "auto_flg": false
     }
   ],

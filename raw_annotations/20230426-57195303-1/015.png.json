@@ -27,15 +27,15 @@
     },
     {
       "image_id": "015",
-      "id": "449",
+      "id": "021(テーブル)",
       "bb": [
-        649,
-        2,
-        945,
-        1060
+        669,
+        -7,
+        887,
+        1001
       ],
       "class_name": "dining_table",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "015",
@@ -331,17 +331,6 @@
         2
       ],
       "relation_name": "=格"
-    },
-    {
-      "image_id": "015",
-      "id": "22",
-      "visual_id": "005(お皿大・小)",
-      "caption_id": "015",
-      "caption_region": [
-        713,
-        4
-      ],
-      "relation_name": "ガ格"
     }
   ]
 }

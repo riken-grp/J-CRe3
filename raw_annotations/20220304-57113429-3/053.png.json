@@ -15,7 +15,7 @@
     },
     {
       "image_id": "053",
-      "id": "12",
+      "id": "017(減洗剤)",
       "bb": [
         1200,
         425,
@@ -119,6 +119,18 @@
         702
       ],
       "class_name": "sink",
+      "auto_flg": false
+    },
+    {
+      "image_id": "053",
+      "id": "018(隣)",
+      "bb": [
+        24,
+        314,
+        647,
+        775
+      ],
+      "class_name": "region",
       "auto_flg": false
     }
   ],

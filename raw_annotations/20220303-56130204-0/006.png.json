@@ -99,15 +99,15 @@
     },
     {
       "image_id": "006",
-      "id": "262",
+      "id": "020(ティッシュ箱)",
       "bb": [
         1459,
         852,
         191,
         180
       ],
-      "class_name": "envelope",
-      "auto_flg": true
+      "class_name": "box",
+      "auto_flg": false
     },
     {
       "image_id": "006",
@@ -123,27 +123,27 @@
     },
     {
       "image_id": "006",
-      "id": "227",
+      "id": "018(ウェットティッシュ)",
       "bb": [
-        1768,
-        842,
-        152,
-        234
+        1477,
+        609,
+        95,
+        122
       ],
-      "class_name": "chair",
-      "auto_flg": true
+      "class_name": "bottle",
+      "auto_flg": false
     },
     {
       "image_id": "006",
-      "id": "166",
+      "id": "022(スマホ)",
       "bb": [
         1276,
         499,
         37,
         42
       ],
-      "class_name": "beeper",
-      "auto_flg": true
+      "class_name": "cellular_telephone",
+      "auto_flg": false
     },
     {
       "image_id": "006",
@@ -243,7 +243,7 @@
     },
     {
       "image_id": "006",
-      "id": "28",
+      "id": "021(タンブラー)",
       "bb": [
         1479,
         925,
@@ -251,7 +251,7 @@
         127
       ],
       "class_name": "cup",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "006",
@@ -327,15 +327,15 @@
     },
     {
       "image_id": "006",
-      "id": "7",
+      "id": "019(ポテトチップ)",
       "bb": [
-        964,
-        165,
-        242,
-        198
+        1365,
+        671,
+        72,
+        106
       ],
-      "class_name": "monitor_(computer_equipment) computer_monitor",
-      "auto_flg": true
+      "class_name": "cup",
+      "auto_flg": false
     },
     {
       "image_id": "006",
@@ -399,14 +399,14 @@
     },
     {
       "image_id": "006",
-      "id": "1",
+      "id": "pc",
       "bb": [
         1180,
         237,
         185,
         163
       ],
-      "class_name": "laptop_computer",
+      "class_name": "box",
       "auto_flg": true
     }
   ],

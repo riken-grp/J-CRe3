@@ -75,7 +75,7 @@
     },
     {
       "image_id": "214",
-      "id": "019(卵の殻)",
+      "id": "019(卵bの殻)",
       "bb": [
         324,
         690,
@@ -123,15 +123,15 @@
     },
     {
       "image_id": "214",
-      "id": "15568",
+      "id": "017(お皿)",
       "bb": [
-        696,
-        -9,
-        161,
-        126
+        461,
+        195,
+        288,
+        260
       ],
-      "class_name": "hand_towel",
-      "auto_flg": true
+      "class_name": "plate",
+      "auto_flg": false
     },
     {
       "image_id": "214",
@@ -147,7 +147,7 @@
     },
     {
       "image_id": "214",
-      "id": "020(目玉焼き)",
+      "id": "020(目玉焼きb)",
       "bb": [
         36,
         320,
@@ -201,17 +201,6 @@
   },
   "relations": [],
   "i2t_relations": [
-    {
-      "image_id": "214",
-      "id": "37",
-      "visual_id": "026(水入りコップ)",
-      "caption_id": "214",
-      "caption_region": [
-        711,
-        3
-      ],
-      "relation_name": "=≒格"
-    },
     {
       "image_id": "214",
       "id": "38",

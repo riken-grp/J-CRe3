@@ -255,15 +255,15 @@
     },
     {
       "image_id": "044",
-      "id": "7357",
+      "id": "025(フライパン)",
       "bb": [
         868,
-        850,
-        119,
-        177
+        619,
+        303,
+        408
       ],
-      "class_name": "handle",
-      "auto_flg": true
+      "class_name": "frying_pan",
+      "auto_flg": false
     },
     {
       "image_id": "044",
@@ -363,15 +363,15 @@
     },
     {
       "image_id": "044",
-      "id": "7252",
+      "id": "024(テーブル)",
       "bb": [
         1313,
         59,
         613,
-        208
+        326
       ],
       "class_name": "dining_table",
-      "auto_flg": true
+      "auto_flg": false
     },
     {
       "image_id": "044",
@@ -449,10 +449,10 @@
       "image_id": "044",
       "id": "002(ロボット)",
       "bb": [
-        622,
-        628,
-        855,
-        448
+        620,
+        643,
+        859,
+        440
       ],
       "class_name": "person",
       "auto_flg": false

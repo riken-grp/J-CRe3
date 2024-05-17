@@ -497,10 +497,10 @@
       "image_id": "002",
       "id": "814",
       "bb": [
-        1753,
-        447,
-        25,
-        53
+        1751,
+        500,
+        2,
+        57
       ],
       "class_name": "book",
       "auto_flg": true
@@ -947,6 +947,18 @@
         475
       ],
       "class_name": "sofa",
+      "auto_flg": false
+    },
+    {
+      "image_id": "002",
+      "id": "012(本棚)",
+      "bb": [
+        1316,
+        222,
+        607,
+        468
+      ],
+      "class_name": "bookcase",
       "auto_flg": false
     }
   ],

@@ -159,15 +159,15 @@
     },
     {
       "image_id": "011",
-      "id": "751",
+      "id": "025(ゴミ箱)",
       "bb": [
-        849,
-        432,
-        152,
-        189
+        1391,
+        584,
+        89,
+        97
       ],
-      "class_name": "bottle",
-      "auto_flg": true
+      "class_name": "trash_can",
+      "auto_flg": false
     },
     {
       "image_id": "011",
@@ -303,15 +303,15 @@
     },
     {
       "image_id": "011",
-      "id": "709",
+      "id": "024(棚)",
       "bb": [
-        1031,
-        603,
-        175,
-        163
+        -8,
+        826,
+        647,
+        278
       ],
-      "class_name": "bottle",
-      "auto_flg": true
+      "class_name": "cabinet",
+      "auto_flg": false
     },
     {
       "image_id": "011",
@@ -456,72 +456,6 @@
         2
       ],
       "relation_name": "=格"
-    },
-    {
-      "image_id": "011",
-      "id": "14",
-      "visual_id": "005(卵a)",
-      "caption_id": "011",
-      "caption_region": [
-        981,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "011",
-      "id": "15",
-      "visual_id": "006(卵b)",
-      "caption_id": "011",
-      "caption_region": [
-        981,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "011",
-      "id": "16",
-      "visual_id": "005(卵a)",
-      "caption_id": "011",
-      "caption_region": [
-        1114,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "011",
-      "id": "17",
-      "visual_id": "006(卵b)",
-      "caption_id": "011",
-      "caption_region": [
-        1114,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "011",
-      "id": "55",
-      "visual_id": "005(卵a)",
-      "caption_id": "011",
-      "caption_region": [
-        921,
-        2
-      ],
-      "relation_name": "=≒格"
-    },
-    {
-      "image_id": "011",
-      "id": "56",
-      "visual_id": "006(卵b)",
-      "caption_id": "011",
-      "caption_region": [
-        921,
-        2
-      ],
-      "relation_name": "=≒格"
     }
   ]
 }
