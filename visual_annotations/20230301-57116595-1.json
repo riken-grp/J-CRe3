@@ -162,17 +162,6 @@
             "y2": 455
           },
           "className": "person"
-        },
-        {
-          "imageId": "002",
-          "instanceId": "009(キッチン)",
-          "rect": {
-            "x1": 981,
-            "y1": 0,
-            "x2": 1881,
-            "y2": 935
-          },
-          "className": "region"
         }
       ]
     },
@@ -6273,7 +6262,7 @@
           "relations": [
             {
               "type": "ノ",
-              "instanceId": "003(クッキングヒーター)"
+              "instanceId": "008(汚れ)"
             },
             {
               "type": "=",
@@ -6369,6 +6358,10 @@
             {
               "type": "=",
               "instanceId": "005(洗剤緑)"
+            },
+            {
+              "type": "=",
+              "instanceId": "006(スポンジ)"
             }
           ]
         }

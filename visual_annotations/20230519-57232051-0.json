@@ -10455,9 +10455,9 @@
           "instanceId": "019(空本体)",
           "rect": {
             "x1": 775,
-            "y1": 464,
-            "x2": 952,
-            "y2": 703
+            "y1": 470,
+            "x2": 960,
+            "y2": 706
           },
           "className": "box"
         },
@@ -14119,7 +14119,7 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -14613,27 +14613,11 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "004(白コップ)"
+              "instanceId": "008(ザル)"
             },
             {
               "type": "ヲ",
-              "instanceId": "005(グラスa)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "006(大皿2枚)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "007(小皿)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "010(グラスb)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "016(グラスa, b)"
+              "instanceId": "009(ボウル)"
             }
           ]
         },
@@ -14647,6 +14631,10 @@
             {
               "type": "ヲ",
               "instanceId": "008(ザル)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(ボウル)"
             },
             {
               "type": "ニ",
@@ -14894,11 +14882,15 @@
           "relations": [
             {
               "type": "=",
+              "instanceId": "019(空本体)"
+            },
+            {
+              "type": "=≒",
               "instanceId": "017(空容器)"
             },
             {
               "type": "=≒",
-              "instanceId": "019(空本体)"
+              "instanceId": "021(味噌汁b入り容器)"
             }
           ]
         },
@@ -14923,11 +14915,15 @@
             },
             {
               "type": "ニ",
+              "instanceId": "019(空本体)"
+            },
+            {
+              "type": "ニ≒",
               "instanceId": "017(空容器)"
             },
             {
               "type": "ニ≒",
-              "instanceId": "019(空本体)"
+              "instanceId": "021(味噌汁b入り容器)"
             }
           ]
         },
@@ -14950,10 +14946,6 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "017(空容器)"
             },
             {
               "type": "ヲ",

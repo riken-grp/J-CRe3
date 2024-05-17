@@ -7345,11 +7345,31 @@
               "instanceId": "007(新聞a)"
             },
             {
+              "type": "ノ",
+              "instanceId": "004(新聞a, b)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "007(新聞a)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "008(新聞b)"
+            },
+            {
               "type": "ガ≒",
               "instanceId": "009(新聞a-A)"
             },
             {
               "type": "ガ≒",
+              "instanceId": "010(新聞a-B)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "009(新聞a-A)"
+            },
+            {
+              "type": "ノ≒",
               "instanceId": "010(新聞a-B)"
             }
           ]
@@ -7390,7 +7410,28 @@
         },
         {
           "text": "下に",
-          "relations": []
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "004(新聞a, b)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "007(新聞a)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "008(新聞b)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "009(新聞a-A)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "010(新聞a-B)"
+            }
+          ]
         },
         {
           "text": "ある",
@@ -7585,6 +7626,14 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "016(ここ0)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "017(これ1)"
             },
             {
               "type": "ニ",
@@ -7790,11 +7839,21 @@
         },
         {
           "text": "それ",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(はさみb)"
+            }
+          ]
         },
         {
           "text": "それ。",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(はさみb)"
+            }
+          ]
         }
       ]
     },

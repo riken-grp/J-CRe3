@@ -1943,7 +1943,7 @@
         },
         {
           "imageId": "021",
-          "instanceId": "016(上0)",
+          "instanceId": "016(上0、上1)",
           "rect": {
             "x1": 324,
             "y1": 243,
@@ -1992,7 +1992,7 @@
         },
         {
           "imageId": "022",
-          "instanceId": "016(上0)",
+          "instanceId": "016(上0、上1)",
           "rect": {
             "x1": 328,
             "y1": 289,
@@ -2107,7 +2107,7 @@
         },
         {
           "imageId": "023",
-          "instanceId": "016(上0)",
+          "instanceId": "016(上0、上1)",
           "rect": {
             "x1": 347,
             "y1": 328,
@@ -5303,7 +5303,7 @@
         },
         {
           "imageId": "066",
-          "instanceId": "020(上1)",
+          "instanceId": "016(上0、上1)",
           "rect": {
             "x1": 682,
             "y1": 964,
@@ -5352,7 +5352,7 @@
         },
         {
           "imageId": "067",
-          "instanceId": "020(上1)",
+          "instanceId": "016(上0、上1)",
           "rect": {
             "x1": 646,
             "y1": 935,
@@ -5423,7 +5423,7 @@
         },
         {
           "imageId": "068",
-          "instanceId": "020(上1)",
+          "instanceId": "016(上0、上1)",
           "rect": {
             "x1": 588,
             "y1": 927,
@@ -5472,7 +5472,7 @@
         },
         {
           "imageId": "069",
-          "instanceId": "020(上1)",
+          "instanceId": "016(上0、上1)",
           "rect": {
             "x1": 652,
             "y1": 767,
@@ -6270,7 +6270,12 @@
         },
         {
           "text": "子供が",
-          "relations": []
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "001(主人)"
+            }
+          ]
         },
         {
           "text": "遊んでた",
@@ -6590,7 +6595,7 @@
             },
             {
               "type": "=",
-              "instanceId": "016(上0)"
+              "instanceId": "016(上0、上1)"
             }
           ]
         },
@@ -6603,7 +6608,7 @@
             },
             {
               "type": "ニ",
-              "instanceId": "016(上0)"
+              "instanceId": "016(上0、上1)"
             },
             {
               "type": "ガ≒",
@@ -6717,7 +6722,7 @@
           "text": "お茶を",
           "relations": [
             {
-              "type": "=≒",
+              "type": "=",
               "instanceId": "019(お茶)"
             }
           ]
@@ -6728,6 +6733,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "019(お茶)"
             },
             {
               "type": "ニ",
@@ -6980,14 +6989,23 @@
         },
         {
           "text": "机の",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "005(テーブル)"
+            }
+          ]
         },
         {
           "text": "上を",
           "relations": [
             {
+              "type": "ノ",
+              "instanceId": "005(テーブル)"
+            },
+            {
               "type": "=",
-              "instanceId": "020(上1)"
+              "instanceId": "016(上0、上1)"
             }
           ]
         },
@@ -7000,7 +7018,7 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "020(上1)"
+              "instanceId": "016(上0、上1)"
             },
             {
               "type": "デ",
@@ -7044,7 +7062,7 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "020(上1)"
+              "instanceId": "016(上0、上1)"
             },
             {
               "type": "デ",

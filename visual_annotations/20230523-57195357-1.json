@@ -5024,7 +5024,7 @@
           "rect": {
             "x1": 85,
             "y1": 359,
-            "x2": 815,
+            "x2": 843,
             "y2": 786
           },
           "className": "person"
@@ -5454,12 +5454,7 @@
         },
         {
           "text": "コーヒーが",
-          "relations": [
-            {
-              "type": "=≒",
-              "instanceId": "008(コーヒー)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "好きな",
@@ -5495,7 +5490,7 @@
           "text": "コーヒーを",
           "relations": [
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "008(コーヒー)"
             }
           ]
@@ -5506,10 +5501,6 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "008(コーヒー)"
             }
           ]
         }
@@ -5664,7 +5655,7 @@
           "text": "皿を",
           "relations": [
             {
-              "type": "=≒",
+              "type": "=",
               "instanceId": "009(取り皿)"
             }
           ]
@@ -5675,6 +5666,10 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(取り皿)"
             }
           ]
         }
@@ -5932,18 +5927,6 @@
               "instanceId": "002(ロボット)"
             },
             {
-              "type": "ヲ",
-              "instanceId": "010(スプーンa, b)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "011(スプーンa)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "012(スプーンb)"
-            },
-            {
               "type": "カラ",
               "instanceId": "003(食器棚)"
             }
@@ -5966,6 +5949,18 @@
           "text": "一緒に",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "010(スプーンa, b)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "011(スプーンa)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "012(スプーンb)"
+            },
+            {
               "type": "ト",
               "instanceId": "006(ウェットティッシュ)"
             },
@@ -5976,6 +5971,10 @@
             {
               "type": "ト",
               "instanceId": "008(コーヒー)"
+            },
+            {
+              "type": "ト",
+              "instanceId": "009(取り皿)"
             },
             {
               "type": "ト",
@@ -6004,6 +6003,18 @@
               "instanceId": "002(ロボット)"
             },
             {
+              "type": "ヲ",
+              "instanceId": "010(スプーンa, b)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "011(スプーンa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "012(スプーンb)"
+            },
+            {
               "type": "ニ",
               "instanceId": "005(お盆)"
             }
@@ -6018,7 +6029,31 @@
             },
             {
               "type": "ヲ",
+              "instanceId": "006(ウェットティッシュ)"
+            },
+            {
+              "type": "ヲ",
               "instanceId": "007(カップa, b)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(コーヒー)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(取り皿)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "010(スプーンa, b)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "011(スプーンa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "012(スプーンb)"
             },
             {
               "type": "ヲ",
@@ -6027,10 +6062,6 @@
             {
               "type": "ヲ",
               "instanceId": "014(カップb)"
-            },
-            {
-              "type": "ヲ≒",
-              "instanceId": "008(コーヒー)"
             }
           ]
         }
@@ -6074,6 +6105,14 @@
             {
               "type": "ヲ",
               "instanceId": "010(スプーンa, b)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "011(スプーンa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "012(スプーンb)"
             },
             {
               "type": "ヲ",

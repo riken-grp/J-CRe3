@@ -1254,6 +1254,17 @@
             "y2": 1080
           },
           "className": "person"
+        },
+        {
+          "imageId": "040",
+          "instanceId": "010(棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 837
+          },
+          "className": "cabinet"
         }
       ]
     },
@@ -4716,7 +4727,7 @@
           "text": "かしこまりました。",
           "relations": [
             {
-              "type": "ガ２",
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             }
           ]
@@ -4785,10 +4796,6 @@
             {
               "type": "=≒",
               "instanceId": "005(ミルクポーション)"
-            },
-            {
-              "type": "=≒",
-              "instanceId": "012(ミルク袋)"
             }
           ]
         },
@@ -4856,7 +4863,7 @@
           "text": "かしこまりました。",
           "relations": [
             {
-              "type": "ガ２",
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             }
           ]
@@ -5004,7 +5011,12 @@
         },
         {
           "text": "リンゴは",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "007(リンゴ)"
+            }
+          ]
         },
         {
           "text": "私が",
@@ -5012,7 +5024,12 @@
         },
         {
           "text": "切るから、",
-          "relations": []
+          "relations": [
+            {
+              "type": "ヲ",
+              "instanceId": "007(リンゴ)"
+            }
+          ]
         },
         {
           "text": "バナナ",
@@ -5072,11 +5089,11 @@
           "text": "フルーツを",
           "relations": [
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "007(リンゴ)"
             },
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "008(バナナ)"
             }
           ]
@@ -5087,14 +5104,6 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "007(リンゴ)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "008(バナナ)"
             },
             {
               "type": "ニ",

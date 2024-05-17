@@ -9047,7 +9047,24 @@
         },
         {
           "text": "飲み物って",
-          "relations": []
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "008(コーラ)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "009(蓋ありペット)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "010(お茶)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "019(コーヒー)"
+            }
+          ]
         },
         {
           "text": "何が",
@@ -9178,16 +9195,8 @@
           "text": "ジュース",
           "relations": [
             {
-              "type": "=",
-              "instanceId": "009(蓋ありペット)"
-            },
-            {
               "type": "=≒",
               "instanceId": "011(ジュース入グラス)"
-            },
-            {
-              "type": "=≒",
-              "instanceId": "012(蓋なしペット)"
             }
           ]
         },
@@ -9237,14 +9246,6 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "009(蓋ありペット)"
-            },
-            {
-              "type": "ヲ≒",
-              "instanceId": "012(蓋なしペット)"
             }
           ]
         }
@@ -9263,10 +9264,6 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ヲ≒",
-              "instanceId": "009(蓋ありペット)"
             }
           ]
         },
@@ -9631,8 +9628,12 @@
           "text": "悪いね。",
           "relations": [
             {
-              "type": "ガ２",
+              "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }

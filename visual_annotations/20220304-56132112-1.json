@@ -42,7 +42,7 @@
           "instanceId": "009(テーブル)",
           "rect": {
             "x1": 1141,
-            "y1": 437,
+            "y1": 440,
             "x2": 1752,
             "y2": 1054
           },
@@ -97,6 +97,17 @@
     {
       "imageId": "002",
       "boundingBoxes": [
+        {
+          "imageId": "002",
+          "instanceId": "026(テーブルの上)",
+          "rect": {
+            "x1": 1198,
+            "y1": 446,
+            "x2": 1801,
+            "y2": 841
+          },
+          "className": "region"
+        },
         {
           "imageId": "002",
           "instanceId": "005(携帯電話)",
@@ -200,6 +211,17 @@
             "y2": 838
           },
           "className": "cellular_telephone"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "026(テーブルの上)",
+          "rect": {
+            "x1": 1264,
+            "y1": 476,
+            "x2": 1854,
+            "y2": 873
+          },
+          "className": "region"
         },
         {
           "imageId": "003",
@@ -307,10 +329,21 @@
         },
         {
           "imageId": "004",
+          "instanceId": "026(テーブルの上)",
+          "rect": {
+            "x1": 1228,
+            "y1": 508,
+            "x2": 1811,
+            "y2": 925
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "004",
           "instanceId": "009(テーブル)",
           "rect": {
             "x1": 1227,
-            "y1": 502,
+            "y1": 508,
             "x2": 1812,
             "y2": 1079
           },
@@ -397,6 +430,17 @@
             "y2": 887
           },
           "className": "cellular_telephone"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "026(テーブルの上)",
+          "rect": {
+            "x1": 1278,
+            "y1": 505,
+            "x2": 1857,
+            "y2": 932
+          },
+          "className": "region"
         },
         {
           "imageId": "005",
@@ -490,6 +534,17 @@
             "y2": 777
           },
           "className": "cellular_telephone"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "026(テーブルの上)",
+          "rect": {
+            "x1": 1153,
+            "y1": 425,
+            "x2": 1754,
+            "y2": 817
+          },
+          "className": "region"
         },
         {
           "imageId": "006",
@@ -5527,7 +5582,7 @@
         },
         {
           "imageId": "087",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 649,
             "y1": 814,
@@ -5641,7 +5696,7 @@
         },
         {
           "imageId": "090",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1248,
             "y1": 1035,
@@ -5668,7 +5723,7 @@
       "boundingBoxes": [
         {
           "imageId": "091",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1148,
             "y1": 1072,
@@ -5706,7 +5761,7 @@
         },
         {
           "imageId": "092",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1001,
             "y1": 880,
@@ -5733,7 +5788,7 @@
         },
         {
           "imageId": "093",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 955,
             "y1": 805,
@@ -5760,7 +5815,7 @@
       "boundingBoxes": [
         {
           "imageId": "094",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 969,
             "y1": 830,
@@ -5809,7 +5864,7 @@
         },
         {
           "imageId": "095",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 956,
             "y1": 846,
@@ -5858,7 +5913,7 @@
         },
         {
           "imageId": "096",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1001,
             "y1": 983,
@@ -5874,7 +5929,7 @@
       "boundingBoxes": [
         {
           "imageId": "097",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1098,
             "y1": 678,
@@ -5912,7 +5967,7 @@
       "boundingBoxes": [
         {
           "imageId": "098",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 919,
             "y1": 880,
@@ -5961,7 +6016,7 @@
         },
         {
           "imageId": "099",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 989,
             "y1": 659,
@@ -5988,7 +6043,7 @@
         },
         {
           "imageId": "100",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1318,
             "y1": 407,
@@ -6026,7 +6081,7 @@
         },
         {
           "imageId": "101",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1435,
             "y1": 979,
@@ -6178,17 +6233,6 @@
         },
         {
           "imageId": "105",
-          "instanceId": "010(そこ)",
-          "rect": {
-            "x1": 0,
-            "y1": 206,
-            "x2": 478,
-            "y2": 1007
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "105",
           "instanceId": "011(棚)",
           "rect": {
             "x1": 0,
@@ -6227,7 +6271,7 @@
       "boundingBoxes": [
         {
           "imageId": "106",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1333,
             "y1": 1039,
@@ -6276,7 +6320,7 @@
         },
         {
           "imageId": "107",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1313,
             "y1": 323,
@@ -6330,7 +6374,7 @@
         },
         {
           "imageId": "109",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1374,
             "y1": 915,
@@ -6357,7 +6401,7 @@
       "boundingBoxes": [
         {
           "imageId": "110",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1377,
             "y1": 507,
@@ -6395,7 +6439,7 @@
       "boundingBoxes": [
         {
           "imageId": "111",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1265,
             "y1": 327,
@@ -6433,7 +6477,7 @@
       "boundingBoxes": [
         {
           "imageId": "112",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1258,
             "y1": 851,
@@ -6493,7 +6537,7 @@
         },
         {
           "imageId": "113",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 986,
             "y1": 960,
@@ -6531,7 +6575,7 @@
         },
         {
           "imageId": "114",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1059,
             "y1": 534,
@@ -6558,7 +6602,7 @@
         },
         {
           "imageId": "115",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1016,
             "y1": 529,
@@ -6585,7 +6629,7 @@
       "boundingBoxes": [
         {
           "imageId": "116",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1448,
             "y1": 854,
@@ -6623,7 +6667,7 @@
       "boundingBoxes": [
         {
           "imageId": "117",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1219,
             "y1": 836,
@@ -6672,7 +6716,7 @@
         },
         {
           "imageId": "118",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 936,
             "y1": 956,
@@ -6710,7 +6754,7 @@
         },
         {
           "imageId": "119",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1285,
             "y1": 871,
@@ -6759,7 +6803,7 @@
         },
         {
           "imageId": "120",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 1075,
             "y1": 864,
@@ -6808,7 +6852,7 @@
         },
         {
           "imageId": "121",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 864,
             "y1": 817,
@@ -6835,7 +6879,7 @@
         },
         {
           "imageId": "122",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 626,
             "y1": 1041,
@@ -7037,7 +7081,7 @@
         },
         {
           "imageId": "125",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 947,
             "y1": 825,
@@ -7645,7 +7689,7 @@
         },
         {
           "imageId": "141",
-          "instanceId": "008(布巾)",
+          "instanceId": "027(濡れ布巾)",
           "rect": {
             "x1": 733,
             "y1": 656,
@@ -8705,6 +8749,10 @@
             {
               "type": "ノ",
               "instanceId": "009(テーブル)"
+            },
+            {
+              "type": "=",
+              "instanceId": "026(テーブルの上)"
             }
           ]
         },
@@ -8729,6 +8777,10 @@
             },
             {
               "type": "ヲ",
+              "instanceId": "020(cup４つ)"
+            },
+            {
+              "type": "ヲ",
               "instanceId": "021(cup３つ)"
             },
             {
@@ -8746,6 +8798,10 @@
             {
               "type": "ヲ",
               "instanceId": "025(cup１つb)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "026(テーブルの上)"
             }
           ]
         }
@@ -9075,6 +9131,10 @@
             },
             {
               "type": "デ",
+              "instanceId": "027(濡れ布巾)"
+            },
+            {
+              "type": "デ≒",
               "instanceId": "008(布巾)"
             }
           ]
@@ -9112,6 +9172,14 @@
             {
               "type": "ヲ",
               "instanceId": "009(テーブル)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "027(濡れ布巾)"
+            },
+            {
+              "type": "デ≒",
+              "instanceId": "008(布巾)"
             }
           ]
         },
@@ -9121,6 +9189,10 @@
             {
               "type": "=",
               "instanceId": "008(布巾)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "027(濡れ布巾)"
             }
           ]
         },
@@ -9143,6 +9215,10 @@
             {
               "type": "ニ",
               "instanceId": "019(ここ)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "027(濡れ布巾)"
             }
           ]
         }
@@ -9169,6 +9245,10 @@
             {
               "type": "ヲ",
               "instanceId": "008(布巾)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "027(濡れ布巾)"
             }
           ]
         },
@@ -9261,6 +9341,10 @@
             },
             {
               "type": "デ",
+              "instanceId": "027(濡れ布巾)"
+            },
+            {
+              "type": "デ≒",
               "instanceId": "008(布巾)"
             }
           ]

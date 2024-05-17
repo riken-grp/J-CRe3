@@ -787,6 +787,17 @@
         },
         {
           "imageId": "012",
+          "instanceId": "023(下)",
+          "rect": {
+            "x1": 1091,
+            "y1": 244,
+            "x2": 1224,
+            "y2": 279
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "012",
           "instanceId": "004(棚)",
           "rect": {
             "x1": 1089,
@@ -833,6 +844,17 @@
             "y2": 227
           },
           "className": "cabinet"
+        },
+        {
+          "imageId": "013",
+          "instanceId": "023(下)",
+          "rect": {
+            "x1": 1081,
+            "y1": 244,
+            "x2": 1213,
+            "y2": 281
+          },
+          "className": "region"
         },
         {
           "imageId": "013",
@@ -907,6 +929,17 @@
         },
         {
           "imageId": "014",
+          "instanceId": "023(下)",
+          "rect": {
+            "x1": 943,
+            "y1": 242,
+            "x2": 1075,
+            "y2": 285
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "014",
           "instanceId": "005(コップ３つ)",
           "rect": {
             "x1": 1034,
@@ -964,6 +997,17 @@
             "y2": 489
           },
           "className": "kettle"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "023(下)",
+          "rect": {
+            "x1": 1164,
+            "y1": 245,
+            "x2": 1329,
+            "y2": 286
+          },
+          "className": "region"
         },
         {
           "imageId": "015",
@@ -5445,6 +5489,22 @@
             {
               "type": "=≒",
               "instanceId": "005(コップ３つ)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "011(コップa)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "012(コップb)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "013(コップc)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "020(コップa, c)"
             }
           ]
         },
@@ -5630,12 +5690,25 @@
             {
               "type": "ノ",
               "instanceId": "004(棚)"
+            },
+            {
+              "type": "=",
+              "instanceId": "023(下)"
             }
           ]
         },
         {
           "text": "二番目の",
-          "relations": []
+          "relations": [
+            {
+              "type": "カラ",
+              "instanceId": "023(下)"
+            },
+            {
+              "type": "=",
+              "instanceId": "006(段)"
+            }
+          ]
         },
         {
           "text": "段ですね。",
@@ -5659,6 +5732,10 @@
             {
               "type": "ガ",
               "instanceId": "020(コップa, c)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "006(段)"
             },
             {
               "type": "=",
@@ -5726,8 +5803,12 @@
           "text": "お茶なら",
           "relations": [
             {
-              "type": "=≒",
+              "type": "=",
               "instanceId": "009(ペットボトル)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "014(蓋なしペットボトル)"
             }
           ]
         },

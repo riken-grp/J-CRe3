@@ -1381,6 +1381,17 @@
         },
         {
           "imageId": "012",
+          "instanceId": "005(マスタード)",
+          "rect": {
+            "x1": 1536,
+            "y1": 801,
+            "x2": 1655,
+            "y2": 886
+          },
+          "className": "bottle"
+        },
+        {
+          "imageId": "012",
           "instanceId": "004(ケチャップ)",
           "rect": {
             "x1": 1486,
@@ -4184,6 +4195,17 @@
             "y2": 759
           },
           "className": "pear"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "014(包丁)",
+          "rect": {
+            "x1": 825,
+            "y1": 685,
+            "x2": 994,
+            "y2": 839
+          },
+          "className": "knife"
         },
         {
           "imageId": "032",
@@ -16712,6 +16734,17 @@
             "y2": 438
           },
           "className": "dining_table"
+        },
+        {
+          "imageId": "166",
+          "instanceId": "008(黄コップ)",
+          "rect": {
+            "x1": 1667,
+            "y1": 439,
+            "x2": 1767,
+            "y2": 502
+          },
+          "className": "cup"
         }
       ]
     },
@@ -16761,6 +16794,17 @@
             "y2": 1080
           },
           "className": "drawer"
+        },
+        {
+          "imageId": "167",
+          "instanceId": "008(黄コップ)",
+          "rect": {
+            "x1": 1666,
+            "y1": 465,
+            "x2": 1761,
+            "y2": 511
+          },
+          "className": "cup"
         }
       ]
     },
@@ -22119,7 +22163,7 @@
         },
         {
           "imageId": "248",
-          "instanceId": "021(ココア袋)",
+          "instanceId": "032(開封ココア減袋)",
           "rect": {
             "x1": 1037,
             "y1": 742,
@@ -22157,7 +22201,7 @@
         },
         {
           "imageId": "249",
-          "instanceId": "021(ココア袋)",
+          "instanceId": "032(開封ココア減袋)",
           "rect": {
             "x1": 1028,
             "y1": 160,
@@ -22922,7 +22966,20 @@
       "phrases": [
         {
           "text": "これで",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(皿)"
+            },
+            {
+              "type": "=",
+              "instanceId": "007(スプーン)"
+            },
+            {
+              "type": "=",
+              "instanceId": "008(黄コップ)"
+            }
+          ]
         },
         {
           "text": "全部ですよ。",
@@ -22938,12 +22995,37 @@
             {
               "type": "ガ",
               "instanceId": "008(黄コップ)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "006(皿)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "007(スプーン)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "008(黄コップ)"
             }
           ]
         },
         {
           "text": "食器",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(皿)"
+            },
+            {
+              "type": "=",
+              "instanceId": "007(スプーン)"
+            },
+            {
+              "type": "=",
+              "instanceId": "008(黄コップ)"
+            }
+          ]
         },
         {
           "text": "洗いましょうか？",
@@ -22951,6 +23033,18 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(皿)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(スプーン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(黄コップ)"
             }
           ]
         }
@@ -23049,11 +23143,41 @@
         },
         {
           "text": "洗い",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(皿)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(スプーン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(黄コップ)"
+            }
+          ]
         },
         {
           "text": "物",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(皿)"
+            },
+            {
+              "type": "=",
+              "instanceId": "007(スプーン)"
+            },
+            {
+              "type": "=",
+              "instanceId": "008(黄コップ)"
+            }
+          ]
         },
         {
           "text": "お願いね。",
@@ -23061,6 +23185,18 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(皿)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(スプーン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(黄コップ)"
             },
             {
               "type": "ニ",
@@ -23162,7 +23298,7 @@
           "relations": [
             {
               "type": "ニ２",
-              "instanceId": "001(主人)"
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -23193,10 +23329,6 @@
           "relations": [
             {
               "type": "=",
-              "instanceId": "003(テーブル)"
-            },
-            {
-              "type": "=",
               "instanceId": "004(ケチャップ)"
             }
           ]
@@ -23215,10 +23347,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "003(テーブル)"
-            },
-            {
-              "type": "ガ",
               "instanceId": "004(ケチャップ)"
             },
             {
@@ -23233,7 +23361,16 @@
         },
         {
           "text": "あれは",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "004(ケチャップ)"
+            },
+            {
+              "type": "=",
+              "instanceId": "005(マスタード)"
+            }
+          ]
         },
         {
           "text": "冷蔵",
@@ -23241,7 +23378,12 @@
         },
         {
           "text": "庫に",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "009(冷蔵庫)"
+            }
+          ]
         },
         {
           "text": "しまっておいて。",
@@ -23249,6 +23391,18 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(ケチャップ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(マスタード)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "009(冷蔵庫)"
             }
           ]
         }
@@ -23346,7 +23500,12 @@
         },
         {
           "text": "庫に",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "009(冷蔵庫)"
+            }
+          ]
         },
         {
           "text": "しまいましょうか？",
@@ -23366,6 +23525,10 @@
             {
               "type": "ヲ",
               "instanceId": "012(洋ナシ)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "009(冷蔵庫)"
             }
           ]
         }
@@ -23388,11 +23551,45 @@
         },
         {
           "text": "果物も",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "010(バナナ)"
+            },
+            {
+              "type": "=",
+              "instanceId": "011(リンゴ)"
+            },
+            {
+              "type": "=",
+              "instanceId": "012(洋ナシ)"
+            }
+          ]
         },
         {
           "text": "一緒に",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "010(バナナ)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "011(リンゴ)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "012(洋ナシ)"
+            },
+            {
+              "type": "ト",
+              "instanceId": "004(ケチャップ)"
+            },
+            {
+              "type": "ト",
+              "instanceId": "005(マスタード)"
+            }
+          ]
         },
         {
           "text": "しまっておいてね。",
@@ -23400,6 +23597,22 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "010(バナナ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "011(リンゴ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "012(洋ナシ)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "009(冷蔵庫)"
             }
           ]
         }
@@ -23422,7 +23635,12 @@
         },
         {
           "text": "庫から",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "009(冷蔵庫)"
+            }
+          ]
         },
         {
           "text": "豆乳を",
@@ -23447,6 +23665,10 @@
             {
               "type": "ヲ",
               "instanceId": "020(豆乳)"
+            },
+            {
+              "type": "カラ",
+              "instanceId": "009(冷蔵庫)"
             },
             {
               "type": "ヲ≒",
@@ -23510,6 +23732,10 @@
         {
           "text": "温める",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ヲ",
               "instanceId": "020(豆乳)"
@@ -23695,7 +23921,11 @@
           "relations": [
             {
               "type": "=≒",
-              "instanceId": "021(ココア袋)"
+              "instanceId": "031(ココア粉b)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "035(ココア粉a)"
             }
           ]
         },
@@ -23708,7 +23938,15 @@
             },
             {
               "type": "ニ",
-              "instanceId": "020(豆乳)"
+              "instanceId": "015(マグカップa, b)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "016(マグカップa)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "017(マグカップb)"
             },
             {
               "type": "ニ",
@@ -23717,10 +23955,6 @@
             {
               "type": "ニ",
               "instanceId": "029(温めマグカップb)"
-            },
-            {
-              "type": "ニ≒",
-              "instanceId": "023(蓋なし豆乳)"
             },
             {
               "type": "ニ≒",

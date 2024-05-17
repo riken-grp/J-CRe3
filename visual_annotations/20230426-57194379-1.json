@@ -1804,17 +1804,6 @@
         },
         {
           "imageId": "046",
-          "instanceId": "3260",
-          "rect": {
-            "x1": 75,
-            "y1": 928,
-            "x2": 451,
-            "y2": 1052
-          },
-          "className": "person"
-        },
-        {
-          "imageId": "046",
           "instanceId": "003(電気ポット)",
           "rect": {
             "x1": 1181,
@@ -4142,17 +4131,6 @@
             "y2": 720
           },
           "className": "kettle"
-        },
-        {
-          "imageId": "094",
-          "instanceId": "7089",
-          "rect": {
-            "x1": 809,
-            "y1": 183,
-            "x2": 1185,
-            "y2": 279
-          },
-          "className": ""
         }
       ]
     }
@@ -4174,6 +4152,10 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
               "instanceId": "001(主人)"
             }
           ]
@@ -4260,6 +4242,10 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
             }
           ]
         }
@@ -4292,6 +4278,10 @@
             {
               "type": "ニ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
             }
           ]
         },
@@ -4314,6 +4304,10 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
             },
             {
               "type": "カラ",
@@ -4360,7 +4354,7 @@
           "text": "ポテトチップスが",
           "relations": [
             {
-              "type": "=≒",
+              "type": "=",
               "instanceId": "004(ポテトチップス)"
             }
           ]
@@ -4368,6 +4362,10 @@
         {
           "text": "あった",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "004(ポテトチップス)"
+            },
             {
               "type": "ニ",
               "instanceId": "005(棚)"
@@ -4389,6 +4387,10 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
             }
           ]
         },
@@ -4398,6 +4400,10 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(ポテトチップス)"
             },
             {
               "type": "ニ",
@@ -4438,6 +4444,10 @@
             {
               "type": "ニ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
             }
           ]
         }
@@ -4465,6 +4475,10 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
             }
           ]
         }
@@ -4479,6 +4493,14 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(ポテトチップス)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
             }
           ]
         }
@@ -4493,6 +4515,10 @@
             {
               "type": "ニ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
             }
           ]
         }
@@ -4530,6 +4556,10 @@
         },
         {
           "text": "ウェット",
+          "relations": []
+        },
+        {
+          "text": "ティッシュで",
           "relations": [
             {
               "type": "=",
@@ -4538,12 +4568,13 @@
           ]
         },
         {
-          "text": "ティッシュで",
-          "relations": []
-        },
-        {
           "text": "良いですか？",
-          "relations": []
+          "relations": [
+            {
+              "type": "デ",
+              "instanceId": "006(ウエットティッシュ)"
+            }
+          ]
         }
       ]
     },
@@ -4554,6 +4585,10 @@
           "text": "うん",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
               "type": "ニ",
               "instanceId": "002(ロボット)"
             }
@@ -4561,7 +4596,16 @@
         },
         {
           "text": "大丈夫。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "006(ウエットティッシュ)"
+            }
+          ]
         }
       ]
     },
@@ -4574,11 +4618,21 @@
         },
         {
           "text": "私が",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "001(主人)"
+            }
+          ]
         },
         {
           "text": "いれるね。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
         }
       ]
     },
@@ -4591,7 +4645,12 @@
         },
         {
           "text": "入れますか？",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
         }
       ]
     },
@@ -4612,7 +4671,12 @@
         },
         {
           "text": "しようかな。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
         }
       ]
     },
@@ -4623,7 +4687,7 @@
           "text": "かしこまりました。",
           "relations": [
             {
-              "type": "ガ２",
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             }
           ]

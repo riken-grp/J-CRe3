@@ -1312,7 +1312,7 @@
         },
         {
           "imageId": "029",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1075,
             "y1": 573,
@@ -1328,7 +1328,7 @@
       "boundingBoxes": [
         {
           "imageId": "030",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1089,
             "y1": 554,
@@ -1377,7 +1377,7 @@
       "boundingBoxes": [
         {
           "imageId": "031",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1079,
             "y1": 536,
@@ -1437,7 +1437,7 @@
         },
         {
           "imageId": "032",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1020,
             "y1": 522,
@@ -1475,7 +1475,7 @@
       "boundingBoxes": [
         {
           "imageId": "033",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1019,
             "y1": 453,
@@ -1524,7 +1524,7 @@
       "boundingBoxes": [
         {
           "imageId": "034",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1020,
             "y1": 364,
@@ -1584,7 +1584,7 @@
         },
         {
           "imageId": "035",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1216,
             "y1": 439,
@@ -1633,7 +1633,7 @@
       "boundingBoxes": [
         {
           "imageId": "036",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 891,
             "y1": 434,
@@ -1726,7 +1726,7 @@
         },
         {
           "imageId": "037",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1184,
             "y1": 492,
@@ -1802,7 +1802,7 @@
       "boundingBoxes": [
         {
           "imageId": "039",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1235,
             "y1": 637,
@@ -1895,7 +1895,7 @@
         },
         {
           "imageId": "040",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1249,
             "y1": 664,
@@ -1922,7 +1922,7 @@
         },
         {
           "imageId": "041",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1112,
             "y1": 593,
@@ -1971,7 +1971,7 @@
         },
         {
           "imageId": "042",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1087,
             "y1": 581,
@@ -2031,7 +2031,7 @@
         },
         {
           "imageId": "043",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1084,
             "y1": 594,
@@ -2080,7 +2080,7 @@
         },
         {
           "imageId": "044",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 1113,
             "y1": 547,
@@ -2107,7 +2107,7 @@
       "boundingBoxes": [
         {
           "imageId": "045",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 846,
             "y1": 412,
@@ -2156,7 +2156,7 @@
       "boundingBoxes": [
         {
           "imageId": "046",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 771,
             "y1": 734,
@@ -2314,7 +2314,7 @@
         },
         {
           "imageId": "049",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 407,
             "y1": 837,
@@ -2385,7 +2385,7 @@
         },
         {
           "imageId": "050",
-          "instanceId": "005(人参１本)",
+          "instanceId": "008(洗い人参1本)",
           "rect": {
             "x1": 573,
             "y1": 378,
@@ -2499,7 +2499,12 @@
         },
         {
           "text": "人参を",
-          "relations": []
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "004(人参３本)"
+            }
+          ]
         },
         {
           "text": "出し忘れたから、",
@@ -2578,6 +2583,10 @@
             {
               "type": "=",
               "instanceId": "005(人参１本)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "008(洗い人参1本)"
             }
           ]
         },
@@ -2597,7 +2606,11 @@
               "instanceId": "004(人参３本)"
             },
             {
-              "type": "=",
+              "type": "ノ≒",
+              "instanceId": "008(洗い人参1本)"
+            },
+            {
+              "type": "=≒",
               "instanceId": "005(人参１本)"
             }
           ]
@@ -2616,21 +2629,16 @@
             {
               "type": "ニ",
               "instanceId": "003(冷蔵庫)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "008(洗い人参1本)"
             }
           ]
         },
         {
           "text": "何本",
-          "relations": [
-            {
-              "type": "ノ",
-              "instanceId": "004(人参３本)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "005(人参１本)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "必要ですか？",
@@ -2658,7 +2666,11 @@
               "instanceId": "005(人参１本)"
             },
             {
-              "type": "=",
+              "type": "ノ≒",
+              "instanceId": "008(洗い人参1本)"
+            },
+            {
+              "type": "=≒",
               "instanceId": "005(人参１本)"
             }
           ]
@@ -2675,12 +2687,12 @@
               "instanceId": "005(人参１本)"
             },
             {
-              "type": "デ",
-              "instanceId": "005(人参１本)"
-            },
-            {
               "type": "ガ２",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "008(洗い人参1本)"
             }
           ]
         }
@@ -2707,6 +2719,18 @@
             {
               "type": "ノ",
               "instanceId": "005(人参１本)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "008(洗い人参1本)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "008(洗い人参1本)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "005(人参１本)"
             }
           ]
         }
@@ -2725,6 +2749,10 @@
             {
               "type": "ノ≒",
               "instanceId": "004(人参３本)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "008(洗い人参1本)"
             }
           ]
         },
@@ -2759,6 +2787,10 @@
             {
               "type": "ヲ≒",
               "instanceId": "004(人参３本)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "008(洗い人参1本)"
             }
           ]
         }
@@ -2811,8 +2843,8 @@
           "text": "皮",
           "relations": [
             {
-              "type": "ノ≒",
-              "instanceId": "004(人参３本)"
+              "type": "ノ",
+              "instanceId": "008(洗い人参1本)"
             },
             {
               "type": "ノ≒",

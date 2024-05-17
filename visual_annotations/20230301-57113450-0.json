@@ -10227,16 +10227,7 @@
       "phrases": [
         {
           "text": "良いですね。",
-          "relations": [
-            {
-              "type": "ガ２",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ２",
-              "instanceId": "002(ロボット)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "何から",
@@ -10614,6 +10605,10 @@
             {
               "type": "ニ",
               "instanceId": "003(冷蔵庫)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "013(人参02)"
             }
           ]
         }
@@ -11066,6 +11061,10 @@
             {
               "type": "ノ",
               "instanceId": "005(人参01)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "013(人参02)"
             }
           ]
         },
@@ -11192,6 +11191,10 @@
             {
               "type": "ノ",
               "instanceId": "005(人参01)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "013(人参02)"
             }
           ]
         },
@@ -11298,23 +11301,20 @@
         },
         {
           "text": "通りやすいように、",
-          "relations": []
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "005(人参01)"
+            },
+            {
+              "type": "ニ≒",
+              "instanceId": "013(人参02)"
+            }
+          ]
         },
         {
           "text": "全部",
           "relations": [
-            {
-              "type": "ノ",
-              "instanceId": "006(エリンギ)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "007(玉ねぎ)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "008(ピーマン)"
-            },
             {
               "type": "=",
               "instanceId": "006(エリンギ)"
@@ -11332,8 +11332,12 @@
               "instanceId": "013(人参02)"
             },
             {
-              "type": "ノ≒",
+              "type": "=≒",
               "instanceId": "005(人参01)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "014(人参03)"
             }
           ]
         },
@@ -11371,6 +11375,14 @@
             {
               "type": "デ",
               "instanceId": "016(包丁)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "005(人参01)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "014(人参03)"
             }
           ]
         }

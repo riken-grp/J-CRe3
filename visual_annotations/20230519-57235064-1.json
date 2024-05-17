@@ -10191,7 +10191,12 @@
         },
         {
           "text": "沸かしましょうか？",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
         }
       ]
     },
@@ -10204,6 +10209,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
@@ -10213,6 +10222,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
@@ -10233,6 +10246,10 @@
           "text": "使ってくれる？",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "003(ポット)"
             }
@@ -10246,6 +10263,10 @@
         {
           "text": "はい",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ニ",
               "instanceId": "001(主人)"
@@ -10276,6 +10297,10 @@
             {
               "type": "ヲ",
               "instanceId": "007(水道)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -10294,6 +10319,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
@@ -10303,7 +10332,12 @@
         },
         {
           "text": "待ってね。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
         }
       ]
     },
@@ -10333,6 +10367,10 @@
             {
               "type": "ヲ",
               "instanceId": "007(水道)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -10347,6 +10385,10 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -10357,12 +10399,7 @@
       "phrases": [
         {
           "text": "沸くまで、",
-          "relations": [
-            {
-              "type": "ノ",
-              "instanceId": "003(ポット)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "少し",
@@ -10370,7 +10407,12 @@
         },
         {
           "text": "お待ち下さい。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
         }
       ]
     },
@@ -10383,12 +10425,20 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
         {
           "text": "ありがとう。",
           "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
@@ -10418,6 +10468,10 @@
             {
               "type": "ヲ",
               "instanceId": "004(青縁カップ)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -10429,6 +10483,10 @@
         {
           "text": "はい",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ニ",
               "instanceId": "001(主人)"
@@ -10453,6 +10511,10 @@
           "text": "出しておきますね。",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "004(青縁カップ)"
             },
@@ -10473,6 +10535,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
@@ -10482,6 +10548,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -10557,6 +10627,10 @@
           "text": "入れていってくれる？",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "008(白カップ)"
             },
@@ -10591,6 +10665,10 @@
           "text": "はい",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ニ",
               "instanceId": "001(主人)"
             }
@@ -10613,6 +10691,10 @@
         {
           "text": "並べておきますね。",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ヲ",
               "instanceId": "008(白カップ)"
@@ -10650,6 +10732,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
@@ -10659,6 +10745,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -10705,6 +10795,10 @@
           "text": "拭いといてくれるかな？",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "011(このあたり)"
             },
@@ -10723,6 +10817,10 @@
           "text": "はい",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ニ",
               "instanceId": "001(主人)"
             }
@@ -10730,7 +10828,12 @@
         },
         {
           "text": "分かりました。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
         }
       ]
     },
@@ -10754,6 +10857,10 @@
           "text": "拭いておきますね。",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "012(調理台)"
             }
@@ -10770,12 +10877,20 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
         {
           "text": "ありがとう。",
           "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
@@ -10818,6 +10933,10 @@
             {
               "type": "ヲ",
               "instanceId": "013(ポットの方)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -10828,7 +10947,16 @@
       "phrases": [
         {
           "text": "はい",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
         },
         {
           "text": "お湯が",
@@ -10841,6 +10969,10 @@
         {
           "text": "お知らせしますね。",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ニ",
               "instanceId": "001(主人)"

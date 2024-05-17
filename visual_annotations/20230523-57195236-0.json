@@ -1478,17 +1478,6 @@
         },
         {
           "imageId": "016",
-          "instanceId": "009(上)",
-          "rect": {
-            "x1": 643,
-            "y1": 99,
-            "x2": 1404,
-            "y2": 874
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "016",
           "instanceId": "004(テーブル)",
           "rect": {
             "x1": 645,
@@ -1568,17 +1557,6 @@
             "y2": 1080
           },
           "className": "person"
-        },
-        {
-          "imageId": "017",
-          "instanceId": "009(上)",
-          "rect": {
-            "x1": 609,
-            "y1": 76,
-            "x2": 1371,
-            "y2": 852
-          },
-          "className": "region"
         },
         {
           "imageId": "017",
@@ -2879,6 +2857,17 @@
             "y2": 882
           },
           "className": "dining_table"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "010(反対側)",
+          "rect": {
+            "x1": 928,
+            "y1": 17,
+            "x2": 1229,
+            "y2": 229
+          },
+          "className": "region"
         }
       ]
     },
@@ -2961,6 +2950,17 @@
             "y2": 990
           },
           "className": "dining_table"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "010(反対側)",
+          "rect": {
+            "x1": 888,
+            "y1": 57,
+            "x2": 1224,
+            "y2": 320
+          },
+          "className": "region"
         }
       ]
     },
@@ -2982,10 +2982,10 @@
           "imageId": "037",
           "instanceId": "010(反対側)",
           "rect": {
-            "x1": 1276,
-            "y1": 209,
-            "x2": 1725,
-            "y2": 544
+            "x1": 1246,
+            "y1": 201,
+            "x2": 1695,
+            "y2": 536
           },
           "className": "region"
         },
@@ -3267,17 +3267,6 @@
             "y2": 1079
           },
           "className": "person"
-        },
-        {
-          "imageId": "040",
-          "instanceId": "010(反対側)",
-          "rect": {
-            "x1": 744,
-            "y1": 374,
-            "x2": 1221,
-            "y2": 789
-          },
-          "className": "region"
         },
         {
           "imageId": "040",

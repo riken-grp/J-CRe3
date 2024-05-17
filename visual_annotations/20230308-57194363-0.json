@@ -922,6 +922,17 @@
         },
         {
           "imageId": "017",
+          "instanceId": "012(上)",
+          "rect": {
+            "x1": 425,
+            "y1": 146,
+            "x2": 1287,
+            "y2": 923
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "017",
           "instanceId": "007(グラス)",
           "rect": {
             "x1": 573,
@@ -979,7 +990,7 @@
           "imageId": "017",
           "instanceId": "005(テーブル)",
           "rect": {
-            "x1": 434,
+            "x1": 425,
             "y1": 143,
             "x2": 1286,
             "y2": 923
@@ -4332,6 +4343,17 @@
         },
         {
           "imageId": "061",
+          "instanceId": "012(上)",
+          "rect": {
+            "x1": 1314,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 403
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "061",
           "instanceId": "005(テーブル)",
           "rect": {
             "x1": 1312,
@@ -4894,6 +4916,17 @@
         },
         {
           "imageId": "070",
+          "instanceId": "012(上)",
+          "rect": {
+            "x1": 1851,
+            "y1": 421,
+            "x2": 1920,
+            "y2": 534
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "070",
           "instanceId": "003(テレビ)",
           "rect": {
             "x1": 43,
@@ -5017,6 +5050,17 @@
             "y2": 403
           },
           "className": "dining_table"
+        },
+        {
+          "imageId": "071",
+          "instanceId": "012(上)",
+          "rect": {
+            "x1": 597,
+            "y1": 0,
+            "x2": 1208,
+            "y2": 292
+          },
+          "className": "region"
         }
       ]
     },
@@ -5044,6 +5088,17 @@
             "y2": 285
           },
           "className": "cup"
+        },
+        {
+          "imageId": "072",
+          "instanceId": "012(上)",
+          "rect": {
+            "x1": 459,
+            "y1": 0,
+            "x2": 1343,
+            "y2": 578
+          },
+          "className": "region"
         },
         {
           "imageId": "072",
@@ -5115,6 +5170,17 @@
             "y2": 295
           },
           "className": "cup"
+        },
+        {
+          "imageId": "073",
+          "instanceId": "012(上)",
+          "rect": {
+            "x1": 541,
+            "y1": 0,
+            "x2": 1838,
+            "y2": 683
+          },
+          "className": "region"
         },
         {
           "imageId": "073",
@@ -5222,6 +5288,17 @@
         },
         {
           "imageId": "074",
+          "instanceId": "012(上)",
+          "rect": {
+            "x1": 187,
+            "y1": 0,
+            "x2": 1080,
+            "y2": 832
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "074",
           "instanceId": "002(ロボット)",
           "rect": {
             "x1": 524,
@@ -5263,17 +5340,6 @@
             "y2": 530
           },
           "className": "laptop_computer"
-        },
-        {
-          "imageId": "074",
-          "instanceId": "013(一部床)",
-          "rect": {
-            "x1": 1012,
-            "y1": 37,
-            "x2": 1425,
-            "y2": 292
-          },
-          "className": "region"
         }
       ]
     },
@@ -5479,6 +5545,17 @@
         },
         {
           "imageId": "077",
+          "instanceId": "013(一部床)",
+          "rect": {
+            "x1": 863,
+            "y1": 58,
+            "x2": 1191,
+            "y2": 250
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "077",
           "instanceId": "010(バッグ)",
           "rect": {
             "x1": 951,
@@ -5561,6 +5638,17 @@
         },
         {
           "imageId": "078",
+          "instanceId": "013(一部床)",
+          "rect": {
+            "x1": 942,
+            "y1": 273,
+            "x2": 1339,
+            "y2": 668
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "078",
           "instanceId": "002(ロボット)",
           "rect": {
             "x1": 566,
@@ -5640,6 +5728,17 @@
             "y2": 112
           },
           "className": "laptop_computer"
+        },
+        {
+          "imageId": "079",
+          "instanceId": "013(一部床)",
+          "rect": {
+            "x1": 1083,
+            "y1": 678,
+            "x2": 1409,
+            "y2": 966
+          },
+          "className": "region"
         },
         {
           "imageId": "079",
@@ -6703,6 +6802,10 @@
             {
               "type": "ヲ",
               "instanceId": "014(水入グラス)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "007(グラス)"
             }
           ]
         },
@@ -6746,6 +6849,10 @@
             {
               "type": "ニ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "014(水入グラス)"
             }
           ]
         }
@@ -6790,6 +6897,10 @@
             {
               "type": "ニ",
               "instanceId": "012(上)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "014(水入グラス)"
             }
           ]
         },
@@ -6816,6 +6927,10 @@
             {
               "type": "=",
               "instanceId": "007(グラス)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "014(水入グラス)"
             },
             {
               "type": "=≒",
@@ -6860,6 +6975,14 @@
             {
               "type": "ニ",
               "instanceId": "007(グラス)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "007(グラス)"
+            },
+            {
+              "type": "ニ≒",
+              "instanceId": "014(水入グラス)"
             }
           ]
         }
@@ -6908,15 +7031,15 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "007(グラス)"
-            },
-            {
-              "type": "ヲ",
               "instanceId": "014(水入グラス)"
             },
             {
               "type": "ニ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "007(グラス)"
             }
           ]
         }
@@ -7076,7 +7199,12 @@
         },
         {
           "text": "場所が",
-          "relations": []
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "008(パソコン)"
+            }
+          ]
         },
         {
           "text": "分かれば",

@@ -1018,6 +1018,17 @@
             "y2": 531
           },
           "className": "vacuum_cleaner"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "004(テーブルの上)",
+          "rect": {
+            "x1": 1064,
+            "y1": 555,
+            "x2": 1334,
+            "y2": 903
+          },
+          "className": "region"
         }
       ]
     },
@@ -1188,6 +1199,17 @@
             "y2": 792
           },
           "className": "person"
+        },
+        {
+          "imageId": "007",
+          "instanceId": "004(テーブルの上)",
+          "rect": {
+            "x1": 1000,
+            "y1": 539,
+            "x2": 1275,
+            "y2": 878
+          },
+          "className": "region"
         }
       ]
     },
@@ -1646,17 +1668,6 @@
         },
         {
           "imageId": "010",
-          "instanceId": "004(テーブルの上)",
-          "rect": {
-            "x1": 1000,
-            "y1": 553,
-            "x2": 1359,
-            "y2": 955
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "010",
           "instanceId": "028(ソファ)",
           "rect": {
             "x1": 539,
@@ -1824,17 +1835,6 @@
             "y2": 667
           },
           "className": "box"
-        },
-        {
-          "imageId": "011",
-          "instanceId": "004(テーブルの上)",
-          "rect": {
-            "x1": 973,
-            "y1": 565,
-            "x2": 1269,
-            "y2": 924
-          },
-          "className": "region"
         },
         {
           "imageId": "011",
@@ -2814,17 +2814,6 @@
         },
         {
           "imageId": "017",
-          "instanceId": "027(ここ0)",
-          "rect": {
-            "x1": 664,
-            "y1": 308,
-            "x2": 1920,
-            "y2": 1078
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "017",
           "instanceId": "028(ソファ)",
           "rect": {
             "x1": 694,
@@ -3548,6 +3537,17 @@
         },
         {
           "imageId": "023",
+          "instanceId": "004(テーブルの上)",
+          "rect": {
+            "x1": 472,
+            "y1": 670,
+            "x2": 1026,
+            "y2": 1029
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "023",
           "instanceId": "015(パズル)",
           "rect": {
             "x1": 1052,
@@ -3696,6 +3696,17 @@
         },
         {
           "imageId": "024",
+          "instanceId": "004(テーブルの上)",
+          "rect": {
+            "x1": 691,
+            "y1": 692,
+            "x2": 1413,
+            "y2": 1080
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "024",
           "instanceId": "002(ロボット)",
           "rect": {
             "x1": 1226,
@@ -3800,6 +3811,17 @@
         },
         {
           "imageId": "025",
+          "instanceId": "026(ここ1)",
+          "rect": {
+            "x1": 316,
+            "y1": 317,
+            "x2": 392,
+            "y2": 347
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "025",
           "instanceId": "012(花瓶)",
           "rect": {
             "x1": 800,
@@ -3822,6 +3844,17 @@
         },
         {
           "imageId": "025",
+          "instanceId": "4844",
+          "rect": {
+            "x1": 663,
+            "y1": 726,
+            "x2": 1522,
+            "y2": 1080
+          },
+          "className": "table"
+        },
+        {
+          "imageId": "025",
           "instanceId": "003(テーブル)",
           "rect": {
             "x1": 660,
@@ -3830,6 +3863,17 @@
             "y2": 1080
           },
           "className": "coffee_table"
+        },
+        {
+          "imageId": "025",
+          "instanceId": "004(テーブルの上)",
+          "rect": {
+            "x1": 664,
+            "y1": 726,
+            "x2": 1519,
+            "y2": 1080
+          },
+          "className": "region"
         },
         {
           "imageId": "025",
@@ -7628,6 +7672,17 @@
       "boundingBoxes": [
         {
           "imageId": "058",
+          "instanceId": "017(ソファの上)",
+          "rect": {
+            "x1": 414,
+            "y1": 574,
+            "x2": 984,
+            "y2": 855
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "058",
           "instanceId": "002(ロボット)",
           "rect": {
             "x1": 1365,
@@ -7709,7 +7764,7 @@
           "rect": {
             "x1": 0,
             "y1": 402,
-            "x2": 1425,
+            "x2": 1424,
             "y2": 1080
           },
           "className": "sofa"
@@ -7820,6 +7875,17 @@
         },
         {
           "imageId": "059",
+          "instanceId": "017(ソファの上)",
+          "rect": {
+            "x1": 1633,
+            "y1": 743,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "059",
           "instanceId": "003(テーブル)",
           "rect": {
             "x1": 1080,
@@ -7861,6 +7927,17 @@
             "y2": 333
           },
           "className": "cabinet"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "029(中)",
+          "rect": {
+            "x1": 527,
+            "y1": 439,
+            "x2": 725,
+            "y2": 592
+          },
+          "className": "region"
         }
       ]
     },
@@ -8031,6 +8108,17 @@
             "y2": 1080
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "060",
+          "instanceId": "029(中)",
+          "rect": {
+            "x1": 350,
+            "y1": 363,
+            "x2": 547,
+            "y2": 546
+          },
+          "className": "region"
         }
       ]
     },
@@ -8047,6 +8135,17 @@
             "y2": 66
           },
           "className": "vase"
+        },
+        {
+          "imageId": "061",
+          "instanceId": "029(中)",
+          "rect": {
+            "x1": 372,
+            "y1": 364,
+            "x2": 588,
+            "y2": 551
+          },
+          "className": "region"
         },
         {
           "imageId": "061",
@@ -8253,6 +8352,17 @@
         },
         {
           "imageId": "062",
+          "instanceId": "029(中)",
+          "rect": {
+            "x1": 413,
+            "y1": 452,
+            "x2": 628,
+            "y2": 635
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "062",
           "instanceId": "011(タンブラー)",
           "rect": {
             "x1": 945,
@@ -8409,6 +8519,17 @@
             "y2": 1080
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "029(中)",
+          "rect": {
+            "x1": 0,
+            "y1": 777,
+            "x2": 167,
+            "y2": 1036
+          },
+          "className": "region"
         },
         {
           "imageId": "063",
@@ -8820,17 +8941,6 @@
             "y2": 429
           },
           "className": "toy"
-        },
-        {
-          "imageId": "066",
-          "instanceId": "017(ソファの上)",
-          "rect": {
-            "x1": 594,
-            "y1": 382,
-            "x2": 1083,
-            "y2": 616
-          },
-          "className": "region"
         },
         {
           "imageId": "066",
@@ -13152,6 +13262,17 @@
         },
         {
           "imageId": "109",
+          "instanceId": "030(リビング)",
+          "rect": {
+            "x1": 229,
+            "y1": 0,
+            "x2": 1919,
+            "y2": 1080
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "109",
           "instanceId": "023(おもちゃ箱)",
           "rect": {
             "x1": 0,
@@ -13220,6 +13341,17 @@
             "y2": 612
           },
           "className": "box"
+        },
+        {
+          "imageId": "110",
+          "instanceId": "030(リビング)",
+          "rect": {
+            "x1": 0,
+            "y1": 312,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
         },
         {
           "imageId": "110",
@@ -13371,6 +13503,17 @@
         },
         {
           "imageId": "111",
+          "instanceId": "030(リビング)",
+          "rect": {
+            "x1": 0,
+            "y1": 318,
+            "x2": 1918,
+            "y2": 1080
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "111",
           "instanceId": "002(ロボット)",
           "rect": {
             "x1": 1057,
@@ -13483,6 +13626,17 @@
             "y2": 305
           },
           "className": "cabinet"
+        },
+        {
+          "imageId": "112",
+          "instanceId": "030(リビング)",
+          "rect": {
+            "x1": 0,
+            "y1": 418,
+            "x2": 1919,
+            "y2": 1080
+          },
+          "className": "region"
         },
         {
           "imageId": "112",
@@ -13755,6 +13909,17 @@
         },
         {
           "imageId": "113",
+          "instanceId": "030(リビング)",
+          "rect": {
+            "x1": 0,
+            "y1": 594,
+            "x2": 1919,
+            "y2": 1080
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "113",
           "instanceId": "010(グラス)",
           "rect": {
             "x1": 1266,
@@ -13878,6 +14043,17 @@
             "y2": 493
           },
           "className": "person"
+        },
+        {
+          "imageId": "114",
+          "instanceId": "030(リビング)",
+          "rect": {
+            "x1": 0,
+            "y1": 854,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
         }
       ]
     },
@@ -18337,10 +18513,6 @@
             },
             {
               "type": "=",
-              "instanceId": "008(掃除機)"
-            },
-            {
-              "type": "=",
               "instanceId": "010(グラス)"
             },
             {
@@ -18371,10 +18543,6 @@
             {
               "type": "ヲ",
               "instanceId": "007(ティッシュ)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "008(掃除機)"
             },
             {
               "type": "ヲ",
@@ -18828,6 +18996,10 @@
             {
               "type": "ノ",
               "instanceId": "023(おもちゃ箱)"
+            },
+            {
+              "type": "=",
+              "instanceId": "029(中)"
             }
           ]
         },
@@ -18845,6 +19017,10 @@
             {
               "type": "ヲ",
               "instanceId": "015(パズル)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "029(中)"
             }
           ]
         }
@@ -18933,12 +19109,7 @@
         },
         {
           "text": "ありますか？",
-          "relations": [
-            {
-              "type": "ニ",
-              "instanceId": "001(主人)"
-            }
-          ]
+          "relations": []
         }
       ]
     },
@@ -18972,7 +19143,12 @@
         },
         {
           "text": "リビングに",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "030(リビング)"
+            }
+          ]
         },
         {
           "text": "持って行ってくれる？",
@@ -18980,6 +19156,10 @@
             {
               "type": "ヲ",
               "instanceId": "018(お菓子)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "030(リビング)"
             }
           ]
         }
@@ -19099,11 +19279,11 @@
           "text": "二つ、",
           "relations": [
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "019(柄ティーカップ)"
             },
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "020(白ティーカップ)"
             }
           ]
@@ -19132,7 +19312,12 @@
         },
         {
           "text": "持ってきてくれる？",
-          "relations": []
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
         }
       ]
     },
@@ -19161,11 +19346,11 @@
           "text": "カップは",
           "relations": [
             {
-              "type": "=≒",
+              "type": "=",
               "instanceId": "019(柄ティーカップ)"
             },
             {
-              "type": "=≒",
+              "type": "=",
               "instanceId": "020(白ティーカップ)"
             }
           ]
@@ -19186,6 +19371,14 @@
         {
           "text": "いいですか？",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "019(柄ティーカップ)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "020(白ティーカップ)"
+            },
             {
               "type": "デ",
               "instanceId": "019(柄ティーカップ)"
@@ -19226,6 +19419,14 @@
           "text": "大丈夫。",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "019(柄ティーカップ)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "020(白ティーカップ)"
+            },
+            {
               "type": "ガ２",
               "instanceId": "001(主人)"
             }
@@ -19260,7 +19461,16 @@
         },
         {
           "text": "一緒に",
-          "relations": []
+          "relations": [
+            {
+              "type": "ト",
+              "instanceId": "019(柄ティーカップ)"
+            },
+            {
+              "type": "ト",
+              "instanceId": "020(白ティーカップ)"
+            }
+          ]
         },
         {
           "text": "ティー",
@@ -19325,6 +19535,22 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "019(柄ティーカップ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "020(白ティーカップ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "021(スプーンa)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "022(スプーンb)"
             },
             {
               "type": "ニ",

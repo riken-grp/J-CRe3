@@ -5245,17 +5245,6 @@
             "y2": 748
           },
           "className": "backpack"
-        },
-        {
-          "imageId": "077",
-          "instanceId": "010(玄関周辺)",
-          "rect": {
-            "x1": 1,
-            "y1": 650,
-            "x2": 1069,
-            "y2": 1079
-          },
-          "className": "region"
         }
       ]
     },
@@ -6646,6 +6635,17 @@
         },
         {
           "imageId": "097",
+          "instanceId": "011(こっち)",
+          "rect": {
+            "x1": 259,
+            "y1": 645,
+            "x2": 466,
+            "y2": 812
+          },
+          "className": "ottoman"
+        },
+        {
+          "imageId": "097",
           "instanceId": "008(バッグ)",
           "rect": {
             "x1": 0,
@@ -6703,6 +6703,17 @@
             "y2": 104
           },
           "className": "television_set"
+        },
+        {
+          "imageId": "098",
+          "instanceId": "011(こっち)",
+          "rect": {
+            "x1": 7,
+            "y1": 611,
+            "x2": 288,
+            "y2": 840
+          },
+          "className": "ottoman"
         },
         {
           "imageId": "098",
@@ -6777,6 +6788,17 @@
         },
         {
           "imageId": "099",
+          "instanceId": "011(こっち)",
+          "rect": {
+            "x1": 49,
+            "y1": 709,
+            "x2": 344,
+            "y2": 929
+          },
+          "className": "ottoman"
+        },
+        {
+          "imageId": "099",
           "instanceId": "002(ロボット)",
           "rect": {
             "x1": 669,
@@ -6835,6 +6857,17 @@
     {
       "imageId": "100",
       "boundingBoxes": [
+        {
+          "imageId": "100",
+          "instanceId": "011(こっち)",
+          "rect": {
+            "x1": 1005,
+            "y1": 300,
+            "x2": 1149,
+            "y2": 442
+          },
+          "className": "ottoman"
+        },
         {
           "imageId": "100",
           "instanceId": "001(主人)",
@@ -6908,6 +6941,17 @@
         },
         {
           "imageId": "101",
+          "instanceId": "011(こっち)",
+          "rect": {
+            "x1": 1399,
+            "y1": 376,
+            "x2": 1558,
+            "y2": 537
+          },
+          "className": "jean"
+        },
+        {
+          "imageId": "101",
           "instanceId": "008(バッグ)",
           "rect": {
             "x1": 1253,
@@ -6934,7 +6978,7 @@
           "rect": {
             "x1": 637,
             "y1": 910,
-            "x2": 1239,
+            "x2": 1918,
             "y2": 1080
           },
           "className": "person"
@@ -6976,6 +7020,17 @@
             "y2": 445
           },
           "className": "person"
+        },
+        {
+          "imageId": "102",
+          "instanceId": "011(こっち)",
+          "rect": {
+            "x1": 1097,
+            "y1": 393,
+            "x2": 1275,
+            "y2": 513
+          },
+          "className": "jean"
         },
         {
           "imageId": "102",
@@ -8610,10 +8665,6 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "011(こっち)"
             }
           ]
         },
@@ -8632,10 +8683,6 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "011(こっち)"
             },
             {
               "type": "ニ",
@@ -8662,10 +8709,6 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "011(こっち)"
             }
           ]
         },
@@ -8724,10 +8767,6 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "011(こっち)"
             }
           ]
         },
@@ -8781,6 +8820,10 @@
             {
               "type": "ガ",
               "instanceId": "007(長傘)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "010(玄関周辺)"
             }
           ]
         },
@@ -8794,10 +8837,6 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "011(こっち)"
             }
           ]
         }
@@ -8843,7 +8882,12 @@
         },
         {
           "text": "バッグに",
-          "relations": []
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "008(バッグ)"
+            }
+          ]
         },
         {
           "text": "入れておいて。",
@@ -8869,10 +8913,6 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "011(こっち)"
             }
           ]
         }
@@ -8909,10 +8949,6 @@
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ２",
-              "instanceId": "011(こっち)"
             }
           ]
         }
@@ -8940,6 +8976,10 @@
             {
               "type": "ガ",
               "instanceId": "009(レインコート)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "010(玄関周辺)"
             }
           ]
         },
@@ -8953,10 +8993,6 @@
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ２",
-              "instanceId": "011(こっち)"
             }
           ]
         }
@@ -9001,10 +9037,6 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "011(こっち)"
             }
           ]
         },
@@ -9028,10 +9060,6 @@
               "instanceId": "001(主人)"
             },
             {
-              "type": "ガ",
-              "instanceId": "011(こっち)"
-            },
-            {
               "type": "ヲ",
               "instanceId": "009(レインコート)"
             }
@@ -9052,10 +9080,6 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "011(こっち)"
             }
           ]
         }
@@ -9113,10 +9137,6 @@
               "instanceId": "001(主人)"
             },
             {
-              "type": "ガ",
-              "instanceId": "011(こっち)"
-            },
-            {
               "type": "ヲ",
               "instanceId": "009(レインコート)"
             }
@@ -9132,10 +9152,6 @@
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ２",
-              "instanceId": "011(こっち)"
             }
           ]
         }
@@ -9211,11 +9227,21 @@
         },
         {
           "text": "自分で",
-          "relations": []
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            }
+          ]
         },
         {
           "text": "用意するから、",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
         },
         {
           "text": "バッグ",
@@ -9240,7 +9266,7 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "002(ロボット)"
+              "instanceId": "001(主人)"
             },
             {
               "type": "ヲ",
@@ -9249,6 +9275,10 @@
             {
               "type": "ニ",
               "instanceId": "011(こっち)"
+            },
+            {
+              "type": "ニ２",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -9280,10 +9310,6 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "011(こっち)"
             }
           ]
         },
@@ -9301,10 +9327,6 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "011(こっち)"
             }
           ]
         }
@@ -9331,10 +9353,6 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "011(こっち)"
             }
           ]
         }
@@ -9357,10 +9375,6 @@
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ２",
-              "instanceId": "011(こっち)"
             }
           ]
         }
@@ -9379,10 +9393,6 @@
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ２",
-              "instanceId": "011(こっち)"
             }
           ]
         }

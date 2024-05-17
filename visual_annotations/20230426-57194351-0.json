@@ -5396,6 +5396,10 @@
           "text": "拭いてくれないかな？",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "004(ダイニングテーブル)"
             },
@@ -5414,7 +5418,7 @@
           "text": "分かりました。",
           "relations": [
             {
-              "type": "ガ",
+              "type": "ガ２",
               "instanceId": "002(ロボット)"
             }
           ]
@@ -5493,6 +5497,10 @@
               "instanceId": "001(主人)"
             },
             {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "デ",
               "instanceId": "005(布巾)"
             }
@@ -5506,6 +5514,10 @@
         {
           "text": "はい",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ニ",
               "instanceId": "001(主人)"
@@ -5555,11 +5567,15 @@
           "text": "物を",
           "relations": [
             {
-              "type": "=",
+              "type": "=≒",
+              "instanceId": "006(リモコン)"
+            },
+            {
+              "type": "=≒",
               "instanceId": "009(青縁コップ)"
             },
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "010(ポテトチップス箱)"
             }
           ]
@@ -5568,12 +5584,8 @@
           "text": "置かないでね。",
           "relations": [
             {
-              "type": "ヲ",
-              "instanceId": "009(青縁コップ)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "010(ポテトチップス箱)"
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
             },
             {
               "type": "ニ",
@@ -5651,6 +5663,10 @@
           "text": "置いてきて。",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "006(リモコン)"
             },
@@ -5669,6 +5685,10 @@
           "text": "はい",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ニ",
               "instanceId": "001(主人)"
             }
@@ -5678,8 +5698,8 @@
           "text": "分かりました。",
           "relations": [
             {
-              "type": "ニ",
-              "instanceId": "001(主人)"
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
@@ -5737,7 +5757,12 @@
         },
         {
           "text": "入れといてよ。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
         }
       ]
     },
@@ -5788,6 +5813,10 @@
           "text": "うん",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ニ",
               "instanceId": "001(主人)"
             }
@@ -5799,6 +5828,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -5824,6 +5857,10 @@
           "text": "片付けて、",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "004(ダイニングテーブル)"
             }
@@ -5839,7 +5876,12 @@
         },
         {
           "text": "いれますね。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
         }
       ]
     }

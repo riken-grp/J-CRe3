@@ -4111,6 +4111,17 @@
             "y2": 143
           },
           "className": "apple"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "016(テーブルの上)",
+          "rect": {
+            "x1": 612,
+            "y1": 109,
+            "x2": 1099,
+            "y2": 191
+          },
+          "className": "region"
         }
       ]
     },
@@ -4226,6 +4237,17 @@
             "y2": 149
           },
           "className": "banana"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "016(テーブルの上)",
+          "rect": {
+            "x1": 623,
+            "y1": 112,
+            "x2": 1107,
+            "y2": 194
+          },
+          "className": "region"
         }
       ]
     },
@@ -4341,6 +4363,17 @@
             "y2": 147
           },
           "className": "banana"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "016(テーブルの上)",
+          "rect": {
+            "x1": 643,
+            "y1": 104,
+            "x2": 1125,
+            "y2": 195
+          },
+          "className": "region"
         }
       ]
     },
@@ -8283,12 +8316,7 @@
         },
         {
           "text": "パスタだけで",
-          "relations": [
-            {
-              "type": "=",
-              "instanceId": "006(パスタ)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "いいよ。",
@@ -8296,10 +8324,6 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "デ",
-              "instanceId": "006(パスタ)"
             }
           ]
         },

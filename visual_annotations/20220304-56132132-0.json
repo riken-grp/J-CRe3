@@ -3679,10 +3679,10 @@
           "imageId": "062",
           "instanceId": "3",
           "rect": {
-            "x1": 1678,
-            "y1": 230,
-            "x2": 1763,
-            "y2": 524
+            "x1": 1670,
+            "y1": 162,
+            "x2": 1920,
+            "y2": 825
           },
           "className": "cabinet"
         },
@@ -3822,6 +3822,17 @@
             "y2": 1080
           },
           "className": "person"
+        },
+        {
+          "imageId": "063",
+          "instanceId": "3",
+          "rect": {
+            "x1": 1693,
+            "y1": 198,
+            "x2": 1920,
+            "y2": 805
+          },
+          "className": "cabinet"
         }
       ]
     },
@@ -4056,6 +4067,17 @@
             "y2": 931
           },
           "className": "person"
+        },
+        {
+          "imageId": "068",
+          "instanceId": "11",
+          "rect": {
+            "x1": 1149,
+            "y1": 762,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
         }
       ]
     },
@@ -4127,6 +4149,17 @@
             "y2": 1080
           },
           "className": "region"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "3",
+          "rect": {
+            "x1": 1718,
+            "y1": 24,
+            "x2": 1920,
+            "y2": 502
+          },
+          "className": "cabinet"
         }
       ]
     },
@@ -4367,10 +4400,10 @@
           "imageId": "072",
           "instanceId": "3",
           "rect": {
-            "x1": 1361,
+            "x1": 1390,
             "y1": 0,
-            "x2": 1759,
-            "y2": 495
+            "x2": 1920,
+            "y2": 597
           },
           "className": "cabinet"
         },
@@ -4570,17 +4603,6 @@
             "y2": 521
           },
           "className": "tea_bag"
-        },
-        {
-          "imageId": "074",
-          "instanceId": "11",
-          "rect": {
-            "x1": 656,
-            "y1": 316,
-            "x2": 1575,
-            "y2": 928
-          },
-          "className": "region"
         }
       ]
     },
@@ -4717,10 +4739,10 @@
           "imageId": "076",
           "instanceId": "3",
           "rect": {
-            "x1": 1396,
+            "x1": 1420,
             "y1": 0,
-            "x2": 1761,
-            "y2": 336
+            "x2": 1920,
+            "y2": 490
           },
           "className": "cabinet"
         },
@@ -5771,6 +5793,17 @@
             "y2": 764
           },
           "className": "person"
+        },
+        {
+          "imageId": "092",
+          "instanceId": "3",
+          "rect": {
+            "x1": 1796,
+            "y1": 109,
+            "x2": 1920,
+            "y2": 529
+          },
+          "className": "cabinet"
         }
       ]
     },
@@ -5896,10 +5929,10 @@
           "imageId": "094",
           "instanceId": "3",
           "rect": {
-            "x1": 1843,
-            "y1": 3,
-            "x2": 1914,
-            "y2": 255
+            "x1": 1829,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 257
           },
           "className": "cabinet"
         },
@@ -6783,6 +6816,17 @@
             "y2": 1080
           },
           "className": "tray"
+        },
+        {
+          "imageId": "103",
+          "instanceId": "7",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 266,
+            "y2": 755
+          },
+          "className": "cupboard"
         }
       ]
     },
@@ -6969,20 +7013,7 @@
         },
         {
           "text": "緑茶に",
-          "relations": [
-            {
-              "type": "ノ",
-              "instanceId": "13"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "19"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "20"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "しようかしら？",
@@ -7019,35 +7050,14 @@
           "text": "バッグの",
           "relations": [
             {
-              "type": "=",
-              "instanceId": "13"
-            },
-            {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "19"
-            },
-            {
-              "type": "=",
-              "instanceId": "20"
             }
           ]
         },
         {
           "text": "もので",
-          "relations": [
-            {
-              "type": "ノ",
-              "instanceId": "13"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "19"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "20"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "良いですか？",
@@ -7102,14 +7112,14 @@
           "relations": [
             {
               "type": "=",
-              "instanceId": "13"
-            },
-            {
-              "type": "=",
               "instanceId": "19"
             },
             {
-              "type": "=",
+              "type": "=≒",
+              "instanceId": "13"
+            },
+            {
+              "type": "=≒",
               "instanceId": "20"
             }
           ]
@@ -7154,19 +7164,19 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "13"
-            },
-            {
-              "type": "ガ",
               "instanceId": "19"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "20"
             },
             {
               "type": "ニ",
               "instanceId": "4"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "13"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "20"
             }
           ]
         },
@@ -7206,19 +7216,19 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "13"
-            },
-            {
-              "type": "ガ",
               "instanceId": "19"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "20"
             },
             {
               "type": "=",
               "instanceId": "4"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "13"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "20"
             }
           ]
         }
@@ -7254,34 +7264,29 @@
           "relations": [
             {
               "type": "ノ",
-              "instanceId": "13"
-            },
-            {
-              "type": "ノ",
               "instanceId": "19"
             },
             {
-              "type": "ノ",
+              "type": "ノ≒",
+              "instanceId": "13"
+            },
+            {
+              "type": "ノ≒",
               "instanceId": "20"
             },
             {
-              "type": "ノ",
-              "instanceId": "6"
+              "type": "=≒",
+              "instanceId": "5"
             },
             {
-              "type": "=",
-              "instanceId": "5"
+              "type": "=≒",
+              "instanceId": "6"
             }
           ]
         },
         {
           "text": "開いている",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "5"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "方の",
@@ -7301,14 +7306,14 @@
           "relations": [
             {
               "type": "=",
-              "instanceId": "13"
-            },
-            {
-              "type": "=",
               "instanceId": "19"
             },
             {
-              "type": "=",
+              "type": "=≒",
+              "instanceId": "13"
+            },
+            {
+              "type": "=≒",
               "instanceId": "20"
             }
           ]
@@ -7322,26 +7327,21 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "13"
-            },
-            {
-              "type": "ヲ",
               "instanceId": "19"
             },
             {
-              "type": "ヲ",
+              "type": "ヲ≒",
+              "instanceId": "13"
+            },
+            {
+              "type": "ヲ≒",
               "instanceId": "20"
             }
           ]
         },
         {
           "text": "開いていない",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "5"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "方は、",

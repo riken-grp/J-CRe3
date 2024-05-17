@@ -6187,7 +6187,7 @@
           "text": "一つで",
           "relations": [
             {
-              "type": "ノ",
+              "type": "ガ",
               "instanceId": "008(ポテトチップス)"
             },
             {
@@ -6389,10 +6389,6 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
-            },
-            {
-              "type": "ガ２",
-              "instanceId": "009(白いお皿)"
             }
           ]
         }
@@ -6409,12 +6405,12 @@
               "instanceId": "002(ロボット)"
             },
             {
-              "type": "ニ",
-              "instanceId": "001(主人)"
+              "type": "ヲ",
+              "instanceId": "009(白いお皿)"
             },
             {
-              "type": "ヲ≒",
-              "instanceId": "009(白いお皿)"
+              "type": "ニ",
+              "instanceId": "001(主人)"
             }
           ]
         },
@@ -6606,6 +6602,10 @@
         {
           "text": "大丈夫。",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "010(お花)"
+            },
             {
               "type": "デ",
               "instanceId": "010(お花)"

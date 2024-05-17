@@ -4794,11 +4794,20 @@
       "phrases": [
         {
           "text": "ゲームの",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(ゲーム本体)"
+            }
+          ]
         },
         {
           "text": "コントローラーは",
           "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "006(ゲーム本体)"
+            },
             {
               "type": "=",
               "instanceId": "003(コントローラー)"
@@ -4865,7 +4874,12 @@
         },
         {
           "text": "それは",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "005(リモコン)"
+            }
+          ]
         },
         {
           "text": "ダイニングに",
@@ -4873,7 +4887,12 @@
         },
         {
           "text": "あったと",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "005(リモコン)"
+            }
+          ]
         },
         {
           "text": "思う。",
@@ -4918,6 +4937,10 @@
             {
               "type": "ガ",
               "instanceId": "005(リモコン)"
+            },
+            {
+              "type": "=",
+              "instanceId": "005(リモコン)"
             }
           ]
         }
@@ -4932,6 +4955,10 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(コントローラー)"
             },
             {
               "type": "ヲ",

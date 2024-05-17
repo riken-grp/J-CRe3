@@ -1041,17 +1041,6 @@
       "boundingBoxes": [
         {
           "imageId": "010",
-          "instanceId": "11",
-          "rect": {
-            "x1": 938,
-            "y1": 232,
-            "x2": 1518,
-            "y2": 566
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "010",
           "instanceId": "4b",
           "rect": {
             "x1": 995,
@@ -1175,17 +1164,6 @@
             "y2": 418
           },
           "className": "toy"
-        },
-        {
-          "imageId": "011",
-          "instanceId": "11",
-          "rect": {
-            "x1": 902,
-            "y1": 253,
-            "x2": 1484,
-            "y2": 611
-          },
-          "className": "region"
         },
         {
           "imageId": "011",
@@ -1912,17 +1890,6 @@
         },
         {
           "imageId": "017",
-          "instanceId": "11",
-          "rect": {
-            "x1": 811,
-            "y1": 553,
-            "x2": 1915,
-            "y2": 1078
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "017",
           "instanceId": "4b",
           "rect": {
             "x1": 1205,
@@ -2049,17 +2016,6 @@
         },
         {
           "imageId": "018",
-          "instanceId": "11",
-          "rect": {
-            "x1": 830,
-            "y1": 463,
-            "x2": 1919,
-            "y2": 1079
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "018",
           "instanceId": "4b",
           "rect": {
             "x1": 1181,
@@ -2175,17 +2131,6 @@
         },
         {
           "imageId": "019",
-          "instanceId": "11",
-          "rect": {
-            "x1": 794,
-            "y1": 449,
-            "x2": 1914,
-            "y2": 1079
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "019",
           "instanceId": "4b",
           "rect": {
             "x1": 1168,
@@ -2287,17 +2232,6 @@
             "y2": 1080
           },
           "className": "runner_(carpet)"
-        },
-        {
-          "imageId": "020",
-          "instanceId": "11",
-          "rect": {
-            "x1": 948,
-            "y1": 403,
-            "x2": 1918,
-            "y2": 1079
-          },
-          "className": "region"
         },
         {
           "imageId": "020",
@@ -11427,6 +11361,10 @@
             {
               "type": "=≒",
               "instanceId": "15"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "7"
             }
           ]
         },
@@ -11440,6 +11378,14 @@
             {
               "type": "ト",
               "instanceId": "14"
+            },
+            {
+              "type": "ト≒",
+              "instanceId": "15"
+            },
+            {
+              "type": "ト≒",
+              "instanceId": "7"
             }
           ]
         },
@@ -11626,6 +11572,10 @@
             {
               "type": "ニ",
               "instanceId": "2"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "14"
             }
           ]
         }
@@ -11652,14 +11602,6 @@
           "relations": [
             {
               "type": "=≒",
-              "instanceId": "14"
-            },
-            {
-              "type": "=≒",
-              "instanceId": "15"
-            },
-            {
-              "type": "=≒",
               "instanceId": "7"
             }
           ]
@@ -11676,12 +11618,8 @@
               "instanceId": "7"
             },
             {
-              "type": "=≒",
+              "type": "ガ≒",
               "instanceId": "14"
-            },
-            {
-              "type": "=≒",
-              "instanceId": "15"
             },
             {
               "type": "=≒",
@@ -11704,6 +11642,10 @@
             {
               "type": "ガ",
               "instanceId": "7"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "14"
             }
           ]
         },
@@ -11717,6 +11659,10 @@
             {
               "type": "=",
               "instanceId": "7"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "14"
             },
             {
               "type": "=≒",
@@ -11739,6 +11685,10 @@
             {
               "type": "=",
               "instanceId": "7"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "14"
             },
             {
               "type": "=≒",
@@ -11774,6 +11724,10 @@
             {
               "type": "ガ２",
               "instanceId": "1"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "14"
             }
           ]
         }
@@ -11796,6 +11750,10 @@
             {
               "type": "ニ",
               "instanceId": "1"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "14"
             }
           ]
         }
@@ -11881,18 +11839,13 @@
       "phrases": [
         {
           "text": "新しい",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "10"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "のを",
           "relations": [
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "10"
             }
           ]
@@ -11903,10 +11856,6 @@
             {
               "type": "ガ",
               "instanceId": "2"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "10"
             },
             {
               "type": "ニ",

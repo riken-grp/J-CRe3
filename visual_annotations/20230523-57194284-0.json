@@ -3941,7 +3941,7 @@
               "instanceId": "003(テーブル)"
             },
             {
-              "type": "デ≒",
+              "type": "デ",
               "instanceId": "008(お湯)"
             }
           ]
@@ -4077,6 +4077,10 @@
               "instanceId": "005(台)"
             },
             {
+              "type": "ノ？",
+              "instanceId": "006(ケトル)"
+            },
+            {
               "type": "=",
               "instanceId": "005(台)"
             }
@@ -4095,7 +4099,7 @@
           "text": "濡れてるな。",
           "relations": [
             {
-              "type": "デ≒",
+              "type": "デ",
               "instanceId": "008(お湯)"
             }
           ]
@@ -4109,11 +4113,19 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "002(ロボット)"
+              "instanceId": "001(主人)"
             },
             {
               "type": "ヲ",
               "instanceId": "005(台)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(ケトル)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -4162,7 +4174,7 @@
           "text": "濡れてるので、",
           "relations": [
             {
-              "type": "デ≒",
+              "type": "デ",
               "instanceId": "008(お湯)"
             }
           ]
@@ -4260,6 +4272,10 @@
             {
               "type": "ヲ",
               "instanceId": "005(台)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(ケトル)"
             }
           ]
         }
@@ -4393,6 +4409,10 @@
             {
               "type": "ノ",
               "instanceId": "005(台)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "006(ケトル)"
             }
           ]
         },
@@ -4423,6 +4443,10 @@
             {
               "type": "ニ",
               "instanceId": "005(台)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "006(ケトル)"
             }
           ]
         },

@@ -36,6 +36,17 @@
             "y2": 613
           },
           "className": "person"
+        },
+        {
+          "imageId": "001",
+          "instanceId": "008(冷蔵庫)",
+          "rect": {
+            "x1": 1555,
+            "y1": 1030,
+            "x2": 1920,
+            "y2": 1079
+          },
+          "className": "refrigerator"
         }
       ]
     },
@@ -74,6 +85,17 @@
             "y2": 608
           },
           "className": "person"
+        },
+        {
+          "imageId": "002",
+          "instanceId": "008(冷蔵庫)",
+          "rect": {
+            "x1": 1556,
+            "y1": 1026,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "refrigerator"
         }
       ]
     },
@@ -112,6 +134,17 @@
             "y2": 1079
           },
           "className": "person"
+        },
+        {
+          "imageId": "003",
+          "instanceId": "008(冷蔵庫)",
+          "rect": {
+            "x1": 1556,
+            "y1": 1033,
+            "x2": 1920,
+            "y2": 1079
+          },
+          "className": "refrigerator"
         }
       ]
     },
@@ -150,6 +183,17 @@
             "y2": 1079
           },
           "className": "person"
+        },
+        {
+          "imageId": "004",
+          "instanceId": "008(冷蔵庫)",
+          "rect": {
+            "x1": 1560,
+            "y1": 1037,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "refrigerator"
         }
       ]
     },
@@ -188,6 +232,17 @@
             "y2": 1079
           },
           "className": "person"
+        },
+        {
+          "imageId": "005",
+          "instanceId": "008(冷蔵庫)",
+          "rect": {
+            "x1": 1565,
+            "y1": 1030,
+            "x2": 1919,
+            "y2": 1079
+          },
+          "className": "refrigerator"
         }
       ]
     },
@@ -226,6 +281,17 @@
             "y2": 1080
           },
           "className": "person"
+        },
+        {
+          "imageId": "006",
+          "instanceId": "008(冷蔵庫)",
+          "rect": {
+            "x1": 1569,
+            "y1": 985,
+            "x2": 1920,
+            "y2": 1079
+          },
+          "className": "refrigerator"
         }
       ]
     },
@@ -3579,6 +3645,10 @@
             {
               "type": "=",
               "instanceId": "003(豆腐)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "009(カット豆腐)"
             }
           ]
         },
@@ -3618,6 +3688,10 @@
             {
               "type": "ニ",
               "instanceId": "008(冷蔵庫)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "009(カット豆腐)"
             }
           ]
         }
@@ -3746,6 +3820,10 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "009(カット豆腐)"
             }
           ]
         }
@@ -3773,7 +3851,12 @@
         },
         {
           "text": "私は",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "001(主人)"
+            }
+          ]
         },
         {
           "text": "豆腐を",
@@ -3781,6 +3864,10 @@
             {
               "type": "=",
               "instanceId": "003(豆腐)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "009(カット豆腐)"
             }
           ]
         },
@@ -3788,18 +3875,31 @@
           "text": "切るから、",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "003(豆腐)"
             },
             {
               "type": "デ",
               "instanceId": "007(包丁)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "009(カット豆腐)"
             }
           ]
         },
         {
           "text": "あなたは",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "002(ロボット)"
+            }
+          ]
         },
         {
           "text": "ピーマンを",
@@ -3813,6 +3913,10 @@
         {
           "text": "切って",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ヲ",
               "instanceId": "004(ピーマン)"
@@ -3868,6 +3972,10 @@
           "relations": [
             {
               "type": "=",
+              "instanceId": "009(カット豆腐)"
+            },
+            {
+              "type": "=≒",
               "instanceId": "003(豆腐)"
             }
           ]
@@ -3881,11 +3989,15 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "003(豆腐)"
+              "instanceId": "009(カット豆腐)"
             },
             {
               "type": "デ",
               "instanceId": "007(包丁)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "003(豆腐)"
             }
           ]
         },
@@ -3912,6 +4024,10 @@
             {
               "type": "ヲ",
               "instanceId": "007(包丁)"
+            },
+            {
+              "type": "カラ",
+              "instanceId": "001(主人)"
             }
           ]
         }
@@ -3934,7 +4050,12 @@
         },
         {
           "text": "待っててね。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            }
+          ]
         }
       ]
     }

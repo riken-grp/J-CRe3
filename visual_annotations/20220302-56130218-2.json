@@ -1596,6 +1596,17 @@
             "y2": 94
           },
           "className": "region"
+        },
+        {
+          "imageId": "027",
+          "instanceId": "14(そこ)",
+          "rect": {
+            "x1": 1057,
+            "y1": 93,
+            "x2": 1368,
+            "y2": 270
+          },
+          "className": "region"
         }
       ]
     },
@@ -1645,6 +1656,17 @@
             "y2": 106
           },
           "className": "region"
+        },
+        {
+          "imageId": "028",
+          "instanceId": "14(そこ)",
+          "rect": {
+            "x1": 1281,
+            "y1": 201,
+            "x2": 1601,
+            "y2": 431
+          },
+          "className": "region"
         }
       ]
     },
@@ -1683,6 +1705,17 @@
             "y2": 96
           },
           "className": "box"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "14(そこ)",
+          "rect": {
+            "x1": 1532,
+            "y1": 370,
+            "x2": 1834,
+            "y2": 618
+          },
+          "className": "region"
         }
       ]
     },
@@ -1721,6 +1754,17 @@
             "y2": 99
           },
           "className": "box"
+        },
+        {
+          "imageId": "030",
+          "instanceId": "14(そこ)",
+          "rect": {
+            "x1": 1615,
+            "y1": 402,
+            "x2": 1908,
+            "y2": 646
+          },
+          "className": "region"
         }
       ]
     },
@@ -1737,17 +1781,6 @@
             "y2": 1078
           },
           "className": "person"
-        },
-        {
-          "imageId": "031",
-          "instanceId": "15(あそこ11)",
-          "rect": {
-            "x1": 528,
-            "y1": 1,
-            "x2": 897,
-            "y2": 125
-          },
-          "className": "region"
         },
         {
           "imageId": "031",
@@ -2208,7 +2241,7 @@
         },
         {
           "imageId": "041",
-          "instanceId": "7(雑誌)",
+          "instanceId": "019(シュレッダー後残った雑誌)",
           "rect": {
             "x1": 776,
             "y1": 588,
@@ -2279,7 +2312,7 @@
         },
         {
           "imageId": "042",
-          "instanceId": "7(雑誌)",
+          "instanceId": "019(シュレッダー後残った雑誌)",
           "rect": {
             "x1": 324,
             "y1": 133,
@@ -3854,17 +3887,6 @@
             "y2": 581
           },
           "className": "person"
-        },
-        {
-          "imageId": "065",
-          "instanceId": "16(そこ15・TV台)",
-          "rect": {
-            "x1": 956,
-            "y1": 0,
-            "x2": 1242,
-            "y2": 197
-          },
-          "className": "region"
         },
         {
           "imageId": "065",
@@ -6840,7 +6862,7 @@
         },
         {
           "imageId": "116",
-          "instanceId": "6(テープ)",
+          "instanceId": "020(残ったテープ本体)",
           "rect": {
             "x1": 1066,
             "y1": 852,
@@ -6889,7 +6911,7 @@
       "boundingBoxes": [
         {
           "imageId": "117",
-          "instanceId": "6(テープ)",
+          "instanceId": "020(残ったテープ本体)",
           "rect": {
             "x1": 850,
             "y1": 801,
@@ -6982,7 +7004,7 @@
         },
         {
           "imageId": "118",
-          "instanceId": "6(テープ)",
+          "instanceId": "020(残ったテープ本体)",
           "rect": {
             "x1": 894,
             "y1": 786,
@@ -7020,7 +7042,7 @@
         },
         {
           "imageId": "119",
-          "instanceId": "6(テープ)",
+          "instanceId": "020(残ったテープ本体)",
           "rect": {
             "x1": 940,
             "y1": 946,
@@ -7211,7 +7233,7 @@
         },
         {
           "imageId": "122",
-          "instanceId": "6(テープ)",
+          "instanceId": "020(残ったテープ本体)",
           "rect": {
             "x1": 967,
             "y1": 919,
@@ -7249,7 +7271,7 @@
         },
         {
           "imageId": "123",
-          "instanceId": "6(テープ)",
+          "instanceId": "020(残ったテープ本体)",
           "rect": {
             "x1": 1040,
             "y1": 911,
@@ -7298,7 +7320,7 @@
         },
         {
           "imageId": "124",
-          "instanceId": "6(テープ)",
+          "instanceId": "020(残ったテープ本体)",
           "rect": {
             "x1": 894,
             "y1": 883,
@@ -7369,7 +7391,7 @@
         },
         {
           "imageId": "125",
-          "instanceId": "6(テープ)",
+          "instanceId": "020(残ったテープ本体)",
           "rect": {
             "x1": 821,
             "y1": 1004,
@@ -7478,7 +7500,7 @@
         },
         {
           "imageId": "127",
-          "instanceId": "6(テープ)",
+          "instanceId": "020(残ったテープ本体)",
           "rect": {
             "x1": 1344,
             "y1": 1004,
@@ -7600,6 +7622,17 @@
             "y2": 1079
           },
           "className": "box"
+        },
+        {
+          "imageId": "130",
+          "instanceId": "019(シュレッダー後残った雑誌)",
+          "rect": {
+            "x1": 13,
+            "y1": 75,
+            "x2": 121,
+            "y2": 144
+          },
+          "className": "book"
         }
       ]
     },
@@ -7751,10 +7784,6 @@
           "text": "必要な",
           "relations": [
             {
-              "type": "ガ",
-              "instanceId": "10(緩衝材)"
-            },
-            {
               "type": "ガ２",
               "instanceId": "1(主人)"
             }
@@ -7768,7 +7797,7 @@
           "text": "材が",
           "relations": [
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "10(緩衝材)"
             },
             {
@@ -7780,10 +7809,6 @@
         {
           "text": "必要だから、",
           "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "10(緩衝材)"
-            },
             {
               "type": "ガ２",
               "instanceId": "1(主人)"
@@ -7812,6 +7837,10 @@
           "text": "かけて",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "2(ロボット)"
+            },
+            {
               "type": "ニ",
               "instanceId": "9(シュレッダー)"
             }
@@ -7821,8 +7850,8 @@
           "text": "作ってくれないかしら？",
           "relations": [
             {
-              "type": "ヲ",
-              "instanceId": "10(緩衝材)"
+              "type": "ガ",
+              "instanceId": "2(ロボット)"
             },
             {
               "type": "ニ",
@@ -7837,7 +7866,12 @@
       "phrases": [
         {
           "text": "分かりました。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "2(ロボット)"
+            }
+          ]
         },
         {
           "text": "どの",
@@ -7854,7 +7888,12 @@
         },
         {
           "text": "使ったら良いですか？",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "2(ロボット)"
+            }
+          ]
         }
       ]
     },
@@ -7880,6 +7919,14 @@
             {
               "type": "ニ",
               "instanceId": "14(そこ)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "019(シュレッダー後残った雑誌)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "10(緩衝材)"
             }
           ]
         },
@@ -7889,6 +7936,14 @@
             {
               "type": "=",
               "instanceId": "7(雑誌)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "019(シュレッダー後残った雑誌)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "10(緩衝材)"
             }
           ]
         },
@@ -7900,8 +7955,20 @@
           "text": "使って",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "2(ロボット)"
+            },
+            {
               "type": "カラ",
               "instanceId": "7(雑誌)"
+            },
+            {
+              "type": "カラ≒",
+              "instanceId": "019(シュレッダー後残った雑誌)"
+            },
+            {
+              "type": "カラ≒",
+              "instanceId": "10(緩衝材)"
             }
           ]
         },
@@ -7911,12 +7978,7 @@
         },
         {
           "text": "量は",
-          "relations": [
-            {
-              "type": "ノ",
-              "instanceId": "10(緩衝材)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "あそこの",
@@ -7937,10 +7999,6 @@
             {
               "type": "=≒",
               "instanceId": "13(梱包後段ボール)"
-            },
-            {
-              "type": "=≒",
-              "instanceId": "18(テープ付き梱包後段ボール)"
             }
           ]
         },
@@ -7950,16 +8008,16 @@
             {
               "type": "ノ",
               "instanceId": "8(段ボール)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "13(梱包後段ボール)"
             }
           ]
         },
         {
           "text": "欲しいわね。",
           "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "10(緩衝材)"
-            },
             {
               "type": "ガ２",
               "instanceId": "1(主人)"
@@ -7975,7 +8033,7 @@
           "text": "分かりました。",
           "relations": [
             {
-              "type": "ガ",
+              "type": "ガ２",
               "instanceId": "2(ロボット)"
             }
           ]
@@ -8008,6 +8066,10 @@
             {
               "type": "ガ",
               "instanceId": "1(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "2(ロボット)"
             }
           ]
         },
@@ -8033,12 +8095,20 @@
           "text": "お持ちしました。",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "2(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "10(緩衝材)"
+            },
+            {
               "type": "ニ",
               "instanceId": "1(主人)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "10(緩衝材)"
+              "instanceId": "7(雑誌)"
             }
           ]
         }
@@ -8050,6 +8120,10 @@
         {
           "text": "ありがとう。",
           "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "2(ロボット)"
+            },
             {
               "type": "ガ２",
               "instanceId": "1(主人)"
@@ -8100,6 +8174,10 @@
           "text": "持ってきて",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "2(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "4(プチプチ)"
             },
@@ -8124,6 +8202,10 @@
             {
               "type": "ニ",
               "instanceId": "1(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "2(ロボット)"
             }
           ]
         }
@@ -8157,6 +8239,10 @@
           "text": "包みましょうか？",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "2(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "11(人形a)"
             },
@@ -8183,6 +8269,10 @@
           "text": "うんうん",
           "relations": [
             {
+              "type": "ニ",
+              "instanceId": "2(ロボット)"
+            },
+            {
               "type": "ガ２",
               "instanceId": "1(主人)"
             }
@@ -8191,6 +8281,14 @@
         {
           "text": "これは",
           "relations": [
+            {
+              "type": "=",
+              "instanceId": "11(人形a)"
+            },
+            {
+              "type": "=",
+              "instanceId": "12(人形b)"
+            },
             {
               "type": "=",
               "instanceId": "3(人形)"
@@ -8204,6 +8302,14 @@
         {
           "text": "物だから",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "11(人形a)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "12(人形b)"
+            },
             {
               "type": "ガ",
               "instanceId": "3(人形)"
@@ -8225,6 +8331,14 @@
             {
               "type": "ガ",
               "instanceId": "1(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "11(人形a)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "12(人形b)"
             },
             {
               "type": "ヲ",
@@ -8253,6 +8367,10 @@
             },
             {
               "type": "=≒",
+              "instanceId": "020(残ったテープ本体)"
+            },
+            {
+              "type": "=≒",
               "instanceId": "17(箱に張られたテープ)"
             }
           ]
@@ -8261,12 +8379,24 @@
           "text": "持ってきて",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "2(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "6(テープ)"
             },
             {
               "type": "ニ",
               "instanceId": "1(主人)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "020(残ったテープ本体)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "17(箱に張られたテープ)"
             }
           ]
         },
@@ -8281,7 +8411,12 @@
       "phrases": [
         {
           "text": "分かりました。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "2(ロボット)"
+            }
+          ]
         },
         {
           "text": "テープって",
@@ -8289,6 +8424,10 @@
             {
               "type": "=",
               "instanceId": "6(テープ)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "020(残ったテープ本体)"
             },
             {
               "type": "=≒",
@@ -8306,6 +8445,14 @@
             {
               "type": "ガ",
               "instanceId": "6(テープ)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "020(残ったテープ本体)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "17(箱に張られたテープ)"
             }
           ]
         }
@@ -8345,6 +8492,14 @@
             {
               "type": "ニ",
               "instanceId": "5(戸棚)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "020(残ったテープ本体)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "17(箱に張られたテープ)"
             }
           ]
         },
@@ -8364,7 +8519,12 @@
       "phrases": [
         {
           "text": "分かりました。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "2(ロボット)"
+            }
+          ]
         }
       ]
     },
@@ -8377,6 +8537,10 @@
             {
               "type": "=",
               "instanceId": "6(テープ)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "020(残ったテープ本体)"
             },
             {
               "type": "=≒",
@@ -8394,6 +8558,22 @@
             {
               "type": "デ",
               "instanceId": "6(テープ)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "020(残ったテープ本体)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "17(箱に張られたテープ)"
+            },
+            {
+              "type": "デ≒",
+              "instanceId": "020(残ったテープ本体)"
+            },
+            {
+              "type": "デ≒",
+              "instanceId": "17(箱に張られたテープ)"
             }
           ]
         }
@@ -8405,6 +8585,10 @@
         {
           "text": "ありがとう。",
           "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "2(ロボット)"
+            },
             {
               "type": "ガ２",
               "instanceId": "1(主人)"
@@ -8425,15 +8609,15 @@
           "relations": [
             {
               "type": "=",
-              "instanceId": "8(段ボール)"
-            },
-            {
-              "type": "=≒",
               "instanceId": "13(梱包後段ボール)"
             },
             {
               "type": "=≒",
               "instanceId": "18(テープ付き梱包後段ボール)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "8(段ボール)"
             }
           ]
         },
@@ -8446,6 +8630,14 @@
             },
             {
               "type": "ヲ",
+              "instanceId": "13(梱包後段ボール)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "18(テープ付き梱包後段ボール)"
+            },
+            {
+              "type": "ヲ≒",
               "instanceId": "8(段ボール)"
             }
           ]
@@ -8463,6 +8655,10 @@
             },
             {
               "type": "=≒",
+              "instanceId": "020(残ったテープ本体)"
+            },
+            {
+              "type": "=≒",
               "instanceId": "17(箱に張られたテープ)"
             }
           ]
@@ -8472,6 +8668,14 @@
           "relations": [
             {
               "type": "ノ",
+              "instanceId": "13(梱包後段ボール)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "18(テープ付き梱包後段ボール)"
+            },
+            {
+              "type": "ノ≒",
               "instanceId": "8(段ボール)"
             }
           ]
@@ -8480,8 +8684,32 @@
           "text": "して、",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "2(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "13(梱包後段ボール)"
+            },
+            {
               "type": "デ",
               "instanceId": "6(テープ)"
+            },
+            {
+              "type": "ニ≒",
+              "instanceId": "18(テープ付き梱包後段ボール)"
+            },
+            {
+              "type": "ニ≒",
+              "instanceId": "8(段ボール)"
+            },
+            {
+              "type": "デ≒",
+              "instanceId": "020(残ったテープ本体)"
+            },
+            {
+              "type": "デ≒",
+              "instanceId": "17(箱に張られたテープ)"
             }
           ]
         },
@@ -8502,7 +8730,19 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "8(段ボール)"
+              "instanceId": "18(テープ付き梱包後段ボール)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "2(ロボット)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "13(梱包後段ボール)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "17(箱に張られたテープ)"
             }
           ]
         }
@@ -8513,7 +8753,12 @@
       "phrases": [
         {
           "text": "分かりました。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "2(ロボット)"
+            }
+          ]
         }
       ]
     },
@@ -8533,7 +8778,7 @@
             },
             {
               "type": "=≒",
-              "instanceId": "8(段ボール)"
+              "instanceId": "17(箱に張られたテープ)"
             }
           ]
         },
@@ -8549,8 +8794,20 @@
           "text": "置いておきますね。",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "2(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "18(テープ付き梱包後段ボール)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "13(梱包後段ボール)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "17(箱に張られたテープ)"
             }
           ]
         }
@@ -8573,6 +8830,10 @@
             {
               "type": "ガ",
               "instanceId": "1(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "2(ロボット)"
             }
           ]
         }
@@ -8583,7 +8844,12 @@
       "phrases": [
         {
           "text": "かしこまりました。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "2(ロボット)"
+            }
+          ]
         }
       ]
     }

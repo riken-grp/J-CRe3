@@ -5568,12 +5568,7 @@
         },
         {
           "text": "卵焼きに",
-          "relations": [
-            {
-              "type": "=≒",
-              "instanceId": "007(卵a)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "しようと",
@@ -5823,10 +5818,6 @@
             {
               "type": "=",
               "instanceId": "007(卵a)"
-            },
-            {
-              "type": "=≒",
-              "instanceId": "004(卵10個)"
             }
           ]
         },
@@ -5868,6 +5859,10 @@
               "instanceId": "006(ほうれん草)"
             },
             {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
               "type": "デ",
               "instanceId": "009(鍋)"
             }
@@ -5905,11 +5900,11 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "002(ロボット)"
+              "instanceId": "001(主人)"
             },
             {
               "type": "ニ",
-              "instanceId": "001(主人)"
+              "instanceId": "002(ロボット)"
             }
           ]
         }

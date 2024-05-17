@@ -3946,7 +3946,7 @@
           "imageId": "096",
           "instanceId": "010(コーヒー入りカップ)",
           "rect": {
-            "x1": 940,
+            "x1": 905,
             "y1": 1060,
             "x2": 1034,
             "y2": 1080
@@ -4728,10 +4728,6 @@
           "relations": [
             {
               "type": "=≒",
-              "instanceId": "006(コーヒー箱)"
-            },
-            {
-              "type": "=≒",
               "instanceId": "010(コーヒー入りカップ)"
             }
           ]
@@ -4880,10 +4876,6 @@
           "relations": [
             {
               "type": "=≒",
-              "instanceId": "006(コーヒー箱)"
-            },
-            {
-              "type": "=≒",
               "instanceId": "010(コーヒー入りカップ)"
             }
           ]
@@ -4999,7 +4991,7 @@
           "text": "ポテトチップスが",
           "relations": [
             {
-              "type": "=≒",
+              "type": "=",
               "instanceId": "005(ポテトチップス)"
             }
           ]
@@ -5007,6 +4999,10 @@
         {
           "text": "あった",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "005(ポテトチップス)"
+            },
             {
               "type": "ニ",
               "instanceId": "011(棚)"
@@ -5051,6 +5047,10 @@
             {
               "type": "ガ",
               "instanceId": "005(ポテトチップス)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "011(棚)"
             }
           ]
         }
@@ -5100,7 +5100,12 @@
         },
         {
           "text": "お手拭きも",
-          "relations": []
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "004(ウェットティッシュ)"
+            }
+          ]
         },
         {
           "text": "くれる？",
@@ -5118,7 +5123,12 @@
       "phrases": [
         {
           "text": "お手拭き。",
-          "relations": []
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "004(ウェットティッシュ)"
+            }
+          ]
         },
         {
           "text": "ウェット",
@@ -5171,10 +5181,6 @@
         {
           "text": "コーヒーも",
           "relations": [
-            {
-              "type": "=≒",
-              "instanceId": "006(コーヒー箱)"
-            },
             {
               "type": "=≒",
               "instanceId": "010(コーヒー入りカップ)"
@@ -5266,11 +5272,7 @@
           "text": "コーヒーは",
           "relations": [
             {
-              "type": "=≒",
-              "instanceId": "006(コーヒー箱)"
-            },
-            {
-              "type": "=≒",
+              "type": "=",
               "instanceId": "010(コーヒー入りカップ)"
             }
           ]
@@ -5286,7 +5288,12 @@
         },
         {
           "text": "入れますか？",
-          "relations": []
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "010(コーヒー入りカップ)"
+            }
+          ]
         }
       ]
     },
@@ -5307,15 +5314,30 @@
         },
         {
           "text": "いいや。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "010(コーヒー入りカップ)"
+            }
+          ]
         },
         {
           "text": "ブラックに",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "010(コーヒー入りカップ)"
+            }
+          ]
         },
         {
           "text": "しようかな。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ヲ",
+              "instanceId": "010(コーヒー入りカップ)"
+            }
+          ]
         }
       ]
     },
@@ -5326,7 +5348,7 @@
           "text": "かしこまりました。",
           "relations": [
             {
-              "type": "ガ２",
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             }
           ]

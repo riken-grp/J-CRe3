@@ -17033,7 +17033,12 @@
         },
         {
           "text": "もの",
-          "relations": []
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "007(豆乳)"
+            }
+          ]
         },
         {
           "text": "何か",
@@ -17525,40 +17530,48 @@
               "instanceId": "001(主人)"
             },
             {
-              "type": "ヲ",
-              "instanceId": "013(皮むきジャガイモ)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "017(皮むき人参)"
-            },
-            {
               "type": "デ",
               "instanceId": "009(包丁)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "003(人参)"
+              "instanceId": "013(皮むきジャガイモ)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "004(ジャガイモ)"
+              "instanceId": "017(皮むき人参)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "012(洗ジャガイモ)"
+              "instanceId": "020(ヘタなし切人参)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "015(切ジャガイモ)"
+              "instanceId": "023(切ジャガイモB00)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "016(洗人参)"
+              "instanceId": "024(切ジャガイモA01)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "019(ヘタなし人参)"
+              "instanceId": "025(切ジャガイモB01)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "026(切ジャガイモA01, B01)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "027(ヘタなし切人参A)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "028(ヘタなし切人参B)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "029(ヘタなし切人参A, B)"
             }
           ]
         },
@@ -17589,6 +17602,34 @@
             {
               "type": "ヲ≒",
               "instanceId": "004(ジャガイモ)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "020(ヘタなし切人参)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "024(切ジャガイモA01)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "025(切ジャガイモB01)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "026(切ジャガイモA01, B01)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "027(ヘタなし切人参A)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "028(ヘタなし切人参B)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "029(ヘタなし切人参A, B)"
             }
           ]
         }
@@ -17743,23 +17784,63 @@
             },
             {
               "type": "ヲ",
+              "instanceId": "013(皮むきジャガイモ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "017(皮むき人参)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "020(ヘタなし切人参)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "023(切ジャガイモB00)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "024(切ジャガイモA01)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "025(切ジャガイモB01)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "026(切ジャガイモA01, B01)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "027(ヘタなし切人参A)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "028(ヘタなし切人参B)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "029(ヘタなし切人参A, B)"
+            },
+            {
+              "type": "ヲ≒",
               "instanceId": "012(洗ジャガイモ)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "003(人参)"
+              "instanceId": "015(切ジャガイモ)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "004(ジャガイモ)"
+              "instanceId": "016(洗人参)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "013(皮むきジャガイモ)"
+              "instanceId": "019(ヘタなし人参)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "014(ジャガイモ皮)"
+              "instanceId": "022(切ジャガイモA00)"
             }
           ]
         }
@@ -17851,20 +17932,32 @@
               "instanceId": "001(主人)"
             },
             {
+              "type": "ヲ",
+              "instanceId": "023(切ジャガイモB00)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "024(切ジャガイモA01)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "026(切ジャガイモA01, B01)"
+            },
+            {
               "type": "ニ",
               "instanceId": "008(ボウル)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "023(切ジャガイモB00)"
+              "instanceId": "015(切ジャガイモ)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "024(切ジャガイモA01)"
+              "instanceId": "022(切ジャガイモA00)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "026(切ジャガイモA01, B01)"
+              "instanceId": "025(切ジャガイモB01)"
             }
           ]
         }
@@ -17995,10 +18088,6 @@
             {
               "type": "=≒",
               "instanceId": "019(ヘタなし人参)"
-            },
-            {
-              "type": "=≒",
-              "instanceId": "029(ヘタなし切人参A, B)"
             }
           ]
         },
@@ -18037,10 +18126,6 @@
             {
               "type": "ヲ≒",
               "instanceId": "019(ヘタなし人参)"
-            },
-            {
-              "type": "ヲ≒",
-              "instanceId": "029(ヘタなし切人参A, B)"
             }
           ]
         }

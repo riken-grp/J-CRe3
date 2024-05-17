@@ -50,17 +50,6 @@
         },
         {
           "imageId": "001",
-          "instanceId": "004(上)",
-          "rect": {
-            "x1": 1128,
-            "y1": 498,
-            "x2": 1837,
-            "y2": 1071
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "001",
           "instanceId": "006(白カップ)",
           "rect": {
             "x1": 1270,
@@ -162,17 +151,6 @@
             "y2": 734
           },
           "className": "cup"
-        },
-        {
-          "imageId": "002",
-          "instanceId": "004(上)",
-          "rect": {
-            "x1": 1127,
-            "y1": 502,
-            "x2": 1836,
-            "y2": 1063
-          },
-          "className": "region"
         },
         {
           "imageId": "002",
@@ -1324,6 +1302,17 @@
         },
         {
           "imageId": "016",
+          "instanceId": "020(上1, 2)",
+          "rect": {
+            "x1": 864,
+            "y1": 0,
+            "x2": 1125,
+            "y2": 74
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "016",
           "instanceId": "007(棚)",
           "rect": {
             "x1": 863,
@@ -1348,6 +1337,17 @@
             "y2": 1080
           },
           "className": "person"
+        },
+        {
+          "imageId": "017",
+          "instanceId": "020(上1, 2)",
+          "rect": {
+            "x1": 710,
+            "y1": 0,
+            "x2": 970,
+            "y2": 83
+          },
+          "className": "region"
         },
         {
           "imageId": "017",
@@ -1452,6 +1452,17 @@
             "y2": 650
           },
           "className": "cabinet"
+        },
+        {
+          "imageId": "018",
+          "instanceId": "020(上1, 2)",
+          "rect": {
+            "x1": 0,
+            "y1": 15,
+            "x2": 125,
+            "y2": 153
+          },
+          "className": "region"
         }
       ]
     },
@@ -1553,6 +1564,17 @@
         },
         {
           "imageId": "020",
+          "instanceId": "020(上1, 2)",
+          "rect": {
+            "x1": 771,
+            "y1": 0,
+            "x2": 1029,
+            "y2": 43
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "020",
           "instanceId": "007(棚)",
           "rect": {
             "x1": 770,
@@ -1577,6 +1599,17 @@
             "y2": 1077
           },
           "className": "person"
+        },
+        {
+          "imageId": "021",
+          "instanceId": "020(上1, 2)",
+          "rect": {
+            "x1": 584,
+            "y1": 0,
+            "x2": 850,
+            "y2": 103
+          },
+          "className": "region"
         },
         {
           "imageId": "021",
@@ -1615,6 +1648,17 @@
             "y2": 1017
           },
           "className": "person"
+        },
+        {
+          "imageId": "022",
+          "instanceId": "020(上1, 2)",
+          "rect": {
+            "x1": 394,
+            "y1": 0,
+            "x2": 669,
+            "y2": 132
+          },
+          "className": "region"
         },
         {
           "imageId": "022",
@@ -1831,6 +1875,17 @@
         },
         {
           "imageId": "025",
+          "instanceId": "004(上)",
+          "rect": {
+            "x1": 901,
+            "y1": 58,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "025",
           "instanceId": "009(ケトル)",
           "rect": {
             "x1": 1079,
@@ -1946,6 +2001,17 @@
         },
         {
           "imageId": "026",
+          "instanceId": "004(上)",
+          "rect": {
+            "x1": 679,
+            "y1": 14,
+            "x2": 1914,
+            "y2": 1080
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "026",
           "instanceId": "014(透明コップa)",
           "rect": {
             "x1": 1145,
@@ -2017,6 +2083,17 @@
         },
         {
           "imageId": "027",
+          "instanceId": "004(上)",
+          "rect": {
+            "x1": 563,
+            "y1": 82,
+            "x2": 1879,
+            "y2": 1080
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "027",
           "instanceId": "014(透明コップa)",
           "rect": {
             "x1": 1166,
@@ -2041,10 +2118,10 @@
           "imageId": "027",
           "instanceId": "003(机)",
           "rect": {
-            "x1": 561,
-            "y1": 84,
-            "x2": 1879,
-            "y2": 1079
+            "x1": 560,
+            "y1": 86,
+            "x2": 1878,
+            "y2": 1080
           },
           "className": "dining_table"
         },
@@ -2143,6 +2220,17 @@
         },
         {
           "imageId": "028",
+          "instanceId": "004(上)",
+          "rect": {
+            "x1": 471,
+            "y1": 114,
+            "x2": 1800,
+            "y2": 1080
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "028",
           "instanceId": "008(タンブラー)",
           "rect": {
             "x1": 1009,
@@ -2233,6 +2321,17 @@
             "y2": 687
           },
           "className": "cup"
+        },
+        {
+          "imageId": "029",
+          "instanceId": "004(上)",
+          "rect": {
+            "x1": 916,
+            "y1": 159,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
         }
       ]
     },
@@ -3099,9 +3198,9 @@
           "imageId": "045",
           "instanceId": "017(三段目)",
           "rect": {
-            "x1": 862,
+            "x1": 878,
             "y1": 564,
-            "x2": 1454,
+            "x2": 1428,
             "y2": 862
           },
           "className": "cabinet"
@@ -6622,7 +6721,7 @@
         },
         {
           "imageId": "112",
-          "instanceId": "012(水)",
+          "instanceId": "019(減水)",
           "rect": {
             "x1": 913,
             "y1": 871,
@@ -6714,7 +6813,7 @@
         },
         {
           "imageId": "115",
-          "instanceId": "012(水)",
+          "instanceId": "019(減水)",
           "rect": {
             "x1": 762,
             "y1": 814,
@@ -6779,7 +6878,7 @@
         },
         {
           "imageId": "117",
-          "instanceId": "012(水)",
+          "instanceId": "019(減水)",
           "rect": {
             "x1": 1026,
             "y1": 583,
@@ -7517,6 +7616,10 @@
             },
             {
               "type": "ヲ",
+              "instanceId": "005(透明コップa, b)"
+            },
+            {
+              "type": "ヲ",
               "instanceId": "006(白カップ)"
             },
             {
@@ -7541,7 +7644,7 @@
               "instanceId": "002(ロボット)"
             },
             {
-              "type": "ヲ",
+              "type": "ヲ２",
               "instanceId": "001(主人)"
             }
           ]
@@ -7700,6 +7803,10 @@
             {
               "type": "ノ",
               "instanceId": "007(棚)"
+            },
+            {
+              "type": "=",
+              "instanceId": "020(上1, 2)"
             }
           ]
         },
@@ -7717,6 +7824,10 @@
             {
               "type": "ガ",
               "instanceId": "015(透明コップb)"
+            },
+            {
+              "type": "カラ",
+              "instanceId": "020(上1, 2)"
             },
             {
               "type": "=",
@@ -7748,6 +7859,10 @@
             {
               "type": "ノ",
               "instanceId": "007(棚)"
+            },
+            {
+              "type": "=",
+              "instanceId": "020(上1, 2)"
             }
           ]
         },
@@ -7757,6 +7872,10 @@
             {
               "type": "ガ",
               "instanceId": "006(白カップ)"
+            },
+            {
+              "type": "カラ",
+              "instanceId": "020(上1, 2)"
             },
             {
               "type": "ノ",
@@ -7877,15 +7996,15 @@
             },
             {
               "type": "=",
+              "instanceId": "005(透明コップa, b)"
+            },
+            {
+              "type": "=",
               "instanceId": "006(白カップ)"
             },
             {
               "type": "=",
               "instanceId": "008(タンブラー)"
-            },
-            {
-              "type": "=",
-              "instanceId": "009(ケトル)"
             },
             {
               "type": "=",
@@ -7902,15 +8021,15 @@
           "relations": [
             {
               "type": "ノ",
+              "instanceId": "005(透明コップa, b)"
+            },
+            {
+              "type": "ノ",
               "instanceId": "006(白カップ)"
             },
             {
               "type": "ノ",
               "instanceId": "008(タンブラー)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "009(ケトル)"
             },
             {
               "type": "ノ",
@@ -7931,15 +8050,15 @@
             },
             {
               "type": "ヲ",
+              "instanceId": "005(透明コップa, b)"
+            },
+            {
+              "type": "ヲ",
               "instanceId": "006(白カップ)"
             },
             {
               "type": "ヲ",
               "instanceId": "008(タンブラー)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "009(ケトル)"
             },
             {
               "type": "ヲ",
@@ -8085,6 +8204,10 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "カラ",
+              "instanceId": "018(ケトル台)"
             }
           ]
         },
@@ -8122,6 +8245,10 @@
         {
           "text": "引き出しに",
           "relations": [
+            {
+              "type": "カラ",
+              "instanceId": "018(ケトル台)"
+            },
             {
               "type": "=",
               "instanceId": "013(引き出し)"
@@ -8174,6 +8301,10 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "カラ",
+              "instanceId": "013(引き出し)"
             }
           ]
         }
@@ -8284,6 +8415,10 @@
             {
               "type": "=",
               "instanceId": "012(水)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "019(減水)"
             }
           ]
         },
@@ -8301,6 +8436,10 @@
             {
               "type": "ニ",
               "instanceId": "009(ケトル)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "019(減水)"
             }
           ]
         },

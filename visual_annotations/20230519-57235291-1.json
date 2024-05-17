@@ -20390,7 +20390,7 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
+              "instanceId": "002(ロボット)"
             },
             {
               "type": "ニ",
@@ -20451,19 +20451,14 @@
           "text": "ゴミは",
           "relations": [
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "005(皮)"
             }
           ]
         },
         {
           "text": "ないですね。",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "005(皮)"
-            }
-          ]
+          "relations": []
         }
       ]
     },
@@ -20476,12 +20471,7 @@
         },
         {
           "text": "ないかな。",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "005(皮)"
-            }
-          ]
+          "relations": []
         }
       ]
     },
@@ -20503,7 +20493,16 @@
         },
         {
           "text": "食器を",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(スプーン)"
+            },
+            {
+              "type": "=",
+              "instanceId": "004(皿a)"
+            }
+          ]
         },
         {
           "text": "洗いますね。",
@@ -20511,6 +20510,14 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(スプーン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(皿a)"
             }
           ]
         }
@@ -20613,11 +20620,20 @@
         },
         {
           "text": "私が",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "001(主人)"
+            }
+          ]
         },
         {
           "text": "片付けておくね。",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
             {
               "type": "ヲ",
               "instanceId": "010(青縁カップ)"
@@ -20833,18 +20849,13 @@
         },
         {
           "text": "新しい",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "016(新洗剤)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "のは",
           "relations": [
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "016(新洗剤)"
             }
           ]
@@ -20855,12 +20866,7 @@
         },
         {
           "text": "あるのでしょうか？",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "016(新洗剤)"
-            }
-          ]
+          "relations": []
         }
       ]
     },
@@ -20941,7 +20947,7 @@
           "text": "あると",
           "relations": [
             {
-              "type": "ガ",
+              "type": "=",
               "instanceId": "016(新洗剤)"
             }
           ]
@@ -20952,6 +20958,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ト",
+              "instanceId": "016(新洗剤)"
             }
           ]
         },
@@ -21085,6 +21095,10 @@
             {
               "type": "ヲ",
               "instanceId": "008(古洗剤)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "009(ゴミ箱)"
             }
           ]
         }
@@ -21223,11 +21237,25 @@
         },
         {
           "text": "私は",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "001(主人)"
+            }
+          ]
         },
         {
           "text": "食器",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(スプーン)"
+            },
+            {
+              "type": "=",
+              "instanceId": "004(皿a)"
+            }
+          ]
         },
         {
           "text": "拭いていくね。",
@@ -21235,6 +21263,14 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(スプーン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(皿a)"
             },
             {
               "type": "デ",
@@ -21248,17 +21284,20 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(スプーン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(皿a)"
             }
           ]
         },
         {
           "text": "こっちに",
-          "relations": [
-            {
-              "type": "=",
-              "instanceId": "001(主人)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "渡していってくれる？",
@@ -21268,8 +21307,12 @@
               "instanceId": "002(ロボット)"
             },
             {
-              "type": "ニ",
-              "instanceId": "001(主人)"
+              "type": "ヲ",
+              "instanceId": "003(スプーン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(皿a)"
             }
           ]
         }

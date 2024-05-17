@@ -16062,6 +16062,17 @@
             "y2": 179
           },
           "className": "box"
+        },
+        {
+          "imageId": "091",
+          "instanceId": "027(リビング)",
+          "rect": {
+            "x1": 0,
+            "y1": 479,
+            "x2": 310,
+            "y2": 1079
+          },
+          "className": "region"
         }
       ]
     },
@@ -17544,6 +17555,17 @@
             "y2": 864
           },
           "className": "coffee_table"
+        },
+        {
+          "imageId": "108",
+          "instanceId": "027(リビング)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
         }
       ]
     },
@@ -17582,6 +17604,17 @@
             "y2": 1080
           },
           "className": "person"
+        },
+        {
+          "imageId": "109",
+          "instanceId": "027(リビング)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
         }
       ]
     },
@@ -17730,6 +17763,17 @@
             "y2": 274
           },
           "className": "wineglass"
+        },
+        {
+          "imageId": "110",
+          "instanceId": "027(リビング)",
+          "rect": {
+            "x1": 0,
+            "y1": 849,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
         }
       ]
     },
@@ -17878,6 +17922,17 @@
             "y2": 1080
           },
           "className": "person"
+        },
+        {
+          "imageId": "111",
+          "instanceId": "027(リビング)",
+          "rect": {
+            "x1": 0,
+            "y1": 837,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
         }
       ]
     },
@@ -18015,6 +18070,17 @@
             "y2": 1080
           },
           "className": "person"
+        },
+        {
+          "imageId": "112",
+          "instanceId": "027(リビング)",
+          "rect": {
+            "x1": 0,
+            "y1": 325,
+            "x2": 840,
+            "y2": 1079
+          },
+          "className": "region"
         }
       ]
     },
@@ -18141,6 +18207,17 @@
             "y2": 772
           },
           "className": "chair"
+        },
+        {
+          "imageId": "113",
+          "instanceId": "027(リビング)",
+          "rect": {
+            "x1": 0,
+            "y1": 367,
+            "x2": 824,
+            "y2": 1080
+          },
+          "className": "region"
         }
       ]
     }
@@ -18168,12 +18245,7 @@
         },
         {
           "text": "来るから、",
-          "relations": [
-            {
-              "type": "ニ",
-              "instanceId": "003(台所テーブル)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "テーブルの",
@@ -18203,6 +18275,26 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(タッパー)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(菜箸)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(ナイフ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(フォーク)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(お皿)"
             },
             {
               "type": "ヲ",
@@ -18366,7 +18458,20 @@
         },
         {
           "text": "物は",
-          "relations": []
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "007(ナイフ)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "008(フォーク)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "009(お皿)"
+            }
+          ]
         },
         {
           "text": "ないですか？",
@@ -18418,18 +18523,6 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "007(ナイフ)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "008(フォーク)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "009(お皿)"
             },
             {
               "type": "ニ",
@@ -19319,7 +19412,12 @@
         },
         {
           "text": "リビングの",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "027(リビング)"
+            }
+          ]
         },
         {
           "text": "テーブルの",
@@ -19441,7 +19539,7 @@
               "instanceId": "002(ロボット)"
             },
             {
-              "type": "ヲ≒",
+              "type": "ヲ",
               "instanceId": "020(テレビ)"
             }
           ]
@@ -19488,7 +19586,12 @@
         },
         {
           "text": "リビングの",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "027(リビング)"
+            }
+          ]
         },
         {
           "text": "テーブルに",

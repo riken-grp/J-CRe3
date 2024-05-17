@@ -875,8 +875,8 @@
           "rect": {
             "x1": 0,
             "y1": 1,
-            "x2": 139,
-            "y2": 214
+            "x2": 653,
+            "y2": 1079
           },
           "className": "region"
         },
@@ -991,7 +991,7 @@
             "x1": 0,
             "y1": 444,
             "x2": 756,
-            "y2": 623
+            "y2": 1078
           },
           "className": "region"
         },
@@ -12733,7 +12733,11 @@
           "relations": [
             {
               "type": "=",
-              "instanceId": "004(豆腐)"
+              "instanceId": "011(容器)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "014(容器・本体)"
             }
           ]
         },
@@ -12768,15 +12772,15 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "004(豆腐)"
-            },
-            {
-              "type": "ガ",
               "instanceId": "005(袋揚げ)"
             },
             {
               "type": "ガ",
               "instanceId": "006(ネギ)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "011(容器)"
             },
             {
               "type": "ニ",
@@ -12785,6 +12789,10 @@
             {
               "type": "ガ≒",
               "instanceId": "012(揚げ)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "014(容器・本体)"
             }
           ]
         }
@@ -12845,7 +12853,7 @@
           "text": "棚に",
           "relations": [
             {
-              "type": "ノ",
+              "type": "修飾",
               "instanceId": "015(隣)"
             },
             {
@@ -12969,10 +12977,6 @@
             },
             {
               "type": "ト",
-              "instanceId": "004(豆腐)"
-            },
-            {
-              "type": "ト",
               "instanceId": "005(袋揚げ)"
             },
             {
@@ -12980,8 +12984,16 @@
               "instanceId": "006(ネギ)"
             },
             {
+              "type": "ト",
+              "instanceId": "011(容器)"
+            },
+            {
               "type": "ト≒",
               "instanceId": "012(揚げ)"
+            },
+            {
+              "type": "ト≒",
+              "instanceId": "014(容器・本体)"
             }
           ]
         },
@@ -13376,7 +13388,12 @@
         },
         {
           "text": "ものは",
-          "relations": []
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "012(揚げ)"
+            }
+          ]
         },
         {
           "text": "もう",

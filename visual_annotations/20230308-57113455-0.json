@@ -20555,6 +20555,17 @@
         },
         {
           "imageId": "208",
+          "instanceId": "011(ザル)",
+          "rect": {
+            "x1": 863,
+            "y1": 206,
+            "x2": 1201,
+            "y2": 349
+          },
+          "className": "strainer"
+        },
+        {
+          "imageId": "208",
           "instanceId": "006(鍋)",
           "rect": {
             "x1": 560,
@@ -22174,10 +22185,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
@@ -22195,10 +22202,6 @@
           "relations": [
             {
               "type": "ニ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
               "instanceId": "002(ロボット)"
             }
           ]
@@ -22211,10 +22214,6 @@
         {
           "text": "はい",
           "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -22239,6 +22238,10 @@
             {
               "type": "=",
               "instanceId": "005(パスタ全部)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "008(パスタ半分a)"
             }
           ]
         },
@@ -22246,12 +22249,12 @@
           "text": "にんにく、",
           "relations": [
             {
-              "type": "=≒",
+              "type": "=",
               "instanceId": "013(丸ごとにんにく)"
             },
             {
               "type": "=≒",
-              "instanceId": "015(皮なしにんにく一片)"
+              "instanceId": "014(皮つきにんにく一片)"
             }
           ]
         },
@@ -22282,6 +22285,18 @@
             {
               "type": "ガ",
               "instanceId": "005(パスタ全部)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "013(丸ごとにんにく)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "008(パスタ半分a)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "014(皮つきにんにく一片)"
             }
           ]
         },
@@ -22358,8 +22373,8 @@
               "instanceId": "013(丸ごとにんにく)"
             },
             {
-              "type": "=",
-              "instanceId": "015(皮なしにんにく一片)"
+              "type": "=≒",
+              "instanceId": "014(皮つきにんにく一片)"
             }
           ]
         },
@@ -22375,12 +22390,12 @@
               "instanceId": "013(丸ごとにんにく)"
             },
             {
-              "type": "ヲ",
-              "instanceId": "015(皮なしにんにく一片)"
-            },
-            {
               "type": "デ",
               "instanceId": "019(包丁)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "014(皮つきにんにく一片)"
             }
           ]
         },
@@ -22400,12 +22415,20 @@
               "instanceId": "014(皮つきにんにく一片)"
             },
             {
-              "type": "ノ",
+              "type": "=",
+              "instanceId": "016(皮)"
+            },
+            {
+              "type": "ノ≒",
               "instanceId": "015(皮なしにんにく一片)"
             },
             {
-              "type": "=",
+              "type": "ノ≒",
               "instanceId": "016(皮)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "014(皮つきにんにく一片)"
             }
           ]
         },
@@ -22419,6 +22442,10 @@
             {
               "type": "ヲ",
               "instanceId": "016(皮)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "014(皮つきにんにく一片)"
             }
           ]
         },
@@ -22444,10 +22471,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
@@ -22466,10 +22489,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
@@ -22481,10 +22500,6 @@
         {
           "text": "もちろんです。",
           "relations": [
-            {
-              "type": "ガ２",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ２",
               "instanceId": "002(ロボット)"
@@ -22528,6 +22543,10 @@
             {
               "type": "=",
               "instanceId": "005(パスタ全部)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "008(パスタ半分a)"
             }
           ]
         },
@@ -22540,6 +22559,10 @@
             },
             {
               "type": "=",
+              "instanceId": "008(パスタ半分a)"
+            },
+            {
+              "type": "ノ≒",
               "instanceId": "008(パスタ半分a)"
             },
             {
@@ -22557,10 +22580,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
@@ -22570,6 +22589,14 @@
             {
               "type": "ニ",
               "instanceId": "006(鍋)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "005(パスタ全部)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "017(茹でパスタ)"
             }
           ]
         }
@@ -22587,10 +22614,6 @@
           "relations": [
             {
               "type": "ノ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ノ",
               "instanceId": "002(ロボット)"
             }
           ]
@@ -22598,10 +22621,6 @@
         {
           "text": "付けて。",
           "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -22616,10 +22635,6 @@
         {
           "text": "はい",
           "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -22649,10 +22664,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
@@ -22664,10 +22675,6 @@
         {
           "text": "混ぜたら良いよ。",
           "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -22682,10 +22689,6 @@
         {
           "text": "大丈夫そうです。",
           "relations": [
-            {
-              "type": "ガ２",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ２",
               "instanceId": "002(ロボット)"
@@ -22706,10 +22709,6 @@
             },
             {
               "type": "ニ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
               "instanceId": "002(ロボット)"
             }
           ]
@@ -22725,16 +22724,28 @@
         },
         {
           "text": "茹で",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(パスタ半分a)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "005(パスタ全部)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "017(茹でパスタ)"
+            }
+          ]
         },
         {
           "text": "時間は",
-          "relations": [
-            {
-              "type": "修飾",
-              "instanceId": "005(パスタ全部)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "どれぐらいですか？",
@@ -22755,6 +22766,10 @@
             {
               "type": "ガ",
               "instanceId": "005(パスタ全部)"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "008(パスタ半分a)"
             }
           ]
         },
@@ -22779,10 +22794,6 @@
           "relations": [
             {
               "type": "ノ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ノ",
               "instanceId": "002(ロボット)"
             }
           ]
@@ -22797,6 +22808,10 @@
             {
               "type": "=",
               "instanceId": "018(みじん切りにんにく)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "015(皮なしにんにく一片)"
             }
           ]
         },
@@ -22810,6 +22825,10 @@
             {
               "type": "ヲ",
               "instanceId": "018(みじん切りにんにく)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "015(皮なしにんにく一片)"
             }
           ]
         }
@@ -22840,10 +22859,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
@@ -22870,10 +22885,6 @@
             },
             {
               "type": "ニ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
               "instanceId": "002(ロボット)"
             }
           ]
@@ -22890,10 +22901,6 @@
         {
           "text": "ありがとう。",
           "relations": [
-            {
-              "type": "ニ",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ニ",
               "instanceId": "002(ロボット)"
@@ -22925,10 +22932,6 @@
         {
           "text": "ありがとう。",
           "relations": [
-            {
-              "type": "ニ",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ニ",
               "instanceId": "002(ロボット)"
@@ -22963,6 +22966,10 @@
             {
               "type": "=",
               "instanceId": "018(みじん切りにんにく)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "015(皮なしにんにく一片)"
             }
           ]
         }
@@ -23013,10 +23020,6 @@
         {
           "text": "そうですねー",
           "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -23092,6 +23095,10 @@
             {
               "type": "=",
               "instanceId": "017(茹でパスタ)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "008(パスタ半分a)"
             }
           ]
         },
@@ -23101,20 +23108,11 @@
         },
         {
           "text": "切りを",
-          "relations": [
-            {
-              "type": "ヲ",
-              "instanceId": "017(茹でパスタ)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "してくれる？",
           "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -23157,20 +23155,12 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "002(ロボット)"
             }
           ]
         },
         {
           "text": "見てきてくれるかな。",
           "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -23194,10 +23184,6 @@
           "text": "ザルですか？",
           "relations": [
             {
-              "type": "ガ",
-              "instanceId": "011(ザル)"
-            },
-            {
               "type": "=",
               "instanceId": "011(ザル)"
             }
@@ -23213,10 +23199,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
               "instanceId": "001(主人)"
             },
             {
@@ -23239,19 +23221,15 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
+              "instanceId": "002(ロボット)"
             },
             {
-              "type": "ガ",
-              "instanceId": "002(ロボット)"
+              "type": "ヲ",
+              "instanceId": "011(ザル)"
             },
             {
               "type": "ニ",
               "instanceId": "012(棚)"
-            },
-            {
-              "type": "ヲ≒",
-              "instanceId": "011(ザル)"
             }
           ]
         }
@@ -23265,10 +23243,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
               "instanceId": "001(主人)"
             },
             {
@@ -23296,12 +23270,7 @@
         },
         {
           "text": "それ。",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "011(ザル)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "うん",
@@ -23314,12 +23283,7 @@
       "phrases": [
         {
           "text": "これですよね？",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "011(ザル)"
-            }
-          ]
+          "relations": []
         }
       ]
     },
@@ -23331,10 +23295,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
               "instanceId": "001(主人)"
             },
             {
@@ -23361,6 +23321,10 @@
             {
               "type": "ノ",
               "instanceId": "017(茹でパスタ)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "008(パスタ半分a)"
             }
           ]
         },
@@ -23376,10 +23340,6 @@
         {
           "text": "してくれる？",
           "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -23400,10 +23360,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
@@ -23415,10 +23371,6 @@
         {
           "text": "了解です。",
           "relations": [
-            {
-              "type": "ガ２",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ２",
               "instanceId": "002(ロボット)"
@@ -23449,16 +23401,16 @@
             {
               "type": "ノ",
               "instanceId": "017(茹でパスタ)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "008(パスタ半分a)"
             }
           ]
         },
         {
           "text": "したら",
           "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -23479,10 +23431,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
@@ -23492,6 +23440,10 @@
             {
               "type": "ニ",
               "instanceId": "010(フライパン)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "008(パスタ半分a)"
             }
           ]
         }
@@ -23505,10 +23457,6 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
@@ -23520,10 +23468,6 @@
         {
           "text": "分かりました。",
           "relations": [
-            {
-              "type": "ガ２",
-              "instanceId": "001(主人)"
-            },
             {
               "type": "ガ２",
               "instanceId": "002(ロボット)"

@@ -1756,6 +1756,17 @@
             "y2": 727
           },
           "className": "cabinet"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "016(書籍)",
+          "rect": {
+            "x1": 303,
+            "y1": 1044,
+            "x2": 422,
+            "y2": 1080
+          },
+          "className": "book"
         }
       ]
     },
@@ -2405,9 +2416,9 @@
           "imageId": "025",
           "instanceId": "004(辞書)",
           "rect": {
-            "x1": 771,
-            "y1": 517,
-            "x2": 1190,
+            "x1": 769,
+            "y1": 515,
+            "x2": 1191,
             "y2": 995
           },
           "className": "hardback_book"
@@ -2476,9 +2487,9 @@
           "imageId": "026",
           "instanceId": "002(ロボット)",
           "rect": {
-            "x1": 789,
+            "x1": 790,
             "y1": 722,
-            "x2": 1534,
+            "x2": 1535,
             "y2": 1080
           },
           "className": "person"
@@ -3824,6 +3835,17 @@
             "y2": 475
           },
           "className": "laptop_computer"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "001(主人)",
+          "rect": {
+            "x1": 1535,
+            "y1": 0,
+            "x2": 1749,
+            "y2": 172
+          },
+          "className": "person"
         },
         {
           "imageId": "037",
@@ -5684,6 +5706,17 @@
             "y2": 764
           },
           "className": "file_(tool)"
+        },
+        {
+          "imageId": "057",
+          "instanceId": "003(本棚)",
+          "rect": {
+            "x1": 160,
+            "y1": 1,
+            "x2": 275,
+            "y2": 62
+          },
+          "className": "cabinet"
         }
       ]
     },
@@ -5859,6 +5892,17 @@
             "y2": 337
           },
           "className": "monitor_(computer_equipment) computer_monitor"
+        },
+        {
+          "imageId": "059",
+          "instanceId": "003(本棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 1,
+            "x2": 250,
+            "y2": 96
+          },
+          "className": "cabinet"
         }
       ]
     },
@@ -6833,6 +6877,17 @@
             "y2": 599
           },
           "className": "cleat_(for_securing_rope)"
+        },
+        {
+          "imageId": "069",
+          "instanceId": "003(本棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 497,
+            "y2": 274
+          },
+          "className": "cabinet"
         }
       ]
     },
@@ -7287,10 +7342,10 @@
           "imageId": "073",
           "instanceId": "003(本棚)",
           "rect": {
-            "x1": 1269,
+            "x1": 1270,
             "y1": 0,
-            "x2": 1732,
-            "y2": 377
+            "x2": 1920,
+            "y2": 396
           },
           "className": "cabinet"
         }
@@ -12614,7 +12669,7 @@
           "rect": {
             "x1": 818,
             "y1": 0,
-            "x2": 1832,
+            "x2": 1919,
             "y2": 575
           },
           "className": "cabinet"
@@ -13152,6 +13207,17 @@
         },
         {
           "imageId": "131",
+          "instanceId": "009(メモ帳)",
+          "rect": {
+            "x1": 1029,
+            "y1": 678,
+            "x2": 1136,
+            "y2": 718
+          },
+          "className": "notepad"
+        },
+        {
+          "imageId": "131",
           "instanceId": "002(ロボット)",
           "rect": {
             "x1": 745,
@@ -13204,6 +13270,17 @@
             "y2": 863
           },
           "className": "bottle"
+        },
+        {
+          "imageId": "131",
+          "instanceId": "010(ペン)",
+          "rect": {
+            "x1": 1103,
+            "y1": 698,
+            "x2": 1150,
+            "y2": 731
+          },
+          "className": "pen"
         }
       ]
     },
@@ -13869,6 +13946,17 @@
         },
         {
           "imageId": "138",
+          "instanceId": "003(本棚)",
+          "rect": {
+            "x1": 1674,
+            "y1": 0,
+            "x2": 1827,
+            "y2": 30
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "138",
           "instanceId": "013(キャビネット)",
           "rect": {
             "x1": 1579,
@@ -14233,7 +14321,7 @@
           "imageId": "140",
           "instanceId": "013(キャビネット)",
           "rect": {
-            "x1": 1513,
+            "x1": 1520,
             "y1": 0,
             "x2": 1576,
             "y2": 141
@@ -14244,10 +14332,10 @@
           "imageId": "140",
           "instanceId": "003(本棚)",
           "rect": {
-            "x1": 1515,
+            "x1": 515,
             "y1": 0,
             "x2": 1679,
-            "y2": 65
+            "y2": 107
           },
           "className": "cabinet"
         }
@@ -14376,6 +14464,17 @@
             "y2": 166
           },
           "className": "cleat_(for_securing_rope)"
+        },
+        {
+          "imageId": "141",
+          "instanceId": "003(本棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 269,
+            "y2": 120
+          },
+          "className": "cabinet"
         }
       ]
     },
@@ -14617,6 +14716,17 @@
             "y2": 200
           },
           "className": "cleat_(for_securing_rope)"
+        },
+        {
+          "imageId": "143",
+          "instanceId": "003(本棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 428,
+            "y2": 239
+          },
+          "className": "cabinet"
         }
       ]
     },
@@ -14716,8 +14826,8 @@
           "instanceId": "010(ペン)",
           "rect": {
             "x1": 841,
-            "y1": 372,
-            "x2": 877,
+            "y1": 320,
+            "x2": 918,
             "y2": 389
           },
           "className": "pen"
@@ -14743,6 +14853,17 @@
             "y2": 78
           },
           "className": "cabinet"
+        },
+        {
+          "imageId": "144",
+          "instanceId": "007(アダプター)",
+          "rect": {
+            "x1": 767,
+            "y1": 3,
+            "x2": 930,
+            "y2": 214
+          },
+          "className": "cleat_(for_securing_rope)"
         }
       ]
     },
@@ -15846,17 +15967,6 @@
       "boundingBoxes": [
         {
           "imageId": "155",
-          "instanceId": "014(ウェットティッシュケース)",
-          "rect": {
-            "x1": 1024,
-            "y1": 450,
-            "x2": 1158,
-            "y2": 590
-          },
-          "className": "bottle"
-        },
-        {
-          "imageId": "155",
           "instanceId": "001(主人)",
           "rect": {
             "x1": 0,
@@ -15939,17 +16049,6 @@
         },
         {
           "imageId": "156",
-          "instanceId": "014(ウェットティッシュケース)",
-          "rect": {
-            "x1": 1047,
-            "y1": 418,
-            "x2": 1155,
-            "y2": 529
-          },
-          "className": "bottle"
-        },
-        {
-          "imageId": "156",
           "instanceId": "001(主人)",
           "rect": {
             "x1": 0,
@@ -16002,6 +16101,17 @@
             "y2": 568
           },
           "className": "monitor_(computer_equipment) computer_monitor"
+        },
+        {
+          "imageId": "156",
+          "instanceId": "003(本棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 98,
+            "x2": 44,
+            "y2": 189
+          },
+          "className": "cabinet"
         }
       ]
     },
@@ -16029,17 +16139,6 @@
             "y2": 373
           },
           "className": "glass_(drink_container)"
-        },
-        {
-          "imageId": "157",
-          "instanceId": "014(ウェットティッシュケース)",
-          "rect": {
-            "x1": 1483,
-            "y1": 374,
-            "x2": 1648,
-            "y2": 492
-          },
-          "className": "bottle"
         },
         {
           "imageId": "157",
@@ -16180,6 +16279,17 @@
         },
         {
           "imageId": "158",
+          "instanceId": "015(ウェットティッシュ)",
+          "rect": {
+            "x1": 963,
+            "y1": 622,
+            "x2": 1081,
+            "y2": 779
+          },
+          "className": "tissue_paper"
+        },
+        {
+          "imageId": "158",
           "instanceId": "006(パソコン)",
           "rect": {
             "x1": 783,
@@ -16213,17 +16323,6 @@
         },
         {
           "imageId": "158",
-          "instanceId": "014(ウェットティッシュケース)",
-          "rect": {
-            "x1": 1510,
-            "y1": 783,
-            "x2": 1661,
-            "y2": 860
-          },
-          "className": "bottle"
-        },
-        {
-          "imageId": "158",
           "instanceId": "009(メモ帳)",
           "rect": {
             "x1": 353,
@@ -16252,6 +16351,17 @@
             "y1": 0,
             "x2": 968,
             "y2": 40
+          },
+          "className": "cabinet"
+        },
+        {
+          "imageId": "158",
+          "instanceId": "003(本棚)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 204,
+            "y2": 55
           },
           "className": "cabinet"
         }
@@ -16618,17 +16728,6 @@
         },
         {
           "imageId": "162",
-          "instanceId": "014(ウェットティッシュケース)",
-          "rect": {
-            "x1": 1417,
-            "y1": 896,
-            "x2": 1447,
-            "y2": 925
-          },
-          "className": "bottle"
-        },
-        {
-          "imageId": "162",
           "instanceId": "009(メモ帳)",
           "rect": {
             "x1": 0,
@@ -16675,17 +16774,6 @@
             "y2": 228
           },
           "className": "notepad"
-        },
-        {
-          "imageId": "163",
-          "instanceId": "014(ウェットティッシュケース)",
-          "rect": {
-            "x1": 1493,
-            "y1": 874,
-            "x2": 1564,
-            "y2": 932
-          },
-          "className": "bottle"
         },
         {
           "imageId": "163",
@@ -16815,17 +16903,6 @@
         },
         {
           "imageId": "164",
-          "instanceId": "014(ウェットティッシュケース)",
-          "rect": {
-            "x1": 1467,
-            "y1": 741,
-            "x2": 1639,
-            "y2": 823
-          },
-          "className": "bottle"
-        },
-        {
-          "imageId": "164",
           "instanceId": "006(パソコン)",
           "rect": {
             "x1": 857,
@@ -16949,17 +17026,6 @@
             "y2": 451
           },
           "className": "person"
-        },
-        {
-          "imageId": "165",
-          "instanceId": "014(ウェットティッシュケース)",
-          "rect": {
-            "x1": 1463,
-            "y1": 702,
-            "x2": 1631,
-            "y2": 794
-          },
-          "className": "bottle"
         },
         {
           "imageId": "165",
@@ -17641,6 +17707,10 @@
             {
               "type": "=",
               "instanceId": "005(グラス)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "008(水入りグラス)"
             }
           ]
         },
@@ -17663,6 +17733,10 @@
             {
               "type": "ニ",
               "instanceId": "005(グラス)"
+            },
+            {
+              "type": "ニ≒",
+              "instanceId": "008(水入りグラス)"
             }
           ]
         }
@@ -17974,6 +18048,10 @@
             {
               "type": "ヲ",
               "instanceId": "008(水入りグラス)"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "005(グラス)"
             }
           ]
         },
@@ -18068,8 +18146,16 @@
               "instanceId": "009(メモ帳)"
             },
             {
+              "type": "ニ≒",
+              "instanceId": "010(ペン)"
+            },
+            {
               "type": "デ≒",
               "instanceId": "009(メモ帳)"
+            },
+            {
+              "type": "デ≒",
+              "instanceId": "010(ペン)"
             }
           ]
         },
@@ -18099,7 +18185,7 @@
           "text": "帳が",
           "relations": [
             {
-              "type": "=≒",
+              "type": "=",
               "instanceId": "009(メモ帳)"
             }
           ]
@@ -18107,6 +18193,10 @@
         {
           "text": "あったと",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "009(メモ帳)"
+            },
             {
               "type": "ニ",
               "instanceId": "013(キャビネット)"
@@ -18126,14 +18216,23 @@
           "text": "ペンと",
           "relations": [
             {
-              "type": "=≒",
+              "type": "=",
               "instanceId": "010(ペン)"
             }
           ]
         },
         {
           "text": "一緒に",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "010(ペン)"
+            },
+            {
+              "type": "ト",
+              "instanceId": "009(メモ帳)"
+            }
+          ]
         },
         {
           "text": "持ってきますね。",
@@ -18144,7 +18243,11 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "009(メモ帳)"
+              "instanceId": "010(ペン)"
+            },
+            {
+              "type": "カラ",
+              "instanceId": "013(キャビネット)"
             }
           ]
         }
@@ -18177,6 +18280,14 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(メモ帳)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "010(ペン)"
             }
           ]
         },
@@ -18186,6 +18297,10 @@
             {
               "type": "=",
               "instanceId": "009(メモ帳)"
+            },
+            {
+              "type": "=",
+              "instanceId": "010(ペン)"
             }
           ]
         },
@@ -18195,6 +18310,10 @@
             {
               "type": "デ",
               "instanceId": "009(メモ帳)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "010(ペン)"
             }
           ]
         }
@@ -18209,7 +18328,16 @@
         },
         {
           "text": "ぴったりだね。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "009(メモ帳)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "010(ペン)"
+            }
+          ]
         },
         {
           "text": "度々",
@@ -18280,10 +18408,6 @@
         {
           "text": "ものって",
           "relations": [
-            {
-              "type": "=≒",
-              "instanceId": "014(ウェットティッシュケース)"
-            },
             {
               "type": "=≒",
               "instanceId": "015(ウェットティッシュ)"

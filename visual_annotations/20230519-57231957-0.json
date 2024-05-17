@@ -8781,6 +8781,10 @@
           "text": "手伝って。",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ２",
               "instanceId": "001(主人)"
             }
@@ -8795,6 +8799,10 @@
           "text": "はい",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ニ",
               "instanceId": "001(主人)"
             }
@@ -8804,7 +8812,7 @@
           "text": "分かりました。",
           "relations": [
             {
-              "type": "ガ",
+              "type": "ガ２",
               "instanceId": "002(ロボット)"
             }
           ]
@@ -8857,6 +8865,10 @@
         {
           "text": "チェックしてくれる？",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ヲ",
               "instanceId": "008(冷蔵庫)"
@@ -8970,6 +8982,10 @@
           "text": "持ってきておいて。",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "003(パック入り豆腐)"
             },
@@ -8992,6 +9008,10 @@
           "text": "はい",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ニ",
               "instanceId": "001(主人)"
             }
@@ -9009,6 +9029,10 @@
         {
           "text": "お持ちしました。",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ヲ",
               "instanceId": "003(パック入り豆腐)"
@@ -9035,6 +9059,10 @@
         {
           "text": "ありがとう。",
           "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
@@ -9075,6 +9103,10 @@
           "text": "切ってくれる？",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "003(パック入り豆腐)"
             },
@@ -9097,6 +9129,10 @@
           "text": "はい",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ニ",
               "instanceId": "001(主人)"
             }
@@ -9104,7 +9140,12 @@
         },
         {
           "text": "分かりました。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
         }
       ]
     },
@@ -9134,6 +9175,10 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -9158,6 +9203,10 @@
         {
           "text": "ありがとう。",
           "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
@@ -9198,6 +9247,10 @@
           "text": "移して。",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "014(さいの目切り豆腐)"
             },
@@ -9219,6 +9272,10 @@
         {
           "text": "はい",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ニ",
               "instanceId": "001(主人)"
@@ -9255,6 +9312,10 @@
           "text": "解凍してくれる？",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "006(パック入り冷凍ネギ)"
             },
@@ -9275,7 +9336,12 @@
       "phrases": [
         {
           "text": "分かりました。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
+            }
+          ]
         }
       ]
     },
@@ -9298,6 +9364,10 @@
         {
           "text": "解凍してきます。",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ヲ",
               "instanceId": "006(パック入り冷凍ネギ)"
@@ -9327,6 +9397,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -9341,6 +9415,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -9353,8 +9431,16 @@
           "text": "解凍できました。",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "006(パック入り冷凍ネギ)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "009(電子レンジ)"
             },
             {
               "type": "ヲ≒",
@@ -9374,6 +9460,10 @@
         {
           "text": "ありがとう。",
           "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
@@ -9414,6 +9504,10 @@
           "text": "移してくれる？",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "007(パック入り解凍ネギ)"
             },
@@ -9431,6 +9525,10 @@
         {
           "text": "はい",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ニ",
               "instanceId": "001(主人)"
@@ -9458,6 +9556,10 @@
         {
           "text": "ありがとう。",
           "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"

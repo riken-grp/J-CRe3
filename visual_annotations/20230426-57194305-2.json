@@ -7415,35 +7415,22 @@
           "text": "全部は",
           "relations": [
             {
-              "type": "=",
+              "type": "ノ",
               "instanceId": "010(ピンク菓子)"
             },
             {
-              "type": "=",
+              "type": "ノ",
               "instanceId": "011(ポテト菓子)"
             },
             {
-              "type": "=",
+              "type": "ノ",
               "instanceId": "014(袋菓子全部)"
             }
           ]
         },
         {
           "text": "多いかな。",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "010(ピンク菓子)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "011(ポテト菓子)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "014(袋菓子全部)"
-            }
-          ]
+          "relations": []
         }
       ]
     },
@@ -7612,20 +7599,8 @@
           "text": "残りは",
           "relations": [
             {
-              "type": "ノ",
-              "instanceId": "010(ピンク菓子)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "011(ポテト菓子)"
-            },
-            {
-              "type": "ノ",
+              "type": "=",
               "instanceId": "012(残り)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "014(袋菓子全部)"
             }
           ]
         },
@@ -7635,24 +7610,7 @@
         },
         {
           "text": "お菓子の",
-          "relations": [
-            {
-              "type": "=≒",
-              "instanceId": "010(ピンク菓子)"
-            },
-            {
-              "type": "=≒",
-              "instanceId": "011(ポテト菓子)"
-            },
-            {
-              "type": "=≒",
-              "instanceId": "012(残り)"
-            },
-            {
-              "type": "=≒",
-              "instanceId": "014(袋菓子全部)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "容器に",
@@ -7673,6 +7631,10 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "012(残り)"
             },
             {
               "type": "ニ",
@@ -7722,6 +7684,10 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "012(残り)"
             },
             {
               "type": "ニ",
@@ -7810,6 +7776,10 @@
               "instanceId": "002(ロボット)"
             },
             {
+              "type": "ヲ",
+              "instanceId": "009(蓋閉容器)"
+            },
+            {
               "type": "ニ",
               "instanceId": "006(戸棚)"
             },
@@ -7819,7 +7789,7 @@
             },
             {
               "type": "ヲ≒",
-              "instanceId": "009(蓋閉容器)"
+              "instanceId": "005(蓋)"
             }
           ]
         }

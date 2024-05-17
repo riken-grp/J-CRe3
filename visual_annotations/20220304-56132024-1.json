@@ -654,6 +654,17 @@
             "y2": 1079
           },
           "className": "dining_table"
+        },
+        {
+          "imageId": "008",
+          "instanceId": "014(テーブル端)",
+          "rect": {
+            "x1": 1271,
+            "y1": 640,
+            "x2": 1628,
+            "y2": 923
+          },
+          "className": "region"
         }
       ]
     },
@@ -730,12 +741,23 @@
           "imageId": "009",
           "instanceId": "13",
           "rect": {
-            "x1": 894,
-            "y1": 318,
-            "x2": 1667,
+            "x1": 893,
+            "y1": 314,
+            "x2": 1666,
             "y2": 1078
           },
           "className": "dining_table"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "014(テーブル端)",
+          "rect": {
+            "x1": 1214,
+            "y1": 636,
+            "x2": 1636,
+            "y2": 925
+          },
+          "className": "region"
         }
       ]
     },
@@ -796,6 +818,17 @@
             "y2": 1048
           },
           "className": "dining_table"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "014(テーブル端)",
+          "rect": {
+            "x1": 715,
+            "y1": 399,
+            "x2": 1132,
+            "y2": 714
+          },
+          "className": "region"
         }
       ]
     },
@@ -856,6 +889,17 @@
             "y2": 1072
           },
           "className": "dining_table"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "014(テーブル端)",
+          "rect": {
+            "x1": 1118,
+            "y1": 481,
+            "x2": 1527,
+            "y2": 803
+          },
+          "className": "region"
         }
       ]
     },
@@ -3214,7 +3258,7 @@
       "boundingBoxes": [
         {
           "imageId": "051",
-          "instanceId": "7",
+          "instanceId": "015(キャップ無減ボトル)",
           "rect": {
             "x1": 1099,
             "y1": 835,
@@ -3296,7 +3340,7 @@
         },
         {
           "imageId": "052",
-          "instanceId": "7",
+          "instanceId": "015(キャップ無減ボトル)",
           "rect": {
             "x1": 1110,
             "y1": 839,
@@ -3378,7 +3422,7 @@
         },
         {
           "imageId": "053",
-          "instanceId": "7",
+          "instanceId": "015(キャップ無減ボトル)",
           "rect": {
             "x1": 1057,
             "y1": 863,
@@ -3569,7 +3613,7 @@
             "x1": 1058,
             "y1": 643,
             "x2": 1115,
-            "y2": 701
+            "y2": 722
           },
           "className": "cup"
         },
@@ -3665,6 +3709,17 @@
             "y2": 1079
           },
           "className": "dining_table"
+        },
+        {
+          "imageId": "056",
+          "instanceId": "9",
+          "rect": {
+            "x1": 973,
+            "y1": 709,
+            "x2": 1030,
+            "y2": 790
+          },
+          "className": "cup"
         }
       ]
     },
@@ -4343,7 +4398,7 @@
         },
         {
           "imageId": "070",
-          "instanceId": "7",
+          "instanceId": "016(再キャップ減ボトル)",
           "rect": {
             "x1": 605,
             "y1": 628,
@@ -4392,7 +4447,7 @@
         },
         {
           "imageId": "071",
-          "instanceId": "7",
+          "instanceId": "016(再キャップ減ボトル)",
           "rect": {
             "x1": 783,
             "y1": 596,
@@ -4452,7 +4507,7 @@
         },
         {
           "imageId": "072",
-          "instanceId": "7",
+          "instanceId": "016(再キャップ減ボトル)",
           "rect": {
             "x1": 828,
             "y1": 496,
@@ -4887,7 +4942,7 @@
         },
         {
           "imageId": "082",
-          "instanceId": "12",
+          "instanceId": "10",
           "rect": {
             "x1": 975,
             "y1": 574,
@@ -4979,7 +5034,7 @@
       "boundingBoxes": [
         {
           "imageId": "085",
-          "instanceId": "12",
+          "instanceId": "10",
           "rect": {
             "x1": 678,
             "y1": 613,
@@ -6502,7 +6557,16 @@
         },
         {
           "text": "もの",
-          "relations": []
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "3"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "4"
+            }
+          ]
         },
         {
           "text": "あるかしら？",
@@ -6554,6 +6618,10 @@
             {
               "type": "ガ",
               "instanceId": "4"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "014(テーブル端)"
             }
           ]
         }
@@ -6595,7 +6663,20 @@
       "phrases": [
         {
           "text": "飲み物は",
-          "relations": []
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "6"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "7"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "8"
+            }
+          ]
         },
         {
           "text": "ジュースが",
@@ -6729,6 +6810,10 @@
             {
               "type": "=",
               "instanceId": "7"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "015(キャップ無減ボトル)"
             }
           ]
         },
@@ -6763,6 +6848,10 @@
             {
               "type": "ニ",
               "instanceId": "5"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "015(キャップ無減ボトル)"
             }
           ]
         }
@@ -6781,6 +6870,10 @@
             {
               "type": "=",
               "instanceId": "7"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "015(キャップ無減ボトル)"
             }
           ]
         },
@@ -6815,6 +6908,10 @@
             {
               "type": "ニ",
               "instanceId": "2"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "015(キャップ無減ボトル)"
             }
           ]
         }
@@ -6837,6 +6934,10 @@
             {
               "type": "ガ２",
               "instanceId": "2"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "015(キャップ無減ボトル)"
             }
           ]
         }
@@ -6851,6 +6952,10 @@
             {
               "type": "=",
               "instanceId": "7"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "015(キャップ無減ボトル)"
             }
           ]
         },
@@ -6877,6 +6982,10 @@
             {
               "type": "ニ",
               "instanceId": "9"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "015(キャップ無減ボトル)"
             }
           ]
         }
@@ -7018,10 +7127,6 @@
             {
               "type": "=≒",
               "instanceId": "10"
-            },
-            {
-              "type": "=≒",
-              "instanceId": "12"
             }
           ]
         },
@@ -7053,6 +7158,10 @@
             {
               "type": "ニ",
               "instanceId": "1"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "10"
             }
           ]
         }
@@ -7096,12 +7205,12 @@
               "instanceId": "2"
             },
             {
-              "type": "ヲ",
-              "instanceId": "10"
-            },
-            {
               "type": "ニ",
               "instanceId": "1"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "10"
             }
           ]
         }
@@ -7176,7 +7285,7 @@
           "text": "気が",
           "relations": [
             {
-              "type": "ノ",
+              "type": "ノ？",
               "instanceId": "2"
             }
           ]

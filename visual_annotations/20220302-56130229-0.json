@@ -2377,7 +2377,7 @@
       "boundingBoxes": [
         {
           "imageId": "044",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 1164,
             "y1": 37,
@@ -2426,7 +2426,7 @@
       "boundingBoxes": [
         {
           "imageId": "045",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 1151,
             "y1": 44,
@@ -2475,7 +2475,7 @@
       "boundingBoxes": [
         {
           "imageId": "046",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 1004,
             "y1": 212,
@@ -2524,7 +2524,7 @@
       "boundingBoxes": [
         {
           "imageId": "047",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 828,
             "y1": 178,
@@ -2562,7 +2562,7 @@
       "boundingBoxes": [
         {
           "imageId": "048",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 810,
             "y1": 56,
@@ -2611,7 +2611,7 @@
       "boundingBoxes": [
         {
           "imageId": "049",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 859,
             "y1": 155,
@@ -2660,7 +2660,7 @@
         },
         {
           "imageId": "050",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 796,
             "y1": 250,
@@ -2720,7 +2720,7 @@
         },
         {
           "imageId": "051",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 831,
             "y1": 569,
@@ -2769,7 +2769,7 @@
         },
         {
           "imageId": "052",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 733,
             "y1": 585,
@@ -2818,7 +2818,7 @@
         },
         {
           "imageId": "053",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 799,
             "y1": 815,
@@ -2867,7 +2867,7 @@
         },
         {
           "imageId": "054",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 1063,
             "y1": 782,
@@ -2916,7 +2916,7 @@
         },
         {
           "imageId": "055",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 989,
             "y1": 981,
@@ -2954,7 +2954,7 @@
       "boundingBoxes": [
         {
           "imageId": "056",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 873,
             "y1": 1041,
@@ -3003,7 +3003,7 @@
       "boundingBoxes": [
         {
           "imageId": "057",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 739,
             "y1": 968,
@@ -3052,7 +3052,7 @@
       "boundingBoxes": [
         {
           "imageId": "058",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 746,
             "y1": 961,
@@ -3101,7 +3101,7 @@
       "boundingBoxes": [
         {
           "imageId": "059",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 784,
             "y1": 1018,
@@ -3150,7 +3150,7 @@
         },
         {
           "imageId": "060",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 667,
             "y1": 855,
@@ -3199,7 +3199,7 @@
         },
         {
           "imageId": "061",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 979,
             "y1": 752,
@@ -3237,7 +3237,7 @@
       "boundingBoxes": [
         {
           "imageId": "062",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 1373,
             "y1": 626,
@@ -3340,7 +3340,7 @@
         },
         {
           "imageId": "065",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 1199,
             "y1": 895,
@@ -3367,7 +3367,7 @@
         },
         {
           "imageId": "066",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 1036,
             "y1": 844,
@@ -3405,7 +3405,7 @@
         },
         {
           "imageId": "067",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 959,
             "y1": 742,
@@ -3454,7 +3454,7 @@
         },
         {
           "imageId": "068",
-          "instanceId": "4",
+          "instanceId": "008(空ボトル)",
           "rect": {
             "x1": 867,
             "y1": 543,
@@ -3797,6 +3797,10 @@
             {
               "type": "=",
               "instanceId": "4"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "008(空ボトル)"
             }
           ]
         },
@@ -3814,6 +3818,10 @@
             {
               "type": "ニ",
               "instanceId": "7"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "008(空ボトル)"
             }
           ]
         },
@@ -3831,6 +3839,10 @@
             {
               "type": "ヲ",
               "instanceId": "4"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "008(空ボトル)"
             }
           ]
         }
@@ -3857,6 +3869,10 @@
             {
               "type": "ヲ",
               "instanceId": "4"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "008(空ボトル)"
             }
           ]
         },
@@ -3957,7 +3973,7 @@
           "text": "こちらに",
           "relations": [
             {
-              "type": "ニ",
+              "type": "=",
               "instanceId": "5"
             }
           ]
@@ -3972,6 +3988,10 @@
             {
               "type": "ヲ",
               "instanceId": "3"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "5"
             }
           ]
         }
@@ -4016,6 +4036,10 @@
             {
               "type": "=",
               "instanceId": "4"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "008(空ボトル)"
             }
           ]
         },
@@ -4033,6 +4057,10 @@
             {
               "type": "ニ",
               "instanceId": "1"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "008(空ボトル)"
             }
           ]
         }
@@ -4069,6 +4097,10 @@
             {
               "type": "ヲ",
               "instanceId": "4"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "008(空ボトル)"
             }
           ]
         },
@@ -4082,6 +4114,10 @@
             {
               "type": "ヲ",
               "instanceId": "4"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "008(空ボトル)"
             }
           ]
         },
@@ -4091,6 +4127,10 @@
             {
               "type": "ニ",
               "instanceId": "4"
+            },
+            {
+              "type": "ニ≒",
+              "instanceId": "008(空ボトル)"
             }
           ]
         },
@@ -4161,12 +4201,12 @@
               "instanceId": "2"
             },
             {
-              "type": "ヲ",
-              "instanceId": "4"
-            },
-            {
               "type": "ニ",
               "instanceId": "1"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "4"
             }
           ]
         },
@@ -4184,6 +4224,10 @@
             {
               "type": "ガ",
               "instanceId": "4"
+            },
+            {
+              "type": "ガ≒",
+              "instanceId": "008(空ボトル)"
             }
           ]
         },
@@ -4196,11 +4240,11 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "4"
+              "instanceId": "008(空ボトル)"
             },
             {
-              "type": "ニ",
-              "instanceId": "6"
+              "type": "ヲ≒",
+              "instanceId": "4"
             }
           ]
         },
@@ -4218,6 +4262,10 @@
           "relations": [
             {
               "type": "=",
+              "instanceId": "008(空ボトル)"
+            },
+            {
+              "type": "=≒",
               "instanceId": "4"
             }
           ]
@@ -4235,6 +4283,10 @@
             },
             {
               "type": "ヲ",
+              "instanceId": "008(空ボトル)"
+            },
+            {
+              "type": "ヲ≒",
               "instanceId": "4"
             }
           ]
@@ -4249,6 +4301,10 @@
           "relations": [
             {
               "type": "=",
+              "instanceId": "008(空ボトル)"
+            },
+            {
+              "type": "=≒",
               "instanceId": "4"
             }
           ]
@@ -4259,12 +4315,7 @@
         },
         {
           "text": "ペットボトル",
-          "relations": [
-            {
-              "type": "=≒",
-              "instanceId": "4"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "専用の",
@@ -4306,11 +4357,15 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "4"
+              "instanceId": "008(空ボトル)"
             },
             {
               "type": "ニ",
               "instanceId": "6"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "4"
             }
           ]
         },
@@ -4360,6 +4415,10 @@
           "relations": [
             {
               "type": "=",
+              "instanceId": "008(空ボトル)"
+            },
+            {
+              "type": "=≒",
               "instanceId": "4"
             }
           ]
@@ -4373,11 +4432,15 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "4"
+              "instanceId": "008(空ボトル)"
             },
             {
               "type": "ニ",
               "instanceId": "6"
+            },
+            {
+              "type": "ヲ≒",
+              "instanceId": "4"
             }
           ]
         },

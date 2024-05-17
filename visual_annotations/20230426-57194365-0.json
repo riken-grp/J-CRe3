@@ -1260,6 +1260,17 @@
       "boundingBoxes": [
         {
           "imageId": "034",
+          "instanceId": "011(玄関)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 416,
+            "y2": 597
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "034",
           "instanceId": "004(書類)",
           "rect": {
             "x1": 956,
@@ -1296,6 +1307,17 @@
     {
       "imageId": "035",
       "boundingBoxes": [
+        {
+          "imageId": "035",
+          "instanceId": "011(玄関)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 399,
+            "y2": 600
+          },
+          "className": "region"
+        },
         {
           "imageId": "035",
           "instanceId": "004(書類)",
@@ -1358,6 +1380,17 @@
         },
         {
           "imageId": "036",
+          "instanceId": "011(玄関)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 388,
+            "y2": 594
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "036",
           "instanceId": "001(主人)",
           "rect": {
             "x1": 650,
@@ -1393,6 +1426,17 @@
             "y2": 742
           },
           "className": "backpack"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "011(玄関)",
+          "rect": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 376,
+            "y2": 603
+          },
+          "className": "region"
         },
         {
           "imageId": "037",
@@ -1487,8 +1531,8 @@
           "rect": {
             "x1": 0,
             "y1": 0,
-            "x2": 359,
-            "y2": 585
+            "x2": 375,
+            "y2": 597
           },
           "className": "region"
         },
@@ -1536,8 +1580,8 @@
           "rect": {
             "x1": 0,
             "y1": 0,
-            "x2": 364,
-            "y2": 559
+            "x2": 383,
+            "y2": 594
           },
           "className": "region"
         },
@@ -1574,8 +1618,8 @@
           "rect": {
             "x1": 0,
             "y1": 0,
-            "x2": 395,
-            "y2": 552
+            "x2": 423,
+            "y2": 597
           },
           "className": "region"
         },
@@ -1630,17 +1674,6 @@
         },
         {
           "imageId": "042",
-          "instanceId": "011(玄関)",
-          "rect": {
-            "x1": 0,
-            "y1": 0,
-            "x2": 563,
-            "y2": 508
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "042",
           "instanceId": "001(主人)",
           "rect": {
             "x1": 741,
@@ -1665,17 +1698,6 @@
             "y2": 769
           },
           "className": "book"
-        },
-        {
-          "imageId": "043",
-          "instanceId": "011(玄関)",
-          "rect": {
-            "x1": 394,
-            "y1": 0,
-            "x2": 1009,
-            "y2": 500
-          },
-          "className": "region"
         },
         {
           "imageId": "043",
@@ -1704,17 +1726,6 @@
     {
       "imageId": "044",
       "boundingBoxes": [
-        {
-          "imageId": "044",
-          "instanceId": "011(玄関)",
-          "rect": {
-            "x1": 374,
-            "y1": 0,
-            "x2": 1236,
-            "y2": 659
-          },
-          "className": "region"
-        },
         {
           "imageId": "044",
           "instanceId": "005(傘)",
@@ -2280,17 +2291,6 @@
             "y2": 1080
           },
           "className": "umbrella"
-        },
-        {
-          "imageId": "056",
-          "instanceId": "012(ここ)",
-          "rect": {
-            "x1": 834,
-            "y1": 910,
-            "x2": 984,
-            "y2": 985
-          },
-          "className": "region"
         }
       ]
     },
@@ -2323,10 +2323,10 @@
           "imageId": "057",
           "instanceId": "001(主人)",
           "rect": {
-            "x1": 534,
-            "y1": 367,
-            "x2": 860,
-            "y2": 760
+            "x1": 531,
+            "y1": 371,
+            "x2": 857,
+            "y2": 764
           },
           "className": "person"
         },
@@ -2351,17 +2351,6 @@
             "y2": 1080
           },
           "className": "umbrella"
-        },
-        {
-          "imageId": "057",
-          "instanceId": "012(ここ)",
-          "rect": {
-            "x1": 888,
-            "y1": 730,
-            "x2": 1011,
-            "y2": 911
-          },
-          "className": "region"
         }
       ]
     },
@@ -2411,17 +2400,6 @@
             "y2": 644
           },
           "className": "book"
-        },
-        {
-          "imageId": "058",
-          "instanceId": "012(ここ)",
-          "rect": {
-            "x1": 989,
-            "y1": 834,
-            "x2": 1101,
-            "y2": 960
-          },
-          "className": "region"
         }
       ]
     },
@@ -3016,14 +2994,14 @@
       "boundingBoxes": [
         {
           "imageId": "075",
-          "instanceId": "008(コーヒースティック)",
+          "instanceId": "013(コーヒー粉)",
           "rect": {
-            "x1": 933,
-            "y1": 831,
-            "x2": 1028,
-            "y2": 919
+            "x1": 978,
+            "y1": 932,
+            "x2": 1041,
+            "y2": 968
           },
-          "className": "chocolate_bar"
+          "className": "cocoa_(beverage)"
         },
         {
           "imageId": "075",
@@ -3065,17 +3043,6 @@
         },
         {
           "imageId": "076",
-          "instanceId": "008(コーヒースティック)",
-          "rect": {
-            "x1": 993,
-            "y1": 859,
-            "x2": 1004,
-            "y2": 878
-          },
-          "className": "chocolate_bar"
-        },
-        {
-          "imageId": "076",
           "instanceId": "002(ロボット)",
           "rect": {
             "x1": 477,
@@ -3090,6 +3057,17 @@
     {
       "imageId": "077",
       "boundingBoxes": [
+        {
+          "imageId": "077",
+          "instanceId": "013(コーヒー粉)",
+          "rect": {
+            "x1": 963,
+            "y1": 932,
+            "x2": 1018,
+            "y2": 966
+          },
+          "className": "cocoa_(beverage)"
+        },
         {
           "imageId": "077",
           "instanceId": "007(電気ポット)",
@@ -3119,6 +3097,17 @@
       "boundingBoxes": [
         {
           "imageId": "078",
+          "instanceId": "013(コーヒー粉)",
+          "rect": {
+            "x1": 954,
+            "y1": 933,
+            "x2": 1022,
+            "y2": 973
+          },
+          "className": "cocoa_(beverage)"
+        },
+        {
+          "imageId": "078",
           "instanceId": "007(電気ポット)",
           "rect": {
             "x1": 734,
@@ -3144,6 +3133,17 @@
     {
       "imageId": "079",
       "boundingBoxes": [
+        {
+          "imageId": "079",
+          "instanceId": "013(コーヒー粉)",
+          "rect": {
+            "x1": 963,
+            "y1": 921,
+            "x2": 1026,
+            "y2": 961
+          },
+          "className": "cocoa_(beverage)"
+        },
         {
           "imageId": "079",
           "instanceId": "007(電気ポット)",
@@ -4647,11 +4647,7 @@
           "text": "傘を",
           "relations": [
             {
-              "type": "=",
-              "instanceId": "005(傘)"
-            },
-            {
-              "type": "ガ≒",
+              "type": "=≒",
               "instanceId": "005(傘)"
             }
           ]
@@ -4662,10 +4658,6 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "005(傘)"
             },
             {
               "type": "ニ",
@@ -4683,10 +4675,6 @@
             {
               "type": "=",
               "instanceId": "003(リュック)"
-            },
-            {
-              "type": "=",
-              "instanceId": "012(ここ)"
             }
           ]
         },
@@ -4698,16 +4686,8 @@
               "instanceId": "002(ロボット)"
             },
             {
-              "type": "ヲ",
-              "instanceId": "005(傘)"
-            },
-            {
               "type": "ニ",
               "instanceId": "003(リュック)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "012(ここ)"
             }
           ]
         }
@@ -4744,10 +4724,6 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "005(傘)"
             },
             {
               "type": "カラ",
@@ -4796,10 +4772,6 @@
           "relations": [
             {
               "type": "=",
-              "instanceId": "005(傘)"
-            },
-            {
-              "type": "ガ≒",
               "instanceId": "005(傘)"
             }
           ]
@@ -4884,10 +4856,6 @@
             {
               "type": "ニ",
               "instanceId": "003(リュック)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "012(ここ)"
             }
           ]
         },
@@ -5084,11 +5052,11 @@
             },
             {
               "type": "ヲ≒",
-              "instanceId": "008(コーヒースティック)"
+              "instanceId": "010(減コーヒー)"
             },
             {
               "type": "ヲ≒",
-              "instanceId": "010(減コーヒー)"
+              "instanceId": "013(コーヒー粉)"
             }
           ]
         }
@@ -5132,11 +5100,11 @@
             },
             {
               "type": "ガ≒",
-              "instanceId": "008(コーヒースティック)"
+              "instanceId": "010(減コーヒー)"
             },
             {
               "type": "ガ≒",
-              "instanceId": "010(減コーヒー)"
+              "instanceId": "013(コーヒー粉)"
             }
           ]
         }

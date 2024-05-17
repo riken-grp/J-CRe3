@@ -2293,6 +2293,10 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "カラ",
+              "instanceId": "004(テーブル)"
             }
           ]
         }
@@ -2365,11 +2369,21 @@
         },
         {
           "text": "自分で",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "001(主人)"
+            }
+          ]
         },
         {
           "text": "やるから",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            }
+          ]
         },
         {
           "text": "大丈夫。",

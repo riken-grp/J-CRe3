@@ -839,17 +839,6 @@
         },
         {
           "imageId": "007",
-          "instanceId": "004(テーブルの上)",
-          "rect": {
-            "x1": 1193,
-            "y1": 529,
-            "x2": 1824,
-            "y2": 1079
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "007",
           "instanceId": "001(主人)",
           "rect": {
             "x1": 771,
@@ -2353,7 +2342,7 @@
           "instanceId": "007(真ん中)",
           "rect": {
             "x1": 861,
-            "y1": 450,
+            "y1": 406,
             "x2": 1218,
             "y2": 619
           },
@@ -2512,7 +2501,7 @@
           "instanceId": "007(真ん中)",
           "rect": {
             "x1": 707,
-            "y1": 429,
+            "y1": 405,
             "x2": 1120,
             "y2": 630
           },
@@ -2572,7 +2561,7 @@
           "instanceId": "007(真ん中)",
           "rect": {
             "x1": 715,
-            "y1": 435,
+            "y1": 415,
             "x2": 1057,
             "y2": 608
           },
@@ -3010,6 +2999,17 @@
             "y2": 963
           },
           "className": "person"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "007(真ん中)",
+          "rect": {
+            "x1": 1293,
+            "y1": 353,
+            "x2": 1747,
+            "y2": 584
+          },
+          "className": "region"
         }
       ]
     },
@@ -9014,17 +9014,6 @@
         },
         {
           "imageId": "102",
-          "instanceId": "015(こちら)",
-          "rect": {
-            "x1": 906,
-            "y1": 811,
-            "x2": 1248,
-            "y2": 979
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "102",
           "instanceId": "003(テーブル)",
           "rect": {
             "x1": 870,
@@ -9125,11 +9114,20 @@
       "phrases": [
         {
           "text": "テーブルの",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(テーブル)"
+            }
+          ]
         },
         {
           "text": "上を",
           "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "003(テーブル)"
+            },
             {
               "type": "=",
               "instanceId": "004(テーブルの上)"
@@ -9183,6 +9181,10 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ２",
+              "instanceId": "001(主人)"
             }
           ]
         }
@@ -9207,7 +9209,12 @@
       "phrases": [
         {
           "text": "コップは",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "005(コップ)"
+            }
+          ]
         },
         {
           "text": "こっちで",
@@ -9224,12 +9231,21 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(コップ)"
             }
           ]
         },
         {
           "text": "それ以外の",
-          "relations": []
+          "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "005(コップ)"
+            }
+          ]
         },
         {
           "text": "ものは",
@@ -9385,6 +9401,10 @@
           "text": "ある",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "008(電気ケトル)"
+            },
+            {
               "type": "ニ",
               "instanceId": "007(真ん中)"
             }
@@ -9396,7 +9416,12 @@
         },
         {
           "text": "ケトルと",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "008(電気ケトル)"
+            }
+          ]
         },
         {
           "text": "花瓶は",
@@ -9416,6 +9441,10 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "008(電気ケトル)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "009(花瓶)"
             },
             {
@@ -9430,6 +9459,14 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(電気ケトル)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(花瓶)"
             }
           ]
         },
@@ -9461,7 +9498,12 @@
         },
         {
           "text": "ケトルと",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "008(電気ケトル)"
+            }
+          ]
         },
         {
           "text": "花瓶には",
@@ -9481,6 +9523,10 @@
             },
             {
               "type": "ニ",
+              "instanceId": "008(電気ケトル)"
+            },
+            {
+              "type": "ニ",
               "instanceId": "009(花瓶)"
             }
           ]
@@ -9496,7 +9542,12 @@
         },
         {
           "text": "ポテトチップスは",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "010(ポテトチップス)"
+            }
+          ]
         },
         {
           "text": "その",
@@ -9530,6 +9581,10 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "010(ポテトチップス)"
             },
             {
               "type": "ニ",
@@ -9579,16 +9634,34 @@
             {
               "type": "ノ",
               "instanceId": "011(箱)"
+            },
+            {
+              "type": "=",
+              "instanceId": "016(箱の中)"
             }
           ]
         },
         {
           "text": "バナナ",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "012(バナナ)"
+            }
+          ]
         },
         {
           "text": "入っていますが、",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "012(バナナ)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "016(箱の中)"
+            }
+          ]
         },
         {
           "text": "どうしますか？",
@@ -9596,6 +9669,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "012(バナナ)"
             }
           ]
         }
@@ -9641,12 +9718,29 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "010(ポテトチップス)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "016(箱の中)"
             }
           ]
         },
         {
           "text": "一緒に",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "010(ポテトチップス)"
+            },
+            {
+              "type": "ト",
+              "instanceId": "012(バナナ)"
+            }
+          ]
         },
         {
           "text": "持って行って",
@@ -9654,6 +9748,14 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "010(ポテトチップス)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "012(バナナ)"
             },
             {
               "type": "ニ",
@@ -9696,6 +9798,10 @@
               "instanceId": "002(ロボット)"
             },
             {
+              "type": "ヲ",
+              "instanceId": "010(ポテトチップス)"
+            },
+            {
               "type": "ニ",
               "instanceId": "011(箱)"
             }
@@ -9710,7 +9816,15 @@
             },
             {
               "type": "ヲ",
+              "instanceId": "010(ポテトチップス)"
+            },
+            {
+              "type": "ヲ",
               "instanceId": "011(箱)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "012(バナナ)"
             },
             {
               "type": "ニ",
@@ -9820,6 +9934,10 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "003(テーブル)"
             }
           ]
         },
@@ -9856,6 +9974,10 @@
             {
               "type": "ヲ",
               "instanceId": "013(リモコン)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "003(テーブル)"
             }
           ]
         }
@@ -9931,6 +10053,10 @@
             {
               "type": "ヲ",
               "instanceId": "014(ティッシュ)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "003(テーブル)"
             },
             {
               "type": "ニ２",

@@ -13775,6 +13775,17 @@
       "boundingBoxes": [
         {
           "imageId": "126",
+          "instanceId": "018(調理台周辺)",
+          "rect": {
+            "x1": 1095,
+            "y1": 181,
+            "x2": 1890,
+            "y2": 528
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "126",
           "instanceId": "005(鍋)",
           "rect": {
             "x1": 1122,
@@ -13834,7 +13845,7 @@
           "rect": {
             "x1": 1359,
             "y1": 258,
-            "x2": 1831,
+            "x2": 1828,
             "y2": 485
           },
           "className": "sink"
@@ -13898,6 +13909,17 @@
             "y2": 553
           },
           "className": "hotplate"
+        },
+        {
+          "imageId": "127",
+          "instanceId": "018(調理台周辺)",
+          "rect": {
+            "x1": 901,
+            "y1": 309,
+            "x2": 1920,
+            "y2": 767
+          },
+          "className": "region"
         },
         {
           "imageId": "127",
@@ -14024,6 +14046,17 @@
             "y2": 740
           },
           "className": "frying_pan"
+        },
+        {
+          "imageId": "128",
+          "instanceId": "018(調理台周辺)",
+          "rect": {
+            "x1": 864,
+            "y1": 370,
+            "x2": 1920,
+            "y2": 905
+          },
+          "className": "region"
         },
         {
           "imageId": "128",
@@ -14417,28 +14450,7 @@
       "phrases": [
         {
           "text": "新しい",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "003(フライパン)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "004(おたま)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "005(鍋)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "006(包丁)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "007(皿)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "キッチン",
@@ -14448,23 +14460,23 @@
           "text": "用品",
           "relations": [
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "003(フライパン)"
             },
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "004(おたま)"
             },
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "005(鍋)"
             },
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "006(包丁)"
             },
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "007(皿)"
             }
           ]
@@ -14475,26 +14487,6 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "003(フライパン)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "004(おたま)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "005(鍋)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "006(包丁)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "007(皿)"
             }
           ]
         }
@@ -14517,28 +14509,7 @@
         },
         {
           "text": "ありますね。",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "003(フライパン)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "004(おたま)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "005(鍋)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "006(包丁)"
-            },
-            {
-              "type": "ガ",
-              "instanceId": "007(皿)"
-            }
-          ]
+          "relations": []
         }
       ]
     },
@@ -14551,28 +14522,7 @@
         },
         {
           "text": "一つずつ",
-          "relations": [
-            {
-              "type": "ノ",
-              "instanceId": "003(フライパン)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "004(おたま)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "005(鍋)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "006(包丁)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "007(皿)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "洗ってくれる？",
@@ -14580,26 +14530,6 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "003(フライパン)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "004(おたま)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "005(鍋)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "006(包丁)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "007(皿)"
             }
           ]
         },
@@ -14607,7 +14537,7 @@
           "text": "刃物に",
           "relations": [
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "006(包丁)"
             }
           ]
@@ -14627,10 +14557,6 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "006(包丁)"
             }
           ]
         }
@@ -14676,6 +14602,26 @@
             {
               "type": "ノ",
               "instanceId": "015(上0)"
+            },
+            {
+              "type": "=",
+              "instanceId": "003(フライパン)"
+            },
+            {
+              "type": "=",
+              "instanceId": "004(おたま)"
+            },
+            {
+              "type": "=",
+              "instanceId": "005(鍋)"
+            },
+            {
+              "type": "=",
+              "instanceId": "006(包丁)"
+            },
+            {
+              "type": "=",
+              "instanceId": "007(皿)"
             }
           ]
         },
@@ -14685,6 +14631,26 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(フライパン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(おたま)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(鍋)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(包丁)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(皿)"
             }
           ]
         }
@@ -14712,6 +14678,26 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(フライパン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(おたま)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(鍋)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(包丁)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(皿)"
             }
           ]
         },
@@ -14721,6 +14707,26 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(フライパン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(おたま)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(鍋)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(包丁)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(皿)"
             }
           ]
         }
@@ -14770,6 +14776,30 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(フライパン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(おたま)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(鍋)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(包丁)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "007(皿)"
+            },
+            {
+              "type": "デ",
+              "instanceId": "009(布巾)"
             }
           ]
         }
@@ -14883,45 +14913,54 @@
               "instanceId": "002(ロボット)"
             },
             {
-              "type": "ヲ",
-              "instanceId": "003(フライパン)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "004(おたま)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "005(鍋)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "006(包丁)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "007(皿)"
+              "type": "デ",
+              "instanceId": "009(布巾)"
             }
           ]
         },
         {
           "text": "それぞれの",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(フライパン)"
+            },
+            {
+              "type": "=",
+              "instanceId": "004(おたま)"
+            },
+            {
+              "type": "=",
+              "instanceId": "005(鍋)"
+            },
+            {
+              "type": "=",
+              "instanceId": "006(包丁)"
+            },
+            {
+              "type": "=",
+              "instanceId": "007(皿)"
+            }
+          ]
         },
         {
           "text": "場所に",
           "relations": [
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "010(食器棚)"
             },
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "011(引き出し)"
             },
             {
-              "type": "=",
+              "type": "=≒",
               "instanceId": "013(フック)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "016(上1)"
             }
           ]
         },
@@ -14931,38 +14970,6 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "003(フライパン)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "004(おたま)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "005(鍋)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "006(包丁)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "007(皿)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "010(食器棚)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "011(引き出し)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "013(フック)"
             }
           ]
         }
@@ -15331,7 +15338,12 @@
         },
         {
           "text": "きれいになったわ。",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "018(調理台周辺)"
+            }
+          ]
         }
       ]
     },
@@ -15361,7 +15373,28 @@
         },
         {
           "text": "道具が",
-          "relations": []
+          "relations": [
+            {
+              "type": "=≒",
+              "instanceId": "003(フライパン)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "004(おたま)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "005(鍋)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "006(包丁)"
+            },
+            {
+              "type": "=≒",
+              "instanceId": "007(皿)"
+            }
+          ]
         },
         {
           "text": "増えて",

@@ -6,7 +6,7 @@
       "boundingBoxes": [
         {
           "imageId": "001",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 916,
             "y1": 391,
@@ -61,7 +61,7 @@
         },
         {
           "imageId": "001",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1120,
             "y1": 592,
@@ -121,7 +121,7 @@
         },
         {
           "imageId": "002",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 908,
             "y1": 392,
@@ -165,7 +165,7 @@
         },
         {
           "imageId": "002",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1116,
             "y1": 594,
@@ -236,7 +236,7 @@
         },
         {
           "imageId": "003",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 972,
             "y1": 305,
@@ -269,7 +269,7 @@
         },
         {
           "imageId": "003",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1172,
             "y1": 521,
@@ -340,7 +340,7 @@
         },
         {
           "imageId": "004",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1052,
             "y1": 213,
@@ -373,7 +373,7 @@
         },
         {
           "imageId": "004",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1247,
             "y1": 448,
@@ -422,7 +422,7 @@
       "boundingBoxes": [
         {
           "imageId": "005",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1415,
             "y1": 425,
@@ -455,7 +455,7 @@
         },
         {
           "imageId": "005",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1245,
             "y1": 164,
@@ -526,7 +526,7 @@
       "boundingBoxes": [
         {
           "imageId": "006",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1345,
             "y1": 364,
@@ -559,7 +559,7 @@
         },
         {
           "imageId": "006",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1162,
             "y1": 108,
@@ -641,7 +641,7 @@
       "boundingBoxes": [
         {
           "imageId": "007",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1244,
             "y1": 374,
@@ -674,7 +674,7 @@
         },
         {
           "imageId": "007",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1043,
             "y1": 137,
@@ -756,7 +756,7 @@
         },
         {
           "imageId": "008",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1231,
             "y1": 390,
@@ -778,7 +778,7 @@
         },
         {
           "imageId": "008",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1037,
             "y1": 162,
@@ -849,11 +849,11 @@
       "boundingBoxes": [
         {
           "imageId": "009",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1202,
             "y1": 399,
-            "x2": 1305,
+            "x2": 1297,
             "y2": 446
           },
           "className": "toy"
@@ -893,7 +893,7 @@
         },
         {
           "imageId": "009",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1003,
             "y1": 175,
@@ -945,6 +945,17 @@
             "y2": 1080
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "009",
+          "instanceId": "19",
+          "rect": {
+            "x1": 968,
+            "y1": 205,
+            "x2": 1167,
+            "y2": 332
+          },
+          "className": "region"
         }
       ]
     },
@@ -964,12 +975,12 @@
         },
         {
           "imageId": "010",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1163,
             "y1": 404,
-            "x2": 1271,
-            "y2": 454
+            "x2": 1267,
+            "y2": 447
           },
           "className": "toy"
         },
@@ -997,7 +1008,7 @@
         },
         {
           "imageId": "010",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 967,
             "y1": 163,
@@ -1049,6 +1060,17 @@
             "y2": 1080
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "010",
+          "instanceId": "19",
+          "rect": {
+            "x1": 941,
+            "y1": 202,
+            "x2": 1138,
+            "y2": 330
+          },
+          "className": "region"
         }
       ]
     },
@@ -1079,7 +1101,7 @@
         },
         {
           "imageId": "011",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1232,
             "y1": 436,
@@ -1090,7 +1112,7 @@
         },
         {
           "imageId": "011",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1028,
             "y1": 175,
@@ -1153,6 +1175,17 @@
             "y2": 1080
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "011",
+          "instanceId": "19",
+          "rect": {
+            "x1": 995,
+            "y1": 214,
+            "x2": 1208,
+            "y2": 364
+          },
+          "className": "region"
         }
       ]
     },
@@ -1161,7 +1194,7 @@
       "boundingBoxes": [
         {
           "imageId": "012",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 977,
             "y1": 219,
@@ -1183,7 +1216,7 @@
         },
         {
           "imageId": "012",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1215,
             "y1": 508,
@@ -1309,7 +1342,7 @@
         },
         {
           "imageId": "013",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 956,
             "y1": 236,
@@ -1320,7 +1353,7 @@
         },
         {
           "imageId": "013",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1225,
             "y1": 538,
@@ -1435,7 +1468,7 @@
         },
         {
           "imageId": "014",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1295,
             "y1": 475,
@@ -1457,7 +1490,7 @@
         },
         {
           "imageId": "014",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 998,
             "y1": 163,
@@ -1572,7 +1605,7 @@
         },
         {
           "imageId": "015",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 862,
             "y1": 64,
@@ -1594,12 +1627,12 @@
         },
         {
           "imageId": "015",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1185,
             "y1": 367,
-            "x2": 1319,
-            "y2": 459
+            "x2": 1312,
+            "y2": 453
           },
           "className": "toy"
         },
@@ -1676,7 +1709,7 @@
         },
         {
           "imageId": "016",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 891,
             "y1": 36,
@@ -1687,12 +1720,12 @@
         },
         {
           "imageId": "016",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1236,
             "y1": 321,
             "x2": 1354,
-            "y2": 421
+            "y2": 415
           },
           "className": "toy"
         },
@@ -1791,7 +1824,7 @@
       "boundingBoxes": [
         {
           "imageId": "017",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1135,
             "y1": 287,
@@ -1824,7 +1857,7 @@
         },
         {
           "imageId": "017",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 768,
             "y1": 36,
@@ -1906,7 +1939,7 @@
       "boundingBoxes": [
         {
           "imageId": "018",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1149,
             "y1": 350,
@@ -1917,7 +1950,7 @@
         },
         {
           "imageId": "018",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 765,
             "y1": 70,
@@ -2021,7 +2054,7 @@
       "boundingBoxes": [
         {
           "imageId": "019",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 682,
             "y1": 0,
@@ -2054,7 +2087,7 @@
         },
         {
           "imageId": "019",
-          "instanceId": "6",
+          "instanceId": "15(2, 3)",
           "rect": {
             "x1": 1340,
             "y1": 446,
@@ -2169,7 +2202,7 @@
         },
         {
           "imageId": "020",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 911,
             "y1": 29,
@@ -2180,7 +2213,7 @@
         },
         {
           "imageId": "020",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1301,
             "y1": 679,
@@ -2295,7 +2328,7 @@
         },
         {
           "imageId": "021",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1631,
             "y1": 807,
@@ -2355,7 +2388,7 @@
         },
         {
           "imageId": "022",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1887,
             "y1": 1060,
@@ -2535,7 +2568,7 @@
       "boundingBoxes": [
         {
           "imageId": "025",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1819,
             "y1": 900,
@@ -2650,17 +2683,6 @@
         },
         {
           "imageId": "026",
-          "instanceId": "6",
-          "rect": {
-            "x1": 1512,
-            "y1": 640,
-            "x2": 1562,
-            "y2": 674
-          },
-          "className": "toy"
-        },
-        {
-          "imageId": "026",
           "instanceId": "4",
           "rect": {
             "x1": 583,
@@ -2683,7 +2705,7 @@
         },
         {
           "imageId": "026",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1375,
             "y1": 261,
@@ -2735,6 +2757,28 @@
             "y2": 1080
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "12(2)",
+          "rect": {
+            "x1": 1511,
+            "y1": 644,
+            "x2": 1533,
+            "y2": 666
+          },
+          "className": "toy"
+        },
+        {
+          "imageId": "026",
+          "instanceId": "13(3)",
+          "rect": {
+            "x1": 1540,
+            "y1": 649,
+            "x2": 1560,
+            "y2": 672
+          },
+          "className": "toy"
         }
       ]
     },
@@ -2743,7 +2787,7 @@
       "boundingBoxes": [
         {
           "imageId": "027",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 951,
             "y1": 308,
@@ -2776,7 +2820,7 @@
         },
         {
           "imageId": "027",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1174,
             "y1": 570,
@@ -2858,18 +2902,18 @@
       "boundingBoxes": [
         {
           "imageId": "028",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1235,
             "y1": 567,
             "x2": 1353,
-            "y2": 629
+            "y2": 620
           },
           "className": "toy"
         },
         {
           "imageId": "028",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1030,
             "y1": 286,
@@ -2984,7 +3028,7 @@
         },
         {
           "imageId": "029",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 666,
             "y1": 12,
@@ -3017,7 +3061,7 @@
         },
         {
           "imageId": "029",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 940,
             "y1": 248,
@@ -3110,7 +3154,7 @@
         },
         {
           "imageId": "030",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 533,
             "y1": 24,
@@ -3154,7 +3198,7 @@
         },
         {
           "imageId": "030",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 833,
             "y1": 209,
@@ -3225,7 +3269,7 @@
       "boundingBoxes": [
         {
           "imageId": "031",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 570,
             "y1": 16,
@@ -3280,7 +3324,7 @@
         },
         {
           "imageId": "031",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 868,
             "y1": 210,
@@ -3373,7 +3417,7 @@
         },
         {
           "imageId": "032",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 674,
             "y1": 166,
@@ -3406,7 +3450,7 @@
         },
         {
           "imageId": "032",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 949,
             "y1": 382,
@@ -3439,17 +3483,6 @@
         },
         {
           "imageId": "032",
-          "instanceId": "23(一部床)",
-          "rect": {
-            "x1": 881,
-            "y1": 123,
-            "x2": 1391,
-            "y2": 670
-          },
-          "className": "region"
-        },
-        {
-          "imageId": "032",
           "instanceId": "24(全体床)",
           "rect": {
             "x1": 0,
@@ -3477,7 +3510,7 @@
         },
         {
           "imageId": "033",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 572,
             "y1": 173,
@@ -3532,7 +3565,7 @@
         },
         {
           "imageId": "033",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 887,
             "y1": 425,
@@ -3581,7 +3614,7 @@
       "boundingBoxes": [
         {
           "imageId": "034",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 876,
             "y1": 615,
@@ -3614,7 +3647,7 @@
         },
         {
           "imageId": "034",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 488,
             "y1": 278,
@@ -3663,7 +3696,7 @@
       "boundingBoxes": [
         {
           "imageId": "035",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 852,
             "y1": 791,
@@ -3696,7 +3729,7 @@
         },
         {
           "imageId": "035",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 176,
             "y1": 163,
@@ -3734,7 +3767,7 @@
       "boundingBoxes": [
         {
           "imageId": "036",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
             "x1": 1112,
             "y1": 818,
@@ -3756,7 +3789,7 @@
         },
         {
           "imageId": "036",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 0,
             "y1": 1,
@@ -3767,7 +3800,7 @@
         },
         {
           "imageId": "036",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 792,
             "y1": 728,
@@ -3778,22 +3811,22 @@
         },
         {
           "imageId": "036",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
-            "x1": 953,
-            "y1": 770,
-            "x2": 1068,
-            "y2": 847
+            "x1": 969,
+            "y1": 774,
+            "x2": 1059,
+            "y2": 851
           },
           "className": "toy"
         },
         {
           "imageId": "036",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
             "x1": 757,
             "y1": 941,
-            "x2": 844,
+            "x2": 831,
             "y2": 976
           },
           "className": "toy"
@@ -3816,7 +3849,7 @@
       "boundingBoxes": [
         {
           "imageId": "037",
-          "instanceId": "15",
+          "instanceId": "15(2, 3)",
           "rect": {
             "x1": 943,
             "y1": 746,
@@ -3827,7 +3860,7 @@
         },
         {
           "imageId": "037",
-          "instanceId": "14",
+          "instanceId": "14(7, =)",
           "rect": {
             "x1": 794,
             "y1": 725,
@@ -3838,7 +3871,7 @@
         },
         {
           "imageId": "037",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 0,
             "y1": 0,
@@ -3876,7 +3909,7 @@
       "boundingBoxes": [
         {
           "imageId": "038",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1,
             "y1": 0,
@@ -3887,7 +3920,7 @@
         },
         {
           "imageId": "038",
-          "instanceId": "14",
+          "instanceId": "14(7, =)",
           "rect": {
             "x1": 775,
             "y1": 764,
@@ -3898,7 +3931,7 @@
         },
         {
           "imageId": "038",
-          "instanceId": "15",
+          "instanceId": "15(2, 3)",
           "rect": {
             "x1": 1052,
             "y1": 740,
@@ -3936,7 +3969,7 @@
       "boundingBoxes": [
         {
           "imageId": "039",
-          "instanceId": "15",
+          "instanceId": "15(2, 3)",
           "rect": {
             "x1": 1165,
             "y1": 480,
@@ -3958,7 +3991,7 @@
         },
         {
           "imageId": "039",
-          "instanceId": "14",
+          "instanceId": "14(7, =)",
           "rect": {
             "x1": 942,
             "y1": 480,
@@ -3980,7 +4013,7 @@
         },
         {
           "imageId": "039",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 0,
             "y1": 1,
@@ -4029,7 +4062,7 @@
       "boundingBoxes": [
         {
           "imageId": "040",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 2,
             "y1": 3,
@@ -4040,7 +4073,7 @@
         },
         {
           "imageId": "040",
-          "instanceId": "15",
+          "instanceId": "15(2, 3)",
           "rect": {
             "x1": 1076,
             "y1": 458,
@@ -4062,7 +4095,7 @@
         },
         {
           "imageId": "040",
-          "instanceId": "14",
+          "instanceId": "14(7, =)",
           "rect": {
             "x1": 897,
             "y1": 446,
@@ -4122,7 +4155,7 @@
       "boundingBoxes": [
         {
           "imageId": "041",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 948,
             "y1": 452,
@@ -4133,7 +4166,7 @@
         },
         {
           "imageId": "041",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 42,
             "y1": 19,
@@ -4204,7 +4237,7 @@
       "boundingBoxes": [
         {
           "imageId": "042",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 977,
             "y1": 467,
@@ -4215,7 +4248,7 @@
         },
         {
           "imageId": "042",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 84,
             "y1": 49,
@@ -4286,7 +4319,7 @@
       "boundingBoxes": [
         {
           "imageId": "043",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 109,
             "y1": 76,
@@ -4308,7 +4341,7 @@
         },
         {
           "imageId": "043",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 899,
             "y1": 472,
@@ -4379,12 +4412,12 @@
       "boundingBoxes": [
         {
           "imageId": "044",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 938,
             "y1": 514,
             "x2": 1133,
-            "y2": 817
+            "y2": 828
           },
           "className": "toy"
         },
@@ -4392,21 +4425,21 @@
           "imageId": "044",
           "instanceId": "1",
           "rect": {
-            "x1": 2,
+            "x1": 0,
             "y1": 0,
-            "x2": 298,
-            "y2": 371
+            "x2": 294,
+            "y2": 370
           },
           "className": "person"
         },
         {
           "imageId": "044",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
-            "x1": 173,
-            "y1": 91,
-            "x2": 613,
-            "y2": 483
+            "x1": 156,
+            "y1": 94,
+            "x2": 592,
+            "y2": 476
           },
           "className": "gameboard"
         },
@@ -4425,10 +4458,10 @@
           "imageId": "044",
           "instanceId": "2",
           "rect": {
-            "x1": 839,
-            "y1": 461,
-            "x2": 1357,
-            "y2": 1075
+            "x1": 792,
+            "y1": 465,
+            "x2": 1370,
+            "y2": 1080
           },
           "className": "person"
         },
@@ -4447,12 +4480,34 @@
           "imageId": "044",
           "instanceId": "24(全体床)",
           "rect": {
-            "x1": 635,
+            "x1": 637,
             "y1": 0,
-            "x2": 1919,
+            "x2": 1918,
             "y2": 1080
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "20(土台の上)",
+          "rect": {
+            "x1": 172,
+            "y1": 90,
+            "x2": 591,
+            "y2": 476
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "044",
+          "instanceId": "22(ここまで)",
+          "rect": {
+            "x1": 0,
+            "y1": 66,
+            "x2": 67,
+            "y2": 181
+          },
+          "className": "region"
         }
       ]
     },
@@ -4472,7 +4527,7 @@
         },
         {
           "imageId": "045",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 634,
             "y1": 642,
@@ -4483,7 +4538,7 @@
         },
         {
           "imageId": "045",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 521,
             "y1": 126,
@@ -4527,9 +4582,9 @@
         },
         {
           "imageId": "045",
-          "instanceId": "21(こちら)",
+          "instanceId": "21(こちら1)",
           "rect": {
-            "x1": 641,
+            "x1": 599,
             "y1": 197,
             "x2": 890,
             "y2": 389
@@ -4554,12 +4609,12 @@
       "boundingBoxes": [
         {
           "imageId": "046",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
-            "x1": 947,
-            "y1": 520,
-            "x2": 1055,
-            "y2": 605
+            "x1": 938,
+            "y1": 521,
+            "x2": 1046,
+            "y2": 606
           },
           "className": "toy"
         },
@@ -4598,18 +4653,18 @@
         },
         {
           "imageId": "046",
-          "instanceId": "16",
+          "instanceId": "16(=, 3, 7)",
           "rect": {
-            "x1": 681,
-            "y1": 466,
-            "x2": 826,
-            "y2": 622
+            "x1": 680,
+            "y1": 454,
+            "x2": 825,
+            "y2": 610
           },
           "className": "toy"
         },
         {
           "imageId": "046",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 622,
             "y1": 144,
@@ -4639,6 +4694,17 @@
             "y2": 1080
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "21(こちら1)",
+          "rect": {
+            "x1": 726,
+            "y1": 236,
+            "x2": 1095,
+            "y2": 481
+          },
+          "className": "region"
         }
       ]
     },
@@ -4658,7 +4724,7 @@
         },
         {
           "imageId": "047",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 932,
             "y1": 331,
@@ -4680,7 +4746,7 @@
         },
         {
           "imageId": "047",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 916,
             "y1": 630,
@@ -4691,7 +4757,7 @@
         },
         {
           "imageId": "047",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 565,
             "y1": 124,
@@ -4721,6 +4787,17 @@
             "y2": 1080
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "21(こちら1)",
+          "rect": {
+            "x1": 679,
+            "y1": 230,
+            "x2": 1125,
+            "y2": 498
+          },
+          "className": "region"
         }
       ]
     },
@@ -4729,7 +4806,7 @@
       "boundingBoxes": [
         {
           "imageId": "048",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 545,
             "y1": 133,
@@ -4762,7 +4839,7 @@
         },
         {
           "imageId": "048",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
             "x1": 816,
             "y1": 380,
@@ -4784,7 +4861,7 @@
         },
         {
           "imageId": "048",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 933,
             "y1": 347,
@@ -4795,7 +4872,7 @@
         },
         {
           "imageId": "048",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 870,
             "y1": 629,
@@ -4822,7 +4899,7 @@
       "boundingBoxes": [
         {
           "imageId": "049",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 1002,
             "y1": 691,
@@ -4833,7 +4910,7 @@
         },
         {
           "imageId": "049",
-          "instanceId": "16",
+          "instanceId": "16(=, 3, 7)",
           "rect": {
             "x1": 880,
             "y1": 424,
@@ -4855,7 +4932,7 @@
         },
         {
           "imageId": "049",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 670,
             "y1": 223,
@@ -4915,7 +4992,7 @@
         },
         {
           "imageId": "050",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 875,
             "y1": 485,
@@ -4959,7 +5036,7 @@
         },
         {
           "imageId": "050",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 690,
             "y1": 323,
@@ -4973,11 +5050,22 @@
           "instanceId": "24(全体床)",
           "rect": {
             "x1": 0,
-            "y1": 184,
+            "y1": 179,
             "x2": 1920,
-            "y2": 1078
+            "y2": 1079
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "25(スマホ・リモコン置き場)",
+          "rect": {
+            "x1": 97,
+            "y1": 777,
+            "x2": 601,
+            "y2": 1080
+          },
+          "className": "region"
         }
       ]
     },
@@ -4986,7 +5074,7 @@
       "boundingBoxes": [
         {
           "imageId": "051",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 881,
             "y1": 384,
@@ -5041,7 +5129,7 @@
         },
         {
           "imageId": "051",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 734,
             "y1": 273,
@@ -5060,6 +5148,17 @@
             "y2": 1079
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "051",
+          "instanceId": "25(スマホ・リモコン置き場)",
+          "rect": {
+            "x1": 138,
+            "y1": 622,
+            "x2": 553,
+            "y2": 1037
+          },
+          "className": "region"
         }
       ]
     },
@@ -5090,7 +5189,7 @@
         },
         {
           "imageId": "052",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1065,
             "y1": 552,
@@ -5134,7 +5233,7 @@
         },
         {
           "imageId": "052",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 904,
             "y1": 417,
@@ -5164,6 +5263,17 @@
             "y2": 1079
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "052",
+          "instanceId": "25(スマホ・リモコン置き場)",
+          "rect": {
+            "x1": 329,
+            "y1": 758,
+            "x2": 664,
+            "y2": 1080
+          },
+          "className": "region"
         }
       ]
     },
@@ -5172,7 +5282,7 @@
       "boundingBoxes": [
         {
           "imageId": "053",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1452,
             "y1": 332,
@@ -5238,7 +5348,7 @@
         },
         {
           "imageId": "053",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1278,
             "y1": 215,
@@ -5268,6 +5378,17 @@
             "y2": 1080
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "053",
+          "instanceId": "25(スマホ・リモコン置き場)",
+          "rect": {
+            "x1": 610,
+            "y1": 500,
+            "x2": 987,
+            "y2": 877
+          },
+          "className": "region"
         }
       ]
     },
@@ -5287,7 +5408,7 @@
         },
         {
           "imageId": "054",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1575,
             "y1": 4,
@@ -5342,7 +5463,7 @@
         },
         {
           "imageId": "054",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1367,
             "y1": 0,
@@ -5372,6 +5493,17 @@
             "y2": 1080
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "054",
+          "instanceId": "25(スマホ・リモコン置き場)",
+          "rect": {
+            "x1": 630,
+            "y1": 167,
+            "x2": 973,
+            "y2": 572
+          },
+          "className": "region"
         }
       ]
     },
@@ -5380,7 +5512,7 @@
       "boundingBoxes": [
         {
           "imageId": "055",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1273,
             "y1": 1,
@@ -5391,7 +5523,7 @@
         },
         {
           "imageId": "055",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1111,
             "y1": 0,
@@ -5476,6 +5608,17 @@
             "y2": 1080
           },
           "className": "runner_(carpet)"
+        },
+        {
+          "imageId": "055",
+          "instanceId": "25(スマホ・リモコン置き場)",
+          "rect": {
+            "x1": 300,
+            "y1": 135,
+            "x2": 698,
+            "y2": 567
+          },
+          "className": "region"
         }
       ]
     },
@@ -5495,7 +5638,7 @@
         },
         {
           "imageId": "056",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1037,
             "y1": 0,
@@ -5517,7 +5660,7 @@
         },
         {
           "imageId": "056",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1276,
             "y1": 0,
@@ -5610,7 +5753,7 @@
         },
         {
           "imageId": "057",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1084,
             "y1": 316,
@@ -5632,7 +5775,7 @@
         },
         {
           "imageId": "057",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 913,
             "y1": 161,
@@ -5725,7 +5868,7 @@
         },
         {
           "imageId": "058",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1159,
             "y1": 241,
@@ -5747,7 +5890,7 @@
         },
         {
           "imageId": "058",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1248,
             "y1": 337,
@@ -5818,7 +5961,7 @@
         },
         {
           "imageId": "059",
-          "instanceId": "6",
+          "instanceId": "6(7, 2, 3, =)",
           "rect": {
             "x1": 1121,
             "y1": 256,
@@ -5851,7 +5994,7 @@
         },
         {
           "imageId": "059",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1028,
             "y1": 131,
@@ -5922,7 +6065,7 @@
       "boundingBoxes": [
         {
           "imageId": "060",
-          "instanceId": "6",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 1294,
             "y1": 2,
@@ -5955,7 +6098,7 @@
         },
         {
           "imageId": "060",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 972,
             "y1": 0,
@@ -6037,7 +6180,7 @@
         },
         {
           "imageId": "061",
-          "instanceId": "7",
+          "instanceId": "7(土台01)",
           "rect": {
             "x1": 1111,
             "y1": 0,
@@ -6457,12 +6600,12 @@
       "boundingBoxes": [
         {
           "imageId": "068",
-          "instanceId": "17",
+          "instanceId": "17(土台02)",
           "rect": {
-            "x1": 992,
-            "y1": 190,
-            "x2": 1161,
-            "y2": 353
+            "x1": 989,
+            "y1": 188,
+            "x2": 1153,
+            "y2": 347
           },
           "className": "gameboard"
         },
@@ -6479,12 +6622,12 @@
         },
         {
           "imageId": "068",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
-            "x1": 1070,
-            "y1": 234,
-            "x2": 1108,
-            "y2": 258
+            "x1": 1065,
+            "y1": 236,
+            "x2": 1099,
+            "y2": 255
           },
           "className": "toy"
         },
@@ -6512,12 +6655,12 @@
         },
         {
           "imageId": "068",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
-            "x1": 1031,
-            "y1": 235,
-            "x2": 1058,
-            "y2": 254
+            "x1": 1034,
+            "y1": 237,
+            "x2": 1062,
+            "y2": 256
           },
           "className": "toy"
         },
@@ -6534,7 +6677,7 @@
         },
         {
           "imageId": "068",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 1069,
             "y1": 296,
@@ -6545,12 +6688,12 @@
         },
         {
           "imageId": "068",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
-            "x1": 1081,
-            "y1": 270,
-            "x2": 1114,
-            "y2": 290
+            "x1": 1079,
+            "y1": 271,
+            "x2": 1107,
+            "y2": 291
           },
           "className": "toy"
         },
@@ -6616,11 +6759,11 @@
         },
         {
           "imageId": "069",
-          "instanceId": "18",
+          "instanceId": "18(土台03)",
           "rect": {
             "x1": 960,
             "y1": 83,
-            "x2": 1095,
+            "x2": 1092,
             "y2": 205
           },
           "className": "gameboard"
@@ -6638,7 +6781,7 @@
         },
         {
           "imageId": "069",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 972,
             "y1": 171,
@@ -6649,7 +6792,7 @@
         },
         {
           "imageId": "069",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 998,
             "y1": 116,
@@ -6660,7 +6803,7 @@
         },
         {
           "imageId": "069",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
             "x1": 1029,
             "y1": 122,
@@ -6693,7 +6836,7 @@
         },
         {
           "imageId": "069",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
             "x1": 1033,
             "y1": 145,
@@ -6731,7 +6874,7 @@
       "boundingBoxes": [
         {
           "imageId": "070",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 1158,
             "y1": 338,
@@ -6742,7 +6885,7 @@
         },
         {
           "imageId": "070",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
             "x1": 1186,
             "y1": 345,
@@ -6753,7 +6896,7 @@
         },
         {
           "imageId": "070",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 1128,
             "y1": 385,
@@ -6775,7 +6918,7 @@
         },
         {
           "imageId": "070",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
             "x1": 1188,
             "y1": 371,
@@ -6819,7 +6962,7 @@
         },
         {
           "imageId": "070",
-          "instanceId": "18",
+          "instanceId": "18(土台03)",
           "rect": {
             "x1": 1121,
             "y1": 301,
@@ -6879,7 +7022,7 @@
         },
         {
           "imageId": "071",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 1133,
             "y1": 585,
@@ -6890,7 +7033,7 @@
         },
         {
           "imageId": "071",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
             "x1": 1165,
             "y1": 596,
@@ -6912,7 +7055,7 @@
         },
         {
           "imageId": "071",
-          "instanceId": "18",
+          "instanceId": "18(土台03)",
           "rect": {
             "x1": 1093,
             "y1": 551,
@@ -6923,7 +7066,7 @@
         },
         {
           "imageId": "071",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
             "x1": 1160,
             "y1": 626,
@@ -6934,7 +7077,7 @@
         },
         {
           "imageId": "071",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 1094,
             "y1": 635,
@@ -7005,7 +7148,7 @@
       "boundingBoxes": [
         {
           "imageId": "072",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
             "x1": 1268,
             "y1": 482,
@@ -7027,7 +7170,7 @@
         },
         {
           "imageId": "072",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
             "x1": 1260,
             "y1": 507,
@@ -7038,7 +7181,7 @@
         },
         {
           "imageId": "072",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 1190,
             "y1": 513,
@@ -7082,18 +7225,18 @@
         },
         {
           "imageId": "072",
-          "instanceId": "18",
+          "instanceId": "18(土台03)",
           "rect": {
-            "x1": 1184,
+            "x1": 1181,
             "y1": 426,
-            "x2": 1342,
+            "x2": 1334,
             "y2": 574
           },
           "className": "gameboard"
         },
         {
           "imageId": "072",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 1237,
             "y1": 468,
@@ -7142,7 +7285,7 @@
       "boundingBoxes": [
         {
           "imageId": "073",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
             "x1": 1283,
             "y1": 551,
@@ -7153,7 +7296,7 @@
         },
         {
           "imageId": "073",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 1211,
             "y1": 575,
@@ -7175,7 +7318,7 @@
         },
         {
           "imageId": "073",
-          "instanceId": "18",
+          "instanceId": "18(土台03)",
           "rect": {
             "x1": 1200,
             "y1": 495,
@@ -7186,7 +7329,7 @@
         },
         {
           "imageId": "073",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
             "x1": 1277,
             "y1": 567,
@@ -7279,7 +7422,7 @@
         },
         {
           "imageId": "074",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
             "x1": 1277,
             "y1": 575,
@@ -7301,7 +7444,7 @@
         },
         {
           "imageId": "074",
-          "instanceId": "18",
+          "instanceId": "18(土台03)",
           "rect": {
             "x1": 1192,
             "y1": 523,
@@ -7312,7 +7455,7 @@
         },
         {
           "imageId": "074",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
             "x1": 1270,
             "y1": 600,
@@ -7323,7 +7466,7 @@
         },
         {
           "imageId": "074",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 1205,
             "y1": 604,
@@ -7356,7 +7499,7 @@
         },
         {
           "imageId": "074",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 1250,
             "y1": 562,
@@ -7416,7 +7559,7 @@
         },
         {
           "imageId": "075",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
             "x1": 1270,
             "y1": 606,
@@ -7438,7 +7581,7 @@
         },
         {
           "imageId": "075",
-          "instanceId": "18",
+          "instanceId": "18(土台03)",
           "rect": {
             "x1": 1187,
             "y1": 555,
@@ -7449,7 +7592,7 @@
         },
         {
           "imageId": "075",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
             "x1": 1264,
             "y1": 633,
@@ -7460,7 +7603,7 @@
         },
         {
           "imageId": "075",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 1196,
             "y1": 637,
@@ -7493,7 +7636,7 @@
         },
         {
           "imageId": "075",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 1243,
             "y1": 598,
@@ -7553,7 +7696,7 @@
         },
         {
           "imageId": "076",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
             "x1": 1262,
             "y1": 631,
@@ -7575,7 +7718,7 @@
         },
         {
           "imageId": "076",
-          "instanceId": "18",
+          "instanceId": "18(土台03)",
           "rect": {
             "x1": 1179,
             "y1": 582,
@@ -7586,7 +7729,7 @@
         },
         {
           "imageId": "076",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
             "x1": 1253,
             "y1": 656,
@@ -7597,7 +7740,7 @@
         },
         {
           "imageId": "076",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 1190,
             "y1": 658,
@@ -7630,7 +7773,7 @@
         },
         {
           "imageId": "076",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 1231,
             "y1": 620,
@@ -7690,7 +7833,7 @@
         },
         {
           "imageId": "077",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
             "x1": 1253,
             "y1": 658,
@@ -7712,7 +7855,7 @@
         },
         {
           "imageId": "077",
-          "instanceId": "18",
+          "instanceId": "18(土台03)",
           "rect": {
             "x1": 1174,
             "y1": 612,
@@ -7723,7 +7866,7 @@
         },
         {
           "imageId": "077",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
             "x1": 1246,
             "y1": 684,
@@ -7734,7 +7877,7 @@
         },
         {
           "imageId": "077",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 1185,
             "y1": 689,
@@ -7767,7 +7910,7 @@
         },
         {
           "imageId": "077",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 1227,
             "y1": 649,
@@ -7827,7 +7970,7 @@
         },
         {
           "imageId": "078",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
             "x1": 1252,
             "y1": 669,
@@ -7849,7 +7992,7 @@
         },
         {
           "imageId": "078",
-          "instanceId": "18",
+          "instanceId": "18(土台03)",
           "rect": {
             "x1": 1169,
             "y1": 622,
@@ -7860,7 +8003,7 @@
         },
         {
           "imageId": "078",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
             "x1": 1250,
             "y1": 693,
@@ -7871,7 +8014,7 @@
         },
         {
           "imageId": "078",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 1181,
             "y1": 697,
@@ -7904,7 +8047,7 @@
         },
         {
           "imageId": "078",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 1226,
             "y1": 656,
@@ -7964,10 +8107,10 @@
         },
         {
           "imageId": "079",
-          "instanceId": "10",
+          "instanceId": "10(7)",
           "rect": {
-            "x1": 1261,
-            "y1": 677,
+            "x1": 1257,
+            "y1": 671,
             "x2": 1281,
             "y2": 690
           },
@@ -7986,9 +8129,9 @@
         },
         {
           "imageId": "079",
-          "instanceId": "18",
+          "instanceId": "18(土台03)",
           "rect": {
-            "x1": 1179,
+            "x1": 1175,
             "y1": 621,
             "x2": 1318,
             "y2": 761
@@ -7997,18 +8140,18 @@
         },
         {
           "imageId": "079",
-          "instanceId": "13",
+          "instanceId": "13(3)",
           "rect": {
-            "x1": 1250,
-            "y1": 698,
-            "x2": 1271,
-            "y2": 718
+            "x1": 1252,
+            "y1": 697,
+            "x2": 1273,
+            "y2": 716
           },
           "className": "toy"
         },
         {
           "imageId": "079",
-          "instanceId": "11",
+          "instanceId": "11(=)",
           "rect": {
             "x1": 1186,
             "y1": 702,
@@ -8041,12 +8184,12 @@
         },
         {
           "imageId": "079",
-          "instanceId": "12",
+          "instanceId": "12(2)",
           "rect": {
             "x1": 1230,
-            "y1": 657,
+            "y1": 661,
             "x2": 1255,
-            "y2": 681
+            "y2": 679
           },
           "className": "toy"
         },
@@ -8161,6 +8304,10 @@
             {
               "type": "ニ",
               "instanceId": "5"
+            },
+            {
+              "type": "=",
+              "instanceId": "5"
             }
           ]
         },
@@ -8170,6 +8317,10 @@
             {
               "type": "ガ",
               "instanceId": "1"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "5"
             },
             {
               "type": "ニ",
@@ -8259,6 +8410,10 @@
           "text": "わかりました。",
           "relations": [
             {
+              "type": "ガ",
+              "instanceId": "5"
+            },
+            {
               "type": "ガ２",
               "instanceId": "2"
             }
@@ -8329,35 +8484,35 @@
           "relations": [
             {
               "type": "=",
-              "instanceId": "10"
+              "instanceId": "10(7)"
             },
             {
               "type": "=",
-              "instanceId": "11"
+              "instanceId": "11(=)"
             },
             {
               "type": "=",
-              "instanceId": "12"
+              "instanceId": "12(2)"
             },
             {
               "type": "=",
-              "instanceId": "13"
+              "instanceId": "13(3)"
             },
             {
               "type": "=",
-              "instanceId": "14"
+              "instanceId": "14(7, =)"
             },
             {
               "type": "=",
-              "instanceId": "15"
+              "instanceId": "15(2, 3)"
             },
             {
               "type": "=",
-              "instanceId": "16"
+              "instanceId": "16(=, 3, 7)"
             },
             {
               "type": "=",
-              "instanceId": "6"
+              "instanceId": "6(7, 2, 3, =)"
             }
           ]
         },
@@ -8366,35 +8521,39 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "10"
+              "instanceId": "10(7)"
             },
             {
               "type": "ガ",
-              "instanceId": "11"
+              "instanceId": "11(=)"
             },
             {
               "type": "ガ",
-              "instanceId": "12"
+              "instanceId": "12(2)"
             },
             {
               "type": "ガ",
-              "instanceId": "13"
+              "instanceId": "13(3)"
             },
             {
               "type": "ガ",
-              "instanceId": "14"
+              "instanceId": "14(7, =)"
             },
             {
               "type": "ガ",
-              "instanceId": "15"
+              "instanceId": "15(2, 3)"
             },
             {
               "type": "ガ",
-              "instanceId": "16"
+              "instanceId": "16(=, 3, 7)"
             },
             {
               "type": "ガ",
-              "instanceId": "6"
+              "instanceId": "6(7, 2, 3, =)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "23(一部床)"
             },
             {
               "type": "ニ",
@@ -8407,35 +8566,35 @@
           "relations": [
             {
               "type": "=",
-              "instanceId": "10"
+              "instanceId": "10(7)"
             },
             {
               "type": "=",
-              "instanceId": "11"
+              "instanceId": "11(=)"
             },
             {
               "type": "=",
-              "instanceId": "12"
+              "instanceId": "12(2)"
             },
             {
               "type": "=",
-              "instanceId": "13"
+              "instanceId": "13(3)"
             },
             {
               "type": "=",
-              "instanceId": "14"
+              "instanceId": "14(7, =)"
             },
             {
               "type": "=",
-              "instanceId": "15"
+              "instanceId": "15(2, 3)"
             },
             {
               "type": "=",
-              "instanceId": "16"
+              "instanceId": "16(=, 3, 7)"
             },
             {
               "type": "=",
-              "instanceId": "6"
+              "instanceId": "6(7, 2, 3, =)"
             }
           ]
         },
@@ -8448,35 +8607,35 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "10"
+              "instanceId": "10(7)"
             },
             {
               "type": "ヲ",
-              "instanceId": "11"
+              "instanceId": "11(=)"
             },
             {
               "type": "ヲ",
-              "instanceId": "12"
+              "instanceId": "12(2)"
             },
             {
               "type": "ヲ",
-              "instanceId": "13"
+              "instanceId": "13(3)"
             },
             {
               "type": "ヲ",
-              "instanceId": "14"
+              "instanceId": "14(7, =)"
             },
             {
               "type": "ヲ",
-              "instanceId": "15"
+              "instanceId": "15(2, 3)"
             },
             {
               "type": "ヲ",
-              "instanceId": "16"
+              "instanceId": "16(=, 3, 7)"
             },
             {
               "type": "ヲ",
-              "instanceId": "6"
+              "instanceId": "6(7, 2, 3, =)"
             }
           ]
         },
@@ -8508,35 +8667,35 @@
           "relations": [
             {
               "type": "=",
-              "instanceId": "10"
+              "instanceId": "10(7)"
             },
             {
               "type": "=",
-              "instanceId": "11"
+              "instanceId": "11(=)"
             },
             {
               "type": "=",
-              "instanceId": "12"
+              "instanceId": "12(2)"
             },
             {
               "type": "=",
-              "instanceId": "13"
+              "instanceId": "13(3)"
             },
             {
               "type": "=",
-              "instanceId": "14"
+              "instanceId": "14(7, =)"
             },
             {
               "type": "=",
-              "instanceId": "15"
+              "instanceId": "15(2, 3)"
             },
             {
               "type": "=",
-              "instanceId": "16"
+              "instanceId": "16(=, 3, 7)"
             },
             {
               "type": "=",
-              "instanceId": "6"
+              "instanceId": "6(7, 2, 3, =)"
             }
           ]
         },
@@ -8553,35 +8712,35 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "10"
+              "instanceId": "10(7)"
             },
             {
               "type": "ヲ",
-              "instanceId": "11"
+              "instanceId": "11(=)"
             },
             {
               "type": "ヲ",
-              "instanceId": "12"
+              "instanceId": "12(2)"
             },
             {
               "type": "ヲ",
-              "instanceId": "13"
+              "instanceId": "13(3)"
             },
             {
               "type": "ヲ",
-              "instanceId": "14"
+              "instanceId": "14(7, =)"
             },
             {
               "type": "ヲ",
-              "instanceId": "15"
+              "instanceId": "15(2, 3)"
             },
             {
               "type": "ヲ",
-              "instanceId": "16"
+              "instanceId": "16(=, 3, 7)"
             },
             {
               "type": "ヲ",
-              "instanceId": "6"
+              "instanceId": "6(7, 2, 3, =)"
             }
           ]
         }
@@ -8599,15 +8758,11 @@
           "relations": [
             {
               "type": "=",
-              "instanceId": "7"
+              "instanceId": "7(土台01)"
             },
             {
               "type": "=≒",
-              "instanceId": "17"
-            },
-            {
-              "type": "=≒",
-              "instanceId": "18"
+              "instanceId": "17(土台02)"
             }
           ]
         },
@@ -8616,11 +8771,15 @@
           "relations": [
             {
               "type": "ノ",
-              "instanceId": "7"
+              "instanceId": "7(土台01)"
             },
             {
               "type": "=",
               "instanceId": "20(土台の上)"
+            },
+            {
+              "type": "ノ≒",
+              "instanceId": "17(土台02)"
             }
           ]
         },
@@ -8633,35 +8792,35 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "10"
+              "instanceId": "10(7)"
             },
             {
               "type": "ヲ",
-              "instanceId": "11"
+              "instanceId": "11(=)"
             },
             {
               "type": "ヲ",
-              "instanceId": "12"
+              "instanceId": "12(2)"
             },
             {
               "type": "ヲ",
-              "instanceId": "13"
+              "instanceId": "13(3)"
             },
             {
               "type": "ヲ",
-              "instanceId": "14"
+              "instanceId": "14(7, =)"
             },
             {
               "type": "ヲ",
-              "instanceId": "15"
+              "instanceId": "15(2, 3)"
             },
             {
               "type": "ヲ",
-              "instanceId": "16"
+              "instanceId": "16(=, 3, 7)"
             },
             {
               "type": "ヲ",
-              "instanceId": "6"
+              "instanceId": "6(7, 2, 3, =)"
             },
             {
               "type": "ニ",
@@ -8687,35 +8846,35 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "10"
+              "instanceId": "10(7)"
             },
             {
               "type": "ヲ",
-              "instanceId": "11"
+              "instanceId": "11(=)"
             },
             {
               "type": "ヲ",
-              "instanceId": "12"
+              "instanceId": "12(2)"
             },
             {
               "type": "ヲ",
-              "instanceId": "13"
+              "instanceId": "13(3)"
             },
             {
               "type": "ヲ",
-              "instanceId": "14"
+              "instanceId": "14(7, =)"
             },
             {
               "type": "ヲ",
-              "instanceId": "15"
+              "instanceId": "15(2, 3)"
             },
             {
               "type": "ヲ",
-              "instanceId": "16"
+              "instanceId": "16(=, 3, 7)"
             },
             {
               "type": "ヲ",
-              "instanceId": "6"
+              "instanceId": "6(7, 2, 3, =)"
             },
             {
               "type": "マデ",
@@ -8746,7 +8905,7 @@
           "relations": [
             {
               "type": "=",
-              "instanceId": "21(こちら)"
+              "instanceId": "21(こちら1)"
             }
           ]
         },
@@ -8759,39 +8918,39 @@
             },
             {
               "type": "ヲ",
-              "instanceId": "10"
+              "instanceId": "10(7)"
             },
             {
               "type": "ヲ",
-              "instanceId": "11"
+              "instanceId": "11(=)"
             },
             {
               "type": "ヲ",
-              "instanceId": "12"
+              "instanceId": "12(2)"
             },
             {
               "type": "ヲ",
-              "instanceId": "13"
+              "instanceId": "13(3)"
             },
             {
               "type": "ヲ",
-              "instanceId": "14"
+              "instanceId": "14(7, =)"
             },
             {
               "type": "ヲ",
-              "instanceId": "15"
+              "instanceId": "15(2, 3)"
             },
             {
               "type": "ヲ",
-              "instanceId": "16"
+              "instanceId": "16(=, 3, 7)"
             },
             {
               "type": "ヲ",
-              "instanceId": "6"
+              "instanceId": "6(7, 2, 3, =)"
             },
             {
               "type": "ニ",
-              "instanceId": "21(こちら)"
+              "instanceId": "21(こちら1)"
             }
           ]
         }
@@ -8858,6 +9017,10 @@
             {
               "type": "ヲ",
               "instanceId": "9"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "25(スマホ・リモコン置き場)"
             },
             {
               "type": "ニ２",

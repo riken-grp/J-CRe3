@@ -8377,7 +8377,64 @@
         },
         {
           "text": "全部",
-          "relations": []
+          "relations": [
+            {
+              "type": "ノ？",
+              "instanceId": "003(皿a)"
+            },
+            {
+              "type": "ノ？",
+              "instanceId": "004(皿b)"
+            },
+            {
+              "type": "ノ？",
+              "instanceId": "005(皿c)"
+            },
+            {
+              "type": "ノ？",
+              "instanceId": "006(皿d)"
+            },
+            {
+              "type": "ノ？",
+              "instanceId": "010(皿c, d)"
+            },
+            {
+              "type": "ノ？",
+              "instanceId": "011(皿b, c, d)"
+            },
+            {
+              "type": "ノ？",
+              "instanceId": "012(皿a, b, c, d)"
+            },
+            {
+              "type": "=",
+              "instanceId": "003(皿a)"
+            },
+            {
+              "type": "=",
+              "instanceId": "004(皿b)"
+            },
+            {
+              "type": "=",
+              "instanceId": "005(皿c)"
+            },
+            {
+              "type": "=",
+              "instanceId": "006(皿d)"
+            },
+            {
+              "type": "=",
+              "instanceId": "010(皿c, d)"
+            },
+            {
+              "type": "=",
+              "instanceId": "011(皿b, c, d)"
+            },
+            {
+              "type": "=",
+              "instanceId": "012(皿a, b, c, d)"
+            }
+          ]
         },
         {
           "text": "持ってきて。",
@@ -8385,6 +8442,34 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(皿a)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(皿b)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "005(皿c)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(皿d)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "010(皿c, d)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "011(皿b, c, d)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "012(皿a, b, c, d)"
             },
             {
               "type": "ニ",
@@ -8962,7 +9047,12 @@
         },
         {
           "text": "良かった",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            }
+          ]
         }
       ]
     },
@@ -9035,7 +9125,52 @@
         },
         {
           "text": "きれいになって",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "003(皿a)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "004(皿b)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "005(皿c)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "006(皿d)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "007(白コップ)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "008(スプーン)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "009(お箸)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "010(皿c, d)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "011(皿b, c, d)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "012(皿a, b, c, d)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "013(青カップ)"
+            }
+          ]
         },
         {
           "text": "良かったですね。",

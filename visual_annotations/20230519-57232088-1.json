@@ -51548,6 +51548,17 @@
         },
         {
           "imageId": "306",
+          "instanceId": "027(キッチン)",
+          "rect": {
+            "x1": 649,
+            "y1": 278,
+            "x2": 1918,
+            "y2": 1079
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "306",
           "instanceId": "006(テーブル)",
           "rect": {
             "x1": 1225,
@@ -51685,6 +51696,17 @@
         },
         {
           "imageId": "307",
+          "instanceId": "027(キッチン)",
+          "rect": {
+            "x1": 650,
+            "y1": 333,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "307",
           "instanceId": "006(テーブル)",
           "rect": {
             "x1": 1215,
@@ -51786,6 +51808,17 @@
             "y2": 1080
           },
           "className": "drawer"
+        },
+        {
+          "imageId": "308",
+          "instanceId": "027(キッチン)",
+          "rect": {
+            "x1": 690,
+            "y1": 362,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
         },
         {
           "imageId": "308",
@@ -51893,6 +51926,17 @@
         },
         {
           "imageId": "309",
+          "instanceId": "027(キッチン)",
+          "rect": {
+            "x1": 969,
+            "y1": 447,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "309",
           "instanceId": "006(テーブル)",
           "rect": {
             "x1": 1589,
@@ -51997,6 +52041,17 @@
         },
         {
           "imageId": "310",
+          "instanceId": "027(キッチン)",
+          "rect": {
+            "x1": 1009,
+            "y1": 467,
+            "x2": 1920,
+            "y2": 1080
+          },
+          "className": "region"
+        },
+        {
+          "imageId": "310",
           "instanceId": "006(テーブル)",
           "rect": {
             "x1": 1662,
@@ -52030,6 +52085,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
@@ -52051,6 +52110,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
@@ -52087,6 +52150,10 @@
               "instanceId": "001(主人)"
             },
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "003(皿)"
             },
@@ -52114,11 +52181,19 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
               "type": "ヲ２",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ヲ２",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -52136,11 +52211,19 @@
           "relations": [
             {
               "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
               "instanceId": "002(ロボット)"
             },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -52151,28 +52234,15 @@
       "phrases": [
         {
           "text": "何から",
-          "relations": [
-            {
-              "type": "ノ",
-              "instanceId": "003(皿)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "004(黄コップ)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "009(スプーン)"
-            },
-            {
-              "type": "ノ",
-              "instanceId": "016(フォーク)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "始めましょうか？",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -52241,6 +52311,10 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
@@ -52263,11 +52337,19 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
               "type": "ニ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
@@ -52314,6 +52396,14 @@
               "instanceId": "001(主人)"
             },
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
               "type": "ニ",
               "instanceId": "002(ロボット)"
             }
@@ -52329,11 +52419,19 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
               "type": "ニ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -52351,11 +52449,19 @@
           "relations": [
             {
               "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
               "instanceId": "002(ロボット)"
             },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -52376,6 +52482,10 @@
         {
           "text": "拭く",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -52464,7 +52574,12 @@
         },
         {
           "text": "あるから、",
-          "relations": []
+          "relations": [
+            {
+              "type": "ニ",
+              "instanceId": "006(テーブル)"
+            }
+          ]
         },
         {
           "text": "これで、",
@@ -52481,14 +52596,27 @@
         },
         {
           "text": "テーブル",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(テーブル)"
+            }
+          ]
         },
         {
           "text": "拭いてきてくれるかな。",
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(テーブル)"
             },
             {
               "type": "デ",
@@ -52505,6 +52633,14 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
               "instanceId": "001(主人)"
             },
             {
@@ -52532,20 +52668,37 @@
           "relations": [
             {
               "type": "ガ２",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
               "instanceId": "002(ロボット)"
             }
           ]
         },
         {
           "text": "テーブルを",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "006(テーブル)"
+            }
+          ]
         },
         {
           "text": "拭きますね。",
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "006(テーブル)"
             },
             {
               "type": "デ",
@@ -52603,7 +52756,12 @@
       "phrases": [
         {
           "text": "シンク",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "005(シンク)"
+            }
+          ]
         },
         {
           "text": "下の",
@@ -52662,6 +52820,10 @@
               "instanceId": "001(主人)"
             },
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "018(シンク戸棚)"
             }
@@ -52694,11 +52856,19 @@
           "relations": [
             {
               "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
               "instanceId": "002(ロボット)"
             },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -52764,6 +52934,10 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             }
           ]
@@ -52778,11 +52952,19 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
               "type": "ニ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -52809,6 +52991,10 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
@@ -52818,6 +53004,10 @@
             {
               "type": "ニ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -52835,11 +53025,19 @@
           "relations": [
             {
               "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
               "instanceId": "002(ロボット)"
             },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -52871,6 +53069,10 @@
             {
               "type": "ノ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
@@ -52880,6 +53082,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -52906,11 +53112,19 @@
           "relations": [
             {
               "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
               "instanceId": "002(ロボット)"
             },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -52945,6 +53159,10 @@
               "instanceId": "001(主人)"
             },
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "013(まな板)"
             },
@@ -52965,18 +53183,48 @@
         },
         {
           "text": "どっちも",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "013(まな板)"
+            },
+            {
+              "type": "=",
+              "instanceId": "014(包丁)"
+            }
+          ]
         },
         {
           "text": "シンクに",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "005(シンク)"
+            }
+          ]
         },
         {
           "text": "入れて。",
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "013(まな板)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "014(包丁)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "005(シンク)"
             }
           ]
         },
@@ -53022,6 +53270,14 @@
               "instanceId": "001(主人)"
             },
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
               "type": "ニ",
               "instanceId": "002(ロボット)"
             }
@@ -53037,11 +53293,19 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
               "type": "ニ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -53056,7 +53320,12 @@
         },
         {
           "text": "まな板と",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "013(まな板)"
+            }
+          ]
         },
         {
           "text": "包丁を",
@@ -53071,7 +53340,15 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "013(まな板)"
             },
             {
               "type": "ニ",
@@ -53090,14 +53367,27 @@
         },
         {
           "text": "ボウルを",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "008(ボウル)"
+            }
+          ]
         },
         {
           "text": "持っていきます。",
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "008(ボウル)"
             },
             {
               "type": "ニ２",
@@ -53120,6 +53410,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
             },
             {
               "type": "ヲ",
@@ -53272,12 +53566,20 @@
             {
               "type": "ノ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ノ",
+              "instanceId": "002(ロボット)"
             }
           ]
         },
         {
           "text": "立てて",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -53287,6 +53589,10 @@
         {
           "text": "嬉しいです。",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -53306,6 +53612,14 @@
               "instanceId": "001(主人)"
             },
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
               "type": "ニ",
               "instanceId": "002(ロボット)"
             }
@@ -53316,11 +53630,19 @@
           "relations": [
             {
               "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
               "instanceId": "002(ロボット)"
             },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -53355,41 +53677,8 @@
           "relations": [
             {
               "type": "ガ",
-              "instanceId": "002(ロボット)"
+              "instanceId": "001(主人)"
             },
-            {
-              "type": "ヲ",
-              "instanceId": "003(皿)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "004(黄コップ)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "009(スプーン)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "016(フォーク)"
-            },
-            {
-              "type": "デ≒",
-              "instanceId": "011(濡白布巾)"
-            },
-            {
-              "type": "デ≒",
-              "instanceId": "015(黄布巾)"
-            }
-          ]
-        },
-        {
-          "text": "戸棚に",
-          "relations": []
-        },
-        {
-          "text": "しまいましょうか？",
-          "relations": [
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -53409,6 +53698,52 @@
             {
               "type": "ヲ",
               "instanceId": "016(フォーク)"
+            },
+            {
+              "type": "デ≒",
+              "instanceId": "015(黄布巾)"
+            }
+          ]
+        },
+        {
+          "text": "戸棚に",
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "017(戸棚)"
+            }
+          ]
+        },
+        {
+          "text": "しまいましょうか？",
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(皿)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "004(黄コップ)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "009(スプーン)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "016(フォーク)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "017(戸棚)"
             }
           ]
         }
@@ -53426,6 +53761,10 @@
           "relations": [
             {
               "type": "ノ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ノ",
               "instanceId": "002(ロボット)"
             }
           ]
@@ -53433,6 +53772,10 @@
         {
           "text": "利くね。",
           "relations": [
+            {
+              "type": "ガ２",
+              "instanceId": "001(主人)"
+            },
             {
               "type": "ガ２",
               "instanceId": "002(ロボット)"
@@ -53446,6 +53789,10 @@
         {
           "text": "拭いたら、",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -53468,10 +53815,6 @@
             },
             {
               "type": "デ≒",
-              "instanceId": "011(濡白布巾)"
-            },
-            {
-              "type": "デ≒",
               "instanceId": "015(黄布巾)"
             }
           ]
@@ -53482,19 +53825,38 @@
         },
         {
           "text": "コップと",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(皿)"
+            }
+          ]
         },
         {
           "text": "お皿は",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(皿)"
+            }
+          ]
         },
         {
           "text": "戸棚の",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "017(戸棚)"
+            }
+          ]
         },
         {
           "text": "上段に",
           "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "017(戸棚)"
+            },
             {
               "type": "=",
               "instanceId": "022(上段a)"
@@ -53510,7 +53872,15 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(皿)"
             },
             {
               "type": "ニ",
@@ -53545,12 +53915,33 @@
             {
               "type": "=",
               "instanceId": "008(ボウル)"
+            },
+            {
+              "type": "=",
+              "instanceId": "013(まな板)"
+            },
+            {
+              "type": "=",
+              "instanceId": "014(包丁)"
+            },
+            {
+              "type": "=",
+              "instanceId": "024(鍋)"
+            },
+            {
+              "type": "=",
+              "instanceId": "025(ザル)"
             }
           ]
         },
         {
           "text": "私が",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "001(主人)"
+            }
+          ]
         },
         {
           "text": "なおしておくね。",
@@ -53560,12 +53951,32 @@
               "instanceId": "001(主人)"
             },
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
               "type": "ヲ",
               "instanceId": "007(フライパン)"
             },
             {
               "type": "ヲ",
               "instanceId": "008(ボウル)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "013(まな板)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "014(包丁)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "024(鍋)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "025(ザル)"
             }
           ]
         }
@@ -53577,6 +53988,10 @@
         {
           "text": "了解です。",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -53626,6 +54041,10 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             }
           ]
@@ -53651,6 +54070,14 @@
               "instanceId": "001(主人)"
             },
             {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
               "type": "ニ",
               "instanceId": "002(ロボット)"
             }
@@ -53661,6 +54088,14 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
               "instanceId": "001(主人)"
             },
             {
@@ -53683,6 +54118,10 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
             },
             {
@@ -53701,6 +54140,14 @@
           "relations": [
             {
               "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ガ２",
               "instanceId": "001(主人)"
             },
             {
@@ -53750,11 +54197,19 @@
           "relations": [
             {
               "type": "ニ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ニ",
               "instanceId": "002(ロボット)"
             },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ２",
+              "instanceId": "002(ロボット)"
             }
           ]
         }
@@ -53766,6 +54221,10 @@
         {
           "text": "拭き",
           "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "001(主人)"
+            },
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
@@ -53803,6 +54262,14 @@
               "instanceId": "016(フォーク)"
             },
             {
+              "type": "ヲ",
+              "instanceId": "024(鍋)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "025(ザル)"
+            },
+            {
               "type": "デ",
               "instanceId": "015(黄布巾)"
             }
@@ -53822,6 +54289,14 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ニ",
               "instanceId": "001(主人)"
             },
             {
@@ -53857,7 +54332,12 @@
         },
         {
           "text": "コンロの",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "012(コンロ)"
+            }
+          ]
         },
         {
           "text": "下の",
@@ -53883,6 +54363,10 @@
             {
               "type": "ガ",
               "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
+              "instanceId": "002(ロボット)"
             },
             {
               "type": "ヲ",
@@ -53921,7 +54405,12 @@
         },
         {
           "text": "お皿と",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "003(皿)"
+            }
+          ]
         },
         {
           "text": "スプーンを",
@@ -53932,7 +54421,15 @@
           "relations": [
             {
               "type": "ガ",
+              "instanceId": "001(主人)"
+            },
+            {
+              "type": "ガ",
               "instanceId": "002(ロボット)"
+            },
+            {
+              "type": "ヲ",
+              "instanceId": "003(皿)"
             },
             {
               "type": "ニ",
@@ -53968,15 +54465,29 @@
         },
         {
           "text": "きれいな",
-          "relations": []
+          "relations": [
+            {
+              "type": "ガ",
+              "instanceId": "027(キッチン)"
+            }
+          ]
         },
         {
           "text": "キッチンは",
-          "relations": []
+          "relations": [
+            {
+              "type": "=",
+              "instanceId": "027(キッチン)"
+            }
+          ]
         },
         {
           "text": "気持ちが",
           "relations": [
+            {
+              "type": "ノ",
+              "instanceId": "001(主人)"
+            },
             {
               "type": "ノ",
               "instanceId": "002(ロボット)"

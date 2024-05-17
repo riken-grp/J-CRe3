@@ -489,7 +489,7 @@
           "instanceId": "004(テレビ)",
           "rect": {
             "x1": 1527,
-            "y1": 1,
+            "y1": 59,
             "x2": 1920,
             "y2": 210
           },
@@ -2105,6 +2105,17 @@
             "y2": 638
           },
           "className": "newspaper"
+        },
+        {
+          "imageId": "032",
+          "instanceId": "010(ドラマ画面)",
+          "rect": {
+            "x1": 1035,
+            "y1": 0,
+            "x2": 1226,
+            "y2": 40
+          },
+          "className": "television_set"
         }
       ]
     },
@@ -2176,6 +2187,17 @@
             "y2": 624
           },
           "className": "newspaper"
+        },
+        {
+          "imageId": "033",
+          "instanceId": "010(ドラマ画面)",
+          "rect": {
+            "x1": 1038,
+            "y1": 0,
+            "x2": 1231,
+            "y2": 40
+          },
+          "className": "television_set"
         }
       ]
     },
@@ -2247,6 +2269,17 @@
             "y2": 623
           },
           "className": "newspaper"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "010(ドラマ画面)",
+          "rect": {
+            "x1": 1087,
+            "y1": 0,
+            "x2": 1257,
+            "y2": 39
+          },
+          "className": "television_set"
         }
       ]
     },
@@ -2318,6 +2351,17 @@
             "y2": 686
           },
           "className": "newspaper"
+        },
+        {
+          "imageId": "035",
+          "instanceId": "010(ドラマ画面)",
+          "rect": {
+            "x1": 1161,
+            "y1": 0,
+            "x2": 1504,
+            "y2": 99
+          },
+          "className": "television_set"
         }
       ]
     },
@@ -2389,6 +2433,17 @@
             "y2": 734
           },
           "className": "newspaper"
+        },
+        {
+          "imageId": "036",
+          "instanceId": "010(ドラマ画面)",
+          "rect": {
+            "x1": 1489,
+            "y1": 0,
+            "x2": 1918,
+            "y2": 111
+          },
+          "className": "television_set"
         }
       ]
     },
@@ -2460,6 +2515,17 @@
             "y2": 1027
           },
           "className": "newspaper"
+        },
+        {
+          "imageId": "037",
+          "instanceId": "010(ドラマ画面)",
+          "rect": {
+            "x1": 835,
+            "y1": 0,
+            "x2": 1215,
+            "y2": 184
+          },
+          "className": "television_set"
         }
       ]
     },
@@ -2667,6 +2733,17 @@
             "y2": 1080
           },
           "className": "person"
+        },
+        {
+          "imageId": "041",
+          "instanceId": "010(ドラマ画面)",
+          "rect": {
+            "x1": 1476,
+            "y1": 2,
+            "x2": 1920,
+            "y2": 209
+          },
+          "className": "television_set"
         }
       ]
     },
@@ -3011,6 +3088,17 @@
             "y2": 263
           },
           "className": "television_set"
+        },
+        {
+          "imageId": "046",
+          "instanceId": "010(ドラマ画面)",
+          "rect": {
+            "x1": 1769,
+            "y1": 8,
+            "x2": 1918,
+            "y2": 251
+          },
+          "className": "television_set"
         }
       ]
     },
@@ -3091,6 +3179,17 @@
             "y1": 0,
             "x2": 1920,
             "y2": 200
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "047",
+          "instanceId": "010(ドラマ画面)",
+          "rect": {
+            "x1": 1732,
+            "y1": 0,
+            "x2": 1920,
+            "y2": 192
           },
           "className": "television_set"
         }
@@ -3175,6 +3274,17 @@
             "y2": 575
           },
           "className": "crisp_(potato_chip)"
+        },
+        {
+          "imageId": "048",
+          "instanceId": "010(ドラマ画面)",
+          "rect": {
+            "x1": 1243,
+            "y1": 0,
+            "x2": 1696,
+            "y2": 129
+          },
+          "className": "television_set"
         }
       ]
     },
@@ -3257,6 +3367,17 @@
             "y2": 833
           },
           "className": "newspaper"
+        },
+        {
+          "imageId": "049",
+          "instanceId": "010(ドラマ画面)",
+          "rect": {
+            "x1": 1353,
+            "y1": 1,
+            "x2": 1919,
+            "y2": 397
+          },
+          "className": "television_set"
         }
       ]
     },
@@ -3311,10 +3432,21 @@
           "imageId": "050",
           "instanceId": "004(テレビ)",
           "rect": {
-            "x1": 1884,
-            "y1": 363,
+            "x1": 1886,
+            "y1": 361,
+            "x2": 1920,
+            "y2": 467
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "050",
+          "instanceId": "010(ドラマ画面)",
+          "rect": {
+            "x1": 1895,
+            "y1": 366,
             "x2": 1919,
-            "y2": 469
+            "y2": 427
           },
           "className": "television_set"
         }
@@ -3622,10 +3754,10 @@
           "imageId": "055",
           "instanceId": "002(ロボット)",
           "rect": {
-            "x1": 544,
+            "x1": 545,
             "y1": 632,
-            "x2": 1448,
-            "y2": 1078
+            "x2": 1449,
+            "y2": 1080
           },
           "className": "person"
         },
@@ -3858,16 +3990,7 @@
       "phrases": [
         {
           "text": "うんうん",
-          "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "001(主人)"
-            },
-            {
-              "type": "ニ",
-              "instanceId": "002(ロボット)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "いいや。",

@@ -568,6 +568,17 @@
             "y2": 965
           },
           "className": "remote_control"
+        },
+        {
+          "imageId": "015",
+          "instanceId": "007(こっち)",
+          "rect": {
+            "x1": 1182,
+            "y1": 812,
+            "x2": 1496,
+            "y2": 1080
+          },
+          "className": "region"
         }
       ]
     },
@@ -761,6 +772,17 @@
       "boundingBoxes": [
         {
           "imageId": "020",
+          "instanceId": "005(テレビ)",
+          "rect": {
+            "x1": 876,
+            "y1": 0,
+            "x2": 1153,
+            "y2": 13
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "020",
           "instanceId": "001(主人)",
           "rect": {
             "x1": 261,
@@ -886,6 +908,17 @@
       "boundingBoxes": [
         {
           "imageId": "023",
+          "instanceId": "005(テレビ)",
+          "rect": {
+            "x1": 995,
+            "y1": 0,
+            "x2": 1174,
+            "y2": 20
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "023",
           "instanceId": "001(主人)",
           "rect": {
             "x1": 273,
@@ -935,6 +968,17 @@
       "boundingBoxes": [
         {
           "imageId": "024",
+          "instanceId": "005(テレビ)",
+          "rect": {
+            "x1": 1039,
+            "y1": 0,
+            "x2": 1185,
+            "y2": 17
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "024",
           "instanceId": "001(主人)",
           "rect": {
             "x1": 279,
@@ -982,6 +1026,17 @@
     {
       "imageId": "025",
       "boundingBoxes": [
+        {
+          "imageId": "025",
+          "instanceId": "005(テレビ)",
+          "rect": {
+            "x1": 1107,
+            "y1": 0,
+            "x2": 1206,
+            "y2": 10
+          },
+          "className": "television_set"
+        },
         {
           "imageId": "025",
           "instanceId": "001(主人)",
@@ -1299,6 +1354,17 @@
       "boundingBoxes": [
         {
           "imageId": "033",
+          "instanceId": "005(テレビ)",
+          "rect": {
+            "x1": 1111,
+            "y1": 0,
+            "x2": 1255,
+            "y2": 22
+          },
+          "className": "television_set"
+        },
+        {
+          "imageId": "033",
           "instanceId": "001(主人)",
           "rect": {
             "x1": 329,
@@ -1352,7 +1418,7 @@
           "rect": {
             "x1": 1196,
             "y1": 0,
-            "x2": 1411,
+            "x2": 1404,
             "y2": 43
           },
           "className": "television_set"
@@ -1367,6 +1433,17 @@
             "y2": 740
           },
           "className": "person"
+        },
+        {
+          "imageId": "034",
+          "instanceId": "005(テレビ)",
+          "rect": {
+            "x1": 1194,
+            "y1": 0,
+            "x2": 1411,
+            "y2": 54
+          },
+          "className": "television_set"
         },
         {
           "imageId": "034",
@@ -1446,12 +1523,12 @@
         },
         {
           "imageId": "036",
-          "instanceId": "008(映画)",
+          "instanceId": "005(テレビ)",
           "rect": {
-            "x1": 1237,
+            "x1": 1231,
             "y1": 0,
-            "x2": 1291,
-            "y2": 8
+            "x2": 1270,
+            "y2": 5
           },
           "className": "television_set"
         },
@@ -1495,12 +1572,12 @@
         },
         {
           "imageId": "037",
-          "instanceId": "008(映画)",
+          "instanceId": "005(テレビ)",
           "rect": {
-            "x1": 1256,
+            "x1": 1252,
             "y1": 0,
-            "x2": 1286,
-            "y2": 7
+            "x2": 1288,
+            "y2": 8
           },
           "className": "television_set"
         },
@@ -1544,12 +1621,12 @@
         },
         {
           "imageId": "038",
-          "instanceId": "008(映画)",
+          "instanceId": "005(テレビ)",
           "rect": {
-            "x1": 1260,
+            "x1": 1261,
             "y1": 0,
-            "x2": 1288,
-            "y2": 6
+            "x2": 1284,
+            "y2": 10
           },
           "className": "television_set"
         },
@@ -1593,9 +1670,9 @@
         },
         {
           "imageId": "039",
-          "instanceId": "008(映画)",
+          "instanceId": "005(テレビ)",
           "rect": {
-            "x1": 1262,
+            "x1": 1261,
             "y1": 0,
             "x2": 1309,
             "y2": 5
@@ -1749,7 +1826,11 @@
           "text": "テレビが",
           "relations": [
             {
-              "type": "=",
+              "type": "ノ",
+              "instanceId": "004(リモコン)"
+            },
+            {
+              "type": "=≒",
               "instanceId": "005(テレビ)"
             }
           ]
@@ -1757,10 +1838,6 @@
         {
           "text": "見たいから",
           "relations": [
-            {
-              "type": "ガ",
-              "instanceId": "005(テレビ)"
-            },
             {
               "type": "ガ２",
               "instanceId": "001(主人)"
@@ -1775,7 +1852,7 @@
               "instanceId": "002(ロボット)"
             },
             {
-              "type": "ヲ",
+              "type": "ヲ≒",
               "instanceId": "005(テレビ)"
             }
           ]
@@ -1829,10 +1906,6 @@
           "text": "リモコンは",
           "relations": [
             {
-              "type": "ノ",
-              "instanceId": "005(テレビ)"
-            },
-            {
               "type": "=",
               "instanceId": "004(リモコン)"
             }
@@ -1857,10 +1930,6 @@
             {
               "type": "ノ",
               "instanceId": "003(テーブル)"
-            },
-            {
-              "type": "=",
-              "instanceId": "006(上)"
             }
           ]
         }
@@ -1909,10 +1978,6 @@
             {
               "type": "ガ",
               "instanceId": "002(ロボット)"
-            },
-            {
-              "type": "ヲ",
-              "instanceId": "005(テレビ)"
             }
           ]
         }
@@ -1949,12 +2014,7 @@
         },
         {
           "text": "の",
-          "relations": [
-            {
-              "type": "=≒",
-              "instanceId": "008(映画)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "やってる？",
@@ -1967,12 +2027,7 @@
       "phrases": [
         {
           "text": "映画が",
-          "relations": [
-            {
-              "type": "=≒",
-              "instanceId": "008(映画)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "もう",
@@ -1997,12 +2052,7 @@
         },
         {
           "text": "映画か。",
-          "relations": [
-            {
-              "type": "=≒",
-              "instanceId": "008(映画)"
-            }
-          ]
+          "relations": []
         },
         {
           "text": "今",
