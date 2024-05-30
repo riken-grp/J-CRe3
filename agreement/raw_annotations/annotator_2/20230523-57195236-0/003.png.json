@@ -1,0 +1,384 @@
+{
+  "image_id": "003",
+  "bounding_boxes": [
+    {
+      "image_id": "003",
+      "id": "123",
+      "bb": [
+        625,
+        8,
+        135,
+        140
+      ],
+      "class_name": "apron",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "120",
+      "bb": [
+        1546,
+        395,
+        373,
+        389
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "008(ティッシュ)",
+      "bb": [
+        1370,
+        427,
+        148,
+        104
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "003",
+      "id": "104",
+      "bb": [
+        814,
+        129,
+        25,
+        28
+      ],
+      "class_name": "soap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "99",
+      "bb": [
+        1419,
+        330,
+        68,
+        50
+      ],
+      "class_name": "bottle_cap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "92",
+      "bb": [
+        739,
+        153,
+        65,
+        46
+      ],
+      "class_name": "bowl",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "86",
+      "bb": [
+        479,
+        185,
+        128,
+        99
+      ],
+      "class_name": "step_stool",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "74",
+      "bb": [
+        0,
+        999,
+        245,
+        79
+      ],
+      "class_name": "box",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "42",
+      "bb": [
+        1140,
+        7,
+        27,
+        67
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "27",
+      "bb": [
+        1583,
+        254,
+        35,
+        35
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "26",
+      "bb": [
+        956,
+        60,
+        39,
+        79
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "002(ロボット)",
+      "bb": [
+        666,
+        949,
+        702,
+        129
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "003",
+      "id": "22",
+      "bb": [
+        611,
+        103,
+        279,
+        99
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "20",
+      "bb": [
+        1389,
+        330,
+        97,
+        102
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "19",
+      "bb": [
+        1552,
+        334,
+        228,
+        154
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "18",
+      "bb": [
+        1289,
+        0,
+        255,
+        139
+      ],
+      "class_name": "television_set",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "007(本)",
+      "bb": [
+        1193,
+        380,
+        151,
+        82
+      ],
+      "class_name": "book",
+      "auto_flg": false
+    },
+    {
+      "image_id": "003",
+      "id": "14",
+      "bb": [
+        1473,
+        295,
+        178,
+        101
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "13",
+      "bb": [
+        67,
+        47,
+        45,
+        30
+      ],
+      "class_name": "clock",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "12",
+      "bb": [
+        1280,
+        501,
+        355,
+        260
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "003(ケトル)",
+      "bb": [
+        1147,
+        473,
+        149,
+        180
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "003",
+      "id": "004(テーブル)",
+      "bb": [
+        943,
+        221,
+        864,
+        677
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "003",
+      "id": "005(カップ)",
+      "bb": [
+        1463,
+        595,
+        92,
+        82
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "003",
+      "id": "8",
+      "bb": [
+        1540,
+        558,
+        324,
+        231
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "7",
+      "bb": [
+        1673,
+        391,
+        246,
+        233
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "6",
+      "bb": [
+        1509,
+        84,
+        231,
+        134
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "5",
+      "bb": [
+        1264,
+        192,
+        101,
+        114
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "001(主人)",
+      "bb": [
+        605,
+        0,
+        160,
+        152
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "003",
+      "id": "3",
+      "bb": [
+        1473,
+        360,
+        71,
+        71
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "2",
+      "bb": [
+        1043,
+        261,
+        161,
+        169
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "003",
+      "id": "006(リモコン)",
+      "bb": [
+        1291,
+        516,
+        163,
+        95
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "003",
+    "id": "003",
+    "text": "<<<お湯0>>><<<沸かしてもらえる>>>かな？\r\n<<<分かりました0>>>。<<<電気>>><<<ケトル>>>を<<<使っていいです>>>か？\r\n<<<いい0>>>よ。\r\n<<<テーブル0>>>の<<<上>>>に<<<お湯1>>>が<<<被る>>>と<<<まずい0>>><<<もの>>>は<<<ある>>>かな？\r\n<<<リモコン0>>>や<<<本0>>>が<<<あります>>>。\r\n<<<本1>>>は<<<濡れる>>>と<<<まずい1>>>ね。<<<本棚>>>に<<<片付けてくれる>>>かな？\r\n<<<はい0>>><<<分かりました1>>>。\r\n<<<リモコン1>>>は<<<濡れない>>><<<程度>>>に<<<離しておいてくれたらいい>>>よ。\r\n<<<はい1>>><<<分かりました2>>>。<<<ティッシュ>>>も<<<一応>>><<<テーブル1>>>の<<<反対側>>>に<<<置いておきます>>>ね。\r\n<<<そう>>>だね<<<えー>>><<<もう>>>、<<<水0>>>は<<<入っているはずだ>>>から、<<<スイッチ>>><<<入れる>>>だけで<<<いい1>>>よ。\r\n<<<はい2>>>\r\n<<<半分>>>くらい<<<入ってたら>>>、<<<いいです>>>か？\r\n<<<あれ>>><<<結構>>><<<減ってる>>>な。<<<水1>>>を<<<足す>>>から<<<ちょうだい>>>。\r\n<<<はい3>>>、<<<どうぞ>>>。\r\n<<<これ>>>で<<<大丈夫>>>。\r\n<<<ありがとうございます>>>。<<<沸いたら>>><<<カップ>>>に<<<注いでおきます>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

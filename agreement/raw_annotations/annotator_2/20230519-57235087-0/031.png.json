@@ -1,0 +1,276 @@
+{
+  "image_id": "031",
+  "bounding_boxes": [
+    {
+      "image_id": "031",
+      "id": "3672",
+      "bb": [
+        63,
+        226,
+        102,
+        61
+      ],
+      "class_name": "sharpener",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3670",
+      "bb": [
+        148,
+        28,
+        181,
+        112
+      ],
+      "class_name": "knife",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "005(人参１本)",
+      "bb": [
+        1079,
+        536,
+        36,
+        122
+      ],
+      "class_name": "carrot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "031",
+      "id": "3655",
+      "bb": [
+        23,
+        273,
+        92,
+        45
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3653",
+      "bb": [
+        1192,
+        374,
+        179,
+        46
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        -6,
+        992,
+        436,
+        94
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "031",
+      "id": "3530",
+      "bb": [
+        968,
+        641,
+        52,
+        44
+      ],
+      "class_name": "bracelet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3527",
+      "bb": [
+        1054,
+        995,
+        19,
+        18
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3521",
+      "bb": [
+        104,
+        88,
+        181,
+        104
+      ],
+      "class_name": "chopping_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3486",
+      "bb": [
+        438,
+        360,
+        386,
+        288
+      ],
+      "class_name": "chopping_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3422",
+      "bb": [
+        1317,
+        0,
+        383,
+        215
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3416",
+      "bb": [
+        417,
+        0,
+        47,
+        12
+      ],
+      "class_name": "vent",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3380",
+      "bb": [
+        0,
+        567,
+        403,
+        317
+      ],
+      "class_name": "skirt",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3268",
+      "bb": [
+        392,
+        448,
+        70,
+        87
+      ],
+      "class_name": "cookie",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3262",
+      "bb": [
+        1059,
+        209,
+        116,
+        412
+      ],
+      "class_name": "faucet",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3255",
+      "bb": [
+        1718,
+        377,
+        160,
+        103
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3240",
+      "bb": [
+        1594,
+        455,
+        158,
+        139
+      ],
+      "class_name": "scrubbing_brush",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3227",
+      "bb": [
+        1322,
+        395,
+        204,
+        103
+      ],
+      "class_name": "sponge",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3210",
+      "bb": [
+        604,
+        129,
+        352,
+        146
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "3146",
+      "bb": [
+        839,
+        234,
+        893,
+        699
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "031",
+      "id": "001(主人)",
+      "bb": [
+        -17,
+        385,
+        729,
+        498
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "031",
+      "id": "002(ロボット)",
+      "bb": [
+        573,
+        518,
+        1022,
+        563
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "031",
+    "id": "031",
+    "text": "<<<今日>>>は<<<肉じゃが>>>に<<<しよう>>>と<<<思う>>>。\r\n<<<なるほど>>>。<<<では>>>、<<<私>>>は<<<何>>>を<<<手伝えばいいでしょう>>>か？\r\n<<<そう>>>だねー<<<人参0>>>を<<<出し忘れた>>>から、<<<持ってきて>>>。\r\n<<<うん0>>>\r\n<<<分かりました0>>>。\r\n<<<人参1>>>が<<<三本>>><<<あります>>>が、<<<何本>>><<<必要です>>>か？\r\n<<<一本0>>>で<<<いい>>>よ。\r\n<<<一本1>>>ですね。\r\n<<<皮0>>>を<<<剥く>>><<<前>>>に<<<洗っておいてくれる>>>？\r\n<<<はい0>>><<<分かりました1>>>。\r\n<<<それ>>>が<<<終わったら>>>、<<<皮1>>><<<むき>>>を<<<お願い>>>ね。\r\n<<<はい1>>><<<すみません>>>。<<<どれ>>>を<<<使えばいいです>>>か？\r\n<<<あーあ>>><<<ごめん0>>>、<<<ごめん1>>>。<<<戸棚>>>に<<<入れっぱなし>>>だった。<<<すぐ>>>に<<<取ってくる>>>よ。\r\n<<<ありがとうございます>>>。\r\n<<<あ>>><<<そこ>>>に<<<あるんです>>>ね。\r\n<<<うん1>>>"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

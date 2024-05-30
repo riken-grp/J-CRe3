@@ -1,0 +1,240 @@
+{
+  "image_id": "042",
+  "bounding_boxes": [
+    {
+      "image_id": "042",
+      "id": "005(カップ)",
+      "bb": [
+        343,
+        478,
+        102,
+        77
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "003(ケトル)",
+      "bb": [
+        207,
+        260,
+        209,
+        156
+      ],
+      "class_name": "kettle",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "4349",
+      "bb": [
+        779,
+        355,
+        57,
+        53
+      ],
+      "class_name": "vase",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "002(ロボット)",
+      "bb": [
+        238,
+        837,
+        1457,
+        244
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "4318",
+      "bb": [
+        922,
+        422,
+        354,
+        204
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "006(リモコン)",
+      "bb": [
+        1158,
+        364,
+        57,
+        141
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "4299",
+      "bb": [
+        1349,
+        3,
+        346,
+        142
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "4269",
+      "bb": [
+        1644,
+        130,
+        179,
+        130
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "4255",
+      "bb": [
+        1571,
+        203,
+        121,
+        87
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "4252",
+      "bb": [
+        1498,
+        124,
+        327,
+        212
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "4176",
+      "bb": [
+        1448,
+        375,
+        85,
+        80
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "4004",
+      "bb": [
+        678,
+        217,
+        182,
+        185
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "010(反対側)",
+      "bb": [
+        278,
+        390,
+        386,
+        218
+      ],
+      "class_name": "region",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "chair",
+      "bb": [
+        504,
+        114,
+        258,
+        107
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "3709",
+      "bb": [
+        875,
+        110,
+        248,
+        95
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "mat",
+      "bb": [
+        443,
+        208,
+        324,
+        148
+      ],
+      "class_name": "kettle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "3510",
+      "bb": [
+        896,
+        217,
+        297,
+        123
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "042",
+      "id": "004(テーブル)",
+      "bb": [
+        143,
+        201,
+        1282,
+        453
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "042",
+      "id": "008(ティッシュ)",
+      "bb": [
+        1213,
+        355,
+        104,
+        135
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "042",
+    "id": "042",
+    "text": "<<<お湯0>>><<<沸かしてもらえる>>>かな？\r\n<<<分かりました0>>>。<<<電気>>><<<ケトル>>>を<<<使っていいです>>>か？\r\n<<<いい0>>>よ。\r\n<<<テーブル0>>>の<<<上>>>に<<<お湯1>>>が<<<被る>>>と<<<まずい0>>><<<もの>>>は<<<ある>>>かな？\r\n<<<リモコン0>>>や<<<本0>>>が<<<あります>>>。\r\n<<<本1>>>は<<<濡れる>>>と<<<まずい1>>>ね。<<<本棚>>>に<<<片付けてくれる>>>かな？\r\n<<<はい0>>><<<分かりました1>>>。\r\n<<<リモコン1>>>は<<<濡れない>>><<<程度>>>に<<<離しておいてくれたらいい>>>よ。\r\n<<<はい1>>><<<分かりました2>>>。<<<ティッシュ>>>も<<<一応>>><<<テーブル1>>>の<<<反対側>>>に<<<置いておきます>>>ね。\r\n<<<そう>>>だね<<<えー>>><<<もう>>>、<<<水0>>>は<<<入っているはずだ>>>から、<<<スイッチ>>><<<入れる>>>だけで<<<いい1>>>よ。\r\n<<<はい2>>>\r\n<<<半分>>>くらい<<<入ってたら>>>、<<<いいです>>>か？\r\n<<<あれ>>><<<結構>>><<<減ってる>>>な。<<<水1>>>を<<<足す>>>から<<<ちょうだい>>>。\r\n<<<はい3>>>、<<<どうぞ>>>。\r\n<<<これ>>>で<<<大丈夫>>>。\r\n<<<ありがとうございます>>>。<<<沸いたら>>><<<カップ>>>に<<<注いでおきます>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

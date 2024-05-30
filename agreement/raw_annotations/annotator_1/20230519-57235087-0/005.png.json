@@ -1,0 +1,288 @@
+{
+  "image_id": "005",
+  "bounding_boxes": [
+    {
+      "image_id": "005",
+      "id": "553",
+      "bb": [
+        432,
+        129,
+        153,
+        105
+      ],
+      "class_name": "bowl",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "545",
+      "bb": [
+        982,
+        864,
+        18,
+        9
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "543",
+      "bb": [
+        0,
+        699,
+        45,
+        33
+      ],
+      "class_name": "earplug",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "542",
+      "bb": [
+        0,
+        727,
+        66,
+        36
+      ],
+      "class_name": "marker",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "529",
+      "bb": [
+        699,
+        948,
+        85,
+        115
+      ],
+      "class_name": "tissue_paper",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "521",
+      "bb": [
+        992,
+        939,
+        25,
+        20
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "509",
+      "bb": [
+        558,
+        492,
+        209,
+        180
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "465",
+      "bb": [
+        1722,
+        119,
+        204,
+        283
+      ],
+      "class_name": "toy",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "002(ロボット)",
+      "bb": [
+        718,
+        820,
+        900,
+        264
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "402",
+      "bb": [
+        726,
+        254,
+        269,
+        340
+      ],
+      "class_name": "drawer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "401",
+      "bb": [
+        663,
+        177,
+        290,
+        235
+      ],
+      "class_name": "chopping_board",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "385",
+      "bb": [
+        1886,
+        666,
+        36,
+        96
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "162",
+      "bb": [
+        1,
+        776,
+        126,
+        64
+      ],
+      "class_name": "bottle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "72",
+      "bb": [
+        1177,
+        197,
+        313,
+        342
+      ],
+      "class_name": "skirt",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "19",
+      "bb": [
+        558,
+        0,
+        211,
+        181
+      ],
+      "class_name": "bowl",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "001(主人)",
+      "bb": [
+        1175,
+        0,
+        595,
+        548
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "005",
+      "id": "12",
+      "bb": [
+        17,
+        845,
+        133,
+        36
+      ],
+      "class_name": "screwdriver",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "10",
+      "bb": [
+        1179,
+        234,
+        60,
+        49
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "8",
+      "bb": [
+        833,
+        337,
+        92,
+        81
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "7",
+      "bb": [
+        857,
+        410,
+        78,
+        74
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "6",
+      "bb": [
+        529,
+        705,
+        86,
+        77
+      ],
+      "class_name": "handle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "2",
+      "bb": [
+        825,
+        0,
+        420,
+        200
+      ],
+      "class_name": "sink",
+      "auto_flg": true
+    },
+    {
+      "image_id": "005",
+      "id": "006(戸棚)",
+      "bb": [
+        1747,
+        878,
+        187,
+        212
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "005",
+    "id": "005",
+    "text": "<<<今日>>>は<<<肉じゃが>>>に<<<しよう>>>と<<<思う>>>。\r\n<<<なるほど>>>。<<<では>>>、<<<私>>>は<<<何>>>を<<<手伝えばいいでしょう>>>か？\r\n<<<そう>>>だねー<<<人参0>>>を<<<出し忘れた>>>から、<<<持ってきて>>>。\r\n<<<うん0>>>\r\n<<<分かりました0>>>。\r\n<<<人参1>>>が<<<三本>>><<<あります>>>が、<<<何本>>><<<必要です>>>か？\r\n<<<一本0>>>で<<<いい>>>よ。\r\n<<<一本1>>>ですね。\r\n<<<皮0>>>を<<<剥く>>><<<前>>>に<<<洗っておいてくれる>>>？\r\n<<<はい0>>><<<分かりました1>>>。\r\n<<<それ>>>が<<<終わったら>>>、<<<皮1>>><<<むき>>>を<<<お願い>>>ね。\r\n<<<はい1>>><<<すみません>>>。<<<どれ>>>を<<<使えばいいです>>>か？\r\n<<<あーあ>>><<<ごめん0>>>、<<<ごめん1>>>。<<<戸棚>>>に<<<入れっぱなし>>>だった。<<<すぐ>>>に<<<取ってくる>>>よ。\r\n<<<ありがとうございます>>>。\r\n<<<あ>>><<<そこに>>><<<あるんです>>>ね。\r\n<<<うん1>>>"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

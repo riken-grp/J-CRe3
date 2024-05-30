@@ -1,0 +1,276 @@
+{
+  "image_id": "041",
+  "bounding_boxes": [
+    {
+      "image_id": "041",
+      "id": "001(主人)",
+      "bb": [
+        136,
+        0,
+        194,
+        41
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "4301",
+      "bb": [
+        336,
+        1,
+        101,
+        59
+      ],
+      "class_name": "cup",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "4299",
+      "bb": [
+        1058,
+        1,
+        251,
+        85
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "006(リモコン)",
+      "bb": [
+        845,
+        553,
+        116,
+        221
+      ],
+      "class_name": "remote_control",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "4283",
+      "bb": [
+        1046,
+        763,
+        287,
+        309
+      ],
+      "class_name": "dress",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "4269",
+      "bb": [
+        1363,
+        18,
+        279,
+        218
+      ],
+      "class_name": "monitor_(computer_equipment) computer_monitor",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "4255",
+      "bb": [
+        1299,
+        145,
+        198,
+        135
+      ],
+      "class_name": "computer_keyboard",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "4252",
+      "bb": [
+        1202,
+        14,
+        451,
+        327
+      ],
+      "class_name": "laptop_computer",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "4247",
+      "bb": [
+        545,
+        641,
+        528,
+        440
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "008(ティッシュ)",
+      "bb": [
+        918,
+        518,
+        172,
+        206
+      ],
+      "class_name": "box",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "4240",
+      "bb": [
+        961,
+        541,
+        79,
+        156
+      ],
+      "class_name": "napkin",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "4197",
+      "bb": [
+        195,
+        49,
+        57,
+        32
+      ],
+      "class_name": "soap",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "002(ロボット)",
+      "bb": [
+        550,
+        633,
+        788,
+        451
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "4176",
+      "bb": [
+        1248,
+        389,
+        81,
+        93
+      ],
+      "class_name": "wall_socket",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "4004",
+      "bb": [
+        -5,
+        619,
+        347,
+        235
+      ],
+      "class_name": "flower_arrangement",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "010(反対側)",
+      "bb": [
+        5,
+        836,
+        263,
+        226
+      ],
+      "class_name": "region",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "chair",
+      "bb": [
+        6,
+        343,
+        240,
+        182
+      ],
+      "class_name": "dining_table",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "3709",
+      "bb": [
+        351,
+        194,
+        380,
+        199
+      ],
+      "class_name": "chair",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "003(ケトル)",
+      "bb": [
+        4,
+        483,
+        252,
+        260
+      ],
+      "class_name": "kettle",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "3510",
+      "bb": [
+        460,
+        326,
+        430,
+        298
+      ],
+      "class_name": "place_mat",
+      "auto_flg": true
+    },
+    {
+      "image_id": "041",
+      "id": "004(テーブル)",
+      "bb": [
+        -2,
+        253,
+        1279,
+        825
+      ],
+      "class_name": "dining_table",
+      "auto_flg": false
+    },
+    {
+      "image_id": "041",
+      "id": "005(カップ)",
+      "bb": [
+        -4,
+        984,
+        32,
+        48
+      ],
+      "class_name": "cup",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "041",
+    "id": "041",
+    "text": "<<<お湯0>>><<<沸かしてもらえる>>>かな？\r\n<<<分かりました0>>>。<<<電気>>><<<ケトル>>>を<<<使っていいです>>>か？\r\n<<<いい0>>>よ。\r\n<<<テーブル0>>>の<<<上>>>に<<<お湯1>>>が<<<被る>>>と<<<まずい0>>><<<もの>>>は<<<ある>>>かな？\r\n<<<リモコン0>>>や<<<本0>>>が<<<あります>>>。\r\n<<<本1>>>は<<<濡れる>>>と<<<まずい1>>>ね。<<<本棚>>>に<<<片付けてくれる>>>かな？\r\n<<<はい0>>><<<分かりました1>>>。\r\n<<<リモコン1>>>は<<<濡れない>>><<<程度>>>に<<<離しておいてくれたらいい>>>よ。\r\n<<<はい1>>><<<分かりました2>>>。<<<ティッシュ>>>も<<<一応>>><<<テーブル1>>>の<<<反対側>>>に<<<置いておきます>>>ね。\r\n<<<そう>>>だね<<<えー>>><<<もう>>>、<<<水0>>>は<<<入っているはずだ>>>から、<<<スイッチ>>><<<入れる>>>だけで<<<いい1>>>よ。\r\n<<<はい2>>>\r\n<<<半分>>>くらい<<<入ってたら>>>、<<<いいです>>>か？\r\n<<<あれ>>><<<結構>>><<<減ってる>>>な。<<<水1>>>を<<<足す>>>から<<<ちょうだい>>>。\r\n<<<はい3>>>、<<<どうぞ>>>。\r\n<<<これ>>>で<<<大丈夫>>>。\r\n<<<ありがとうございます>>>。<<<沸いたら>>><<<カップ>>>に<<<注いでおきます>>>ね。"
+  },
+  "relations": [],
+  "i2t_relations": []
+}

@@ -1,0 +1,242 @@
+{
+  "image_id": "016",
+  "bounding_boxes": [
+    {
+      "image_id": "016",
+      "id": "004(人参３本)",
+      "bb": [
+        838,
+        88,
+        172,
+        232
+      ],
+      "class_name": "carrot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "016",
+      "id": "001(主人)",
+      "bb": [
+        1473,
+        900,
+        179,
+        179
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "016",
+      "id": "2250",
+      "bb": [
+        984,
+        858,
+        19,
+        13
+      ],
+      "class_name": "button",
+      "auto_flg": true
+    },
+    {
+      "image_id": "016",
+      "id": "005(人参１本)",
+      "bb": [
+        955,
+        90,
+        66,
+        165
+      ],
+      "class_name": "carrot",
+      "auto_flg": false
+    },
+    {
+      "image_id": "016",
+      "id": "2211",
+      "bb": [
+        983,
+        364,
+        171,
+        198
+      ],
+      "class_name": "banana",
+      "auto_flg": true
+    },
+    {
+      "image_id": "016",
+      "id": "003(冷蔵庫)",
+      "bb": [
+        -17,
+        -14,
+        1545,
+        766
+      ],
+      "class_name": "refrigerator",
+      "auto_flg": false
+    },
+    {
+      "image_id": "016",
+      "id": "2072",
+      "bb": [
+        1747,
+        353,
+        176,
+        173
+      ],
+      "class_name": "tissue_paper",
+      "auto_flg": true
+    },
+    {
+      "image_id": "016",
+      "id": "002(ロボット)",
+      "bb": [
+        493,
+        515,
+        1105,
+        566
+      ],
+      "class_name": "person",
+      "auto_flg": false
+    },
+    {
+      "image_id": "016",
+      "id": "006(戸棚)",
+      "bb": [
+        -18,
+        558,
+        719,
+        275
+      ],
+      "class_name": "cabinet",
+      "auto_flg": false
+    }
+  ],
+  "caption": {
+    "image_id": "016",
+    "id": "016",
+    "text": "<<<今日>>>は<<<肉じゃが>>>に<<<しよう>>>と<<<思う>>>。\r\n<<<なるほど>>>。<<<では>>>、<<<私>>>は<<<何>>>を<<<手伝えばいいでしょう>>>か？\r\n<<<そう>>>だねー<<<人参0>>>を<<<出し忘れた>>>から、<<<持ってきて>>>。\r\n<<<うん0>>>\r\n<<<分かりました0>>>。\r\n<<<人参1>>>が<<<三本>>><<<あります>>>が、<<<何本>>><<<必要です>>>か？\r\n<<<一本0>>>で<<<いい>>>よ。\r\n<<<一本1>>>ですね。\r\n<<<皮0>>>を<<<剥く>>><<<前>>>に<<<洗っておいてくれる>>>？\r\n<<<はい0>>><<<分かりました1>>>。\r\n<<<それ>>>が<<<終わったら>>>、<<<皮1>>><<<むき>>>を<<<お願い>>>ね。\r\n<<<はい1>>><<<すみません>>>。<<<どれ>>>を<<<使えばいいです>>>か？\r\n<<<あーあ>>><<<ごめん0>>>、<<<ごめん1>>>。<<<戸棚>>>に<<<入れっぱなし>>>だった。<<<すぐ>>>に<<<取ってくる>>>よ。\r\n<<<ありがとうございます>>>。\r\n<<<あ>>><<<そこに>>><<<あるんです>>>ね。\r\n<<<うん1>>>"
+  },
+  "relations": [],
+  "i2t_relations": [
+    {
+      "image_id": "016",
+      "id": "6",
+      "visual_id": "004(人参３本)",
+      "caption_id": "016",
+      "caption_region": [
+        111,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "016",
+      "id": "7",
+      "visual_id": "005(人参１本)",
+      "caption_id": "016",
+      "caption_region": [
+        111,
+        3
+      ],
+      "relation_name": "=≒格"
+    },
+    {
+      "image_id": "016",
+      "id": "8",
+      "visual_id": "004(人参３本)",
+      "caption_id": "016",
+      "caption_region": [
+        176,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "016",
+      "id": "9",
+      "visual_id": "005(人参１本)",
+      "caption_id": "016",
+      "caption_region": [
+        176,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "016",
+      "id": "10",
+      "visual_id": "005(人参１本)",
+      "caption_id": "016",
+      "caption_region": [
+        228,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "016",
+      "id": "12",
+      "visual_id": "004(人参３本)",
+      "caption_id": "016",
+      "caption_region": [
+        186,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "016",
+      "id": "14",
+      "visual_id": "005(人参１本)",
+      "caption_id": "016",
+      "caption_region": [
+        265,
+        2
+      ],
+      "relation_name": "ノ格"
+    },
+    {
+      "image_id": "016",
+      "id": "16",
+      "visual_id": "005(人参１本)",
+      "caption_id": "016",
+      "caption_region": [
+        290,
+        9
+      ],
+      "relation_name": "ヲ格"
+    },
+    {
+      "image_id": "016",
+      "id": "18",
+      "visual_id": "005(人参１本)",
+      "caption_id": "016",
+      "caption_region": [
+        186,
+        2
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "016",
+      "id": "19",
+      "visual_id": "005(人参１本)",
+      "caption_id": "016",
+      "caption_region": [
+        250,
+        3
+      ],
+      "relation_name": "=格"
+    },
+    {
+      "image_id": "016",
+      "id": "20",
+      "visual_id": "005(人参１本)",
+      "caption_id": "016",
+      "caption_region": [
+        354,
+        2
+      ],
+      "relation_name": "ノ格"
+    }
+  ]
+}
