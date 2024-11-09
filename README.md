@@ -236,3 +236,17 @@ Please cite the following paper when using this dataset.
   address   = {Turin, Italy},
 }
 ```
+
+```bibtex
+@article{植田2024,
+  author  = {植田 暢大 and 波部 英子 and 松井 陽子 and 湯口 彰重 and 河野 誠也 and 川西 康友 and 黒橋 禎夫 and 吉野 幸一郎},
+  title   = {J-CRe3: 実世界における参照関係解決のための日本語対話データセット},
+  journal = {自然言語処理},
+  year    = {2024},
+  volume  = {31},
+  number  = {3},
+  pages   = {1107--1139},
+  doi     = {10.5715/jnlp.31.1107},
+  url     = {https://www.jstage.jst.go.jp/article/jnlp/31/3/31_1107/_article/-char/ja/},
+}
+```
