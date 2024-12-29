@@ -1,6 +1,6 @@
 # J-CRe3: Japanese Conversation Dataset for Real-world Reference Resolution
 
-[![Conference](https://img.shields.io/badge/LREC--COLING-2024-bbeaff.svg)](https://arxiv.org/abs/2403.19259)
+[![Conference](https://img.shields.io/badge/LREC--COLING-2024-bbeaff.svg)](https://aclanthology.org/2024.lrec-main.829/)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.19259-b31b1b.svg)](https://arxiv.org/abs/2403.19259)
 
 [[Paper (ja)]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H12-1.pdf)
